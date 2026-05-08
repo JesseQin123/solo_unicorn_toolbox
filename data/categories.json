@@ -1,0 +1,136 @@
+{
+  "categories": [
+    {
+      "id": "ai-agents",
+      "emoji": "🤖",
+      "en": "AI Agents & Coding Harnesses",
+      "zh": "AI 智能体与编码助手生态",
+      "subcategories": [
+        {"id": "claude-code", "en": "Claude Code Ecosystem", "zh": "Claude Code 生态"},
+        {"id": "codex", "en": "Codex", "zh": "Codex"},
+        {"id": "openclaw-hermes", "en": "OpenClaw / Hermes / Paperclip", "zh": "OpenClaw / Hermes / Paperclip"},
+        {"id": "multi-orchestration", "en": "Multi-Agent Orchestration", "zh": "多智能体编排"},
+        {"id": "agent-platforms", "en": "Agent Platforms & UI", "zh": "智能体平台与 UI"},
+        {"id": "generic", "en": "Generic / Research Agents", "zh": "通用 / 研究型智能体"}
+      ]
+    },
+    {
+      "id": "skills-mcp",
+      "emoji": "🛠",
+      "en": "AI Agent Skills & MCP",
+      "zh": "智能体 Skills 与 MCP",
+      "subcategories": []
+    },
+    {
+      "id": "browser-automation",
+      "emoji": "🌐",
+      "en": "Browser & Web Automation",
+      "zh": "浏览器与网页自动化",
+      "subcategories": []
+    },
+    {
+      "id": "rag-kg-memory",
+      "emoji": "🧠",
+      "en": "RAG / Knowledge Graph / Memory",
+      "zh": "RAG / 知识图谱 / 记忆",
+      "subcategories": []
+    },
+    {
+      "id": "multimedia",
+      "emoji": "🎨",
+      "en": "Multimedia AI",
+      "zh": "多媒体 AI",
+      "subcategories": [
+        {"id": "image", "en": "Image Generation & Design", "zh": "图像生成与设计"},
+        {"id": "video", "en": "Video Generation & Editing", "zh": "视频生成与剪辑"},
+        {"id": "audio", "en": "Audio / Voice / Music", "zh": "音频 / 语音 / 音乐"}
+      ]
+    },
+    {
+      "id": "crawler-publish",
+      "emoji": "📊",
+      "en": "Crawler & Content Publishing",
+      "zh": "爬虫与内容发布",
+      "subcategories": [
+        {"id": "crawler", "en": "Crawler / Data Extraction", "zh": "爬虫与数据采集"},
+        {"id": "publish", "en": "Content Publishing & Social Media", "zh": "内容发布与自媒体"}
+      ]
+    },
+    {
+      "id": "frontend",
+      "emoji": "💻",
+      "en": "Frontend Templates & UI",
+      "zh": "前端模板与 UI",
+      "subcategories": [
+        {"id": "components", "en": "Component Libraries", "zh": "组件库"},
+        {"id": "nextjs", "en": "Next.js Starters", "zh": "Next.js 模板"},
+        {"id": "astro", "en": "Astro Themes", "zh": "Astro 主题"},
+        {"id": "desktop", "en": "Desktop / Cross-Platform", "zh": "桌面端 / 跨平台"}
+      ]
+    },
+    {
+      "id": "backend-infra",
+      "emoji": "🏗",
+      "en": "Backend & Infrastructure",
+      "zh": "后端与基础设施",
+      "subcategories": [
+        {"id": "python-fastapi", "en": "Python & FastAPI", "zh": "Python 与 FastAPI"},
+        {"id": "llm-gateway", "en": "LLM Gateway / SDK", "zh": "LLM 网关 / SDK"},
+        {"id": "auth-billing", "en": "Auth / Billing / Email", "zh": "鉴权 / 计费 / 邮件"},
+        {"id": "self-host", "en": "Self-Host / PaaS", "zh": "自托管 / PaaS"},
+        {"id": "ai-toolkit", "en": "AI Toolkits / RAG Apps", "zh": "AI 工具包 / RAG 应用"}
+      ]
+    },
+    {
+      "id": "kb-productivity",
+      "emoji": "📝",
+      "en": "Knowledge Base & Personal Productivity",
+      "zh": "知识库与个人生产力",
+      "subcategories": [
+        {"id": "note", "en": "Notes / Wiki / Workspace", "zh": "笔记 / Wiki / 工作空间"},
+        {"id": "crm", "en": "Personal CRM", "zh": "个人 CRM"},
+        {"id": "dashboard", "en": "Dashboard", "zh": "仪表盘"},
+        {"id": "forum-blog", "en": "Forum / Blog Platform", "zh": "论坛 / 博客平台"}
+      ]
+    },
+    {
+      "id": "finance-career",
+      "emoji": "💰",
+      "en": "Finance, Career & Indie Hacker",
+      "zh": "金融、职业与独立开发者",
+      "subcategories": [
+        {"id": "finance", "en": "Finance / Trading / Quant", "zh": "金融 / 交易 / 量化"},
+        {"id": "career", "en": "Career / Job Search", "zh": "职业 / 求职"},
+        {"id": "indie-hacker", "en": "Indie Hacker / Side Projects", "zh": "独立开发 / 副业"}
+      ]
+    },
+    {
+      "id": "tutorials",
+      "emoji": "🎓",
+      "en": "Tutorials & Awesome Lists",
+      "zh": "教程与精选列表",
+      "subcategories": [
+        {"id": "llm-cn", "en": "LLM Tutorials (Chinese)", "zh": "LLM 教程（中文）"},
+        {"id": "llm-en", "en": "LLM Tutorials (English)", "zh": "LLM 教程（英文）"},
+        {"id": "context-vibe", "en": "Context Engineering / Vibe Coding", "zh": "上下文工程 / Vibe Coding"},
+        {"id": "system-design", "en": "System Design & Interview", "zh": "系统设计与面试"},
+        {"id": "build-your-own", "en": "Build-Your-Own-X / Project-Based", "zh": "动手实现 / 项目驱动学习"},
+        {"id": "awesome-lists", "en": "Awesome Lists", "zh": "Awesome 精选列表"}
+      ]
+    },
+    {
+      "id": "misc",
+      "emoji": "🌈",
+      "en": "Misc / Lifestyle",
+      "zh": "杂项 / 生活娱乐",
+      "subcategories": [
+        {"id": "lifestyle", "en": "Cooking / Health / Fitness", "zh": "美食 / 健康 / 健身"},
+        {"id": "osint", "en": "OSINT / Security", "zh": "情报 / 安全"},
+        {"id": "web3", "en": "Web3 / Blockchain", "zh": "Web3 / 区块链"},
+        {"id": "games", "en": "Games", "zh": "游戏"},
+        {"id": "education", "en": "Education", "zh": "教育"},
+        {"id": "personal-projects", "en": "Personal / Sandbox Projects", "zh": "个人 / 试验性项目"}
+      ]
+    }
+  ]
+}

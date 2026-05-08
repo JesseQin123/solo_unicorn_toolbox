@@ -1,0 +1,22 @@
+# Temp files
+*.swp
+*.swo
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# Local working files
+/tmp/
+*.tmp
+*.log
+
+# Editor
+.vscode/
+.idea/
+
+# Internal working directory (Twitter sweep tooling, audit logs, raw bookmarks)
+.gstack/

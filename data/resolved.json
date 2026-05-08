@@ -1,0 +1,779 @@
+[
+  {
+    "url": "https://x.com/bozhou_ai/status/2051869365898027318",
+    "author": "bozhou_ai",
+    "name": "泊舟",
+    "text": "卧槽，现在算命都卷到这种地步了，直接给你上 Agent。\n\n而且我才知道，世界上居然真的有全球算命师大赛，3069 个算命师参赛，比谁算得准。然后有人开发了一个 AI 去打这个比赛。\n\n更离谱的是它真的跑出来了。Tianfu Agent，50% 截尾准确率，接近人类 Top-20 平均水平 53.5%，同题目下最强通用大模型也才 40%。\n\n我自己也去算了一下事业运，最近的情况说的竟然全对。\n\n打开他们公开的一道样例题，1951 年女命，问年轻时做什么工作。AI 没直接给答案，是把整个推理过程摊给你看。\n\n先查月柱年柱看家境，再排第二大限看官禄宫和迁移宫，再调八字看食神伤官，最后交叉紫微和八字两套结论，才给出答案：家贫，十多岁卖艺为生。\n\n一道题，跑了 61 个步骤，全程可追溯。\n\n跟普通免费占卜软件完全不是一个东西。那种本质就是模板填字，输入生日给你一段不痛不痒的话，换谁看着都差不多。Tianfu 是把命理拆成了一套工程：250+ 个工具，紫微/八字/奇门三套体系交叉验证。\n\n@DestinyLinker\nBenchmark: https://t.co/KelMYtFFEb\n试一下: https://t.co/jhswK8R3Av",
+    "github_inline": [],
+    "tco_links": [
+      "https://t.co/KelMYtFFEb",
+      "https://t.co/jhswK8R3Av"
+    ],
+    "id": "2051869365898027318",
+    "resolved_links": [
+      {
+        "tco": "https://t.co/KelMYtFFEb",
+        "resolved": "https://github.com/DestinyLinker/MingLi-Bench"
+      },
+      {
+        "tco": "https://t.co/jhswK8R3Av",
+        "resolved": "https://tianfuagent.com/"
+      }
+    ],
+    "github_from_main": [
+      "https://github.com/DestinyLinker/MingLi-Bench"
+    ]
+  },
+  {
+    "url": "https://x.com/berryxia/status/2051105899050357213",
+    "author": "berryxia",
+    "name": "Berryxia.AI",
+    "text": "AI agent终于有专属的Slide框架了。\n\nopen-slide 直接把“prompt一下就出一整套精美幻灯片”变成了现实。\n\n它不是简单生成Markdown，而是把每张幻灯片做成React组件，固定1920×1080画布，内置agent技能：\n\n- /create-slide：一句话prompt就能生成完整deck\n- /apply-comments：在浏览器里点元素留评论，agent一键应用所有修改\n- 内置演示模式、演讲者笔记、定时器\n- 一键导出HTML/PDF\n- 支持Claude Code、Cursor、Codex等任意编码agent\n\n最重要的是，它把agent从“聊天生成文字”升级成了“真正能输出可呈现成品”的生产力工具。\n\nGitHub：https://t.co/YpRSq9EdWZ\n\nDemo：https://t.co/4ds6ha3R9W\n\n这波操作，直接填补了agent和真实产出之间的最后一公里。\n\n你觉得agent时代，Slide生成会不会成为标配技能？",
+    "github_inline": [],
+    "tco_links": [
+      "https://t.co/YpRSq9EdWZ",
+      "https://t.co/4ds6ha3R9W"
+    ],
+    "id": "2051105899050357213",
+    "resolved_links": [
+      {
+        "tco": "https://t.co/YpRSq9EdWZ",
+        "resolved": "https://github.com/1weiho/open-slide"
+      },
+      {
+        "tco": "https://t.co/4ds6ha3R9W",
+        "resolved": "https://demo.open-slide.dev/"
+      }
+    ],
+    "github_from_main": [
+      "https://github.com/1weiho/open-slide"
+    ]
+  },
+  {
+    "url": "https://x.com/GitTrend0x/status/2051297008489791608",
+    "author": "GitTrend0x",
+    "name": "GitTrend",
+    "text": "Hermes 又卷出 5 个全新进化体！\n\n实时 Dashboard+Wiki、macOS 原生 GUI、1k skills 评估器、精选技能大礼包、Superpowers 创意工作流…… 全网程序员把 Hermes 玩成了下一代 Agent 监控舱 + Mac 神器 + 技能鉴宝师 + 方法论宝库 + 创意超级英雄。\n\n最新刷屏实时验证挖到 5 个进化体：\n\n1️⃣ hermes-dashboard（https://t.co/Y3insgftNF）\n\n实时监控 + 自动 Wiki，skills/plugins/memory/soul 一键搜索。\n“终于能看懂 Agent 灵魂”实锤了！\n\n2️⃣ scarf（https://t.co/SMYOTMUMtM）\n\n原生 macOS GUI，多窗口 + SSH 远程多服务器。\nCLI 玩具进化成 Mac 桌面神器😂\n\n3️⃣ Medusa（https://t.co/t5GJhw9oyB）\n\n1k+ skills 质量评估器，神级 vs 垃圾一键分。\n技能鉴宝师上线，1k skills 不再焦虑！\n\n4️⃣ oh-my-agent-skills（https://t.co/Zb4Lw3PHT5）\n\n执行纪律 + 多 Agent 控制 + skill 工程大礼包。\n开箱即用方法论宝库，懒人福音！\n\n5️⃣ hermes-agent-superpowers-chatgpt（https://t.co/M1wymJtJyI）\n\nSuperpowers 风格创意工作流包，设计哲学 + 品牌 pipeline 打包成 skill。\nAgent 也要当创意超级英雄了！\n\n//\n\n为什么这些新进化体这么炸？\n\n这些项目全部已验证公开开放，共同点：全吃 Hermes 底层循环当 DNA，社区再疯狂补实时 Dashboard、Mac 原生 GUI、技能评估、精选礼包、创意工作流…… 生态卷速肉眼可见。",
+    "github_inline": [],
+    "tco_links": [
+      "https://t.co/Y3insgftNF",
+      "https://t.co/SMYOTMUMtM",
+      "https://t.co/t5GJhw9oyB",
+      "https://t.co/Zb4Lw3PHT5",
+      "https://t.co/M1wymJtJyI"
+    ],
+    "id": "2051297008489791608",
+    "resolved_links": [
+      {
+        "tco": "https://t.co/Y3insgftNF",
+        "resolved": "https://github.com/Kori-x/hermes-dashboard"
+      },
+      {
+        "tco": "https://t.co/SMYOTMUMtM",
+        "resolved": "https://github.com/awizemann/scarf"
+      },
+      {
+        "tco": "https://t.co/t5GJhw9oyB",
+        "resolved": "https://github.com/jtshow/Medusa"
+      },
+      {
+        "tco": "https://t.co/Zb4Lw3PHT5",
+        "resolved": "https://github.com/xiaohei-info/oh-my-agent-skills"
+      },
+      {
+        "tco": "https://t.co/M1wymJtJyI",
+        "resolved": "https://github.com/AkoliteZA/hermes-agent-superpowers-chatgpt"
+      }
+    ],
+    "github_from_main": [
+      "https://github.com/Kori-x/hermes-dashboard",
+      "https://github.com/awizemann/scarf",
+      "https://github.com/jtshow/Medusa",
+      "https://github.com/xiaohei-info/oh-my-agent-skills",
+      "https://github.com/AkoliteZA/hermes-agent-superpowers-chatgpt"
+    ]
+  },
+  {
+    "url": "https://x.com/GitTrend0x/status/2050202146545795271",
+    "author": "GitTrend0x",
+    "name": "GitTrend",
+    "text": "Hermes 社区全新进化体！\n\nGUI 一键启动器、本地画图插件、主权运维仪表盘、多 Agent 蜂群框架、600+ 便宜模型路由……全网程序员把 Hermes 玩成了下一代 Agent 桌面 + 画师 + 运维 + 蜂群 + 省钱神器。\n\n刚从 GitHub 实时验证挖到 5 个全新进化体：\n\n1️⃣ Hermes-Agent-Wizard（https://t.co/T8xKLth67e）\n\nWindows & macOS 一键 GUI Launcher，多语言实时监控。\n“点鼠标就能玩 Hermes”实锤了！\n\n2️⃣ drawthings-grpc-hermes-plugin（https://t.co/gfKaxFLhei）\n\n本地 Draw Things gRPC 图像生成插件，支持 LoRA/ControlNet 别名。\nAgent 自己画画时代来了😂\n\n3️⃣ hermes-dashboard-sovereign-ops（https://t.co/A0HQP8lp0R）\n\nSovereign Ops 主权运维仪表盘 + 暗黑主题，token/cron/技能队列一目了然。\n运维党终于有“驾驶舱”了！\n\n4️⃣ Ankh.md（https://t.co/g2zxfcupTI）\n\n多 Agent 蜂群框架，每文件夹独立 scoped Agent + 自定义记忆。\n单体 Agent 进化成时间旅行蜂群，太 meta 了！\n\n5️⃣ crazyrouter-hermes（https://t.co/5OKVeDzifT）\n\n600+ 模型一键集成，30-50% 比 OpenRouter 便宜。\n省钱党直接起飞！\n\n//\n\n为什么这些新进化体这么炸？\n\nHermes 从不给你黑箱，它给的是可读、可 hack、可自我改进的底层循环。\n\n2026 年开源 Agent 的正确打开方式，就是这么卷！\n\n你最想先试哪个新进化体？",
+    "github_inline": [],
+    "tco_links": [
+      "https://t.co/T8xKLth67e",
+      "https://t.co/gfKaxFLhei",
+      "https://t.co/A0HQP8lp0R",
+      "https://t.co/g2zxfcupTI",
+      "https://t.co/5OKVeDzifT"
+    ],
+    "id": "2050202146545795271",
+    "resolved_links": [
+      {
+        "tco": "https://t.co/T8xKLth67e",
+        "resolved": "https://github.com/GUNAASHRINM/Hermes-Agent-Wizard"
+      },
+      {
+        "tco": "https://t.co/gfKaxFLhei",
+        "resolved": "https://github.com/Wysie/drawthings-grpc-hermes-plugin"
+      },
+      {
+        "tco": "https://t.co/A0HQP8lp0R",
+        "resolved": "https://github.com/AlexanderWhitestone/hermes-dashboard-sovereign-ops"
+      },
+      {
+        "tco": "https://t.co/g2zxfcupTI",
+        "resolved": "https://github.com/Abruptive/Ankh.md"
+      },
+      {
+        "tco": "https://t.co/5OKVeDzifT",
+        "resolved": "https://github.com/xujfcn/crazyrouter-hermes"
+      }
+    ],
+    "github_from_main": [
+      "https://github.com/GUNAASHRINM/Hermes-Agent-Wizard",
+      "https://github.com/Wysie/drawthings-grpc-hermes-plugin",
+      "https://github.com/AlexanderWhitestone/hermes-dashboard-sovereign-ops",
+      "https://github.com/Abruptive/Ankh.md",
+      "https://github.com/xujfcn/crazyrouter-hermes"
+    ]
+  },
+  {
+    "url": "https://x.com/zodchiii/status/2049874687069426008",
+    "author": "zodchiii",
+    "name": "darkzodchi",
+    "text": "> open Claude Code\n> your .env gets read before you type anything\n> your API keys are now in the chat\n> your password is now in the chat\n> you add \"don't read .env\" to CLAUDE.md\n> doesn't work\n> 29 million secrets leaked on GitHub last year\n> one line in settings.json actually blocks it\n> there's a config that blocks all of this",
+    "github_inline": [],
+    "tco_links": [],
+    "id": "2049874687069426008",
+    "resolved_links": [],
+    "github_from_main": [],
+    "thread_size": 15,
+    "github_from_replies": [],
+    "thread_resolved": []
+  },
+  {
+    "url": "https://x.com/_vmlops/status/2049896625481662660",
+    "author": "_vmlops",
+    "name": "Vaishnavi",
+    "text": "Roadmap to Become an Agentic AI Engineer in 2026\n\nhttps://t.co/wgts1ttEqh https://t.co/qlEspfVIWM",
+    "github_inline": [],
+    "tco_links": [
+      "https://t.co/wgts1ttEqh",
+      "https://t.co/qlEspfVIWM"
+    ],
+    "id": "2049896625481662660",
+    "resolved_links": [
+      {
+        "tco": "https://t.co/wgts1ttEqh",
+        "resolved": "https://drive.google.com/file/d/1JkNUDOztGVX7LLbMgkiOr0vffBLg8PeU/view?usp=drivesdk"
+      },
+      {
+        "tco": "https://t.co/qlEspfVIWM",
+        "resolved": "https://twitter.com/_vmlops/status/2049896625481662660/photo/1"
+      }
+    ],
+    "github_from_main": [],
+    "thread_size": 13,
+    "github_from_replies": [],
+    "thread_resolved": []
+  },
+  {
+    "url": "https://x.com/li9292/status/2049720203542667532",
+    "author": "li9292",
+    "name": "李韭二",
+    "text": "作为一名agent 领域工程师。\n\n请学习：\n\n* 工具/函数调用设计\n* agent 规划 / 工作流编排\n* memory / 上下文管理\n* 状态机 / 多步骤执行\n* 重试 / 回退 / 恢复逻辑\n* agent评估 / 可靠性测试\n* 成本 / 延迟优化\n* 人工参与loop模式\n\n大多数agent失败都是编排失败，\n而不是模型失败。",
+    "github_inline": [],
+    "tco_links": [],
+    "id": "2049720203542667532",
+    "resolved_links": [],
+    "github_from_main": [],
+    "thread_size": 15,
+    "github_from_replies": [],
+    "thread_resolved": [
+      {
+        "reply_author": "LewisWeldtech",
+        "reply_url": "https://x.com/LewisWeldtech/status/2050193515460825171",
+        "tco": "https://t.co/aQSwizuGrE",
+        "resolved": "https://x.com/i/status/2050191888247083335"
+      }
+    ]
+  },
+  {
+    "url": "https://x.com/yaojingang/status/2049738370679730562",
+    "author": "yaojingang",
+    "name": "姚金刚",
+    "text": "开源一个教程Skill\n打磨了十几版，效果还不错，已推到GitHub\n\n如果想在五一假期高质量充电，或随时给自己生成一份定制高质量教程\n欢迎下载\n\n基本逻辑：\n1、输入任意主题及参考资料，AI会优先以参考资料为核心，然后根据需要进行高质量素材和资料补充，这个过程中融入了低质量信源的过滤机制\n2、AI会结合教程的特点，并结合用户的部分偏好，生成定制深度教程，输出PDF、Word及HTML三种格式，方便自己学习\n3、教程内容，按照章节的逻辑进行系统性的输出，同时根据各章节内容特点，自行画图并插入到章节相关内容模块中\n4、教程融入了三年前经营MCN时写的《课程营销学》的相关底层逻辑与方法，回头也把这本书给开源出来\n5、排版与UI，输出的文档与教程网页，有结合 @HiTw93 的kami进行借鉴和融入，实现了很有质感的排版规范\n\n示例报告有3个，其中一个示例教程示例来自 @ReyJudgementOS  的一篇英语干货文章：《12岁英语自由：我“带”孩子“学”英语的经验与教训》\n\n教程Skill的GitHub地址：\nhttps://t.co/Ymc0MxAjnK",
+    "github_inline": [],
+    "tco_links": [
+      "https://t.co/Ymc0MxAjnK"
+    ],
+    "id": "2049738370679730562",
+    "resolved_links": [
+      {
+        "tco": "https://t.co/Ymc0MxAjnK",
+        "resolved": "https://github.com/yaojingang/yao-open-skills/tree/main/skills/yao-tutorial-skill"
+      }
+    ],
+    "github_from_main": [
+      "https://github.com/yaojingang/yao-open-skills"
+    ]
+  },
+  {
+    "url": "https://x.com/mr_r0b0t/status/2049821753195585740",
+    "author": "mr_r0b0t",
+    "name": "mr-r0b0t",
+    "text": "Architecture-diagram is one of my favorite @NousResearch Hermes agent skills, NGL! https://t.co/91cbfZHc0v",
+    "github_inline": [],
+    "tco_links": [
+      "https://t.co/91cbfZHc0v"
+    ],
+    "id": "2049821753195585740",
+    "resolved_links": [
+      {
+        "tco": "https://t.co/91cbfZHc0v",
+        "resolved": "https://twitter.com/mr_r0b0t/status/2049821753195585740/photo/1"
+      }
+    ],
+    "github_from_main": [],
+    "thread_size": 15,
+    "github_from_replies": [],
+    "thread_resolved": []
+  },
+  {
+    "url": "https://x.com/AYi_AInotes/status/2049861121251660095",
+    "author": "AYi_AInotes",
+    "name": "阿绎 AYi",
+    "text": "卧槽，Anthropic这次真把开发者当傻子。\n知名开发者Theo做了个实验：建了个空Git仓库，只commit一行JSON \n{\"schema\": \"openclaw.inbound_meta.v1\"}，\n\n调用官方Claude Code就直接触发“out of extra usage”错误，要么拒绝要么强制额外付费。\n\n只要最近commit里出现“openclaw”字符串（不管在JSON、文件名还是注释），\n官方CLI就会把你当成第三方harness用户，多收一层钱。\n\n不是啥bug，看起来是故意加的字符串匹配规则。\n\n他们4月初已经在API层面封杀OpenClaw的订阅额度，\n\n现在连官方工具都开始检测commit历史。\n\n以前Anthropic靠“不做监控、不做杀戮链”的形象吸粉，现在为了把用户锁在自家Claude Code里，用这种简单粗暴的手段，社区直接炸了🤪🤪🤪\n\nOpenClaw火起来，正是因为第三方工具在agentic体验上比官方更灵活，\n\n他们不优化产品，反而封杀竞品，用户用脚投票的声音已经越来越大，是时候考虑开源替代了🤬🤬🤬🤬",
+    "github_inline": [],
+    "tco_links": [],
+    "id": "2049861121251660095",
+    "resolved_links": [],
+    "github_from_main": [],
+    "thread_size": 15,
+    "github_from_replies": [],
+    "thread_resolved": [
+      {
+        "reply_author": "Devatune",
+        "reply_url": "https://x.com/Devatune/status/2050139028419383696",
+        "tco": "https://t.co/lvN2SrL8jG",
+        "resolved": "https://x.com/Devatune/status/2050079044193161643?s=20"
+      }
+    ]
+  },
+  {
+    "url": "https://x.com/Honcia13/status/2050070457907376289",
+    "author": "Honcia13",
+    "name": "GOLD",
+    "text": "读论文、研报、合同，最痛苦的从来不是读，\n而是读完以后要把海量信息整理成结构化的知识。\nHyper-Extract 直接把这个痛点干掉！\n\n用LLM把任意非结构化文本自动提取成知识图谱、时间线、关系网络等结构化内容。\n核心亮点： \n🔹 8种输出格式（列表、模型、图谱、超图、时空图…随便你要哪种） \n🔹 10+种顶级提取引擎（GraphRAG、LightRAG、Hyper-RAG、KG-Gen全覆盖） \n🔹 80+个现成YAML模板（金融、法律、医疗、中医、工业…零代码直接用） \n🔹 增量更新机制：新文档自动扩展已有知识库，不用每次从头跑\n安装一行命令： uv tool install hyperextract\n用法极简： he parse 你的文档.md -t 模板名 -o 输出目录 he search 输出目录 \"你的问题\"\n\n做研究、投研、尽调、法务的同学，这工具能省下大量整理时间，直接把阅读效率拉满。\nGitHub：https://t.co/noym218PFn",
+    "github_inline": [],
+    "tco_links": [
+      "https://t.co/noym218PFn"
+    ],
+    "id": "2050070457907376289",
+    "resolved_links": [
+      {
+        "tco": "https://t.co/noym218PFn",
+        "resolved": "https://github.com/yifanfeng97/Hyper-Extract"
+      }
+    ],
+    "github_from_main": [
+      "https://github.com/yifanfeng97/Hyper-Extract"
+    ]
+  },
+  {
+    "url": "https://x.com/op7418/status/2049458103675191550",
+    "author": "op7418",
+    "name": "歸藏(guizang.ai)",
+    "text": "Moxt 是近期所有新的 Agent 产品里，我觉得最好的之一 ！\n\n终于找时间写了一篇介绍。\n\n如果你还在找一个 AI Native 的组织协作工具的话，我觉得可以试试。 https://t.co/tC1XoNbb04",
+    "github_inline": [],
+    "tco_links": [
+      "https://t.co/tC1XoNbb04"
+    ],
+    "id": "2049458103675191550",
+    "resolved_links": [
+      {
+        "tco": "https://t.co/tC1XoNbb04",
+        "resolved": "https://twitter.com/op7418/status/2049458103675191550/photo/1"
+      }
+    ],
+    "github_from_main": [],
+    "thread_size": 7,
+    "github_from_replies": [],
+    "thread_resolved": []
+  },
+  {
+    "url": "https://x.com/dotey/status/2049586049907667168",
+    "author": "dotey",
+    "name": "宝玉",
+    "text": "我就说你们咋逆向 Claude Design 的 System Prompt 的，原来都在请求的 Payload 里面，包括调用啥工具都有。\n\n可惜额度太少了，用几次就没了 https://t.co/cV3zgH18yx",
+    "github_inline": [],
+    "tco_links": [
+      "https://t.co/cV3zgH18yx"
+    ],
+    "id": "2049586049907667168",
+    "resolved_links": [
+      {
+        "tco": "https://t.co/cV3zgH18yx",
+        "resolved": "https://twitter.com/dotey/status/2049586049907667168/photo/1"
+      }
+    ],
+    "github_from_main": [],
+    "thread_size": 15,
+    "github_from_replies": [
+      "https://github.com/nexu-io/open-design"
+    ],
+    "thread_resolved": [
+      {
+        "reply_author": "Gracker_Gao",
+        "reply_url": "https://x.com/Gracker_Gao/status/2049619485670449653",
+        "tco": "https://t.co/sneUcCtfTE",
+        "resolved": "https://github.com/nexu-io/open-design"
+      },
+      {
+        "reply_author": "dotey",
+        "reply_url": "https://x.com/dotey/status/2049590076921835827",
+        "tco": "https://t.co/HXWdYZdPF7",
+        "resolved": "https://claude.ai/design"
+      }
+    ]
+  },
+  {
+    "url": "https://x.com/Clawnch_Bot/status/2049151454041002153",
+    "author": "Clawnch_Bot",
+    "name": "Clawnch 🦞",
+    "text": "Hey @Teknium we are getting ready to release our plugin for @NousResearch Hermes Agent that gives it a massive array of open-ended agentic finance abilities.\n\nThis is a complete rewrite of our original OpenClaw-focused project which we spent several months developing, only to be blocked by @steipete and have their maintainers report our repo and get our GitHub banned.\n\nWe know you get a lot of crypto spam, but this is truly a technically complex undertaking which we have tackled because we want agents to be able to take any arbitrary series of actions in the financial world just as a human can. \n\nWe hope you will embrace our project! 🦞",
+    "github_inline": [],
+    "tco_links": [],
+    "id": "2049151454041002153",
+    "resolved_links": [],
+    "github_from_main": [],
+    "thread_size": 15,
+    "github_from_replies": [],
+    "thread_resolved": [
+      {
+        "reply_author": "itechnologynet",
+        "reply_url": "https://x.com/itechnologynet/status/2049437376045322547",
+        "tco": "https://t.co/b80DtpGRoj",
+        "resolved": "https://skills.sh/"
+      }
+    ]
+  },
+  {
+    "url": "https://x.com/AYi_AInotes/status/2048278717793722747",
+    "author": "AYi_AInotes",
+    "name": "阿绎 AYi",
+    "text": "说个暴论，现在90%的AI Agent记忆，全都是假的。\n\n我之前也踩过这个坑，把所有历史记录决策日志全堆进Markdown文件里，以为这就是给Agent加了长期记忆，结果用了两周就崩了，\n\n同一个事实有三个互相矛盾的版本，上个月的偏好和昨天的权重一模一样，每次调用都把所有东西一股脑塞进上下文，慢到离谱还经常串台，\n\n直到看到这篇文章才恍然大悟，原来我根本不是在做记忆，只是在把Prompt当RAM用🌚\n\n真正的记忆不是堆文件，应该是图和节点加嵌入加遍历，\n\nMarkdown方案有四个根本解决不了的硬伤，没有去重，没有衰减，没有排名，超过一百条记录直接变成性能杀手，\n\n它只能记住你写过什么，永远记不住这件事和那件事有什么关系，\n这个决策为什么被否决，上次遇到同样的bug我们是怎么解决的。\n\n向量检索也不行，它只能告诉你这两段话长得像，不能告诉你它们之间的因果关系，\n\n只有图遍历能做到，它能像人脑一样，从一个节点牵出一整条相关的记忆链，\n重要的事情越来越清晰，过时的信息自动淡化，矛盾的内容在写入时就被解决。\n\n现在所有生产级的Agent框架，Zep Cognee Mem0，全都是基于图的，\n\nNeo4j已经把图记忆做成了标准的MCP工具，\nClaude Code超过二十万行代码之后，纯上下文窗口早就没戏了，\n\n真正能让它像高级工程师一样思考的，\n是把不变的规则放在CLAUDE.md里，\n把所有演化的状态全部存在图里，动态检索按需拉取。\n\n很多人还在卷一百万两千万的上下文窗口，以为越大越好，\n\n但生产环境里真正致命的，\n永远是跨会话的记忆漂移和上下文污染，\n\n内存架构的升级已经不是锦上添花了，能不能把Agent真正用起来才是关键的生死线。",
+    "github_inline": [],
+    "tco_links": [],
+    "id": "2048278717793722747",
+    "resolved_links": [],
+    "github_from_main": [],
+    "thread_size": 15,
+    "github_from_replies": [
+      "https://github.com/AxDSan/mnemosyne",
+      "https://github.com/kitfunso/hippo-memory"
+    ],
+    "thread_resolved": [
+      {
+        "reply_author": "abdiisan",
+        "reply_url": "https://x.com/abdiisan/status/2050759219951903185",
+        "tco": "https://t.co/nIOAmNWIyz",
+        "resolved": "https://mnemosyne.site/"
+      },
+      {
+        "reply_author": "abdiisan",
+        "reply_url": "https://x.com/abdiisan/status/2050640344186834977",
+        "tco": "https://t.co/DEysV9EpeI",
+        "resolved": "https://github.com/AxDSan/mnemosyne"
+      },
+      {
+        "reply_author": "nicoloboschi",
+        "reply_url": "https://x.com/nicoloboschi/status/2049903046662971581",
+        "tco": "https://t.co/kzf6yv6ha7",
+        "resolved": "https://x.com/Vectorizeio/status/2039721150586978495"
+      },
+      {
+        "reply_author": "keithso27",
+        "reply_url": "https://x.com/keithso27/status/2048852180589760784",
+        "tco": "https://t.co/EZpbg1cftj",
+        "resolved": "https://github.com/kitfunso/hippo-memory"
+      }
+    ]
+  },
+  {
+    "url": "https://x.com/claudeai/status/2041927687460024721",
+    "author": "claudeai",
+    "name": "Claude",
+    "text": "Introducing Claude Managed Agents: everything you need to build and deploy agents at scale.\n\nIt pairs an agent harness tuned for performance with production infrastructure, so you can go from prototype to launch in days.\n\nNow in public beta on the Claude Platform. https://t.co/vHYfiC1G56",
+    "github_inline": [],
+    "tco_links": [
+      "https://t.co/vHYfiC1G56"
+    ],
+    "id": "2041927687460024721",
+    "resolved_links": [
+      {
+        "tco": "https://t.co/vHYfiC1G56",
+        "resolved": "https://twitter.com/claudeai/status/2041927687460024721/video/1"
+      }
+    ],
+    "github_from_main": [],
+    "thread_size": 15,
+    "github_from_replies": [],
+    "thread_resolved": [
+      {
+        "reply_author": "RicardoIQSource",
+        "reply_url": "https://x.com/RicardoIQSource/status/2047175600939401510",
+        "tco": "https://t.co/2T6rrzIlnp",
+        "resolved": "https://www.iqsource.ai/en/blog/runtime-commodity-workflow-moat/"
+      },
+      {
+        "reply_author": "logwickio",
+        "reply_url": "https://x.com/logwickio/status/2047089814000775230",
+        "tco": "https://t.co/U3cTxR59Cg",
+        "resolved": "https://logwick.io/"
+      }
+    ]
+  },
+  {
+    "url": "https://x.com/NFTCPS/status/2041785975211487416",
+    "author": "NFTCPS",
+    "name": "鸟哥 | 蓝鸟会🕊️",
+    "text": "这是一个 \"人类蒸馏\" 项目合集 — 把真人（同事、导师、前任、父母、公众人物）通过聊天记录、文字、音频等素材，提炼成可调用的 Claude Code Agent Skill。\n\n收录了 40+ 个 Skill，分类包括：\n\n- 通用工具 — 女娲.skill（提炼思维模式）、永生.skill（数字永生框架）等\n\n- 职场关系 — 同事.skill、老板.skills、厉鬼.skill（离职同事的怨灵版）\n\n- 学术关系 — 导师.skill、师兄.skill、大学老师.skill\n\n- 亲密关系 — 前任.skill、初恋.skill、现任.skill、crush.skill\n\n- 家人关系 — 父母.skill、重逢.skill（数字化已故亲人）\n\n- 公众人物 — 张雪峰.skill、毛选.skill、Trump.skill、马克思.skill 等\nhttps://t.co/MO83ERZvRR",
+    "github_inline": [],
+    "tco_links": [
+      "https://t.co/MO83ERZvRR"
+    ],
+    "id": "2041785975211487416",
+    "resolved_links": [
+      {
+        "tco": "https://t.co/MO83ERZvRR",
+        "resolved": "https://github.com/mliu98/awesome-human-distillation"
+      }
+    ],
+    "github_from_main": [
+      "https://github.com/mliu98/awesome-human-distillation"
+    ]
+  },
+  {
+    "url": "https://x.com/jinchenma_ai/status/2041422880404328851",
+    "author": "jinchenma_ai",
+    "name": "金尘马",
+    "text": "总结了最近 X 上爆火的 26 个 SKILL。\n\n一切的起源都是那个“同事.SKILL”吧😂\n\n一、职场、自媒体系列：\n1. 同事.skill 把真实同事蒸馏成AI（SKILL流火爆起点）。\nhttps://t.co/rlBnUqKvEI\n2. 女娲.skill 能自动蒸馏任何人的终极工具（想蒸谁蒸谁）。  \nhttps://t.co/Z4pIOutlmI\n3. X导师.skill（X/Twitter运营导师） 最新迭代，能分析你的账号数据、写推文、给诊断报告。  \nhttps://t.co/pIIYkEltNL\n4. 老板.skill 把老板炼入token，把生产力的解放留给自己。  \nhttps://t.co/7cSVAmkTqw\n5. 前任.skill 把前任蒸馏成 AI Skill，用ta的方式跟你说话。  \nhttps://t.co/2SvAj4HBKi\n6. 自己.skill 把你自己蒸馏成AI，数字永生/第二大脑。  \nhttps://t.co/4GZB8Tzxc2\n7. 博主.skill 把公开社交媒体语料整理成一个能对话、能分析、能改写风格的 Persona Skill（目前支持推特和小红书）。  \nhttps://t.co/WOheukU9UH\n8. 蒸馏.skill（人格蒸馏引擎） 人格蒸馏引擎 · 蒸馏自己看清自己，蒸馏亲友留住余温与回声。  \nhttps://t.co/dSzv8JfsR2\n9. 反蒸馏.skill 公司让你写Skill文档时“投毒”，核心知识自己留着（打工人自保神器）。  \nhttps://t.co/hFoUVNpIe0\n\n二、名人系列\n10. 乔布斯.skill 思维模型 + 现实扭曲力场 + 决策风格，已开源。  \nhttps://t.co/Cf7Kae1FTd\n11. 马斯克.skill 第一性原理、硬核执行力、推文风格。  \nhttps://t.co/G5nv93WR11\n12. 芒格.skill 多元思维模型、反向思考、投资决策神器。  \nhttps://t.co/xgXuRXusLV\n13. 费曼.skill 教你怎么讲课、拆解复杂问题、讲物理/学习方法。  \nhttps://t.co/VK1pRRW5sd\n14. 纳瓦尔.skill 财富、幸福、人生哲学，播客级智慧。  \nhttps://t.co/51QFLJ5n10\n15. 塔勒布.skill 黑天鹅、反脆弱、风险评估专家。  \nhttps://t.co/exTXDxXakn\n16. 张雪峰.skill 接地气吐槽 + 升学实用建议。  \nhttps://t.co/47WXjbpWSg\n17. Paul Graham.skill 创业思维、写作、产品哲学。  \nhttps://t.co/BLal4704HK\n18. 张一鸣.skill 算法思维、组织管理、产品迭代。  \nhttps://t.co/bnHcUk4ykq\n19. Karpathy.skill AI/深度学习教学 + 技术直觉。  \nhttps://t.co/APlrlM58uM\n20. Ilya Sutskever.skill AI前沿思考 + 模型哲学。  \nhttps://t.co/dpRsPxk1Qt\n21. MrBeast.skill（YouTube现象级创作者） 内容病毒式传播 + 增长黑客。  \nhttps://t.co/ig0yptB6FA\n22. 特朗普.skill 谈判风格、推文艺术、现实扭曲（已验证超像）。  \nhttps://t.co/t5E0iUGOhP\n\n三、玄学系列\n23. 赛博算命.skill（八字命理） 八字排盘与命理分析工具。  \nhttps://t.co/cW05qHYEqu\n24. 月老 · 姻缘测算.skill（赛博月老） 姻缘测算技能，用中华传统术数帮你算姻缘。  \nhttps://t.co/IqKjsEbTuO\n25. 奇门遁甲、紫微斗数.skill 减少幻觉、固定排盘步骤的奇门遁甲与紫微斗数 AI skills。  \nhttps://t.co/7LP2ZM95du\n26. 大师.skill 基于佛教经典文献的汉传祖师大德教学角色生成器。  \nhttps://t.co/GcdrhVVtsJ",
+    "github_inline": [],
+    "tco_links": [
+      "https://t.co/rlBnUqKvEI",
+      "https://t.co/Z4pIOutlmI",
+      "https://t.co/pIIYkEltNL",
+      "https://t.co/7cSVAmkTqw",
+      "https://t.co/2SvAj4HBKi",
+      "https://t.co/4GZB8Tzxc2",
+      "https://t.co/WOheukU9UH",
+      "https://t.co/dSzv8JfsR2",
+      "https://t.co/hFoUVNpIe0",
+      "https://t.co/Cf7Kae1FTd",
+      "https://t.co/G5nv93WR11",
+      "https://t.co/xgXuRXusLV",
+      "https://t.co/VK1pRRW5sd",
+      "https://t.co/51QFLJ5n10",
+      "https://t.co/exTXDxXakn",
+      "https://t.co/47WXjbpWSg",
+      "https://t.co/BLal4704HK",
+      "https://t.co/bnHcUk4ykq",
+      "https://t.co/APlrlM58uM",
+      "https://t.co/dpRsPxk1Qt",
+      "https://t.co/ig0yptB6FA",
+      "https://t.co/t5E0iUGOhP",
+      "https://t.co/cW05qHYEqu",
+      "https://t.co/IqKjsEbTuO",
+      "https://t.co/7LP2ZM95du",
+      "https://t.co/GcdrhVVtsJ"
+    ],
+    "id": "2041422880404328851",
+    "resolved_links": [
+      {
+        "tco": "https://t.co/rlBnUqKvEI",
+        "resolved": "https://github.com/titanwings/colleague-skill"
+      },
+      {
+        "tco": "https://t.co/Z4pIOutlmI",
+        "resolved": "https://github.com/alchaincyf/nuwa-skill"
+      },
+      {
+        "tco": "https://t.co/pIIYkEltNL",
+        "resolved": "https://github.com/alchaincyf/x-mentor-skill"
+      },
+      {
+        "tco": "https://t.co/7cSVAmkTqw",
+        "resolved": "https://github.com/vogtsw/boss-skills"
+      },
+      {
+        "tco": "https://t.co/2SvAj4HBKi",
+        "resolved": "https://github.com/therealXiaomanChu/ex-skill"
+      },
+      {
+        "tco": "https://t.co/4GZB8Tzxc2",
+        "resolved": "https://github.com/notdog1998/yourself-skill"
+      },
+      {
+        "tco": "https://t.co/WOheukU9UH",
+        "resolved": "https://github.com/YourongZhou/chat_with_me"
+      },
+      {
+        "tco": "https://t.co/dSzv8JfsR2",
+        "resolved": "https://github.com/YIKUAIBANZI/forge-skill"
+      },
+      {
+        "tco": "https://t.co/hFoUVNpIe0",
+        "resolved": "https://github.com/leilei926524-tech/anti-distill"
+      },
+      {
+        "tco": "https://t.co/Cf7Kae1FTd",
+        "resolved": "https://github.com/alchaincyf/steve-jobs-skill"
+      },
+      {
+        "tco": "https://t.co/G5nv93WR11",
+        "resolved": "https://github.com/alchaincyf/elon-musk-skill"
+      },
+      {
+        "tco": "https://t.co/xgXuRXusLV",
+        "resolved": "https://github.com/alchaincyf/munger-skill"
+      },
+      {
+        "tco": "https://t.co/VK1pRRW5sd",
+        "resolved": "https://github.com/alchaincyf/feynman-skill"
+      },
+      {
+        "tco": "https://t.co/51QFLJ5n10",
+        "resolved": "https://github.com/alchaincyf/naval-skill"
+      },
+      {
+        "tco": "https://t.co/exTXDxXakn",
+        "resolved": "https://github.com/alchaincyf/taleb-skill"
+      },
+      {
+        "tco": "https://t.co/47WXjbpWSg",
+        "resolved": "https://github.com/alchaincyf/zhangxuefeng-skill"
+      },
+      {
+        "tco": "https://t.co/BLal4704HK",
+        "resolved": "https://github.com/alchaincyf/paul-graham-skill"
+      },
+      {
+        "tco": "https://t.co/bnHcUk4ykq",
+        "resolved": "https://github.com/alchaincyf/zhang-yiming-skill"
+      },
+      {
+        "tco": "https://t.co/APlrlM58uM",
+        "resolved": "https://github.com/alchaincyf/karpathy-skill"
+      },
+      {
+        "tco": "https://t.co/dpRsPxk1Qt",
+        "resolved": "https://github.com/alchaincyf/ilya-sutskever-skill"
+      },
+      {
+        "tco": "https://t.co/ig0yptB6FA",
+        "resolved": "https://github.com/alchaincyf/mrbeast-skill"
+      },
+      {
+        "tco": "https://t.co/t5E0iUGOhP",
+        "resolved": "https://github.com/alchaincyf/trump-skill"
+      },
+      {
+        "tco": "https://t.co/cW05qHYEqu",
+        "resolved": "https://github.com/jinchenma94/bazi-skill"
+      },
+      {
+        "tco": "https://t.co/IqKjsEbTuO",
+        "resolved": "https://github.com/Ming-H/yinyuan-skills"
+      },
+      {
+        "tco": "https://t.co/7LP2ZM95du",
+        "resolved": "https://github.com/FANzR-arch/Numerologist_skills"
+      },
+      {
+        "tco": "https://t.co/GcdrhVVtsJ",
+        "resolved": "https://github.com/xr843/Master-skill"
+      }
+    ],
+    "github_from_main": [
+      "https://github.com/titanwings/colleague-skill",
+      "https://github.com/alchaincyf/nuwa-skill",
+      "https://github.com/alchaincyf/x-mentor-skill",
+      "https://github.com/vogtsw/boss-skills",
+      "https://github.com/therealXiaomanChu/ex-skill",
+      "https://github.com/notdog1998/yourself-skill",
+      "https://github.com/YourongZhou/chat_with_me",
+      "https://github.com/YIKUAIBANZI/forge-skill",
+      "https://github.com/leilei926524-tech/anti-distill",
+      "https://github.com/alchaincyf/steve-jobs-skill",
+      "https://github.com/alchaincyf/elon-musk-skill",
+      "https://github.com/alchaincyf/munger-skill",
+      "https://github.com/alchaincyf/feynman-skill",
+      "https://github.com/alchaincyf/naval-skill",
+      "https://github.com/alchaincyf/taleb-skill",
+      "https://github.com/alchaincyf/zhangxuefeng-skill",
+      "https://github.com/alchaincyf/paul-graham-skill",
+      "https://github.com/alchaincyf/zhang-yiming-skill",
+      "https://github.com/alchaincyf/karpathy-skill",
+      "https://github.com/alchaincyf/ilya-sutskever-skill",
+      "https://github.com/alchaincyf/mrbeast-skill",
+      "https://github.com/alchaincyf/trump-skill",
+      "https://github.com/jinchenma94/bazi-skill",
+      "https://github.com/Ming-H/yinyuan-skills",
+      "https://github.com/FANzR-arch/Numerologist_skills",
+      "https://github.com/xr843/Master-skill"
+    ]
+  },
+  {
+    "url": "https://x.com/Saccc_c/status/2038555397234020404",
+    "author": "Saccc_c",
+    "name": "Sac",
+    "text": "2026大家一直提的赚钱方式：  \n\n「一人公司」「自媒体」「金融投资」「预测市场」「数字游民」  \n\n纠结从哪里下手，直接从这个榜单中的Github 开始，我收录整理了最全的Github赚钱项目  \n\n收录它，2026我们站着把钱赚了 https://t.co/SReHRiEDah",
+    "github_inline": [],
+    "tco_links": [
+      "https://t.co/SReHRiEDah"
+    ],
+    "id": "2038555397234020404",
+    "resolved_links": [
+      {
+        "tco": "https://t.co/SReHRiEDah",
+        "resolved": "https://twitter.com/Saccc_c/status/2038555397234020404/photo/1"
+      }
+    ],
+    "github_from_main": [],
+    "thread_size": 10,
+    "github_from_replies": [],
+    "thread_resolved": []
+  },
+  {
+    "url": "https://x.com/mubeitech/status/2035699759797670073",
+    "author": "mubeitech",
+    "name": "墓碑科技",
+    "text": "良心呐！博主扫描了 1000 多个仓库，测试了 200 多项skill，列出了 50 个顶级 Claude  skill与 GitHub AI 仓库 — 这是你x10唯一需要的列表。",
+    "github_inline": [],
+    "tco_links": [],
+    "id": "2035699759797670073",
+    "resolved_links": [],
+    "github_from_main": [],
+    "thread_size": 4,
+    "github_from_replies": [],
+    "thread_resolved": []
+  },
+  {
+    "url": "https://x.com/FinanceYF5/status/1923298372896592110",
+    "author": "FinanceYF5",
+    "name": "AI Will",
+    "text": "如果你是公司员工，取消你的爱好、Netflix 和娱乐。每周腾出 30 小时，在接下来的三年里打造一个月收入超过 10k 美元的独立项目。\n\n把它当作一种生存挑战。\n\n你可能无法实现它，但不尝试才是最终的失败。\n\n如何开始： https://t.co/tJbwePsUjg",
+    "github_inline": [],
+    "tco_links": [
+      "https://t.co/tJbwePsUjg"
+    ],
+    "id": "1923298372896592110",
+    "resolved_links": [
+      {
+        "tco": "https://t.co/tJbwePsUjg",
+        "resolved": "https://twitter.com/FinanceYF5/status/1923298372896592110/photo/1"
+      }
+    ],
+    "github_from_main": [],
+    "thread_size": 9,
+    "github_from_replies": [],
+    "thread_resolved": [
+      {
+        "reply_author": "FinanceYF5",
+        "reply_url": "https://x.com/FinanceYF5/status/1923298376067510617",
+        "tco": "https://t.co/Xq6334gu09",
+        "resolved": "https://indiemakerlist.com/"
+      },
+      {
+        "reply_author": "FinanceYF5",
+        "reply_url": "https://x.com/FinanceYF5/status/1923298514513084438",
+        "tco": "https://t.co/qtFFbtslfI",
+        "resolved": "https://x.com/FinanceYF5/status/1923298372896592110"
+      }
+    ]
+  },
+  {
+    "url": "https://x.com/dotey/status/1743791697304109452",
+    "author": "dotey",
+    "name": "宝玉",
+    "text": "纽约客2019年的一篇文章：《研究表明，依靠意志力改掉坏习惯是徒劳无功的》\n\n几年前，我购买了一部智能手机，很快就爱不释手。随时随地能发邮件、查信息或购物，这为我带来了前所未有的效率提升。手机每收到一封邮件就会发出“嘀”的一声，我随即处理它，为自己的效率沾沾自喜。短信到来伴随着法国号的声音，我也会迅速回复。不久，我开始条件反射般地一听到手机响就伸手去拿，就像帕夫洛夫的狗听到铃声就会流口水。这渐渐干扰了我的工作和谈话。这台本应是神奇助手的机器，却慢慢让我沦为了它的奴隶。\n\n我一直自认为意志力很强。像许多经历过医学训练的人一样，那些早起、长时间轮班，而朋友们却在享受派对的人，我已习惯于延迟满足。但这都没用。当我尝试把手机调成静音，我反而更频繁地检查它，生怕错过什么。唯一能控制自己不看手机的时候是安息日，因为那时我不查邮件。但我会不停地看表，计算着何时能再打开手机。那是我第一次真切感受到吸烟者对香烟的渴望。检查智能手机已成为我难以摆脱的坏习惯。\n\n习惯的好坏一直吸引着哲学家和政策制定者。亚里士多德在他的作品《尼各马可伦理学》中探讨了美德的不同理念，并总结道：“有人认为人之初性本善，有人说是习惯使然，还有人觉得教育至关重要。”他的结论是习惯扮演了关键角色。西塞罗将习惯称作“第二天性”，这个说法至今仍广为流传。亚历山大·汉密尔顿在《联邦党人文集》第 27 号文章中，当他思考如何培养出遵守新共和国联邦法律的公民时，他提到了“人是习惯的奴隶”。汉密尔顿认为，如果联邦法律深入州级事务，它将成为人们日常生活的一部分。“它越是融入人们激情自然流动的渠道，就越不需要强制手段的帮助，”他写道。\n\n在现代，习惯已成为科学研究的重要领域。心理学家深入研究了习惯行为的形成及其对健康和幸福的影响。威廉·詹姆斯回应亚里士多德的观点，写道：“我们的生活，只要形成了一定的模式，就是由各种习惯构成的——实用的、情感的、智力的……它们不可抗拒地推动我们走向命运。”\n\n我们大多数人不愿意把自己看作被动的存在。那意志力呢？市场营销通过像“Just Do It”（耐克）和“Declare Your Path”（新百伦）这样的口号，来抚慰我们对自主意识的渴望。很多流行心理学也强化了我们对自我控制的信念。在六十年代，沃尔特·米歇尔设计的著名斯坦福棉花糖实验中，孩子们要面对一块棉花糖，他们是否能抵抗住立即吃掉它的冲动，将决定他们的“执行功能”水平。这个实验被认为能预测孩子未来的成功，如 SAT 成绩、人际关系的持久度和职业成就。但如果我们只是习惯的产物，这一切又如何解释呢？\n\n在《好习惯，坏习惯》一书中（由 Farrar, Straus & Giroux 出版），社会心理学家 Wendy Wood 对 James 的决定论和轻率的自我激励论进行了反驳。她试图为普通读者提供更实际的方法来打破习惯。她基于自己的领域研究，认为维护积极行为和遏制消极行为需要决策与无意识因素的共同作用。Wood 解释说，我们的大脑有“多个独立但相互连接的行为指导机制。”但我们只能意识到决策能力——这种现象被称为“内省错觉”——这可能是我们过分高估了这种能力的原因。她写道，让意志力成为可能的执行功能给了我们一种“代理感”，让我们认为这就是“我”。但这是以付出努力为代价的。为了日常生活，我们需要某些行为变得自动化。\n\n功能性磁共振成像（fMRI）扫描让研究者能够窥探在机械性任务和有意识任务期间活跃的不同神经网络。学习新任务时，大脑扫描显示前额叶皮层和海马体的活跃，这些区域与决策和执行控制相关。随着任务重复，大脑活动转移到纹状体和基底节，即 Wood 称为“我们心灵的基础机制”的部分。在这里，任务转变为习惯。\n\n这些更原始的大脑区域对我们的精神能量需求更少。一系列动作变得连贯，这个过程称为“分块 (chunking)”。例如，当我们上车准备开车时，我们不需要分别考虑系安全带、打火、挂挡、检查后视镜和盲区、踩油门等动作。所有这些步骤被整合在记忆中，形成一个单元，由上车这一环境线索触发。这使我们能够专注于那些最需要我们有意识关注的事情，比如思考目的地、规划当天的任务，同时留意路上的任何异常情况。\n\nWood 的研究起初并不是聚焦于习惯，而是坚持。对于像打流感疫苗这样的“偶发性、一次性行为”，有意识的决策就足够了。然而，对于需要重复的行为，习惯就显得至关重要。William James 曾估计，我们的活动中有“几乎全部是自动和习惯性的。”这只是一个推测；但 Wood 通过一项研究，量化了人们多少行为是出于习惯。她用一种名为“体验抽样”(experience sampling) 的技术，让参与者在两天内记录自己的所作所为。研究结果虽各组不同，但基本发现是我们大约 43% 的行为是习惯性的。\n\n这就解释了为什么仅凭意识上的知识还不足以改变行为，以及为什么仅仅通过教育人们做出健康选择的公共卫生倡议往往会失败。1991 年，国家癌症研究所发现只有 8% 的美国人知道每天至少应该吃五份水果和蔬菜。随后发起了一项全国运动：“每天五份，为了更好的健康。”六年后，知道这一建议的美国人增至 39%，增长了近五倍，但实际饮食习惯几乎未变。2007 年，政府官员再次尝试，推出了“水果与蔬菜 - 更多益处”计划。然而，到 2018 年，每天吃两份水果的美国人仅占 12%，吃三份蔬菜的仅 9%。仅仅告知我们什么对我们有益是无效的，因为我们的饮食、烹饪和购物习惯主宰了我们的行为。\n\n在 Mischel 的棉花糖实验中，只有四分之一的参与者能坚持十五分钟不吃棉花糖。这意味着大多数人缺乏成功所需的自控力。但研究中不太为人所知的一部分，提出了绕开我们脆弱的方法。研究者比较了两种情况：一种是孩子们能看到面前的棉花糖；另一种则是知道棉花糖在那儿，但看不到它。结果显示，面对可见诱惑时，孩子们平均只能坚持六分钟，但如果把诱惑藏起来，他们能坚持十分钟。对 Wood 而言，这说明自控力“并非内在品质，而是我们所处环境的反映。”通过微调环境，我们也许能够模仿那些看起来更有自制力的人。\n\n一项研究调查了大学生的自控能力，结果支持了这一假设。研究要求学生每次想到“哎呀，我不应该这么做”的时候就报告，例如熬夜、睡懒觉、暴饮暴食或拖延。他们在养成有益行为时，最有效的方式并非下定决心做得更好，或是分散对诱惑的注意，而是改变自己的环境。他们选择不在带电视的寝室沙发上学习，而是去图书馆。他们还发现，清除寝室冰箱里的垃圾食品后，饮食变得更健康。伍德指出：“成功的自控，实际上来自于有效隐藏诱惑。”\n\n即便是在自控问卷上得分高的人，他们看似的美德可能更多源于情境因素，而非单纯的意志力。在德国对这类人的一项研究中，他们很少报告自己抵抗诱惑的情况。“他们的生活方式几乎一直在隐藏诱惑，”伍德如是写道。这一观察引出了她书中论点的核心：摆脱坏习惯的关键不在于决心，而在于以支持良好行为的方式重新构建我们的环境。伍德引用了心理学家库尔特·莱文 (Kurt Lewin) 的理论，他认为行为受到类似于重力或使河流加速或减速的流体动力学的“一系列力量”的影响。这些力量取决于你所处的环境、周围的人、一天中的时间，以及你最近的行为。我们通过寻找方法从方程式中移除意志力，反而能够实现情境控制，这似乎有些矛盾，但并不是靠意志力实现的。\n\n伍德认为，根除坏习惯的关键力量是“障碍”：如果我们能增加坏习惯的不便性，那么惯性就会帮助我们朝着美德方向前进，而无需我们表现出坚强。她列举了增加障碍导致吸烟减少的例子：法律禁止在餐厅、酒吧、飞机和火车上吸烟；税收的增加使得美国香烟价格在过去二十年里翻了三倍；以及从自动售货机中清除香烟，电视和收音机中禁播烟草广告。\n\n与此同时，我们周边的企业都在努力减少消费者的操作障碍。比如麦当劳的收银员会有意诱导顾客，问道：“您要加薯条吗？”这样的提问促使我们摄入更多脂肪和碳水化合物。Netflix 或 Hulu 的连续剧播放功能也是如此，它们通过在一集结束后自动播放下一集的方式，让我们沉迷于连续观看。Wood 采访了 Uber 前经济研究主管 M. Keith Chen，后者分享了该应用是如何设计来减少用户操作步骤的。“手机的 GPS 已经知道你的位置，”他说，“你几乎不需要多想……下车时连现金都不用处理。”\n\n公司成为我们习惯形成的帮手，这一现象在 Charles Duhigg 的畅销书《The Power of Habit》（2012 年）中被深入探讨。像 Wood 一样，Duhigg 当时是《时报》的记者，他指出快餐业通过各种方式诱使我们增加消费。例如，麦当劳统一餐厅的装潢风格，旨在触发我们的饮食习惯。许多连锁餐厅的食品都经过特别设计，可以迅速激发大脑的奖励中心，提供瞬间的盐分和脂肪享受。\n\n在研究企业如何利用习惯形成来获取利益的过程中，Duhigg 描述了 20 世纪初的广告大师 Claude C. Hopkins 的工作。他的 Pepsodent 牙膏广告活动据说使刷牙成为美国人的日常习惯。Pepsodent 于 1915 年首次面市时，很少有人会刷牙，甚至当时的牙科权威都认为所有牙膏都无用。Hopkins 将营销焦点放在覆盖牙齿的牙菌斑 (plaque) 上；1917 年，他在报纸广告中宣称这是“所有牙齿问题的根源”。实际上，简单地吃一个苹果就能暂时去除牙菌斑，而当时的牙膏去除效果并不比光刷牙更好。尽管如此，Hopkins 还是夸大了牙菌斑的危害，并宣称 Pepsodent 是唯一的解决方案。“只需用舌头轻轻划过牙齿，”另一则广告写道，“你会感到一层薄膜——这就是让你的牙齿变色和蛀牙的原因。”不久，Pepsodent 就成为了全球知名的产品。\n\nDuhigg 和 Wood 都认为，习惯性的行为是由刺激和回应所驱动的。虽然 Pepsodent 不是唯一声称能去除牙齿薄膜的品牌，但其含有的柠檬酸和薄荷油等成分，不仅带来清新口感，还轻微刺激口腔，产生舒适的刺痛感。Hopkins 让消费者意识到牙齿上的薄膜，为其提供了一个刺激，而牙膏本身则提供了物理上的回应。这种刺激与回应的循环极为强大：如果我们没有刷牙，就会感觉不舒服。Hopkins 发起他的活动二十年后，使用牙膏已成为美国绝大多数人的日常行为。Duhigg 表示，Hopkins“创造了一种需求”。\n\nWood 强调通过情境控制来培养良好习惯，而 Duhigg 则提到了一位咬指甲的女性，她被建议寻找其他可以用手做的事情，以产生类似的物理刺激，比如在桌子上敲打指关节。这样做的目的是保持刺激和回应的有效结构，但改变习惯的具体内容。对这两位作家来说，关键不在于靠意志力打破习惯，而是用一个新习惯替换旧习惯。\n\n这两个案例都突出了有意识努力的重要性 - 不是去反抗习惯，而是去深入分析它，以此制定更有效的改革策略。Duhigg 在体重上升后，决定放弃在 Times 餐厅每天下午吃的那块饼干。他曾尝试在便签上写下不吃饼干的禁令，但这并无效果：他会忽略这个提醒，走到餐厅，与收银台的同事闲聊，最后还是会买下饼干。因此，他开始探究触发这一习惯的因素，参考研究人员提出的五个类别：时间、地点、情绪状态、周围人员、以及习惯性动作之前的行为。他是因为饥饿、无聊，还是需要休息或是血糖提升？他尝试改变自己的日常，选择在办公桌上吃甜甜圈，而非去餐厅，或者到外面散步。他在做实验：如果在办公桌上吃甜甜圈并未减少去餐厅的冲动，那就可以排除是因为糖分的原因。最终，他通过排除法确定，他的习惯实际上是由对交流和分散注意力的需求驱动的。于是，他发现与朋友聊天成了替代吃饼干的最佳选择。\n\nWood 在她的书的最后，给我们这些被智能手机控制的人提供了建议。她提出了一个分步骤的策略。首先，认识到自己对手机的依赖，意识到这种习惯如何干扰了工作、社交和安全驾驶。接着是“控制情境线索”，也就是找出是什么触发了你拿起手机的行为。对我而言，这些线索包括听觉（如通知声、法国号声）和视觉（如屏幕弹窗）。我已经知道，仅仅把手机调成静音是不足以打破这一习惯的，但正如“棉花糖耐性实验”所示，眼不见心不烦。早上做早餐时，我发现把手机放在另一个房间很有效。开车时，手机被放进手套箱。走路时，我会把手机放在带拉链的口袋里。还有其他方法来增加使用的难度，从而减少这一习惯的发生。完全关机比单纯静音更有效，continue 不是因为我不好奇谁可能给我发邮件，而是因为重新开机很麻烦。\n\nWood 还建议我们找到新的奖励来替代手机原本提供的那些奖励。我开始在车里听收音机音乐。晚上，我没有浏览推特和电子邮件，而是探索那些我从未阅读过的作者。每天结束时，我都感到更加平静和自由。♦\n\nhttps://t.co/Zg3qiTKZgk",
+    "github_inline": [],
+    "tco_links": [
+      "https://t.co/Zg3qiTKZgk"
+    ],
+    "id": "1743791697304109452",
+    "resolved_links": [
+      {
+        "tco": "https://t.co/Zg3qiTKZgk",
+        "resolved": "https://www.newyorker.com/magazine/2019/10/28/can-brain-science-help-us-break-bad-habits"
+      }
+    ],
+    "github_from_main": [],
+    "thread_size": 15,
+    "github_from_replies": [],
+    "thread_resolved": [
+      {
+        "reply_author": "mikanoshidari",
+        "reply_url": "https://x.com/mikanoshidari/status/1755332860394037423",
+        "tco": "https://t.co/bATgNvFn5j",
+        "resolved": "https://twitter.com/mikanoshidari/status/1755332860394037423/photo/1"
+      },
+      {
+        "reply_author": "changtimwu",
+        "reply_url": "https://x.com/changtimwu/status/1743967556535533944",
+        "tco": "https://t.co/WdcmTm7PrW",
+        "resolved": "https://minihabits.com/take-the-one-push-up-challenge/"
+      }
+    ]
+  },
+  {
+    "url": "https://x.com/cellier_/status/1741692958712439204",
+    "author": "cellier_",
+    "name": "Cellier@undefined",
+    "text": "回顾 2023，我用的最爽的 10 个效率工具\n\n1. https://t.co/TT9qNGs30Y， 它的 Daily Note 基本取代了我的 GTD 工具；\n\n2. Cron，我的事务都同步上去了，约人约时间取代了 Calendly；\n\n3. Arc，不用说，目前最优雅的浏览器（Sigma.os 也不错）；\n\n4. Raycast，配合各种插件功能，效率飞起；\n\n5. Perplexity，不用多说，日常知识性搜索神器；\n\n6. Journal，日记就用它，让人更有冲动记录，取代了 Dayone；\n\n7. Artifact，新闻软件，推荐很准确，特别是科技行业，可以用播客模式听新闻，也有 AI 提炼；\n\n8. Pitch，自它出了神奇移动功能后，更愿意用它做 PPT 了；\n\n9. Superlist，一直在内测，任务嵌套以及详情页可以当作文档的设计很喜欢；\n\n10. Speak，学习英语的好帮手；",
+    "github_inline": [],
+    "tco_links": [
+      "https://t.co/TT9qNGs30Y"
+    ],
+    "id": "1741692958712439204",
+    "resolved_links": [
+      {
+        "tco": "https://t.co/TT9qNGs30Y",
+        "resolved": "https://www.craft.do/"
+      }
+    ],
+    "github_from_main": [],
+    "thread_size": 15,
+    "github_from_replies": [],
+    "thread_resolved": [
+      {
+        "reply_author": "ifreecell",
+        "reply_url": "https://x.com/ifreecell/status/1741850818771399052",
+        "tco": "https://t.co/briZdx1L82怎么做GTD",
+        "resolved": "https://t.co/briZdx1L82怎么做GTD"
+      }
+    ]
+  },
+  {
+    "url": "https://x.com/0xluffy_eth/status/1733305500748726438",
+    "author": "0xluffy_eth",
+    "name": "路飞 🏴‍☠️ AI 研究员🧐",
+    "text": "ChatGPT在工作中可以节省你数小时的时间。\n\n但在过去的30天中，已经有超过2千个新的AI工具问世。\n\n以下是8个令人疯狂的AI网站，可以在几秒钟内完成数小时的工作（别错过）： https://t.co/t2ALuvP8JA",
+    "github_inline": [],
+    "tco_links": [
+      "https://t.co/t2ALuvP8JA"
+    ],
+    "id": "1733305500748726438",
+    "resolved_links": [
+      {
+        "tco": "https://t.co/t2ALuvP8JA",
+        "resolved": "https://twitter.com/0xluffy_eth/status/1733305500748726438/photo/1"
+      }
+    ],
+    "github_from_main": [],
+    "thread_size": 15,
+    "github_from_replies": [],
+    "thread_resolved": []
+  }
+]
