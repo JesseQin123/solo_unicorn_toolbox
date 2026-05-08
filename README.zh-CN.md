@@ -1,10 +1,27 @@
 # Solo Unicorn Toolbox 🛠️
 
-> 个人 GitHub 工具/教程/资源聚合库，收集自 GitHub Stars、Twitter Bookmarks、小红书收藏等。
+> 一份双语整理的 **486 个 GitHub 项目** 目录——AI agents、coding harnesses、RAG、多媒体、教程等等——汇总自 GitHub stars、Twitter bookmarks 和小红书收藏。
 
-> English version: [README.md](./README.md)
+> English: [README.md](./README.md) · 维护说明：[CLAUDE.md](./CLAUDE.md)
 
-**共 486 个项目** · 由 `scripts/build-readme.py` 自动生成。要添加新条目，把 GitHub URL 粘到 [`inbox.md`](./inbox.md)。
+### 为什么做这个
+
+同一类工具老是散落在 GitHub、X/Twitter、小红书等不同平台的收藏里，想找的时候永远翻不到。这个 repo 就是我会真的回头查的那个索引。
+
+### 里面有什么
+
+- **共 486 个项目**，分布在 12 个大类——见下方目录
+- 两个 GitHub 账号的 stars：`JesseQin123`（个人）+ `jesseqin-kamiwaza`（工作）
+- Twitter bookmarks 整理——从我在 X 收藏的推文线程里手动挑出的 GitHub URL
+- 每周自动同步：[`.github/workflows/sync-stars.yml`](.github/workflows/sync-stars.yml)
+
+### 每行表格怎么看
+
+`仓库 · 描述 · 语言 · ⭐ Star 数 · Topic 标签`。每个（子）分类内部按 star 数倒序。⚠️ 标记的是已被原作者 archive 的项目。
+
+### 怎么加新条目
+
+把 GitHub URL 粘到 [`inbox.md`](./inbox.md) → 跑 `scripts/enrich-inbox.sh` → 在 [`data/manifest.json`](./data/manifest.json) 里写分类 → 跑 `python3 scripts/build-readme.py`。完整流程见 [`CLAUDE.md`](./CLAUDE.md)。
 
 ---
 
@@ -556,7 +573,7 @@
 
 | 仓库 | 描述 | 语言 | ⭐ | 标签 |
 |---|---|---|---|---|
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents：多 agent LLM 金融交易框架 | Python | 71.7k | `agent` `finance` `llm` `multiagent` |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents：多 agent LLM 金融交易框架 | Python | 71.8k | `agent` `finance` `llm` `multiagent` |
 | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | Financial data platform for analysts, quants and AI agents. | Python | 67.2k | `ai` `crypto` `derivatives` `economics` |
 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | AI Hedge Fund Team：模拟对冲基金团队的 AI agent | Python | 58.4k |  |
 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets. | Python | 34.7k | `agent` `ai` `aigc` `gemini` |
@@ -698,7 +715,7 @@
 | [kuchin/awesome-ceo](https://github.com/kuchin/awesome-ceo) | A curated and opinionated list of resources for startup founders and leaders of high-growth companies | — | 2.3k | `awesome` `awesome-list` `ceo` `decision-making` |
 | [PeterGriffinJin/Awesome-Language-Model-on-Graphs](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) | A curated list of papers and resources based on "Large Language Models on Graphs: A Comprehensive Survey" (TKDE) | — | 989 | `awesome-resources` `generative-ai` `graphs` `large-language-models` |
 | [topoteretes/awesome-ai-memory](https://github.com/topoteretes/awesome-ai-memory) | A list of AI memory projects | Python | 758 | `ai` `ai-agents` `ai-engineering` `ai-memory` |
-| [mliu98/awesome-human-distillation](https://github.com/mliu98/awesome-human-distillation) | A curated catalog of human distillliation agent skills | Python | 569 | `agent-skills` `awesome-list` `claude-code` `claude-code-skills` |
+| [mliu98/awesome-human-distillation](https://github.com/mliu98/awesome-human-distillation) | A curated catalog of human distillliation agent skills | Python | 570 | `agent-skills` `awesome-list` `claude-code` `claude-code-skills` |
 | [Curated-Awesome-Lists/awesome-llms-fine-tuning](https://github.com/Curated-Awesome-Lists/awesome-llms-fine-tuning) | LLM 微调的资源、教程、论文、工具与最佳实践合集 | — | 516 | `ai` `awesome-list` `deep-learning` `fine-tuning` |
 | [Zheng-Chong/Awesome-Try-On-Models](https://github.com/Zheng-Chong/Awesome-Try-On-Models) | 虚拟试穿模型相关的论文、代码与资源整理 | — | 416 | `3d-generation` `diffusion-models` `image-generation` `sota-model` |
 | [lliai/Awesome-Vision-Knowledge-Distillation](https://github.com/lliai/Awesome-Vision-Knowledge-Distillation) | Awesome Knowledge-Distillation for CV | — | 94 |  |
@@ -754,7 +771,7 @@
 | 仓库 | 描述 | 语言 | ⭐ | 标签 |
 |---|---|---|---|---|
 | [LOG1997/log-lottery](https://github.com/LOG1997/log-lottery) | 🎈🎈🎈🎈年会抽奖程序，threejs+vue3 3D球体动态抽奖应用。 | TypeScript | 3.3k | `3d` `daisyui` `lottery` `lucky` |
-| [DestinyLinker/MingLi-Bench](https://github.com/DestinyLinker/MingLi-Bench) | 🔮 中文传统命理（八字 / 紫微）LLM 评测基准 — Tianfu Agent 的训练参照。 | Python | 902 |  |
+| [DestinyLinker/MingLi-Bench](https://github.com/DestinyLinker/MingLi-Bench) | 🔮 中文传统命理（八字 / 紫微）LLM 评测基准 — Tianfu Agent 的训练参照。 | Python | 903 |  |
 | [context-labs/aella-data-explorer](https://github.com/context-labs/aella-data-explorer) | LAION 研究论文数据集的可视化浏览器 | TypeScript | 900 |  |
 | [FANzR-arch/Numerologist_skills](https://github.com/FANzR-arch/Numerologist_skills) | 🔮 给 LLM 做中国玄学的「紧箍咒」工程框架 — 减少赛博半仙的幻觉。 | HTML | 691 |  |
 | [khalildh/garment-notation](https://github.com/khalildh/garment-notation) | 服装符号化项目（暂无明确描述） | JavaScript | 432 |  |

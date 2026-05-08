@@ -104,7 +104,7 @@
       "react",
       "slides"
     ],
-    "stargazers_count": 2624,
+    "stargazers_count": 2625,
     "homepage": "https://open-slide.dev",
     "archived": false,
     "starred_at": "2026-05-08T22:14:22Z",
@@ -353,7 +353,7 @@
       "mcp",
       "productivity"
     ],
-    "stargazers_count": 175861,
+    "stargazers_count": 175862,
     "homepage": "https://ecc.tools",
     "archived": false,
     "starred_at": "2026-02-12T01:12:44Z",
@@ -1302,7 +1302,7 @@
       "usdc",
       "x402"
     ],
-    "stargazers_count": 6479,
+    "stargazers_count": 6480,
     "homepage": "",
     "archived": false,
     "starred_at": "2026-02-21T19:47:34Z",
@@ -1396,7 +1396,7 @@
     "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
     "language": "Python",
     "topics": [],
-    "stargazers_count": 11661,
+    "stargazers_count": 11663,
     "homepage": "https://browser-harness.com",
     "archived": false,
     "starred_at": "2026-04-30T18:13:49Z",
@@ -1466,7 +1466,7 @@
       "superagent",
       "typescript"
     ],
-    "stargazers_count": 66098,
+    "stargazers_count": 66100,
     "homepage": "https://deerflow.tech",
     "archived": false,
     "starred_at": "2026-03-23T14:00:22Z",
@@ -1804,7 +1804,7 @@
       "rust",
       "semantic-search"
     ],
-    "stargazers_count": 9160,
+    "stargazers_count": 9163,
     "homepage": "https://cocoindex.io",
     "archived": false,
     "starred_at": "2025-07-04T18:29:34Z",
@@ -1959,7 +1959,7 @@
     "homepage": "https://docs.composio.dev",
     "archived": false,
     "starred_at": "2026-04-26T12:44:57Z",
-    "pushed_at": "2026-05-08T20:32:43Z"
+    "pushed_at": "2026-05-08T22:26:29Z"
   },
   {
     "full_name": "conductor-oss/conductor",
@@ -1982,7 +1982,7 @@
       "workflow-management",
       "workflows"
     ],
-    "stargazers_count": 31784,
+    "stargazers_count": 31783,
     "homepage": "https://docs.conductor-oss.org/",
     "archived": false,
     "starred_at": "2026-04-24T20:26:13Z",
@@ -2311,7 +2311,7 @@
       "rag",
       "tutorial"
     ],
-    "stargazers_count": 44514,
+    "stargazers_count": 44515,
     "homepage": "https://hello-agents.datawhale.cc",
     "archived": false,
     "starred_at": "2026-05-02T15:18:05Z",
@@ -2562,7 +2562,7 @@
     "description": "A benchmark for evaluating LLMs on Chinese traditional fortune telling — Bazi (八字) and Ziwei Doushu (紫微斗数).",
     "language": "Python",
     "topics": [],
-    "stargazers_count": 902,
+    "stargazers_count": 903,
     "homepage": "https://destinyLinker.github.io/MingLi-Bench/",
     "archived": false,
     "starred_at": "2026-05-08T22:14:25Z",
@@ -3192,11 +3192,11 @@
     "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
     "language": "TypeScript",
     "topics": [],
-    "stargazers_count": 91629,
+    "stargazers_count": 91632,
     "homepage": "",
     "archived": false,
     "starred_at": "2026-03-25T02:24:43Z",
-    "pushed_at": "2026-05-08T19:46:15Z"
+    "pushed_at": "2026-05-08T22:27:15Z"
   },
   {
     "full_name": "gastownhall/gastown",
@@ -3305,7 +3305,7 @@
       "llms",
       "rag"
     ],
-    "stargazers_count": 25829,
+    "stargazers_count": 25830,
     "homepage": "https://help.getzep.com/graphiti",
     "archived": false,
     "starred_at": "2025-10-15T09:46:36Z",
@@ -3451,7 +3451,7 @@
       "social-media-scheduling-tool",
       "typescript"
     ],
-    "stargazers_count": 30138,
+    "stargazers_count": 30139,
     "homepage": "https://postiz.com",
     "archived": false,
     "starred_at": "2026-01-13T01:31:30Z",
@@ -3493,7 +3493,7 @@
       "stream-processing",
       "video-processing"
     ],
-    "stargazers_count": 35118,
+    "stargazers_count": 35119,
     "homepage": "https://ai.google.dev/edge/mediapipe",
     "archived": false,
     "starred_at": "2025-05-08T22:52:40Z",
@@ -3517,7 +3517,7 @@
     "homepage": "https://geminicli.com",
     "archived": false,
     "starred_at": "2025-12-11T13:13:12Z",
-    "pushed_at": "2026-05-08T21:35:39Z"
+    "pushed_at": "2026-05-08T22:30:18Z"
   },
   {
     "full_name": "google-gemini/gemini-fullstack-langgraph-quickstart",
@@ -3540,7 +3540,7 @@
     "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
     "language": "TypeScript",
     "topics": [],
-    "stargazers_count": 12195,
+    "stargazers_count": 12196,
     "homepage": "https://stitch.withgoogle.com/docs/design-md/specification",
     "archived": false,
     "starred_at": "2026-04-30T20:45:37Z",
@@ -3671,7 +3671,7 @@
       "meta-prompting",
       "spec-driven-development"
     ],
-    "stargazers_count": 60968,
+    "stargazers_count": 60970,
     "homepage": "",
     "archived": false,
     "starred_at": "2026-03-30T04:32:40Z",
@@ -3714,7 +3714,7 @@
       "shortvideo",
       "tiktok"
     ],
-    "stargazers_count": 56937,
+    "stargazers_count": 56938,
     "homepage": "",
     "archived": false,
     "starred_at": "2025-05-09T21:01:41Z",
@@ -4521,11 +4521,11 @@
       "ai-agents",
       "llm"
     ],
-    "stargazers_count": 19729,
+    "stargazers_count": 19730,
     "homepage": "https://www.kortix.com",
     "archived": false,
     "starred_at": "2025-06-12T17:57:47Z",
-    "pushed_at": "2026-05-08T22:07:41Z"
+    "pushed_at": "2026-05-08T22:23:09Z"
   },
   {
     "full_name": "KroMiose/nekro-agent",
@@ -4675,7 +4675,7 @@
       "skills",
       "vibecoding"
     ],
-    "stargazers_count": 16242,
+    "stargazers_count": 16243,
     "homepage": "https://tasteskill.dev",
     "archived": false,
     "starred_at": "2026-03-07T15:52:17Z",
@@ -4918,11 +4918,11 @@
       "mcp",
       "openai"
     ],
-    "stargazers_count": 76451,
+    "stargazers_count": 76452,
     "homepage": "https://lobehub.com",
     "archived": false,
     "starred_at": "2025-07-07T00:25:22Z",
-    "pushed_at": "2026-05-08T20:25:19Z"
+    "pushed_at": "2026-05-08T22:22:13Z"
   },
   {
     "full_name": "LOG1997/log-lottery",
@@ -5466,7 +5466,7 @@
       "web",
       "webkit"
     ],
-    "stargazers_count": 88271,
+    "stargazers_count": 88272,
     "homepage": "https://playwright.dev",
     "archived": false,
     "starred_at": "2026-05-02T15:13:20Z",
@@ -5540,7 +5540,7 @@
       "vector-database",
       "web-scraping"
     ],
-    "stargazers_count": 59744,
+    "stargazers_count": 59745,
     "homepage": "https://anythingllm.com",
     "archived": false,
     "starred_at": "2026-01-05T07:07:18Z",
@@ -5585,7 +5585,7 @@
       "qt",
       "windows"
     ],
-    "stargazers_count": 6664,
+    "stargazers_count": 6666,
     "homepage": "http://mixxx.org",
     "archived": false,
     "starred_at": "2026-01-16T02:33:14Z",
@@ -5639,10 +5639,10 @@
       "digital-life",
       "human-distillation"
     ],
-    "stargazers_count": 569,
+    "stargazers_count": 570,
     "homepage": null,
     "archived": false,
-    "starred_at": "2026-04-07T21:19:10Z",
+    "starred_at": "2026-05-08T22:25:14Z",
     "pushed_at": "2026-05-08T04:47:46Z"
   },
   {
@@ -5817,7 +5817,7 @@
     "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
     "language": "TypeScript",
     "topics": [],
-    "stargazers_count": 26226,
+    "stargazers_count": 26228,
     "homepage": "https://multica.ai",
     "archived": false,
     "starred_at": "2026-04-27T00:11:07Z",
@@ -5948,7 +5948,7 @@
       "hermes-agent",
       "nous-research"
     ],
-    "stargazers_count": 6225,
+    "stargazers_count": 6227,
     "homepage": "https://get-hermes.ai/",
     "archived": false,
     "starred_at": "2026-04-29T02:15:26Z",
@@ -6022,7 +6022,7 @@
       "uikit",
       "windsurf-ai"
     ],
-    "stargazers_count": 75554,
+    "stargazers_count": 75555,
     "homepage": "https://www.uupm.cc/",
     "archived": false,
     "starred_at": "2026-01-01T21:40:42Z",
@@ -6055,10 +6055,10 @@
       "ui-generator",
       "vibe-coding"
     ],
-    "stargazers_count": 33864,
+    "stargazers_count": 33897,
     "homepage": "https://open-design.ai",
     "archived": false,
-    "starred_at": "2026-04-28T20:08:06Z",
+    "starred_at": "2026-05-08T22:25:15Z",
     "pushed_at": "2026-05-08T18:41:49Z"
   },
   {
@@ -6421,11 +6421,11 @@
       "own-your-data",
       "personal"
     ],
-    "stargazers_count": 369864,
+    "stargazers_count": 369868,
     "homepage": "https://openclaw.ai",
     "archived": false,
     "starred_at": "2026-01-25T20:50:34Z",
-    "pushed_at": "2026-05-08T22:15:40Z"
+    "pushed_at": "2026-05-08T22:30:26Z"
   },
   {
     "full_name": "OpenCut-app/OpenCut",
@@ -6636,7 +6636,7 @@
     "description": "Open-source orchestration for zero-human companies",
     "language": "TypeScript",
     "topics": [],
-    "stargazers_count": 63590,
+    "stargazers_count": 63592,
     "homepage": "https://paperclip.ing",
     "archived": false,
     "starred_at": "2026-03-11T05:12:22Z",
@@ -6806,7 +6806,7 @@
       "tutorial",
       "webdevelopment"
     ],
-    "stargazers_count": 265124,
+    "stargazers_count": 265125,
     "homepage": null,
     "archived": false,
     "starred_at": "2025-05-31T01:26:52Z",
@@ -6863,7 +6863,7 @@
       "ai",
       "mcp"
     ],
-    "stargazers_count": 86504,
+    "stargazers_count": 86505,
     "homepage": "https://glama.ai/mcp/servers",
     "archived": false,
     "starred_at": "2025-05-28T01:00:00Z",
@@ -7099,7 +7099,7 @@
       "swarm",
       "swarm-intelligence"
     ],
-    "stargazers_count": 46821,
+    "stargazers_count": 46824,
     "homepage": "https://Cognitum.One",
     "archived": false,
     "starred_at": "2025-07-17T19:44:59Z",
@@ -7313,7 +7313,7 @@
       "ui",
       "vite"
     ],
-    "stargazers_count": 113842,
+    "stargazers_count": 113844,
     "homepage": "https://ui.shadcn.com",
     "archived": false,
     "starred_at": "2025-06-27T02:16:27Z",
@@ -7428,7 +7428,7 @@
       "resources",
       "unicorns"
     ],
-    "stargazers_count": 464104,
+    "stargazers_count": 464105,
     "homepage": "",
     "archived": false,
     "starred_at": "2025-12-18T00:55:31Z",
@@ -7528,7 +7528,7 @@
       "social-network",
       "socmint"
     ],
-    "stargazers_count": 26584,
+    "stargazers_count": 26585,
     "homepage": "https://maigret.readthedocs.io",
     "archived": false,
     "starred_at": "2026-05-02T10:50:41Z",
@@ -7681,7 +7681,7 @@
       "multiagent",
       "trading"
     ],
-    "stargazers_count": 71744,
+    "stargazers_count": 71751,
     "homepage": "https://arxiv.org/pdf/2412.20138",
     "archived": false,
     "starred_at": "2025-07-02T19:45:17Z",
@@ -7782,10 +7782,10 @@
     "description": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
     "language": "Python",
     "topics": [],
-    "stargazers_count": 17532,
+    "stargazers_count": 17534,
     "homepage": "",
     "archived": false,
-    "starred_at": "2026-04-07T17:58:50Z",
+    "starred_at": "2026-05-08T22:25:15Z",
     "pushed_at": "2026-05-06T07:06:04Z"
   },
   {
@@ -8126,7 +8126,7 @@
       "vibe-coding",
       "workflow"
     ],
-    "stargazers_count": 12381,
+    "stargazers_count": 12383,
     "homepage": "https://x.com/123olp",
     "archived": false,
     "starred_at": "2026-01-01T21:40:05Z",
@@ -8452,7 +8452,7 @@
       "python-libraries",
       "python-tools"
     ],
-    "stargazers_count": 296593,
+    "stargazers_count": 296594,
     "homepage": "https://awesome-python.com/",
     "archived": false,
     "starred_at": "2025-05-18T15:07:36Z",
@@ -8476,7 +8476,7 @@
     "description": "An autonomous agent for deep financial research",
     "language": "TypeScript",
     "topics": [],
-    "stargazers_count": 24873,
+    "stargazers_count": 24874,
     "homepage": null,
     "archived": false,
     "starred_at": "2026-02-09T18:10:33Z",
