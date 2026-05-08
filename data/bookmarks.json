@@ -1,1025 +1,2534 @@
 [
   {
     "id": "2051869365898027318",
-    "author": "bozhou_ai",
+    "handle": "bozhou_ai",
     "name": "泊舟",
+    "time": "Wed May 06 03:39:13 +0000 2026",
     "text": "卧槽，现在算命都卷到这种地步了，直接给你上 Agent。\n\n而且我才知道，世界上居然真的有全球算命师大赛，3069 个算命师参赛，比谁算得准。然后有人开发了一个 AI 去打这个比赛。\n\n更离谱的是它真的跑出来了。Tianfu Agent，50% 截尾准确率，接近人类 Top-20 平均水平 53.5%，同题目下最强通用大模型也才 40%。\n\n我自己也去算了一下事业运，最近的情况说的竟然全对。\n\n打开他们公开的一道样例题，1951 年女命，问年轻时做什么工作。AI 没直接给答案，是把整个推理过程摊给你看。\n\n先查月柱年柱看家境，再排第二大限看官禄宫和迁移宫，再调八字看食神伤官，最后交叉紫微和八字两套结论，才给出答案：家贫，十多岁卖艺为生。\n\n一道题，跑了 61 个步骤，全程可追溯。\n\n跟普通免费占卜软件完全不是一个东西。那种本质就是模板填字，输入生日给你一段不痛不痒的话，换谁看着都差不多。Tianfu 是把命理拆成了一套工程：250+ 个工具，紫微/八字/奇门三套体系交叉验证。\n\n@DestinyLinker\nBenchmark: https://t.co/KelMYtFFEb\n试一下: https://t.co/jhswK8R3Av",
+    "url": "https://x.com/bozhou_ai/status/2051869365898027318",
     "likes": 3546,
     "retweets": 661,
-    "bookmarks": 4033,
-    "created_at": "Wed May 06 03:39:13 +0000 2026",
-    "url": "https://x.com/bozhou_ai/status/2051869365898027318"
-  },
-  {
-    "id": "2051105899050357213",
-    "author": "berryxia",
-    "name": "Berryxia.AI",
-    "text": "AI agent终于有专属的Slide框架了。\n\nopen-slide 直接把“prompt一下就出一整套精美幻灯片”变成了现实。\n\n它不是简单生成Markdown，而是把每张幻灯片做成React组件，固定1920×1080画布，内置agent技能：\n\n- /create-slide：一句话prompt就能生成完整deck\n- /apply-comments：在浏览器里点元素留评论，agent一键应用所有修改\n- 内置演示模式、演讲者笔记、定时器\n- 一键导出HTML/PDF\n- 支持Claude Code、Cursor、Codex等任意编码agent\n\n最重要的是，它把agent从“聊天生成文字”升级成了“真正能输出可呈现成品”的生产力工具。\n\nGitHub：https://t.co/YpRSq9EdWZ\n\nDemo：https://t.co/4ds6ha3R9W\n\n这波操作，直接填补了agent和真实产出之间的最后一公里。\n\n你觉得agent时代，Slide生成会不会成为标配技能？",
-    "likes": 469,
-    "retweets": 94,
-    "bookmarks": 601,
-    "created_at": "Mon May 04 01:05:28 +0000 2026",
-    "url": "https://x.com/berryxia/status/2051105899050357213"
+    "bookmarks": 4033
   },
   {
     "id": "2051297008489791608",
-    "author": "GitTrend0x",
+    "handle": "GitTrend0x",
     "name": "GitTrend",
+    "time": "Mon May 04 13:44:52 +0000 2026",
     "text": "Hermes 又卷出 5 个全新进化体！\n\n实时 Dashboard+Wiki、macOS 原生 GUI、1k skills 评估器、精选技能大礼包、Superpowers 创意工作流…… 全网程序员把 Hermes 玩成了下一代 Agent 监控舱 + Mac 神器 + 技能鉴宝师 + 方法论宝库 + 创意超级英雄。\n\n最新刷屏实时验证挖到 5 个进化体：\n\n1️⃣ hermes-dashboard（https://t.co/Y3insgftNF）\n\n实时监控 + 自动 Wiki，skills/plugins/memory/soul 一键搜索。\n“终于能看懂 Agent 灵魂”实锤了！\n\n2️⃣ scarf（https://t.co/SMYOTMUMtM）\n\n原生 macOS GUI，多窗口 + SSH 远程多服务器。\nCLI 玩具进化成 Mac 桌面神器😂\n\n3️⃣ Medusa（https://t.co/t5GJhw9oyB）\n\n1k+ skills 质量评估器，神级 vs 垃圾一键分。\n技能鉴宝师上线，1k skills 不再焦虑！\n\n4️⃣ oh-my-agent-skills（https://t.co/Zb4Lw3PHT5）\n\n执行纪律 + 多 Agent 控制 + skill 工程大礼包。\n开箱即用方法论宝库，懒人福音！\n\n5️⃣ hermes-agent-superpowers-chatgpt（https://t.co/M1wymJtJyI）\n\nSuperpowers 风格创意工作流包，设计哲学 + 品牌 pipeline 打包成 skill。\nAgent 也要当创意超级英雄了！\n\n//\n\n为什么这些新进化体这么炸？\n\n这些项目全部已验证公开开放，共同点：全吃 Hermes 底层循环当 DNA，社区再疯狂补实时 Dashboard、Mac 原生 GUI、技能评估、精选礼包、创意工作流…… 生态卷速肉眼可见。",
+    "url": "https://x.com/GitTrend0x/status/2051297008489791608",
     "likes": 320,
     "retweets": 54,
-    "bookmarks": 483,
-    "created_at": "Mon May 04 13:44:52 +0000 2026",
-    "url": "https://x.com/GitTrend0x/status/2051297008489791608"
+    "bookmarks": 483
+  },
+  {
+    "id": "2051105899050357213",
+    "handle": "berryxia",
+    "name": "Berryxia.AI",
+    "time": "Mon May 04 01:05:28 +0000 2026",
+    "text": "AI agent终于有专属的Slide框架了。\n\nopen-slide 直接把“prompt一下就出一整套精美幻灯片”变成了现实。\n\n它不是简单生成Markdown，而是把每张幻灯片做成React组件，固定1920×1080画布，内置agent技能：\n\n- /create-slide：一句话prompt就能生成完整deck\n- /apply-comments：在浏览器里点元素留评论，agent一键应用所有修改\n- 内置演示模式、演讲者笔记、定时器\n- 一键导出HTML/PDF\n- 支持Claude Code、Cursor、Codex等任意编码agent\n\n最重要的是，它把agent从“聊天生成文字”升级成了“真正能输出可呈现成品”的生产力工具。\n\nGitHub：https://t.co/YpRSq9EdWZ\n\nDemo：https://t.co/4ds6ha3R9W\n\n这波操作，直接填补了agent和真实产出之间的最后一公里。\n\n你觉得agent时代，Slide生成会不会成为标配技能？",
+    "url": "https://x.com/berryxia/status/2051105899050357213",
+    "likes": 469,
+    "retweets": 94,
+    "bookmarks": 601
   },
   {
     "id": "2050202146545795271",
-    "author": "GitTrend0x",
+    "handle": "GitTrend0x",
     "name": "GitTrend",
+    "time": "Fri May 01 13:14:17 +0000 2026",
     "text": "Hermes 社区全新进化体！\n\nGUI 一键启动器、本地画图插件、主权运维仪表盘、多 Agent 蜂群框架、600+ 便宜模型路由……全网程序员把 Hermes 玩成了下一代 Agent 桌面 + 画师 + 运维 + 蜂群 + 省钱神器。\n\n刚从 GitHub 实时验证挖到 5 个全新进化体：\n\n1️⃣ Hermes-Agent-Wizard（https://t.co/T8xKLth67e）\n\nWindows & macOS 一键 GUI Launcher，多语言实时监控。\n“点鼠标就能玩 Hermes”实锤了！\n\n2️⃣ drawthings-grpc-hermes-plugin（https://t.co/gfKaxFLhei）\n\n本地 Draw Things gRPC 图像生成插件，支持 LoRA/ControlNet 别名。\nAgent 自己画画时代来了😂\n\n3️⃣ hermes-dashboard-sovereign-ops（https://t.co/A0HQP8lp0R）\n\nSovereign Ops 主权运维仪表盘 + 暗黑主题，token/cron/技能队列一目了然。\n运维党终于有“驾驶舱”了！\n\n4️⃣ Ankh.md（https://t.co/g2zxfcupTI）\n\n多 Agent 蜂群框架，每文件夹独立 scoped Agent + 自定义记忆。\n单体 Agent 进化成时间旅行蜂群，太 meta 了！\n\n5️⃣ crazyrouter-hermes（https://t.co/5OKVeDzifT）\n\n600+ 模型一键集成，30-50% 比 OpenRouter 便宜。\n省钱党直接起飞！\n\n//\n\n为什么这些新进化体这么炸？\n\nHermes 从不给你黑箱，它给的是可读、可 hack、可自我改进的底层循环。\n\n2026 年开源 Agent 的正确打开方式，就是这么卷！\n\n你最想先试哪个新进化体？",
+    "url": "https://x.com/GitTrend0x/status/2050202146545795271",
     "likes": 191,
     "retweets": 26,
-    "bookmarks": 245,
-    "created_at": "Fri May 01 13:14:17 +0000 2026",
-    "url": "https://x.com/GitTrend0x/status/2050202146545795271"
-  },
-  {
-    "id": "2050005985133986199",
-    "author": "CNToWest",
-    "name": "CNToWest",
-    "text": "🚨英国🇬🇧最新民调显示：\n\n基尔·斯塔默领导的工党将失去多达1,850个席位，这可能是最后一个工党政府。\n\n更可能是最后一个非伊斯兰教政府。\n\n英国🇬🇧已名存实亡，而大不列颠斯坦国正呼之欲出！ https://t.co/9aPqVTsMjO",
-    "likes": 781,
-    "retweets": 72,
-    "bookmarks": 31,
-    "created_at": "Fri May 01 00:14:48 +0000 2026",
-    "url": "https://x.com/CNToWest/status/2050005985133986199"
-  },
-  {
-    "id": "2050012225818231060",
-    "author": "xue55888",
-    "name": "董小姐",
-    "text": "韩国女团成员在一次参加活动时！\n\n拿到话筒是的动作………让人咋想\n\n🤣这都已经形成肌肉记忆了？\n\n果然财团的快乐无法想象！！！ https://t.co/cXg9CB7koN",
-    "likes": 1925,
-    "retweets": 79,
-    "bookmarks": 787,
-    "created_at": "Fri May 01 00:39:36 +0000 2026",
-    "url": "https://x.com/xue55888/status/2050012225818231060"
-  },
-  {
-    "id": "2049733298650218718",
-    "author": "MuxuanqingCpa",
-    "name": "σ﹍☭ 铁铁ᠪᠠᠶᠠᠨ ᠲᠡᠮᠦᠷ ᠬᠤᠲᠯᠤᠭ🔻🌈CPA🔻",
-    "text": "感觉这张图什么时候拿出来都不过时😂😂😂 https://t.co/vdjFuspud3",
-    "likes": 2122,
-    "retweets": 107,
-    "bookmarks": 302,
-    "created_at": "Thu Apr 30 06:11:15 +0000 2026",
-    "url": "https://x.com/MuxuanqingCpa/status/2049733298650218718"
-  },
-  {
-    "id": "2049874687069426008",
-    "author": "zodchiii",
-    "name": "darkzodchi",
-    "text": "> open Claude Code\n> your .env gets read before you type anything\n> your API keys are now in the chat\n> your password is now in the chat\n> you add \"don't read .env\" to CLAUDE.md\n> doesn't work\n> 29 million secrets leaked on GitHub last year\n> one line in settings.json actually blocks it\n> there's a config that blocks all of this",
-    "likes": 2678,
-    "retweets": 211,
-    "bookmarks": 6537,
-    "created_at": "Thu Apr 30 15:33:04 +0000 2026",
-    "url": "https://x.com/zodchiii/status/2049874687069426008"
-  },
-  {
-    "id": "2049823661021081951",
-    "author": "fhwofjow51260",
-    "name": "娜美知识库",
-    "text": "个人认为目前实现全英交流最快的方式之一，最快7天见效 https://t.co/8XMDC6xJOg",
-    "likes": 2093,
-    "retweets": 349,
-    "bookmarks": 1375,
-    "created_at": "Thu Apr 30 12:10:19 +0000 2026",
-    "url": "https://x.com/fhwofjow51260/status/2049823661021081951"
-  },
-  {
-    "id": "2049913214864085185",
-    "author": "xiaojingcanxue",
-    "name": "小径残雪",
-    "text": "东航MU5735这次由美国NTSB公布的数据简单解释一下：\n\n这次是有个中国人向美国NTSB申请信息公开，公布花了三个月，大部分文件没公开，公开的也有涂黑的。公开的是FDR（飞行数据），没有CVR（驾驶舱录音）。CVR转交给中国以后，美国这边就删掉了。\n\n根据FDR数据，有人推杆俯冲，向左大角度横滚，并同时关闭了双发。\n\n之后有人试图救起，并成功的拉平了一阵，但由于双发被关闭，没有动力的飞机最终坠毁。\n\n驾驶员和副驾驶都有嫌疑，光靠这个数据不能确定是谁。需要辅助CVR才能做出最终判断。",
-    "likes": 1502,
-    "retweets": 89,
-    "bookmarks": 457,
-    "created_at": "Thu Apr 30 18:06:10 +0000 2026",
-    "url": "https://x.com/xiaojingcanxue/status/2049913214864085185"
-  },
-  {
-    "id": "2049896625481662660",
-    "author": "_vmlops",
-    "name": "Vaishnavi",
-    "text": "Roadmap to Become an Agentic AI Engineer in 2026\n\nhttps://t.co/wgts1ttEqh https://t.co/qlEspfVIWM",
-    "likes": 1688,
-    "retweets": 282,
-    "bookmarks": 2035,
-    "created_at": "Thu Apr 30 17:00:15 +0000 2026",
-    "url": "https://x.com/_vmlops/status/2049896625481662660"
-  },
-  {
-    "id": "2049847041871016205",
-    "author": "raycat2021",
-    "name": "徐老猫",
-    "text": "今天有个案子刷屏了，摩根大通美女高管涉嫌滥用职权，对一名初级男员工进行性骚扰和虐待：包括下药，种族羞辱，以升职相威胁对方接受求欢。\n\n37岁的Lorna Hajdini(据推友考证系阿尔巴尼亚族裔)是杠杆融资部门老大，她被指控在数月内强迫一名已婚下属进行“非自愿且羞辱性的性行为”，尽管他一再恳求她停止。\n\n指控者声称，她多次给他下药，并在一次不情愿的“打斗”中，当他哭泣时，她违背他的意愿进行性行为，还一边呵斥。\n\n这件事推上已经笑声一片，人们貌似对这位女上司崇拜之情如滔滔江水，而对那位男下属则认为不是Gay，就是胡说八道。",
-    "likes": 171,
-    "retweets": 5,
-    "bookmarks": 56,
-    "created_at": "Thu Apr 30 13:43:13 +0000 2026",
-    "url": "https://x.com/raycat2021/status/2049847041871016205"
-  },
-  {
-    "id": "2049742146903974036",
-    "author": "AriXZone",
-    "name": "魔都老猿",
-    "text": "自从阿里系高管入主山姆，山姆就开始堕落了，开始盒马化。\n视频并不敢说出这个原因。 https://t.co/oiRleIkwtq",
-    "likes": 563,
-    "retweets": 60,
-    "bookmarks": 217,
-    "created_at": "Thu Apr 30 06:46:24 +0000 2026",
-    "url": "https://x.com/AriXZone/status/2049742146903974036"
-  },
-  {
-    "id": "2049819911187538265",
-    "author": "sunyunran",
-    "name": "孙云冉.eth",
-    "text": "这一段真心酸啊，展现了没有靠山和背景的人是多么不容易 https://t.co/VccA1SdBKi",
-    "likes": 578,
-    "retweets": 32,
-    "bookmarks": 164,
-    "created_at": "Thu Apr 30 11:55:25 +0000 2026",
-    "url": "https://x.com/sunyunran/status/2049819911187538265"
-  },
-  {
-    "id": "2050091804889108945",
-    "author": "tutu19900124",
-    "name": "tutu",
-    "text": "昨晚看到的视频，看完泪流满面。\n30岁的沪漂舒先生在出租屋意外离世，留下一只生前十分宠爱的橘猫咪咪。父母将他的一切带走了，没有带走咪咪。室友找到了博主救助，才有了感人的后续。\n其实这个问题，我早就和朋友聊过，如果我出意外，请照顾好我的瓜。 https://t.co/CNMzIBiU7p",
-    "likes": 1210,
-    "retweets": 99,
-    "bookmarks": 190,
-    "created_at": "Fri May 01 05:55:49 +0000 2026",
-    "url": "https://x.com/tutu19900124/status/2050091804889108945"
-  },
-  {
-    "id": "2050086870479167647",
-    "author": "callme_siya_",
-    "name": "Siya",
-    "text": "Hey @grok what happen to her ? https://t.co/xJp0rCZUFY",
-    "likes": 447,
-    "retweets": 35,
-    "bookmarks": 24,
-    "created_at": "Fri May 01 05:36:13 +0000 2026",
-    "url": "https://x.com/callme_siya_/status/2050086870479167647"
-  },
-  {
-    "id": "2049828008505348538",
-    "author": "fhwofjow51260",
-    "name": "娜美知识库",
-    "text": "九年重逢的第一句试探，全是藏不住的遗憾 https://t.co/iLzyTAugVt",
-    "likes": 290,
-    "retweets": 18,
-    "bookmarks": 160,
-    "created_at": "Thu Apr 30 12:27:35 +0000 2026",
-    "url": "https://x.com/fhwofjow51260/status/2049828008505348538"
-  },
-  {
-    "id": "2049835616083517855",
-    "author": "Granite77777",
-    "name": "花岗岩³",
-    "text": "这简直就是奇迹。\n\n约翰·坎贝尔博士详细解读了一项研究：一位83岁患有四期乳腺癌的老妇人，癌细胞已转移至肝脏、脊椎和骨骼。\n\n这通常意味着死亡判决。\n\n她每天服用222mg芬苯达唑（FenBen），持续8个月后，肝功能酶指标恢复正常。肿瘤标志物从316大幅降至36。\n\n https://t.co/0OqFXmdcbk",
-    "likes": 271,
-    "retweets": 118,
-    "bookmarks": 197,
-    "created_at": "Thu Apr 30 12:57:49 +0000 2026",
-    "url": "https://x.com/Granite77777/status/2049835616083517855"
-  },
-  {
-    "id": "2049520950358720883",
-    "author": "SuisPasDaVinci",
-    "name": "达芬七",
-    "text": "不愧是闲鱼暗网… https://t.co/NAWgpkBlqw",
-    "likes": 2903,
-    "retweets": 33,
-    "bookmarks": 249,
-    "created_at": "Wed Apr 29 16:07:27 +0000 2026",
-    "url": "https://x.com/SuisPasDaVinci/status/2049520950358720883"
-  },
-  {
-    "id": "2049793301352702042",
-    "author": "oragnes",
-    "name": "比特币橙子Trader",
-    "text": "日本这款卖 19800 日元的“电盐勺”，机制极其粗暴。\n\n不加盐，直接靠微电流把食物里的钠离子强行汇聚到舌头上，咸味当场放大 1.5 倍。\n\n高血压患者吃白水煮菜，能硬生生被电流刺激出重口味的爽感。 https://t.co/ZRxlbPubOv",
-    "likes": 1303,
-    "retweets": 178,
-    "bookmarks": 749,
-    "created_at": "Thu Apr 30 10:09:41 +0000 2026",
-    "url": "https://x.com/oragnes/status/2049793301352702042"
-  },
-  {
-    "id": "2049777737825710560",
-    "author": "xadr666",
-    "name": "大阪のタニマチ-社长刘洋",
-    "text": "公开挑战书： \n\n我，刘洋，日本名谷町洋，公开挑战王志安，王局志安。\n我挑战与王志安互访，两个人面对面，两个人频道直播打开，一人一问，不限选题，全程直播，不拔网线。\n不限制其他自媒体传统媒体前来采访。一切公开透明。地点选第三方，由王局认可的日本媒体人选地方即可。选大点地方，王局喜欢热闹。\n\n2026年4月30日 以上挑战有效期截止5月8日\n请王局先回复接受挑战与否。",
-    "likes": 471,
-    "retweets": 15,
-    "bookmarks": 41,
-    "created_at": "Thu Apr 30 09:07:50 +0000 2026",
-    "url": "https://x.com/xadr666/status/2049777737825710560"
-  },
-  {
-    "id": "2049831722062360946",
-    "author": "WangNextDoor2",
-    "name": "WangNextDoor",
-    "text": "这种真的是胡闹，称王称霸搞习惯了，这次是踢到铁了，的确不适合乘飞机。。。 https://t.co/8sd1TLaTb5",
-    "likes": 759,
-    "retweets": 49,
-    "bookmarks": 122,
-    "created_at": "Thu Apr 30 12:42:21 +0000 2026",
-    "url": "https://x.com/WangNextDoor2/status/2049831722062360946"
-  },
-  {
-    "id": "2049787026413846562",
-    "author": "lovelycake",
-    "name": "小蛋糕(日本勇者村）",
-    "text": "巨婴孙杨要倒大霉了‼️😂\n\n这个二货最近上综艺暴露低素质低情商\n有人说他配不上他老婆\n他妈还打电话骚扰人家要求删帖\n\n现在被爆出他有私生子不说\n严重的是他走后门违规录取上体博士\n挤占了一个叫苗华的名额\n\n据说他纯面试，啥都没考就最高分录取了\n而且他有无证驾驶被拘留的案底，按规定是不能考博士的😆\n\n现在有人写材料举报了\n上体目前装死\n感觉这事没那么简单过去\n毕竟这个是实锤的违规\n而且他早就是负面人物\n国家还会保他吗😌",
-    "likes": 742,
-    "retweets": 85,
-    "bookmarks": 157,
-    "created_at": "Thu Apr 30 09:44:44 +0000 2026",
-    "url": "https://x.com/lovelycake/status/2049787026413846562"
-  },
-  {
-    "id": "2049904901371633815",
-    "author": "ashpreetbedi",
-    "name": "Ashpreet Bedi",
-    "text": "https://t.co/GTCZ0gJmjf",
-    "likes": 151,
-    "retweets": 16,
-    "bookmarks": 241,
-    "created_at": "Thu Apr 30 17:33:08 +0000 2026",
-    "url": "https://x.com/ashpreetbedi/status/2049904901371633815"
-  },
-  {
-    "id": "2049998282152370440",
-    "author": "xYsfknBXPT6M0jo",
-    "name": "宇峒",
-    "text": "世界上最危险的医疗手术正在你的口腔中发生。\n\n每年，仅在美国，就有1500万例根管治疗手术。你被告知，这是一种安全、常规的程序，用来挽救一颗死亡的牙齿。\n\n这是唯一一种将死亡器官留在人体内的医疗手术。\n\n如果你的阑尾死亡，他们会切除它。如果你的胆囊死亡，他们会切除它。如果你的脚趾因冻伤而死亡，他们会截肢。因为如果你将死亡组织留在活体内部，它就会成为大规模系统性感染的温床。\n\n但当一颗牙齿死亡时，牙科行业会钻开中心，用橡胶化合物填充，然后将死亡的骨头直接留在你的下颌中，与你的血液系统相连。\n\n韦斯顿·A·普莱斯博士，美国牙科协会前研究主管，花了25年时间研究根管治疗的系统性影响。他进行了一项1000页的研究，证明了一个可怕的事实。\n\n他从一名患有严重关节炎的患者那里取出一颗经过根管治疗的牙齿。他将这颗死亡的牙齿植入一只健康兔子的皮下。在48小时内，这只兔子就发展出了与患者完全相同的严重关节炎。\n\n他重复了这个实验数千次。当他将来自心脏病患者的根管牙齿植入时，兔子得了心脏病。当他使用来自肾衰竭患者的牙齿时，兔子的肾脏衰竭了。\n\n普莱斯博士证明，彻底消毒根管在物理上是不可行的。一颗牙齿包含超过3英里的微小管状结构。当血供被切断时，免疫系统就无法再到达那些管状结构。但厌氧细菌可以。\n\n这些细菌在死亡的牙齿内部发生变异。它们产生了一些科学上已知的最毒物质——硫醚和硫醇。每次你咀嚼时，那些毒素就会直接泵入你的血液，并传播到你的心脏、大脑和关节。\n\n美国牙科协会埋葬了普莱斯博士的研究。他们隐藏了25年的无可辩驳的证据，因为根管行业每年产生数十亿美元的收入。\n\n一颗死亡的牙齿就是一个毒素工厂。如果一颗牙齿死亡了，就拔掉它。不要让他们在你的牙齿里留下一具尸体。",
-    "likes": 566,
-    "retweets": 145,
-    "bookmarks": 539,
-    "created_at": "Thu Apr 30 23:44:12 +0000 2026",
-    "url": "https://x.com/xYsfknBXPT6M0jo/status/2049998282152370440"
-  },
-  {
-    "id": "2050034861273227678",
-    "author": "elonmusk",
-    "name": "Elon Musk",
-    "text": "Try it out!",
-    "likes": 26876,
-    "retweets": 4632,
-    "bookmarks": 4268,
-    "created_at": "Fri May 01 02:09:33 +0000 2026",
-    "url": "https://x.com/elonmusk/status/2050034861273227678"
-  },
-  {
-    "id": "2050105510016545260",
-    "author": "tychozzz",
-    "name": "Nico投资有道",
-    "text": "昨晚思考了很久，做了一个操作，止盈 20% Google 仓位，换仓到 Meta。\n\n我实在很难想象一个年营收 2000 多亿美元、同比增长 33%、净利润同比增长 61%、拥有近 40 亿用户的社交媒体巨头，Forward PE 只有 20倍。\n\n这种估值在大科技股中几乎是最便宜的。\n\n我感觉市场有些短视，只是盯着 Meta 的 Capex ，盯着 Meta 没有云业务，忽略了很多客观事实。\n\n推荐大家去听听这次 Meta 的财报会议，传达了很多不同于市场的正面信号，起码我相信 Meta 现在被严重低估，真正爆发的时候也会很恐怖。\n\n市场分歧最大的时候，也是最赚钱的时候，可以对比一下去年上半年和现在的 Google。",
-    "likes": 381,
-    "retweets": 28,
-    "bookmarks": 139,
-    "created_at": "Fri May 01 06:50:17 +0000 2026",
-    "url": "https://x.com/tychozzz/status/2050105510016545260"
-  },
-  {
-    "id": "2050034035762880859",
-    "author": "raycat2021",
-    "name": "徐老猫",
-    "text": "果然，刷爆推特的摩根大通“男性奴”事件，是这位印度人编出来的：\n- 这位号称被女上属“下药性侵”的印度大兄弟，35岁，已经离职。  \n- 他汇报给另一个上司，和这位美女无上下级关系。  \n- 摩根大通内部调查，通过调取电话记录，审查电邮，问询同事，指控全不靠谱。印度大兄弟也拒绝了参与调查。  \n- 在提起诉讼前，他试图通过谈判拿“数百万”遣散费，没被接受。  \n- 他提交的法庭文件，律师又以“更正”为由撤回了并删除了。\n- 《纽约邮报》手太快，在“更正”前已经发表了文章。摩根大通、杰米-戴蒙、美女老板、性侵男下属，话题太劲爆了。",
-    "likes": 353,
-    "retweets": 42,
-    "bookmarks": 85,
-    "created_at": "Fri May 01 02:06:16 +0000 2026",
-    "url": "https://x.com/raycat2021/status/2050034035762880859"
-  },
-  {
-    "id": "2049822778824499620",
-    "author": "zodchiii",
-    "name": "darkzodchi",
-    "text": "Anthropic CISO just told you that 90% of their code is written by Claude. \n\nThen he explained how they protect their own secrets while doing it.\n\nWhy your .env file is the weakest link in your entire AI workflow?\n\nWatch it, then grab the full security config below👇 https://t.co/EahR5ro3W7",
-    "likes": 1239,
-    "retweets": 131,
-    "bookmarks": 3934,
-    "created_at": "Thu Apr 30 12:06:48 +0000 2026",
-    "url": "https://x.com/zodchiii/status/2049822778824499620"
-  },
-  {
-    "id": "2049720203542667532",
-    "author": "li9292",
-    "name": "李韭二",
-    "text": "作为一名agent 领域工程师。\n\n请学习：\n\n* 工具/函数调用设计\n* agent 规划 / 工作流编排\n* memory / 上下文管理\n* 状态机 / 多步骤执行\n* 重试 / 回退 / 恢复逻辑\n* agent评估 / 可靠性测试\n* 成本 / 延迟优化\n* 人工参与loop模式\n\n大多数agent失败都是编排失败，\n而不是模型失败。",
-    "likes": 464,
-    "retweets": 96,
-    "bookmarks": 431,
-    "created_at": "Thu Apr 30 05:19:13 +0000 2026",
-    "url": "https://x.com/li9292/status/2049720203542667532"
-  },
-  {
-    "id": "2049738370679730562",
-    "author": "yaojingang",
-    "name": "姚金刚",
-    "text": "开源一个教程Skill\n打磨了十几版，效果还不错，已推到GitHub\n\n如果想在五一假期高质量充电，或随时给自己生成一份定制高质量教程\n欢迎下载\n\n基本逻辑：\n1、输入任意主题及参考资料，AI会优先以参考资料为核心，然后根据需要进行高质量素材和资料补充，这个过程中融入了低质量信源的过滤机制\n2、AI会结合教程的特点，并结合用户的部分偏好，生成定制深度教程，输出PDF、Word及HTML三种格式，方便自己学习\n3、教程内容，按照章节的逻辑进行系统性的输出，同时根据各章节内容特点，自行画图并插入到章节相关内容模块中\n4、教程融入了三年前经营MCN时写的《课程营销学》的相关底层逻辑与方法，回头也把这本书给开源出来\n5、排版与UI，输出的文档与教程网页，有结合 @HiTw93 的kami进行借鉴和融入，实现了很有质感的排版规范\n\n示例报告有3个，其中一个示例教程示例来自 @ReyJudgementOS  的一篇英语干货文章：《12岁英语自由：我“带”孩子“学”英语的经验与教训》\n\n教程Skill的GitHub地址：\nhttps://t.co/Ymc0MxAjnK",
-    "likes": 937,
-    "retweets": 211,
-    "bookmarks": 1830,
-    "created_at": "Thu Apr 30 06:31:24 +0000 2026",
-    "url": "https://x.com/yaojingang/status/2049738370679730562"
-  },
-  {
-    "id": "2049806976486711543",
-    "author": "0xluffy_eth",
-    "name": "路飞 🏴‍☠️ AI 研究员🧐",
-    "text": "现在学习Claude就像2017年买比特币。\n\n大多数人会理解得太晚。\n\n创建单人业务，月收入1万美元比你想象的更近。\n\n这里有7个提示让你在2026年领先99%的人：",
-    "likes": 295,
-    "retweets": 66,
-    "bookmarks": 354,
-    "created_at": "Thu Apr 30 11:04:01 +0000 2026",
-    "url": "https://x.com/0xluffy_eth/status/2049806976486711543"
-  },
-  {
-    "id": "2049473364092240168",
-    "author": "woyongdehuawei",
-    "name": "清丝老师谈治国理政",
-    "text": "网友投稿\n\n中国国安部《警惕！“躺平”话术背后的渗透黑手》的编辑被网友挖出是芝加哥大学Booth商学院毕业生（基本上就是关系户），且有着“要出去看看”的亲美亲西方思想 https://t.co/cnep7ZLGju",
-    "likes": 2822,
-    "retweets": 261,
-    "bookmarks": 961,
-    "created_at": "Wed Apr 29 12:58:22 +0000 2026",
-    "url": "https://x.com/woyongdehuawei/status/2049473364092240168"
-  },
-  {
-    "id": "2049883978753294646",
-    "author": "xchase173294",
-    "name": "Xu",
-    "text": "我特别认同这个观点，  \n\n我见了一般直接喊妈妈 https://t.co/cY0fUqIHxJ",
-    "likes": 1037,
-    "retweets": 2,
-    "bookmarks": 84,
-    "created_at": "Thu Apr 30 16:10:00 +0000 2026",
-    "url": "https://x.com/xchase173294/status/2049883978753294646"
-  },
-  {
-    "id": "2049980910263775648",
-    "author": "shichuangang",
-    "name": "日本大誠不動産·社长老石",
-    "text": "瑞士回来的\n果然不一样\n\n😂😂 https://t.co/6rLEZRRHm0",
-    "likes": 526,
-    "retweets": 41,
-    "bookmarks": 201,
-    "created_at": "Thu Apr 30 22:35:10 +0000 2026",
-    "url": "https://x.com/shichuangang/status/2049980910263775648"
-  },
-  {
-    "id": "2049898580375445936",
-    "author": "Lucy3255754940",
-    "name": "欣赏美妙",
-    "text": "还得是柳妈 https://t.co/51Xz48zIDv",
-    "likes": 24335,
-    "retweets": 1363,
-    "bookmarks": 7557,
-    "created_at": "Thu Apr 30 17:08:01 +0000 2026",
-    "url": "https://x.com/Lucy3255754940/status/2049898580375445936"
-  },
-  {
-    "id": "2049854528456101900",
-    "author": "Xiaoniu6161",
-    "name": "小牛",
-    "text": "1949年，宁波。蒋介石回乡祭祖，此时他定知毫无胜算，所以那次祭祖他特别慎重。\n\n这也是他最后一次回浙江祭拜先人。 https://t.co/rDiX6GlMDQ",
-    "likes": 1178,
-    "retweets": 47,
-    "bookmarks": 183,
-    "created_at": "Thu Apr 30 14:12:58 +0000 2026",
-    "url": "https://x.com/Xiaoniu6161/status/2049854528456101900"
-  },
-  {
-    "id": "2049985553362559331",
-    "author": "geniusvczh",
-    "name": "geniusvczh",
-    "text": "李开复称……中国领导人已经退到底线了。“不出两年的时间，下一代将走上舞台。”李开复说。“他们更年轻，更进步，许多受过美国的教育。许多在商界工作，掌管银行业——他们会变得更加开放。”🤪这个不出两年就是2012了，李老师也有看走眼的时候。不过最精彩的部分文章里居然没了，啧啧啧",
-    "likes": 384,
-    "retweets": 23,
-    "bookmarks": 185,
-    "created_at": "Thu Apr 30 22:53:37 +0000 2026",
-    "url": "https://x.com/geniusvczh/status/2049985553362559331"
-  },
-  {
-    "id": "2050008270375694764",
-    "author": "xinwendiaocha",
-    "name": "新闻调查",
-    "text": "迈克尔·杰克逊在“Earth Song”历史巡演中被枪指着的那一刻，令人难忘。 https://t.co/MpdZsFs92c",
-    "likes": 2272,
-    "retweets": 98,
-    "bookmarks": 397,
-    "created_at": "Fri May 01 00:23:53 +0000 2026",
-    "url": "https://x.com/xinwendiaocha/status/2050008270375694764"
-  },
-  {
-    "id": "2049531829531672626",
-    "author": "ElisaWa77920862",
-    "name": "Garden of Eden",
-    "text": "当铁人流泪 ❤️❤️❤️\n\n许多人见过他无所畏惧地面对世界，无惧任何压力。但你是否见过唐纳德·特朗普——这位权力最大的总统——静静地坐着，双眼颤抖，只为听他最小的儿子说几句话？梅拉尼娅的生日派对不仅仅是蜡烛和鲜花；其中有一个“默哀时刻”，融化了最铁石心肠的人。⬇️ https://t.co/akayLAyhiZ",
-    "likes": 690,
-    "retweets": 103,
-    "bookmarks": 33,
-    "created_at": "Wed Apr 29 16:50:41 +0000 2026",
-    "url": "https://x.com/ElisaWa77920862/status/2049531829531672626"
-  },
-  {
-    "id": "2049848559391142393",
-    "author": "cuichenghao",
-    "name": "作家崔成浩",
-    "text": "今日有内地网友，通过他的车的哨兵系统发现，有陌生人竟悄悄把他车牌上的F变成E，车主称幸亏发现及时，否则涂改车牌将遭重罚。 https://t.co/1lYAyRCg91",
-    "likes": 576,
-    "retweets": 37,
-    "bookmarks": 105,
-    "created_at": "Thu Apr 30 13:49:15 +0000 2026",
-    "url": "https://x.com/cuichenghao/status/2049848559391142393"
-  },
-  {
-    "id": "2049817031478743552",
-    "author": "dutyge",
-    "name": "失业观察日报",
-    "text": "中国有不主动申请院士，却强过院士的人吗？\n\n亦可赛艇。 https://t.co/PBE6qWAatD",
-    "likes": 1290,
-    "retweets": 65,
-    "bookmarks": 347,
-    "created_at": "Thu Apr 30 11:43:58 +0000 2026",
-    "url": "https://x.com/dutyge/status/2049817031478743552"
-  },
-  {
-    "id": "2049901398834459117",
-    "author": "ir_duq",
-    "name": "无糖全麦冰面包",
-    "text": "我操…我才知道酒店机器人有摄像头。。我每次都光着身子拿外卖。",
-    "likes": 2367,
-    "retweets": 11,
-    "bookmarks": 70,
-    "created_at": "Thu Apr 30 17:19:13 +0000 2026",
-    "url": "https://x.com/ir_duq/status/2049901398834459117"
-  },
-  {
-    "id": "2049484740152189091",
-    "author": "WY_mask",
-    "name": "无颜",
-    "text": "这个网站牛逼了，未来就业新方向？\nhttps://t.co/fvtx04xC43\n\n它把中国147个职业的AI冲击程度全部量化了，数据涵盖薪资，学历要求，自动化潜力等多个维度。图块越大，就业人数越多，颜色越深，被AI替代的风险越高\n\n一眼看清哪些行业最可能被AI替代，哪些行业又最能抵抗AI的侵袭，方便提前布局避开“危险”领域，抢占未来的有利岗位",
-    "likes": 1398,
-    "retweets": 310,
-    "bookmarks": 1577,
-    "created_at": "Wed Apr 29 13:43:34 +0000 2026",
-    "url": "https://x.com/WY_mask/status/2049484740152189091"
-  },
-  {
-    "id": "2050035003527242227",
-    "author": "elonmusk",
-    "name": "Elon Musk",
-    "text": "True",
-    "likes": 70162,
-    "retweets": 8510,
-    "bookmarks": 3054,
-    "created_at": "Fri May 01 02:10:07 +0000 2026",
-    "url": "https://x.com/elonmusk/status/2050035003527242227"
-  },
-  {
-    "id": "2049826098125672463",
-    "author": "KKaWSB",
-    "name": "KK.aWSB",
-    "text": "萨姆·奥特曼：“公开攻击OpenAI真的非常伤人。” \n\n埃隆·马斯克：“我明白你的意思，我当然没有恶意，对此我深表歉意，但文明的命运正岌岌可危。” https://t.co/kawmdYJ1ZD",
-    "likes": 155,
-    "retweets": 10,
-    "bookmarks": 15,
-    "created_at": "Thu Apr 30 12:20:00 +0000 2026",
-    "url": "https://x.com/KKaWSB/status/2049826098125672463"
-  },
-  {
-    "id": "2049821753195585740",
-    "author": "mr_r0b0t",
-    "name": "mr-r0b0t",
-    "text": "Architecture-diagram is one of my favorite @NousResearch Hermes agent skills, NGL! https://t.co/91cbfZHc0v",
-    "likes": 281,
-    "retweets": 25,
-    "bookmarks": 367,
-    "created_at": "Thu Apr 30 12:02:44 +0000 2026",
-    "url": "https://x.com/mr_r0b0t/status/2049821753195585740"
-  },
-  {
-    "id": "2049861121251660095",
-    "author": "AYi_AInotes",
-    "name": "阿绎 AYi",
-    "text": "卧槽，Anthropic这次真把开发者当傻子。\n知名开发者Theo做了个实验：建了个空Git仓库，只commit一行JSON \n{\"schema\": \"openclaw.inbound_meta.v1\"}，\n\n调用官方Claude Code就直接触发“out of extra usage”错误，要么拒绝要么强制额外付费。\n\n只要最近commit里出现“openclaw”字符串（不管在JSON、文件名还是注释），\n官方CLI就会把你当成第三方harness用户，多收一层钱。\n\n不是啥bug，看起来是故意加的字符串匹配规则。\n\n他们4月初已经在API层面封杀OpenClaw的订阅额度，\n\n现在连官方工具都开始检测commit历史。\n\n以前Anthropic靠“不做监控、不做杀戮链”的形象吸粉，现在为了把用户锁在自家Claude Code里，用这种简单粗暴的手段，社区直接炸了🤪🤪🤪\n\nOpenClaw火起来，正是因为第三方工具在agentic体验上比官方更灵活，\n\n他们不优化产品，反而封杀竞品，用户用脚投票的声音已经越来越大，是时候考虑开源替代了🤬🤬🤬🤬",
-    "likes": 812,
-    "retweets": 110,
-    "bookmarks": 354,
-    "created_at": "Thu Apr 30 14:39:10 +0000 2026",
-    "url": "https://x.com/AYi_AInotes/status/2049861121251660095"
-  },
-  {
-    "id": "2049848747212124393",
-    "author": "WangNextDoor2",
-    "name": "WangNextDoor",
-    "text": "投资1.3个亿，的确用的都是好东西，但酒店亏损日益增大，500年都回不了本。之前听说贵州也是过度基建的重灾区，现在一看懂了。 https://t.co/m5gYj7ldnW",
-    "likes": 726,
-    "retweets": 47,
-    "bookmarks": 351,
-    "created_at": "Thu Apr 30 13:50:00 +0000 2026",
-    "url": "https://x.com/WangNextDoor2/status/2049848747212124393"
-  },
-  {
-    "id": "2050070457907376289",
-    "author": "Honcia13",
-    "name": "GOLD",
-    "text": "读论文、研报、合同，最痛苦的从来不是读，\n而是读完以后要把海量信息整理成结构化的知识。\nHyper-Extract 直接把这个痛点干掉！\n\n用LLM把任意非结构化文本自动提取成知识图谱、时间线、关系网络等结构化内容。\n核心亮点： \n🔹 8种输出格式（列表、模型、图谱、超图、时空图…随便你要哪种） \n🔹 10+种顶级提取引擎（GraphRAG、LightRAG、Hyper-RAG、KG-Gen全覆盖） \n🔹 80+个现成YAML模板（金融、法律、医疗、中医、工业…零代码直接用） \n🔹 增量更新机制：新文档自动扩展已有知识库，不用每次从头跑\n安装一行命令： uv tool install hyperextract\n用法极简： he parse 你的文档.md -t 模板名 -o 输出目录 he search 输出目录 \"你的问题\"\n\n做研究、投研、尽调、法务的同学，这工具能省下大量整理时间，直接把阅读效率拉满。\nGitHub：https://t.co/noym218PFn",
-    "likes": 564,
-    "retweets": 139,
-    "bookmarks": 752,
-    "created_at": "Fri May 01 04:31:00 +0000 2026",
-    "url": "https://x.com/Honcia13/status/2050070457907376289"
-  },
-  {
-    "id": "2050017942964982266",
-    "author": "ZhaoMingObserve",
-    "name": "战场(官场)观察工作室 昭明",
-    "text": "高清视频，杀手科尔·艾伦手持散弹枪冲入安检入口时，警员非常迅速拔枪射击，科尔朝西装便衣警察开了一枪，击中防弹衣，西装警察拔枪还击，虽然两名警员都未射击中科尔，但连续的枪声起到了预警宴会厅特勤局特工的作用，也恫吓到科尔摔倒在地，警员一拥而上叠罗汉擒拿住科尔。 https://t.co/quhBmRIPUD",
-    "likes": 1262,
-    "retweets": 55,
-    "bookmarks": 332,
-    "created_at": "Fri May 01 01:02:19 +0000 2026",
-    "url": "https://x.com/ZhaoMingObserve/status/2050017942964982266"
-  },
-  {
-    "id": "2050061422416064636",
-    "author": "K7qWcfzcdAPW5Y9",
-    "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
-    "text": "我一个朋友说，山东国安，给很多境外自媒体人都打电话了，无论是不是涉及到政治，一律不准播\n\n老高与小茉也是，之前网上疯传的离婚是假的，被警告是真的\n\n现在他们不出境了，声音也换掉了，和那个讲历史的袁腾飞一样了 https://t.co/nHYDRIygAs",
-    "likes": 614,
-    "retweets": 25,
-    "bookmarks": 147,
-    "created_at": "Fri May 01 03:55:06 +0000 2026",
-    "url": "https://x.com/K7qWcfzcdAPW5Y9/status/2050061422416064636"
-  },
-  {
-    "id": "2050031075485942182",
-    "author": "tiantianwe",
-    "name": "天天不好哄",
-    "text": "江苏灌南婚礼闹喜公公习俗。\n新娘子也太漂亮了吧！公公也年轻！\n\n新娘子用口红在公公脸上写字，\n写完后再用湿毛巾帮公公擦掉。\n这样的婚闹虽然既幽默又不失文明，\n但我觉得婚闹完全没必要，应该摒弃。\n\n新娘子的背影杀，看背影就知道是美女。 https://t.co/RU7zxPFHfB",
-    "likes": 1891,
-    "retweets": 68,
-    "bookmarks": 474,
-    "created_at": "Fri May 01 01:54:30 +0000 2026",
-    "url": "https://x.com/tiantianwe/status/2050031075485942182"
-  },
-  {
-    "id": "2049992443618116017",
-    "author": "igeekbb",
-    "name": "iGeekbb",
-    "text": "心无旁骛，只有加微信的渴望。 https://t.co/Ktz8zmh9C0",
-    "likes": 4672,
-    "retweets": 161,
-    "bookmarks": 1562,
-    "created_at": "Thu Apr 30 23:21:00 +0000 2026",
-    "url": "https://x.com/igeekbb/status/2049992443618116017"
-  },
-  {
-    "id": "2049818545178165496",
-    "author": "Stanleysobest",
-    "name": "Stanley",
-    "text": "一直很好奇，订婚的意义是什么？\n\n为什么不直接结婚？ https://t.co/2BtaJXC4qR",
-    "likes": 603,
-    "retweets": 18,
-    "bookmarks": 150,
-    "created_at": "Thu Apr 30 11:49:59 +0000 2026",
-    "url": "https://x.com/Stanleysobest/status/2049818545178165496"
-  },
-  {
-    "id": "2049776525936107733",
-    "author": "wanerfu",
-    "name": "摆烂程序媛",
-    "text": "GPT-5.5 发布不到72小时，人们已经开始制造本不应该存在的东西。\n\n10个例子会让你大开眼界：",
-    "likes": 1151,
-    "retweets": 203,
-    "bookmarks": 1561,
-    "created_at": "Thu Apr 30 09:03:01 +0000 2026",
-    "url": "https://x.com/wanerfu/status/2049776525936107733"
-  },
-  {
-    "id": "2049458103675191550",
-    "author": "op7418",
-    "name": "歸藏(guizang.ai)",
-    "text": "Moxt 是近期所有新的 Agent 产品里，我觉得最好的之一 ！\n\n终于找时间写了一篇介绍。\n\n如果你还在找一个 AI Native 的组织协作工具的话，我觉得可以试试。 https://t.co/tC1XoNbb04",
-    "likes": 222,
-    "retweets": 21,
-    "bookmarks": 326,
-    "created_at": "Wed Apr 29 11:57:43 +0000 2026",
-    "url": "https://x.com/op7418/status/2049458103675191550"
-  },
-  {
-    "id": "2050035376740540894",
-    "author": "JohnPanSouthAus",
-    "name": "DeGeAus 🇦🇺",
-    "text": "印度人真是人才！\n\n哥哥娶了个老婆，一年后玩厌了送给了弟弟。\n\n阿德莱德发生的事。\n\n那个女人是咱们的华人。不能说太详细了，她是个名人。",
-    "likes": 794,
-    "retweets": 21,
-    "bookmarks": 130,
-    "created_at": "Fri May 01 02:11:36 +0000 2026",
-    "url": "https://x.com/JohnPanSouthAus/status/2050035376740540894"
+    "bookmarks": 245
   },
   {
     "id": "2050114737942540557",
-    "author": "AndreaMillaj",
+    "handle": "AndreaMillaj",
     "name": "星星哒",
+    "time": "Fri May 01 07:26:57 +0000 2026",
     "text": "还得是大哥送的战斗机！！！ \n不然是真看不到这画面.... https://t.co/6ENSUhDHeP",
+    "url": "https://x.com/AndreaMillaj/status/2050114737942540557",
     "likes": 2798,
     "retweets": 55,
-    "bookmarks": 976,
-    "created_at": "Fri May 01 07:26:57 +0000 2026",
-    "url": "https://x.com/AndreaMillaj/status/2050114737942540557"
+    "bookmarks": 976
   },
   {
-    "id": "2049691460530848160",
-    "author": "ai_xiaomu",
-    "name": "黄小木",
-    "text": "海淀区OPC补贴有多狠？\n\n- 创办即给10万启动金\n- 模型券补50%，年上限200万\n- 青年人才房租五折或每月2000补贴\n- 贷款利息补1.5%，最高1000万\n\n上海有\"超级个体288\"计划，深圳建万平OPC社区，苏州要培育1000家标杆OPC。\n\n政府比你着急。还在犹豫要不要单干的，先把补贴领了再说。",
-    "likes": 165,
-    "retweets": 12,
-    "bookmarks": 154,
-    "created_at": "Thu Apr 30 03:25:00 +0000 2026",
-    "url": "https://x.com/ai_xiaomu/status/2049691460530848160"
-  },
-  {
-    "id": "2049586049907667168",
-    "author": "dotey",
-    "name": "宝玉",
-    "text": "我就说你们咋逆向 Claude Design 的 System Prompt 的，原来都在请求的 Payload 里面，包括调用啥工具都有。\n\n可惜额度太少了，用几次就没了 https://t.co/cV3zgH18yx",
-    "likes": 204,
-    "retweets": 12,
-    "bookmarks": 240,
-    "created_at": "Wed Apr 29 20:26:08 +0000 2026",
-    "url": "https://x.com/dotey/status/2049586049907667168"
+    "id": "2050105510016545260",
+    "handle": "tychozzz",
+    "name": "Nico投资有道",
+    "time": "Fri May 01 06:50:17 +0000 2026",
+    "text": "昨晚思考了很久，做了一个操作，止盈 20% Google 仓位，换仓到 Meta。\n\n我实在很难想象一个年营收 2000 多亿美元、同比增长 33%、净利润同比增长 61%、拥有近 40 亿用户的社交媒体巨头，Forward PE 只有 20倍。\n\n这种估值在大科技股中几乎是最便宜的。\n\n我感觉市场有些短视，只是盯着 Meta 的 Capex ，盯着 Meta 没有云业务，忽略了很多客观事实。\n\n推荐大家去听听这次 Meta 的财报会议，传达了很多不同于市场的正面信号，起码我相信 Meta 现在被严重低估，真正爆发的时候也会很恐怖。\n\n市场分歧最大的时候，也是最赚钱的时候，可以对比一下去年上半年和现在的 Google。",
+    "url": "https://x.com/tychozzz/status/2050105510016545260",
+    "likes": 381,
+    "retweets": 28,
+    "bookmarks": 139
   },
   {
     "id": "2050093449588985894",
-    "author": "xiaojingcanxue",
+    "handle": "xiaojingcanxue",
     "name": "小径残雪",
+    "time": "Fri May 01 06:02:21 +0000 2026",
     "text": "听过东航MU5735航班空难驾驶舱录音的人 https://t.co/0Bv5SgBxeg",
+    "url": "https://x.com/xiaojingcanxue/status/2050093449588985894",
     "likes": 1321,
     "retweets": 77,
-    "bookmarks": 371,
-    "created_at": "Fri May 01 06:02:21 +0000 2026",
-    "url": "https://x.com/xiaojingcanxue/status/2050093449588985894"
+    "bookmarks": 371
   },
   {
-    "id": "2049930512769355942",
-    "author": "tangbaiqiao",
-    "name": "唐柏桥",
-    "text": "搞笑博主假扮狗狗问卢比奥，美国下一个军事打击的目标是哪一个国家？因为他想在poly market 博彩网站上赢点钱。\n\n卢比奥的回答太好玩了：狗狗不能赌博😂。川普团队的人的幽默感碾压那些臭不可闻的腐烂左派喜剧明星。 https://t.co/4SOEGyfXJD",
-    "likes": 966,
-    "retweets": 54,
-    "bookmarks": 89,
-    "created_at": "Thu Apr 30 19:14:54 +0000 2026",
-    "url": "https://x.com/tangbaiqiao/status/2049930512769355942"
+    "id": "2050091804889108945",
+    "handle": "tutu19900124",
+    "name": "tutu",
+    "time": "Fri May 01 05:55:49 +0000 2026",
+    "text": "昨晚看到的视频，看完泪流满面。\n30岁的沪漂舒先生在出租屋意外离世，留下一只生前十分宠爱的橘猫咪咪。父母将他的一切带走了，没有带走咪咪。室友找到了博主救助，才有了感人的后续。\n其实这个问题，我早就和朋友聊过，如果我出意外，请照顾好我的瓜。 https://t.co/CNMzIBiU7p",
+    "url": "https://x.com/tutu19900124/status/2050091804889108945",
+    "likes": 1210,
+    "retweets": 99,
+    "bookmarks": 190
+  },
+  {
+    "id": "2050086870479167647",
+    "handle": "callme_siya_",
+    "name": "Siya",
+    "time": "Fri May 01 05:36:13 +0000 2026",
+    "text": "Hey @grok what happen to her ? https://t.co/xJp0rCZUFY",
+    "url": "https://x.com/callme_siya_/status/2050086870479167647",
+    "likes": 447,
+    "retweets": 35,
+    "bookmarks": 24
   },
   {
     "id": "2050077471895380274",
-    "author": "DAIWA7777777",
+    "handle": "DAIWA7777777",
     "name": "日本大和農場（筹建申请中）",
+    "time": "Fri May 01 04:58:52 +0000 2026",
     "text": "🚨🚨 你今天将看到的 最震撼的视频。\n\n人类已知历史上最大的骗局和嘲弄。许多人甚至都不记得了!!\n\n“快，戴上口罩😷\n我们要上🤢电视了！”  https://t.co/pLJVEf7jxL",
+    "url": "https://x.com/DAIWA7777777/status/2050077471895380274",
     "likes": 574,
     "retweets": 263,
-    "bookmarks": 109,
-    "created_at": "Fri May 01 04:58:52 +0000 2026",
-    "url": "https://x.com/DAIWA7777777/status/2050077471895380274"
+    "bookmarks": 109
   },
   {
-    "id": "2050020660320010752",
-    "author": "jefflijun",
-    "name": "Jeff Li",
-    "text": "美国国家运输安全委员会对于东航MU5735航班信息查询的回复邮件。全文我也转发到墙内。 https://t.co/OIvlN61AKt",
-    "likes": 935,
-    "retweets": 97,
-    "bookmarks": 490,
-    "created_at": "Fri May 01 01:13:07 +0000 2026",
-    "url": "https://x.com/jefflijun/status/2050020660320010752"
-  },
-  {
-    "id": "2049795045407227992",
-    "author": "Sizhe_bitcat",
-    "name": "Sizhe思哲",
-    "text": "论撩女人还是的渣男祖师爷童锦诚\n\n大庭广众之下就搂着女dj啃起来了\n\n女的一点也不抗拒😂\n\n连女dj没喝完的酒都抢过来一口干了\n\n妈得颜值高就是可以随意所欲🫠 https://t.co/B6rFIxNznX",
-    "likes": 5290,
-    "retweets": 141,
-    "bookmarks": 2587,
-    "created_at": "Thu Apr 30 10:16:36 +0000 2026",
-    "url": "https://x.com/Sizhe_bitcat/status/2049795045407227992"
-  },
-  {
-    "id": "2049998408509780071",
-    "author": "430Yang",
-    "name": "杨高能",
-    "text": "日本科学家刚刚发现关于灰发的惊人消息。\n\n这实际上是你的身体选择生存而非癌症。\n\n以下是你需要了解的一切（&amp; 如何保持头发乌黑）： https://t.co/pKe6qmrhFr",
-    "likes": 1096,
-    "retweets": 196,
-    "bookmarks": 1229,
-    "created_at": "Thu Apr 30 23:44:42 +0000 2026",
-    "url": "https://x.com/430Yang/status/2049998408509780071"
+    "id": "2050070457907376289",
+    "handle": "Honcia13",
+    "name": "GOLD",
+    "time": "Fri May 01 04:31:00 +0000 2026",
+    "text": "读论文、研报、合同，最痛苦的从来不是读，\n而是读完以后要把海量信息整理成结构化的知识。\nHyper-Extract 直接把这个痛点干掉！\n\n用LLM把任意非结构化文本自动提取成知识图谱、时间线、关系网络等结构化内容。\n核心亮点： \n🔹 8种输出格式（列表、模型、图谱、超图、时空图…随便你要哪种） \n🔹 10+种顶级提取引擎（GraphRAG、LightRAG、Hyper-RAG、KG-Gen全覆盖） \n🔹 80+个现成YAML模板（金融、法律、医疗、中医、工业…零代码直接用） \n🔹 增量更新机制：新文档自动扩展已有知识库，不用每次从头跑\n安装一行命令： uv tool install hyperextract\n用法极简： he parse 你的文档.md -t 模板名 -o 输出目录 he search 输出目录 \"你的问题\"\n\n做研究、投研、尽调、法务的同学，这工具能省下大量整理时间，直接把阅读效率拉满。\nGitHub：https://t.co/noym218PFn",
+    "url": "https://x.com/Honcia13/status/2050070457907376289",
+    "likes": 564,
+    "retweets": 139,
+    "bookmarks": 752
   },
   {
     "id": "2050067186191077668",
-    "author": "KKaWSB",
+    "handle": "KKaWSB",
     "name": "KK.aWSB",
+    "time": "Fri May 01 04:18:00 +0000 2026",
     "text": "41岁的萨姆·奥特曼和他33岁的丈夫一起出现。老实说……你的第一反应是什么？ https://t.co/1SCiAUFaQw",
+    "url": "https://x.com/KKaWSB/status/2050067186191077668",
     "likes": 1123,
     "retweets": 118,
-    "bookmarks": 336,
-    "created_at": "Fri May 01 04:18:00 +0000 2026",
-    "url": "https://x.com/KKaWSB/status/2050067186191077668"
+    "bookmarks": 336
+  },
+  {
+    "id": "2050061422416064636",
+    "handle": "K7qWcfzcdAPW5Y9",
+    "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+    "time": "Fri May 01 03:55:06 +0000 2026",
+    "text": "我一个朋友说，山东国安，给很多境外自媒体人都打电话了，无论是不是涉及到政治，一律不准播\n\n老高与小茉也是，之前网上疯传的离婚是假的，被警告是真的\n\n现在他们不出境了，声音也换掉了，和那个讲历史的袁腾飞一样了 https://t.co/nHYDRIygAs",
+    "url": "https://x.com/K7qWcfzcdAPW5Y9/status/2050061422416064636",
+    "likes": 614,
+    "retweets": 25,
+    "bookmarks": 147
+  },
+  {
+    "id": "2050035376740540894",
+    "handle": "JohnPanSouthAus",
+    "name": "DeGeAus 🇦🇺",
+    "time": "Fri May 01 02:11:36 +0000 2026",
+    "text": "印度人真是人才！\n\n哥哥娶了个老婆，一年后玩厌了送给了弟弟。\n\n阿德莱德发生的事。\n\n那个女人是咱们的华人。不能说太详细了，她是个名人。",
+    "url": "https://x.com/JohnPanSouthAus/status/2050035376740540894",
+    "likes": 794,
+    "retweets": 21,
+    "bookmarks": 130
+  },
+  {
+    "id": "2050035003527242227",
+    "handle": "elonmusk",
+    "name": "Elon Musk",
+    "time": "Fri May 01 02:10:07 +0000 2026",
+    "text": "True",
+    "url": "https://x.com/elonmusk/status/2050035003527242227",
+    "likes": 70162,
+    "retweets": 8510,
+    "bookmarks": 3054
+  },
+  {
+    "id": "2050034861273227678",
+    "handle": "elonmusk",
+    "name": "Elon Musk",
+    "time": "Fri May 01 02:09:33 +0000 2026",
+    "text": "Try it out!",
+    "url": "https://x.com/elonmusk/status/2050034861273227678",
+    "likes": 26876,
+    "retweets": 4632,
+    "bookmarks": 4268
+  },
+  {
+    "id": "2050034035762880859",
+    "handle": "raycat2021",
+    "name": "徐老猫",
+    "time": "Fri May 01 02:06:16 +0000 2026",
+    "text": "果然，刷爆推特的摩根大通“男性奴”事件，是这位印度人编出来的：\n- 这位号称被女上属“下药性侵”的印度大兄弟，35岁，已经离职。  \n- 他汇报给另一个上司，和这位美女无上下级关系。  \n- 摩根大通内部调查，通过调取电话记录，审查电邮，问询同事，指控全不靠谱。印度大兄弟也拒绝了参与调查。  \n- 在提起诉讼前，他试图通过谈判拿“数百万”遣散费，没被接受。  \n- 他提交的法庭文件，律师又以“更正”为由撤回了并删除了。\n- 《纽约邮报》手太快，在“更正”前已经发表了文章。摩根大通、杰米-戴蒙、美女老板、性侵男下属，话题太劲爆了。",
+    "url": "https://x.com/raycat2021/status/2050034035762880859",
+    "likes": 353,
+    "retweets": 42,
+    "bookmarks": 85
+  },
+  {
+    "id": "2050031075485942182",
+    "handle": "tiantianwe",
+    "name": "天天不好哄",
+    "time": "Fri May 01 01:54:30 +0000 2026",
+    "text": "江苏灌南婚礼闹喜公公习俗。\n新娘子也太漂亮了吧！公公也年轻！\n\n新娘子用口红在公公脸上写字，\n写完后再用湿毛巾帮公公擦掉。\n这样的婚闹虽然既幽默又不失文明，\n但我觉得婚闹完全没必要，应该摒弃。\n\n新娘子的背影杀，看背影就知道是美女。 https://t.co/RU7zxPFHfB",
+    "url": "https://x.com/tiantianwe/status/2050031075485942182",
+    "likes": 1891,
+    "retweets": 68,
+    "bookmarks": 474
+  },
+  {
+    "id": "2050020660320010752",
+    "handle": "jefflijun",
+    "name": "Jeff Li",
+    "time": "Fri May 01 01:13:07 +0000 2026",
+    "text": "美国国家运输安全委员会对于东航MU5735航班信息查询的回复邮件。全文我也转发到墙内。 https://t.co/OIvlN61AKt",
+    "url": "https://x.com/jefflijun/status/2050020660320010752",
+    "likes": 935,
+    "retweets": 97,
+    "bookmarks": 490
+  },
+  {
+    "id": "2050017942964982266",
+    "handle": "ZhaoMingObserve",
+    "name": "战场(官场)观察工作室 昭明",
+    "time": "Fri May 01 01:02:19 +0000 2026",
+    "text": "高清视频，杀手科尔·艾伦手持散弹枪冲入安检入口时，警员非常迅速拔枪射击，科尔朝西装便衣警察开了一枪，击中防弹衣，西装警察拔枪还击，虽然两名警员都未射击中科尔，但连续的枪声起到了预警宴会厅特勤局特工的作用，也恫吓到科尔摔倒在地，警员一拥而上叠罗汉擒拿住科尔。 https://t.co/quhBmRIPUD",
+    "url": "https://x.com/ZhaoMingObserve/status/2050017942964982266",
+    "likes": 1262,
+    "retweets": 55,
+    "bookmarks": 332
+  },
+  {
+    "id": "2050012225818231060",
+    "handle": "xue55888",
+    "name": "董小姐",
+    "time": "Fri May 01 00:39:36 +0000 2026",
+    "text": "韩国女团成员在一次参加活动时！\n\n拿到话筒是的动作………让人咋想\n\n🤣这都已经形成肌肉记忆了？\n\n果然财团的快乐无法想象！！！ https://t.co/cXg9CB7koN",
+    "url": "https://x.com/xue55888/status/2050012225818231060",
+    "likes": 1925,
+    "retweets": 79,
+    "bookmarks": 787
+  },
+  {
+    "id": "2050008270375694764",
+    "handle": "xinwendiaocha",
+    "name": "新闻调查",
+    "time": "Fri May 01 00:23:53 +0000 2026",
+    "text": "迈克尔·杰克逊在“Earth Song”历史巡演中被枪指着的那一刻，令人难忘。 https://t.co/MpdZsFs92c",
+    "url": "https://x.com/xinwendiaocha/status/2050008270375694764",
+    "likes": 2272,
+    "retweets": 98,
+    "bookmarks": 397
+  },
+  {
+    "id": "2050005985133986199",
+    "handle": "CNToWest",
+    "name": "CNToWest",
+    "time": "Fri May 01 00:14:48 +0000 2026",
+    "text": "🚨英国🇬🇧最新民调显示：\n\n基尔·斯塔默领导的工党将失去多达1,850个席位，这可能是最后一个工党政府。\n\n更可能是最后一个非伊斯兰教政府。\n\n英国🇬🇧已名存实亡，而大不列颠斯坦国正呼之欲出！ https://t.co/9aPqVTsMjO",
+    "url": "https://x.com/CNToWest/status/2050005985133986199",
+    "likes": 781,
+    "retweets": 72,
+    "bookmarks": 31
+  },
+  {
+    "id": "2049998408509780071",
+    "handle": "430Yang",
+    "name": "杨高能",
+    "time": "Thu Apr 30 23:44:42 +0000 2026",
+    "text": "日本科学家刚刚发现关于灰发的惊人消息。\n\n这实际上是你的身体选择生存而非癌症。\n\n以下是你需要了解的一切（&amp; 如何保持头发乌黑）： https://t.co/pKe6qmrhFr",
+    "url": "https://x.com/430Yang/status/2049998408509780071",
+    "likes": 1096,
+    "retweets": 196,
+    "bookmarks": 1229
+  },
+  {
+    "id": "2049998282152370440",
+    "handle": "xYsfknBXPT6M0jo",
+    "name": "宇峒",
+    "time": "Thu Apr 30 23:44:12 +0000 2026",
+    "text": "世界上最危险的医疗手术正在你的口腔中发生。\n\n每年，仅在美国，就有1500万例根管治疗手术。你被告知，这是一种安全、常规的程序，用来挽救一颗死亡的牙齿。\n\n这是唯一一种将死亡器官留在人体内的医疗手术。\n\n如果你的阑尾死亡，他们会切除它。如果你的胆囊死亡，他们会切除它。如果你的脚趾因冻伤而死亡，他们会截肢。因为如果你将死亡组织留在活体内部，它就会成为大规模系统性感染的温床。\n\n但当一颗牙齿死亡时，牙科行业会钻开中心，用橡胶化合物填充，然后将死亡的骨头直接留在你的下颌中，与你的血液系统相连。\n\n韦斯顿·A·普莱斯博士，美国牙科协会前研究主管，花了25年时间研究根管治疗的系统性影响。他进行了一项1000页的研究，证明了一个可怕的事实。\n\n他从一名患有严重关节炎的患者那里取出一颗经过根管治疗的牙齿。他将这颗死亡的牙齿植入一只健康兔子的皮下。在48小时内，这只兔子就发展出了与患者完全相同的严重关节炎。\n\n他重复了这个实验数千次。当他将来自心脏病患者的根管牙齿植入时，兔子得了心脏病。当他使用来自肾衰竭患者的牙齿时，兔子的肾脏衰竭了。\n\n普莱斯博士证明，彻底消毒根管在物理上是不可行的。一颗牙齿包含超过3英里的微小管状结构。当血供被切断时，免疫系统就无法再到达那些管状结构。但厌氧细菌可以。\n\n这些细菌在死亡的牙齿内部发生变异。它们产生了一些科学上已知的最毒物质——硫醚和硫醇。每次你咀嚼时，那些毒素就会直接泵入你的血液，并传播到你的心脏、大脑和关节。\n\n美国牙科协会埋葬了普莱斯博士的研究。他们隐藏了25年的无可辩驳的证据，因为根管行业每年产生数十亿美元的收入。\n\n一颗死亡的牙齿就是一个毒素工厂。如果一颗牙齿死亡了，就拔掉它。不要让他们在你的牙齿里留下一具尸体。",
+    "url": "https://x.com/xYsfknBXPT6M0jo/status/2049998282152370440",
+    "likes": 566,
+    "retweets": 145,
+    "bookmarks": 539
+  },
+  {
+    "id": "2049992443618116017",
+    "handle": "igeekbb",
+    "name": "iGeekbb",
+    "time": "Thu Apr 30 23:21:00 +0000 2026",
+    "text": "心无旁骛，只有加微信的渴望。 https://t.co/Ktz8zmh9C0",
+    "url": "https://x.com/igeekbb/status/2049992443618116017",
+    "likes": 4672,
+    "retweets": 161,
+    "bookmarks": 1562
+  },
+  {
+    "id": "2049985553362559331",
+    "handle": "geniusvczh",
+    "name": "geniusvczh",
+    "time": "Thu Apr 30 22:53:37 +0000 2026",
+    "text": "李开复称……中国领导人已经退到底线了。“不出两年的时间，下一代将走上舞台。”李开复说。“他们更年轻，更进步，许多受过美国的教育。许多在商界工作，掌管银行业——他们会变得更加开放。”🤪这个不出两年就是2012了，李老师也有看走眼的时候。不过最精彩的部分文章里居然没了，啧啧啧",
+    "url": "https://x.com/geniusvczh/status/2049985553362559331",
+    "likes": 384,
+    "retweets": 23,
+    "bookmarks": 185
+  },
+  {
+    "id": "2049980910263775648",
+    "handle": "shichuangang",
+    "name": "日本大誠不動産·社长老石",
+    "time": "Thu Apr 30 22:35:10 +0000 2026",
+    "text": "瑞士回来的\n果然不一样\n\n😂😂 https://t.co/6rLEZRRHm0",
+    "url": "https://x.com/shichuangang/status/2049980910263775648",
+    "likes": 526,
+    "retweets": 41,
+    "bookmarks": 201
+  },
+  {
+    "id": "2049930512769355942",
+    "handle": "tangbaiqiao",
+    "name": "唐柏桥",
+    "time": "Thu Apr 30 19:14:54 +0000 2026",
+    "text": "搞笑博主假扮狗狗问卢比奥，美国下一个军事打击的目标是哪一个国家？因为他想在poly market 博彩网站上赢点钱。\n\n卢比奥的回答太好玩了：狗狗不能赌博😂。川普团队的人的幽默感碾压那些臭不可闻的腐烂左派喜剧明星。 https://t.co/4SOEGyfXJD",
+    "url": "https://x.com/tangbaiqiao/status/2049930512769355942",
+    "likes": 966,
+    "retweets": 54,
+    "bookmarks": 89
+  },
+  {
+    "id": "2049913214864085185",
+    "handle": "xiaojingcanxue",
+    "name": "小径残雪",
+    "time": "Thu Apr 30 18:06:10 +0000 2026",
+    "text": "东航MU5735这次由美国NTSB公布的数据简单解释一下：\n\n这次是有个中国人向美国NTSB申请信息公开，公布花了三个月，大部分文件没公开，公开的也有涂黑的。公开的是FDR（飞行数据），没有CVR（驾驶舱录音）。CVR转交给中国以后，美国这边就删掉了。\n\n根据FDR数据，有人推杆俯冲，向左大角度横滚，并同时关闭了双发。\n\n之后有人试图救起，并成功的拉平了一阵，但由于双发被关闭，没有动力的飞机最终坠毁。\n\n驾驶员和副驾驶都有嫌疑，光靠这个数据不能确定是谁。需要辅助CVR才能做出最终判断。",
+    "url": "https://x.com/xiaojingcanxue/status/2049913214864085185",
+    "likes": 1502,
+    "retweets": 89,
+    "bookmarks": 457
+  },
+  {
+    "id": "2049904901371633815",
+    "handle": "ashpreetbedi",
+    "name": "Ashpreet Bedi",
+    "time": "Thu Apr 30 17:33:08 +0000 2026",
+    "text": "https://t.co/GTCZ0gJmjf",
+    "url": "https://x.com/ashpreetbedi/status/2049904901371633815",
+    "likes": 151,
+    "retweets": 16,
+    "bookmarks": 241
+  },
+  {
+    "id": "2049901398834459117",
+    "handle": "ir_duq",
+    "name": "无糖全麦冰面包",
+    "time": "Thu Apr 30 17:19:13 +0000 2026",
+    "text": "我操…我才知道酒店机器人有摄像头。。我每次都光着身子拿外卖。",
+    "url": "https://x.com/ir_duq/status/2049901398834459117",
+    "likes": 2367,
+    "retweets": 11,
+    "bookmarks": 70
+  },
+  {
+    "id": "2049898580375445936",
+    "handle": "Lucy3255754940",
+    "name": "欣赏美妙",
+    "time": "Thu Apr 30 17:08:01 +0000 2026",
+    "text": "还得是柳妈 https://t.co/51Xz48zIDv",
+    "url": "https://x.com/Lucy3255754940/status/2049898580375445936",
+    "likes": 24335,
+    "retweets": 1363,
+    "bookmarks": 7557
+  },
+  {
+    "id": "2049896625481662660",
+    "handle": "_vmlops",
+    "name": "Vaishnavi",
+    "time": "Thu Apr 30 17:00:15 +0000 2026",
+    "text": "Roadmap to Become an Agentic AI Engineer in 2026\n\nhttps://t.co/wgts1ttEqh https://t.co/qlEspfVIWM",
+    "url": "https://x.com/_vmlops/status/2049896625481662660",
+    "likes": 1688,
+    "retweets": 282,
+    "bookmarks": 2035
+  },
+  {
+    "id": "2049883978753294646",
+    "handle": "xchase173294",
+    "name": "Xu",
+    "time": "Thu Apr 30 16:10:00 +0000 2026",
+    "text": "我特别认同这个观点，  \n\n我见了一般直接喊妈妈 https://t.co/cY0fUqIHxJ",
+    "url": "https://x.com/xchase173294/status/2049883978753294646",
+    "likes": 1037,
+    "retweets": 2,
+    "bookmarks": 84
+  },
+  {
+    "id": "2049874687069426008",
+    "handle": "zodchiii",
+    "name": "darkzodchi",
+    "time": "Thu Apr 30 15:33:04 +0000 2026",
+    "text": "> open Claude Code\n> your .env gets read before you type anything\n> your API keys are now in the chat\n> your password is now in the chat\n> you add \"don't read .env\" to CLAUDE.md\n> doesn't work\n> 29 million secrets leaked on GitHub last year\n> one line in settings.json actually blocks it\n> there's a config that blocks all of this",
+    "url": "https://x.com/zodchiii/status/2049874687069426008",
+    "likes": 2678,
+    "retweets": 211,
+    "bookmarks": 6537
+  },
+  {
+    "id": "2049861121251660095",
+    "handle": "AYi_AInotes",
+    "name": "阿绎 AYi",
+    "time": "Thu Apr 30 14:39:10 +0000 2026",
+    "text": "卧槽，Anthropic这次真把开发者当傻子。\n知名开发者Theo做了个实验：建了个空Git仓库，只commit一行JSON \n{\"schema\": \"openclaw.inbound_meta.v1\"}，\n\n调用官方Claude Code就直接触发“out of extra usage”错误，要么拒绝要么强制额外付费。\n\n只要最近commit里出现“openclaw”字符串（不管在JSON、文件名还是注释），\n官方CLI就会把你当成第三方harness用户，多收一层钱。\n\n不是啥bug，看起来是故意加的字符串匹配规则。\n\n他们4月初已经在API层面封杀OpenClaw的订阅额度，\n\n现在连官方工具都开始检测commit历史。\n\n以前Anthropic靠“不做监控、不做杀戮链”的形象吸粉，现在为了把用户锁在自家Claude Code里，用这种简单粗暴的手段，社区直接炸了🤪🤪🤪\n\nOpenClaw火起来，正是因为第三方工具在agentic体验上比官方更灵活，\n\n他们不优化产品，反而封杀竞品，用户用脚投票的声音已经越来越大，是时候考虑开源替代了🤬🤬🤬🤬",
+    "url": "https://x.com/AYi_AInotes/status/2049861121251660095",
+    "likes": 812,
+    "retweets": 110,
+    "bookmarks": 354
+  },
+  {
+    "id": "2049854528456101900",
+    "handle": "Xiaoniu6161",
+    "name": "小牛",
+    "time": "Thu Apr 30 14:12:58 +0000 2026",
+    "text": "1949年，宁波。蒋介石回乡祭祖，此时他定知毫无胜算，所以那次祭祖他特别慎重。\n\n这也是他最后一次回浙江祭拜先人。 https://t.co/rDiX6GlMDQ",
+    "url": "https://x.com/Xiaoniu6161/status/2049854528456101900",
+    "likes": 1178,
+    "retweets": 47,
+    "bookmarks": 183
+  },
+  {
+    "id": "2049848747212124393",
+    "handle": "WangNextDoor2",
+    "name": "WangNextDoor",
+    "time": "Thu Apr 30 13:50:00 +0000 2026",
+    "text": "投资1.3个亿，的确用的都是好东西，但酒店亏损日益增大，500年都回不了本。之前听说贵州也是过度基建的重灾区，现在一看懂了。 https://t.co/m5gYj7ldnW",
+    "url": "https://x.com/WangNextDoor2/status/2049848747212124393",
+    "likes": 726,
+    "retweets": 47,
+    "bookmarks": 351
+  },
+  {
+    "id": "2049848559391142393",
+    "handle": "cuichenghao",
+    "name": "作家崔成浩",
+    "time": "Thu Apr 30 13:49:15 +0000 2026",
+    "text": "今日有内地网友，通过他的车的哨兵系统发现，有陌生人竟悄悄把他车牌上的F变成E，车主称幸亏发现及时，否则涂改车牌将遭重罚。 https://t.co/1lYAyRCg91",
+    "url": "https://x.com/cuichenghao/status/2049848559391142393",
+    "likes": 576,
+    "retweets": 37,
+    "bookmarks": 105
+  },
+  {
+    "id": "2049847041871016205",
+    "handle": "raycat2021",
+    "name": "徐老猫",
+    "time": "Thu Apr 30 13:43:13 +0000 2026",
+    "text": "今天有个案子刷屏了，摩根大通美女高管涉嫌滥用职权，对一名初级男员工进行性骚扰和虐待：包括下药，种族羞辱，以升职相威胁对方接受求欢。\n\n37岁的Lorna Hajdini(据推友考证系阿尔巴尼亚族裔)是杠杆融资部门老大，她被指控在数月内强迫一名已婚下属进行“非自愿且羞辱性的性行为”，尽管他一再恳求她停止。\n\n指控者声称，她多次给他下药，并在一次不情愿的“打斗”中，当他哭泣时，她违背他的意愿进行性行为，还一边呵斥。\n\n这件事推上已经笑声一片，人们貌似对这位女上司崇拜之情如滔滔江水，而对那位男下属则认为不是Gay，就是胡说八道。",
+    "url": "https://x.com/raycat2021/status/2049847041871016205",
+    "likes": 171,
+    "retweets": 5,
+    "bookmarks": 56
+  },
+  {
+    "id": "2049835616083517855",
+    "handle": "Granite77777",
+    "name": "花岗岩³",
+    "time": "Thu Apr 30 12:57:49 +0000 2026",
+    "text": "这简直就是奇迹。\n\n约翰·坎贝尔博士详细解读了一项研究：一位83岁患有四期乳腺癌的老妇人，癌细胞已转移至肝脏、脊椎和骨骼。\n\n这通常意味着死亡判决。\n\n她每天服用222mg芬苯达唑（FenBen），持续8个月后，肝功能酶指标恢复正常。肿瘤标志物从316大幅降至36。\n\n https://t.co/0OqFXmdcbk",
+    "url": "https://x.com/Granite77777/status/2049835616083517855",
+    "likes": 271,
+    "retweets": 118,
+    "bookmarks": 197
+  },
+  {
+    "id": "2049831722062360946",
+    "handle": "WangNextDoor2",
+    "name": "WangNextDoor",
+    "time": "Thu Apr 30 12:42:21 +0000 2026",
+    "text": "这种真的是胡闹，称王称霸搞习惯了，这次是踢到铁了，的确不适合乘飞机。。。 https://t.co/8sd1TLaTb5",
+    "url": "https://x.com/WangNextDoor2/status/2049831722062360946",
+    "likes": 759,
+    "retweets": 49,
+    "bookmarks": 122
+  },
+  {
+    "id": "2049828008505348538",
+    "handle": "fhwofjow51260",
+    "name": "娜美知识库",
+    "time": "Thu Apr 30 12:27:35 +0000 2026",
+    "text": "九年重逢的第一句试探，全是藏不住的遗憾 https://t.co/iLzyTAugVt",
+    "url": "https://x.com/fhwofjow51260/status/2049828008505348538",
+    "likes": 290,
+    "retweets": 18,
+    "bookmarks": 160
+  },
+  {
+    "id": "2049826098125672463",
+    "handle": "KKaWSB",
+    "name": "KK.aWSB",
+    "time": "Thu Apr 30 12:20:00 +0000 2026",
+    "text": "萨姆·奥特曼：“公开攻击OpenAI真的非常伤人。” \n\n埃隆·马斯克：“我明白你的意思，我当然没有恶意，对此我深表歉意，但文明的命运正岌岌可危。” https://t.co/kawmdYJ1ZD",
+    "url": "https://x.com/KKaWSB/status/2049826098125672463",
+    "likes": 155,
+    "retweets": 10,
+    "bookmarks": 15
+  },
+  {
+    "id": "2049823661021081951",
+    "handle": "fhwofjow51260",
+    "name": "娜美知识库",
+    "time": "Thu Apr 30 12:10:19 +0000 2026",
+    "text": "个人认为目前实现全英交流最快的方式之一，最快7天见效 https://t.co/8XMDC6xJOg",
+    "url": "https://x.com/fhwofjow51260/status/2049823661021081951",
+    "likes": 2093,
+    "retweets": 349,
+    "bookmarks": 1375
+  },
+  {
+    "id": "2049822778824499620",
+    "handle": "zodchiii",
+    "name": "darkzodchi",
+    "time": "Thu Apr 30 12:06:48 +0000 2026",
+    "text": "Anthropic CISO just told you that 90% of their code is written by Claude. \n\nThen he explained how they protect their own secrets while doing it.\n\nWhy your .env file is the weakest link in your entire AI workflow?\n\nWatch it, then grab the full security config below👇 https://t.co/EahR5ro3W7",
+    "url": "https://x.com/zodchiii/status/2049822778824499620",
+    "likes": 1239,
+    "retweets": 131,
+    "bookmarks": 3934
+  },
+  {
+    "id": "2049821753195585740",
+    "handle": "mr_r0b0t",
+    "name": "mr-r0b0t",
+    "time": "Thu Apr 30 12:02:44 +0000 2026",
+    "text": "Architecture-diagram is one of my favorite @NousResearch Hermes agent skills, NGL! https://t.co/91cbfZHc0v",
+    "url": "https://x.com/mr_r0b0t/status/2049821753195585740",
+    "likes": 281,
+    "retweets": 25,
+    "bookmarks": 367
+  },
+  {
+    "id": "2049819911187538265",
+    "handle": "sunyunran",
+    "name": "孙云冉.eth",
+    "time": "Thu Apr 30 11:55:25 +0000 2026",
+    "text": "这一段真心酸啊，展现了没有靠山和背景的人是多么不容易 https://t.co/VccA1SdBKi",
+    "url": "https://x.com/sunyunran/status/2049819911187538265",
+    "likes": 578,
+    "retweets": 32,
+    "bookmarks": 164
+  },
+  {
+    "id": "2049818545178165496",
+    "handle": "Stanleysobest",
+    "name": "Stanley",
+    "time": "Thu Apr 30 11:49:59 +0000 2026",
+    "text": "一直很好奇，订婚的意义是什么？\n\n为什么不直接结婚？ https://t.co/2BtaJXC4qR",
+    "url": "https://x.com/Stanleysobest/status/2049818545178165496",
+    "likes": 603,
+    "retweets": 18,
+    "bookmarks": 150
+  },
+  {
+    "id": "2049817031478743552",
+    "handle": "dutyge",
+    "name": "失业观察日报",
+    "time": "Thu Apr 30 11:43:58 +0000 2026",
+    "text": "中国有不主动申请院士，却强过院士的人吗？\n\n亦可赛艇。 https://t.co/PBE6qWAatD",
+    "url": "https://x.com/dutyge/status/2049817031478743552",
+    "likes": 1290,
+    "retweets": 65,
+    "bookmarks": 347
+  },
+  {
+    "id": "2049806976486711543",
+    "handle": "0xluffy_eth",
+    "name": "路飞 🏴‍☠️ AI 研究员🧐",
+    "time": "Thu Apr 30 11:04:01 +0000 2026",
+    "text": "现在学习Claude就像2017年买比特币。\n\n大多数人会理解得太晚。\n\n创建单人业务，月收入1万美元比你想象的更近。\n\n这里有7个提示让你在2026年领先99%的人：",
+    "url": "https://x.com/0xluffy_eth/status/2049806976486711543",
+    "likes": 295,
+    "retweets": 66,
+    "bookmarks": 354
+  },
+  {
+    "id": "2049795045407227992",
+    "handle": "Sizhe_bitcat",
+    "name": "Sizhe思哲",
+    "time": "Thu Apr 30 10:16:36 +0000 2026",
+    "text": "论撩女人还是的渣男祖师爷童锦诚\n\n大庭广众之下就搂着女dj啃起来了\n\n女的一点也不抗拒😂\n\n连女dj没喝完的酒都抢过来一口干了\n\n妈得颜值高就是可以随意所欲🫠 https://t.co/B6rFIxNznX",
+    "url": "https://x.com/Sizhe_bitcat/status/2049795045407227992",
+    "likes": 5290,
+    "retweets": 141,
+    "bookmarks": 2587
+  },
+  {
+    "id": "2049793301352702042",
+    "handle": "oragnes",
+    "name": "比特币橙子Trader",
+    "time": "Thu Apr 30 10:09:41 +0000 2026",
+    "text": "日本这款卖 19800 日元的“电盐勺”，机制极其粗暴。\n\n不加盐，直接靠微电流把食物里的钠离子强行汇聚到舌头上，咸味当场放大 1.5 倍。\n\n高血压患者吃白水煮菜，能硬生生被电流刺激出重口味的爽感。 https://t.co/ZRxlbPubOv",
+    "url": "https://x.com/oragnes/status/2049793301352702042",
+    "likes": 1303,
+    "retweets": 178,
+    "bookmarks": 749
+  },
+  {
+    "id": "2049787026413846562",
+    "handle": "lovelycake",
+    "name": "小蛋糕(日本勇者村）",
+    "time": "Thu Apr 30 09:44:44 +0000 2026",
+    "text": "巨婴孙杨要倒大霉了‼️😂\n\n这个二货最近上综艺暴露低素质低情商\n有人说他配不上他老婆\n他妈还打电话骚扰人家要求删帖\n\n现在被爆出他有私生子不说\n严重的是他走后门违规录取上体博士\n挤占了一个叫苗华的名额\n\n据说他纯面试，啥都没考就最高分录取了\n而且他有无证驾驶被拘留的案底，按规定是不能考博士的😆\n\n现在有人写材料举报了\n上体目前装死\n感觉这事没那么简单过去\n毕竟这个是实锤的违规\n而且他早就是负面人物\n国家还会保他吗😌",
+    "url": "https://x.com/lovelycake/status/2049787026413846562",
+    "likes": 742,
+    "retweets": 85,
+    "bookmarks": 157
+  },
+  {
+    "id": "2049777737825710560",
+    "handle": "xadr666",
+    "name": "大阪のタニマチ-社长刘洋",
+    "time": "Thu Apr 30 09:07:50 +0000 2026",
+    "text": "公开挑战书： \n\n我，刘洋，日本名谷町洋，公开挑战王志安，王局志安。\n我挑战与王志安互访，两个人面对面，两个人频道直播打开，一人一问，不限选题，全程直播，不拔网线。\n不限制其他自媒体传统媒体前来采访。一切公开透明。地点选第三方，由王局认可的日本媒体人选地方即可。选大点地方，王局喜欢热闹。\n\n2026年4月30日 以上挑战有效期截止5月8日\n请王局先回复接受挑战与否。",
+    "url": "https://x.com/xadr666/status/2049777737825710560",
+    "likes": 471,
+    "retweets": 15,
+    "bookmarks": 41
+  },
+  {
+    "id": "2049776525936107733",
+    "handle": "wanerfu",
+    "name": "摆烂程序媛",
+    "time": "Thu Apr 30 09:03:01 +0000 2026",
+    "text": "GPT-5.5 发布不到72小时，人们已经开始制造本不应该存在的东西。\n\n10个例子会让你大开眼界：",
+    "url": "https://x.com/wanerfu/status/2049776525936107733",
+    "likes": 1151,
+    "retweets": 203,
+    "bookmarks": 1561
+  },
+  {
+    "id": "2049742146903974036",
+    "handle": "AriXZone",
+    "name": "魔都老猿",
+    "time": "Thu Apr 30 06:46:24 +0000 2026",
+    "text": "自从阿里系高管入主山姆，山姆就开始堕落了，开始盒马化。\n视频并不敢说出这个原因。 https://t.co/oiRleIkwtq",
+    "url": "https://x.com/AriXZone/status/2049742146903974036",
+    "likes": 563,
+    "retweets": 60,
+    "bookmarks": 217
+  },
+  {
+    "id": "2049738370679730562",
+    "handle": "yaojingang",
+    "name": "姚金刚",
+    "time": "Thu Apr 30 06:31:24 +0000 2026",
+    "text": "开源一个教程Skill\n打磨了十几版，效果还不错，已推到GitHub\n\n如果想在五一假期高质量充电，或随时给自己生成一份定制高质量教程\n欢迎下载\n\n基本逻辑：\n1、输入任意主题及参考资料，AI会优先以参考资料为核心，然后根据需要进行高质量素材和资料补充，这个过程中融入了低质量信源的过滤机制\n2、AI会结合教程的特点，并结合用户的部分偏好，生成定制深度教程，输出PDF、Word及HTML三种格式，方便自己学习\n3、教程内容，按照章节的逻辑进行系统性的输出，同时根据各章节内容特点，自行画图并插入到章节相关内容模块中\n4、教程融入了三年前经营MCN时写的《课程营销学》的相关底层逻辑与方法，回头也把这本书给开源出来\n5、排版与UI，输出的文档与教程网页，有结合 @HiTw93 的kami进行借鉴和融入，实现了很有质感的排版规范\n\n示例报告有3个，其中一个示例教程示例来自 @ReyJudgementOS  的一篇英语干货文章：《12岁英语自由：我“带”孩子“学”英语的经验与教训》\n\n教程Skill的GitHub地址：\nhttps://t.co/Ymc0MxAjnK",
+    "url": "https://x.com/yaojingang/status/2049738370679730562",
+    "likes": 937,
+    "retweets": 211,
+    "bookmarks": 1830
+  },
+  {
+    "id": "2049733298650218718",
+    "handle": "MuxuanqingCpa",
+    "name": "σ﹍☭ 铁铁ᠪᠠᠶᠠᠨ ᠲᠡᠮᠦᠷ ᠬᠤᠲᠯᠤᠭ🔻🌈CPA🔻",
+    "time": "Thu Apr 30 06:11:15 +0000 2026",
+    "text": "感觉这张图什么时候拿出来都不过时😂😂😂 https://t.co/vdjFuspud3",
+    "url": "https://x.com/MuxuanqingCpa/status/2049733298650218718",
+    "likes": 2122,
+    "retweets": 107,
+    "bookmarks": 302
+  },
+  {
+    "id": "2049720203542667532",
+    "handle": "li9292",
+    "name": "李韭二",
+    "time": "Thu Apr 30 05:19:13 +0000 2026",
+    "text": "作为一名agent 领域工程师。\n\n请学习：\n\n* 工具/函数调用设计\n* agent 规划 / 工作流编排\n* memory / 上下文管理\n* 状态机 / 多步骤执行\n* 重试 / 回退 / 恢复逻辑\n* agent评估 / 可靠性测试\n* 成本 / 延迟优化\n* 人工参与loop模式\n\n大多数agent失败都是编排失败，\n而不是模型失败。",
+    "url": "https://x.com/li9292/status/2049720203542667532",
+    "likes": 464,
+    "retweets": 96,
+    "bookmarks": 431
+  },
+  {
+    "id": "2049691460530848160",
+    "handle": "ai_xiaomu",
+    "name": "黄小木",
+    "time": "Thu Apr 30 03:25:00 +0000 2026",
+    "text": "海淀区OPC补贴有多狠？\n\n- 创办即给10万启动金\n- 模型券补50%，年上限200万\n- 青年人才房租五折或每月2000补贴\n- 贷款利息补1.5%，最高1000万\n\n上海有\"超级个体288\"计划，深圳建万平OPC社区，苏州要培育1000家标杆OPC。\n\n政府比你着急。还在犹豫要不要单干的，先把补贴领了再说。",
+    "url": "https://x.com/ai_xiaomu/status/2049691460530848160",
+    "likes": 165,
+    "retweets": 12,
+    "bookmarks": 154
+  },
+  {
+    "id": "2049586049907667168",
+    "handle": "dotey",
+    "name": "宝玉",
+    "time": "Wed Apr 29 20:26:08 +0000 2026",
+    "text": "我就说你们咋逆向 Claude Design 的 System Prompt 的，原来都在请求的 Payload 里面，包括调用啥工具都有。\n\n可惜额度太少了，用几次就没了 https://t.co/cV3zgH18yx",
+    "url": "https://x.com/dotey/status/2049586049907667168",
+    "likes": 204,
+    "retweets": 12,
+    "bookmarks": 240
+  },
+  {
+    "id": "2049531829531672626",
+    "handle": "ElisaWa77920862",
+    "name": "Garden of Eden",
+    "time": "Wed Apr 29 16:50:41 +0000 2026",
+    "text": "当铁人流泪 ❤️❤️❤️\n\n许多人见过他无所畏惧地面对世界，无惧任何压力。但你是否见过唐纳德·特朗普——这位权力最大的总统——静静地坐着，双眼颤抖，只为听他最小的儿子说几句话？梅拉尼娅的生日派对不仅仅是蜡烛和鲜花；其中有一个“默哀时刻”，融化了最铁石心肠的人。⬇️ https://t.co/akayLAyhiZ",
+    "url": "https://x.com/ElisaWa77920862/status/2049531829531672626",
+    "likes": 690,
+    "retweets": 103,
+    "bookmarks": 33
+  },
+  {
+    "id": "2049520950358720883",
+    "handle": "SuisPasDaVinci",
+    "name": "达芬七",
+    "time": "Wed Apr 29 16:07:27 +0000 2026",
+    "text": "不愧是闲鱼暗网… https://t.co/NAWgpkBlqw",
+    "url": "https://x.com/SuisPasDaVinci/status/2049520950358720883",
+    "likes": 2903,
+    "retweets": 33,
+    "bookmarks": 249
+  },
+  {
+    "id": "2049484740152189091",
+    "handle": "WY_mask",
+    "name": "无颜",
+    "time": "Wed Apr 29 13:43:34 +0000 2026",
+    "text": "这个网站牛逼了，未来就业新方向？\nhttps://t.co/fvtx04xC43\n\n它把中国147个职业的AI冲击程度全部量化了，数据涵盖薪资，学历要求，自动化潜力等多个维度。图块越大，就业人数越多，颜色越深，被AI替代的风险越高\n\n一眼看清哪些行业最可能被AI替代，哪些行业又最能抵抗AI的侵袭，方便提前布局避开“危险”领域，抢占未来的有利岗位",
+    "url": "https://x.com/WY_mask/status/2049484740152189091",
+    "likes": 1398,
+    "retweets": 310,
+    "bookmarks": 1577
+  },
+  {
+    "id": "2049473364092240168",
+    "handle": "woyongdehuawei",
+    "name": "清丝老师谈治国理政",
+    "time": "Wed Apr 29 12:58:22 +0000 2026",
+    "text": "网友投稿\n\n中国国安部《警惕！“躺平”话术背后的渗透黑手》的编辑被网友挖出是芝加哥大学Booth商学院毕业生（基本上就是关系户），且有着“要出去看看”的亲美亲西方思想 https://t.co/cnep7ZLGju",
+    "url": "https://x.com/woyongdehuawei/status/2049473364092240168",
+    "likes": 2822,
+    "retweets": 261,
+    "bookmarks": 961
+  },
+  {
+    "id": "2049458103675191550",
+    "handle": "op7418",
+    "name": "歸藏(guizang.ai)",
+    "time": "Wed Apr 29 11:57:43 +0000 2026",
+    "text": "Moxt 是近期所有新的 Agent 产品里，我觉得最好的之一 ！\n\n终于找时间写了一篇介绍。\n\n如果你还在找一个 AI Native 的组织协作工具的话，我觉得可以试试。 https://t.co/tC1XoNbb04",
+    "url": "https://x.com/op7418/status/2049458103675191550",
+    "likes": 222,
+    "retweets": 21,
+    "bookmarks": 326
   },
   {
     "id": "2049151454041002153",
-    "author": "Clawnch_Bot",
+    "handle": "Clawnch_Bot",
     "name": "Clawnch 🦞",
+    "time": "Tue Apr 28 15:39:12 +0000 2026",
     "text": "Hey @Teknium we are getting ready to release our plugin for @NousResearch Hermes Agent that gives it a massive array of open-ended agentic finance abilities.\n\nThis is a complete rewrite of our original OpenClaw-focused project which we spent several months developing, only to be blocked by @steipete and have their maintainers report our repo and get our GitHub banned.\n\nWe know you get a lot of crypto spam, but this is truly a technically complex undertaking which we have tackled because we want agents to be able to take any arbitrary series of actions in the financial world just as a human can. \n\nWe hope you will embrace our project! 🦞",
+    "url": "https://x.com/Clawnch_Bot/status/2049151454041002153",
     "likes": 270,
     "retweets": 41,
-    "bookmarks": 140,
-    "created_at": "Tue Apr 28 15:39:12 +0000 2026",
-    "url": "https://x.com/Clawnch_Bot/status/2049151454041002153"
+    "bookmarks": 140
   },
   {
     "id": "2048278717793722747",
-    "author": "AYi_AInotes",
+    "handle": "AYi_AInotes",
     "name": "阿绎 AYi",
+    "time": "Sun Apr 26 05:51:16 +0000 2026",
     "text": "说个暴论，现在90%的AI Agent记忆，全都是假的。\n\n我之前也踩过这个坑，把所有历史记录决策日志全堆进Markdown文件里，以为这就是给Agent加了长期记忆，结果用了两周就崩了，\n\n同一个事实有三个互相矛盾的版本，上个月的偏好和昨天的权重一模一样，每次调用都把所有东西一股脑塞进上下文，慢到离谱还经常串台，\n\n直到看到这篇文章才恍然大悟，原来我根本不是在做记忆，只是在把Prompt当RAM用🌚\n\n真正的记忆不是堆文件，应该是图和节点加嵌入加遍历，\n\nMarkdown方案有四个根本解决不了的硬伤，没有去重，没有衰减，没有排名，超过一百条记录直接变成性能杀手，\n\n它只能记住你写过什么，永远记不住这件事和那件事有什么关系，\n这个决策为什么被否决，上次遇到同样的bug我们是怎么解决的。\n\n向量检索也不行，它只能告诉你这两段话长得像，不能告诉你它们之间的因果关系，\n\n只有图遍历能做到，它能像人脑一样，从一个节点牵出一整条相关的记忆链，\n重要的事情越来越清晰，过时的信息自动淡化，矛盾的内容在写入时就被解决。\n\n现在所有生产级的Agent框架，Zep Cognee Mem0，全都是基于图的，\n\nNeo4j已经把图记忆做成了标准的MCP工具，\nClaude Code超过二十万行代码之后，纯上下文窗口早就没戏了，\n\n真正能让它像高级工程师一样思考的，\n是把不变的规则放在CLAUDE.md里，\n把所有演化的状态全部存在图里，动态检索按需拉取。\n\n很多人还在卷一百万两千万的上下文窗口，以为越大越好，\n\n但生产环境里真正致命的，\n永远是跨会话的记忆漂移和上下文污染，\n\n内存架构的升级已经不是锦上添花了，能不能把Agent真正用起来才是关键的生死线。",
+    "url": "https://x.com/AYi_AInotes/status/2048278717793722747",
     "likes": 2856,
     "retweets": 467,
-    "bookmarks": 4695,
-    "created_at": "Sun Apr 26 05:51:16 +0000 2026",
-    "url": "https://x.com/AYi_AInotes/status/2048278717793722747"
+    "bookmarks": 4695
   },
   {
     "id": "2041927687460024721",
-    "author": "claudeai",
+    "handle": "claudeai",
     "name": "Claude",
+    "time": "Wed Apr 08 17:14:32 +0000 2026",
     "text": "Introducing Claude Managed Agents: everything you need to build and deploy agents at scale.\n\nIt pairs an agent harness tuned for performance with production infrastructure, so you can go from prototype to launch in days.\n\nNow in public beta on the Claude Platform. https://t.co/vHYfiC1G56",
+    "url": "https://x.com/claudeai/status/2041927687460024721",
     "likes": 57117,
     "retweets": 6054,
-    "bookmarks": 50397,
-    "created_at": "Wed Apr 08 17:14:32 +0000 2026",
-    "url": "https://x.com/claudeai/status/2041927687460024721"
+    "bookmarks": 50397
   },
   {
     "id": "2041785975211487416",
-    "author": "NFTCPS",
+    "handle": "NFTCPS",
     "name": "鸟哥 | 蓝鸟会🕊️",
+    "time": "Wed Apr 08 07:51:25 +0000 2026",
     "text": "这是一个 \"人类蒸馏\" 项目合集 — 把真人（同事、导师、前任、父母、公众人物）通过聊天记录、文字、音频等素材，提炼成可调用的 Claude Code Agent Skill。\n\n收录了 40+ 个 Skill，分类包括：\n\n- 通用工具 — 女娲.skill（提炼思维模式）、永生.skill（数字永生框架）等\n\n- 职场关系 — 同事.skill、老板.skills、厉鬼.skill（离职同事的怨灵版）\n\n- 学术关系 — 导师.skill、师兄.skill、大学老师.skill\n\n- 亲密关系 — 前任.skill、初恋.skill、现任.skill、crush.skill\n\n- 家人关系 — 父母.skill、重逢.skill（数字化已故亲人）\n\n- 公众人物 — 张雪峰.skill、毛选.skill、Trump.skill、马克思.skill 等\nhttps://t.co/MO83ERZvRR",
+    "url": "https://x.com/NFTCPS/status/2041785975211487416",
     "likes": 328,
     "retweets": 83,
-    "bookmarks": 230,
-    "created_at": "Wed Apr 08 07:51:25 +0000 2026",
-    "url": "https://x.com/NFTCPS/status/2041785975211487416"
+    "bookmarks": 230
   },
   {
     "id": "2041422880404328851",
-    "author": "jinchenma_ai",
+    "handle": "jinchenma_ai",
     "name": "金尘马",
+    "time": "Tue Apr 07 07:48:37 +0000 2026",
     "text": "总结了最近 X 上爆火的 26 个 SKILL。\n\n一切的起源都是那个“同事.SKILL”吧😂\n\n一、职场、自媒体系列：\n1. 同事.skill 把真实同事蒸馏成AI（SKILL流火爆起点）。\nhttps://t.co/rlBnUqKvEI\n2. 女娲.skill 能自动蒸馏任何人的终极工具（想蒸谁蒸谁）。  \nhttps://t.co/Z4pIOutlmI\n3. X导师.skill（X/Twitter运营导师） 最新迭代，能分析你的账号数据、写推文、给诊断报告。  \nhttps://t.co/pIIYkEltNL\n4. 老板.skill 把老板炼入token，把生产力的解放留给自己。  \nhttps://t.co/7cSVAmkTqw\n5. 前任.skill 把前任蒸馏成 AI Skill，用ta的方式跟你说话。  \nhttps://t.co/2SvAj4HBKi\n6. 自己.skill 把你自己蒸馏成AI，数字永生/第二大脑。  \nhttps://t.co/4GZB8Tzxc2\n7. 博主.skill 把公开社交媒体语料整理成一个能对话、能分析、能改写风格的 Persona Skill（目前支持推特和小红书）。  \nhttps://t.co/WOheukU9UH\n8. 蒸馏.skill（人格蒸馏引擎） 人格蒸馏引擎 · 蒸馏自己看清自己，蒸馏亲友留住余温与回声。  \nhttps://t.co/dSzv8JfsR2\n9. 反蒸馏.skill 公司让你写Skill文档时“投毒”，核心知识自己留着（打工人自保神器）。  \nhttps://t.co/hFoUVNpIe0\n\n二、名人系列\n10. 乔布斯.skill 思维模型 + 现实扭曲力场 + 决策风格，已开源。  \nhttps://t.co/Cf7Kae1FTd\n11. 马斯克.skill 第一性原理、硬核执行力、推文风格。  \nhttps://t.co/G5nv93WR11\n12. 芒格.skill 多元思维模型、反向思考、投资决策神器。  \nhttps://t.co/xgXuRXusLV\n13. 费曼.skill 教你怎么讲课、拆解复杂问题、讲物理/学习方法。  \nhttps://t.co/VK1pRRW5sd\n14. 纳瓦尔.skill 财富、幸福、人生哲学，播客级智慧。  \nhttps://t.co/51QFLJ5n10\n15. 塔勒布.skill 黑天鹅、反脆弱、风险评估专家。  \nhttps://t.co/exTXDxXakn\n16. 张雪峰.skill 接地气吐槽 + 升学实用建议。  \nhttps://t.co/47WXjbpWSg\n17. Paul Graham.skill 创业思维、写作、产品哲学。  \nhttps://t.co/BLal4704HK\n18. 张一鸣.skill 算法思维、组织管理、产品迭代。  \nhttps://t.co/bnHcUk4ykq\n19. Karpathy.skill AI/深度学习教学 + 技术直觉。  \nhttps://t.co/APlrlM58uM\n20. Ilya Sutskever.skill AI前沿思考 + 模型哲学。  \nhttps://t.co/dpRsPxk1Qt\n21. MrBeast.skill（YouTube现象级创作者） 内容病毒式传播 + 增长黑客。  \nhttps://t.co/ig0yptB6FA\n22. 特朗普.skill 谈判风格、推文艺术、现实扭曲（已验证超像）。  \nhttps://t.co/t5E0iUGOhP\n\n三、玄学系列\n23. 赛博算命.skill（八字命理） 八字排盘与命理分析工具。  \nhttps://t.co/cW05qHYEqu\n24. 月老 · 姻缘测算.skill（赛博月老） 姻缘测算技能，用中华传统术数帮你算姻缘。  \nhttps://t.co/IqKjsEbTuO\n25. 奇门遁甲、紫微斗数.skill 减少幻觉、固定排盘步骤的奇门遁甲与紫微斗数 AI skills。  \nhttps://t.co/7LP2ZM95du\n26. 大师.skill 基于佛教经典文献的汉传祖师大德教学角色生成器。  \nhttps://t.co/GcdrhVVtsJ",
+    "url": "https://x.com/jinchenma_ai/status/2041422880404328851",
     "likes": 2419,
     "retweets": 735,
-    "bookmarks": 3104,
-    "created_at": "Tue Apr 07 07:48:37 +0000 2026",
-    "url": "https://x.com/jinchenma_ai/status/2041422880404328851"
+    "bookmarks": 3104
   },
   {
     "id": "2038555397234020404",
-    "author": "Saccc_c",
+    "handle": "Saccc_c",
     "name": "Sac",
+    "time": "Mon Mar 30 09:54:15 +0000 2026",
     "text": "2026大家一直提的赚钱方式：  \n\n「一人公司」「自媒体」「金融投资」「预测市场」「数字游民」  \n\n纠结从哪里下手，直接从这个榜单中的Github 开始，我收录整理了最全的Github赚钱项目  \n\n收录它，2026我们站着把钱赚了 https://t.co/SReHRiEDah",
+    "url": "https://x.com/Saccc_c/status/2038555397234020404",
     "likes": 397,
     "retweets": 94,
-    "bookmarks": 552,
-    "created_at": "Mon Mar 30 09:54:15 +0000 2026",
-    "url": "https://x.com/Saccc_c/status/2038555397234020404"
+    "bookmarks": 552
   },
   {
     "id": "2037756245751545892",
-    "author": "wangray",
+    "handle": "wangray",
     "name": "Ray Wang",
+    "time": "Sat Mar 28 04:58:43 +0000 2026",
     "text": "技术再好，讲不清楚就等于没有\n\nPatrick Winston 教授这个讲座我看了不下三遍，做产品、做内容、见客户，说话是最被低估的杠杆\n\n他在 MIT 将这个课超过40年，这是最后一次录像，他于2019年去世了\n\n他的核心观点：演讲能力不是天赋，是可以训练的手艺\n\n一小时看完，值得\n\nhttps://t.co/TmuU83MJAy",
+    "url": "https://x.com/wangray/status/2037756245751545892",
     "likes": 2297,
     "retweets": 588,
-    "bookmarks": 3404,
-    "created_at": "Sat Mar 28 04:58:43 +0000 2026",
-    "url": "https://x.com/wangray/status/2037756245751545892"
+    "bookmarks": 3404
   },
   {
     "id": "2036992971355414911",
-    "author": "bozhou_ai",
+    "handle": "bozhou_ai",
     "name": "泊舟",
+    "time": "Thu Mar 26 02:25:44 +0000 2026",
     "text": "强烈推荐这个NotebookLm和claude组合\n\n将youtube视频导入NotebookLM，然后让claude进行提问，产出有价值的信息，这样做远比把视频提取字幕，然后让AI来提取重点，效果好的多\n\n使用方法很简单，只需要安装这个skills\n\nnpx skills add https://t.co/u840lUVRlw --skill notebooklm https://t.co/RKBgaH4vMq",
+    "url": "https://x.com/bozhou_ai/status/2036992971355414911",
     "likes": 917,
     "retweets": 210,
-    "bookmarks": 1459,
-    "created_at": "Thu Mar 26 02:25:44 +0000 2026",
-    "url": "https://x.com/bozhou_ai/status/2036992971355414911"
+    "bookmarks": 1459
   },
   {
     "id": "2035699759797670073",
-    "author": "mubeitech",
+    "handle": "mubeitech",
     "name": "墓碑科技",
+    "time": "Sun Mar 22 12:46:58 +0000 2026",
     "text": "良心呐！博主扫描了 1000 多个仓库，测试了 200 多项skill，列出了 50 个顶级 Claude  skill与 GitHub AI 仓库 — 这是你x10唯一需要的列表。",
+    "url": "https://x.com/mubeitech/status/2035699759797670073",
     "likes": 400,
     "retweets": 93,
-    "bookmarks": 593,
-    "created_at": "Sun Mar 22 12:46:58 +0000 2026",
-    "url": "https://x.com/mubeitech/status/2035699759797670073"
+    "bookmarks": 593
+  },
+  {
+    "id": "2033523885753483713",
+    "handle": "FinanceYF5",
+    "time": "2026-03-16T12:40:50.000Z",
+    "text": "好嘛，OpenClaw 也太猛了。\n\n大家用它做开发、用它赚钱，根本停不下来。\n\n8 个超狠案例。\n\n1、OpenClaw 办公室里的敏捷站会，",
+    "url": "https://x.com/FinanceYF5/status/2033523885753483713",
+    "links": [
+      "https://x.com/FinanceYF5",
+      "https://x.com/FinanceYF5",
+      "https://x.com/FinanceYF5"
+    ]
+  },
+  {
+    "id": "2033283557708247089",
+    "handle": "ScottSparkwave",
+    "time": "2026-03-15T20:45:51.000Z",
+    "url": "https://x.com/ScottSparkwave/status/2033283557708247089",
+    "links": [
+      "https://x.com/ScottSparkwave",
+      "https://x.com/ScottSparkwave",
+      "https://x.com/ScottSparkwave"
+    ]
+  },
+  {
+    "id": "2032743032865566939",
+    "handle": "xiaoying_eth",
+    "time": "2026-03-14T08:58:00.000Z",
+    "text": "原来这就是成功人士和平庸之人的区别\n\n大多数人根本没有准备好去听",
+    "url": "https://x.com/xiaoying_eth/status/2032743032865566939",
+    "links": [
+      "https://x.com/xiaoying_eth",
+      "https://x.com/xiaoying_eth",
+      "https://x.com/xiaoying_eth"
+    ]
+  },
+  {
+    "id": "2032710343500214377",
+    "handle": "axiaisacat",
+    "time": "2026-03-14T06:48:06.000Z",
+    "text": "分享一个让你的 app 图标瞬间高级的 Skill \n\nBetter Icons \n1000+ 矢量图标，一行代码就能用\n支持 React / Vue / JS，开箱即用\n免费开源，社区维护，不怕停更\n\n我用过之后发现：用现成图标库，比从零设计轻松太多，界面瞬间专业感提升 \n\n升级你的 app 图标 ",
+    "url": "https://x.com/axiaisacat/status/2032710343500214377",
+    "links": [
+      "https://x.com/axiaisacat",
+      "https://x.com/axiaisacat",
+      "https://x.com/axiaisacat"
+    ]
+  },
+  {
+    "id": "2032557322078400527",
+    "handle": "_0xKenny",
+    "time": "2026-03-13T20:40:03.000Z",
+    "text": "过去两周，GitHub上增长最快的AI开源项目盘点（除OpenClaw外）：\n\nAgency Agents — 35K+ \n把Claude Code一键变成51位AI专家+9大部门的完整团队，从产品、开发、设计到营销、社媒、QA全流程覆盖。相当于免费雇了一整家AI公司。\n\nhttps://\ngithub.com/msitarzewski/a\ngency-agents\n…\n\n Auto Research — 25K",
+    "url": "https://x.com/_0xKenny/status/2032557322078400527",
+    "links": [
+      "https://x.com/_0xKenny",
+      "https://x.com/_0xKenny",
+      "https://x.com/_0xKenny",
+      "https://t.co/8GSZEmU4sP",
+      "https://t.co/8GSZEmU4sP",
+      "https://t.co/8GSZEmU4sP"
+    ]
+  },
+  {
+    "id": "2032466958147317969",
+    "handle": "pavelsvitek_",
+    "time": "2026-03-13T14:40:58.000Z",
+    "text": "You are hiring frontend engineer and you see this.\n\nWhat do you do?",
+    "url": "https://x.com/pavelsvitek_/status/2032466958147317969",
+    "links": [
+      "https://x.com/pavelsvitek_",
+      "https://x.com/pavelsvitek_",
+      "https://x.com/pavelsvitek_"
+    ]
+  },
+  {
+    "id": "2032433389224284614",
+    "handle": "lifesinger",
+    "time": "2026-03-13T12:27:35.000Z",
+    "text": "Agents 时代，比 OKR 更好的绩效管理方式，是德鲁克 1954 年提出的 MBO（Management by Objectives）目标管理法。\n\nMBO 的理念是：不是管人，是管目标。不少上级压目标，是上下一起定目标。是面向目标，是自己管自己。\n\n后续有延展出 OKR。理想情况下，O 代表 What，KR 代表 How，当 KR 完成时 O",
+    "url": "https://x.com/lifesinger/status/2032433389224284614",
+    "links": [
+      "https://x.com/lifesinger",
+      "https://x.com/lifesinger",
+      "https://x.com/lifesinger"
+    ]
+  },
+  {
+    "id": "2032251097444929792",
+    "handle": "howie_serious",
+    "time": "2026-03-13T00:23:13.000Z",
+    "text": "一图胜千言，动图胜万言。\n\nclaude interactive diagrams 功能在教育和演示场景，这个功能应该非常趁手。\n\n案例：以“context engineering ”为主题。链接：\n\nhttps://\nclaude.ai/share/73fcb820\n-54f3-480a-9c0d-385504e3e98a\n…",
+    "url": "https://x.com/howie_serious/status/2032251097444929792",
+    "links": [
+      "https://x.com/howie_serious",
+      "https://x.com/howie_serious",
+      "https://x.com/howie_serious",
+      "https://t.co/1gm1WNKziU"
+    ]
+  },
+  {
+    "id": "2032124503330058696",
+    "handle": "nurijanian",
+    "time": "2026-03-12T16:00:11.000Z",
+    "text": "If you're a PM who uses Claude Code/Cursor to build and execute research, strategy, and discovery work, this stack cuts context setup from 15 minutes of pasting to under a minute.\n\nObsidian solves the storage problem: every note you write becomes a local markdown file, yours",
+    "url": "https://x.com/nurijanian/status/2032124503330058696",
+    "links": [
+      "https://x.com/nurijanian",
+      "https://x.com/nurijanian",
+      "https://x.com/nurijanian",
+      "https://t.co/3FtFXnMdcn",
+      "https://t.co/3FtFXnMdcn"
+    ]
+  },
+  {
+    "id": "2032071257789976897",
+    "handle": "Jacobsklug",
+    "time": "2026-03-12T12:28:36.000Z",
+    "text": "I've made $4.7M with AI. Today, I recorded myself building an entire \n@openclaw\n business in an hour.\n\nYou'll learn how to:\n\n• Find a winning niche using AI\n• Build an offer people actually want to pay for\n• To get your first clients\n• To use AI to productize and fulfill the",
+    "url": "https://x.com/Jacobsklug/status/2032071257789976897",
+    "links": [
+      "https://x.com/Jacobsklug",
+      "https://x.com/Jacobsklug",
+      "https://x.com/Jacobsklug",
+      "https://x.com/openclaw"
+    ]
+  },
+  {
+    "id": "2032012706337997308",
+    "handle": "jiamibtc",
+    "time": "2026-03-12T08:35:56.000Z",
+    "text": "马斯克：如果明天一切归零，回到 25 岁，躺在廉价出租屋里，我不会恐慌。\n\n因为我真正值钱的不是银行账户里的数字，而是我大脑里那套创造价值的操作系统。\n\n这套系统让我白手起家两次，重启它只需要三样东西：一笔小钱、一个杠杆、一个支点。",
+    "url": "https://x.com/jiamibtc/status/2032012706337997308",
+    "links": [
+      "https://x.com/jiamibtc",
+      "https://x.com/jiamibtc",
+      "https://x.com/jiamibtc"
+    ]
+  },
+  {
+    "id": "2031992492166693272",
+    "handle": "Mikocrypto11",
+    "time": "2026-03-12T07:15:37.000Z",
+    "text": "Anthropic 刚放出一份 33 页 的 Claude trading agents 文档。\n\n然后有人昨晚试了一件事：\n让 Claude 直接搭一套 Polymarket 交易工作流\n结果 10 小时 后，脚本已经赚了 $561\n目前胜率大约是 71%\n\n这件事最有意思的地方，其实不是利润\n而是架构\n这套系统做的，不是让 Claude 每次都临场判断\n而是把",
+    "url": "https://x.com/Mikocrypto11/status/2031992492166693272",
+    "links": [
+      "https://x.com/Mikocrypto11",
+      "https://x.com/Mikocrypto11",
+      "https://x.com/Mikocrypto11"
+    ]
+  },
+  {
+    "id": "2031717113917014440",
+    "handle": "Nicole_yang88",
+    "time": "2026-03-11T13:01:22.000Z",
+    "text": "江学勤教授讲了一个很多人不愿承认的现实：穷人越自律，往往越容易被收割。\n\n因为大多数“成功学”，本质只是让你更努力地留在既定阶层的游戏里。\n\n2026想翻身？这段50分钟演讲，一定值得观看。",
+    "url": "https://x.com/Nicole_yang88/status/2031717113917014440",
+    "links": [
+      "https://x.com/Nicole_yang88",
+      "https://x.com/Nicole_yang88",
+      "https://x.com/Nicole_yang88"
+    ]
+  },
+  {
+    "id": "2031580442428846406",
+    "handle": "chuhaiqu",
+    "time": "2026-03-11T03:58:17.000Z",
+    "text": "OpenClaw-RL 这个项目可以关注一下。\n\n以前调教 Agent 基本都是靠外挂记忆或者写新技能，模型本尊的脑回路其实根本没变。遇到多步规划烂、工具乱用这种深层逻辑问题，光靠改 prompt 根本救不回来。\n\nOpenClaw-RL 把你本地跑的模型包成",
+    "url": "https://x.com/chuhaiqu/status/2031580442428846406",
+    "links": [
+      "https://x.com/chuhaiqu",
+      "https://x.com/chuhaiqu",
+      "https://x.com/chuhaiqu"
+    ]
+  },
+  {
+    "id": "2031546506604601827",
+    "handle": "turingou",
+    "time": "2026-03-11T01:43:26.000Z",
+    "text": "我的一人公司 wanman AI 快写好了，我在 cli 告诉 ceo，帮我在中目黑开一家咖啡馆，它全自动帮我执行 20 个“工作日”，每个工作日都会“请”几个新的 agent 员工完成对应的任务，有些是探索性，有些是执行类的工作（文书或者代码）。\n\n于此同时我的直播网站也写好了！下一步就是在这个 vibe",
+    "url": "https://x.com/turingou/status/2031546506604601827",
+    "links": [
+      "https://x.com/turingou",
+      "https://x.com/turingou",
+      "https://x.com/turingou"
+    ]
+  },
+  {
+    "id": "2031524504032198839",
+    "handle": "runes_leo",
+    "time": "2026-03-11T00:16:00.000Z",
+    "text": "Claude Code 有个隐藏设置，装了之后代码导航速度能快几百倍。\n                                                                                            \n原理是这样：默认情况下 Claude Code 用文本搜索找代码，跟你在文件夹里 Ctrl+F 一样，一个个文件翻。装了 LSP 插件之后，它用的是和 VS",
+    "url": "https://x.com/runes_leo/status/2031524504032198839",
+    "links": [
+      "https://x.com/runes_leo",
+      "https://x.com/runes_leo",
+      "https://x.com/runes_leo"
+    ]
+  },
+  {
+    "id": "2031421162123870239",
+    "handle": "GoogleAIStudio",
+    "time": "2026-03-10T17:25:21.000Z",
+    "url": "https://x.com/GoogleAIStudio/status/2031421162123870239",
+    "links": [
+      "https://x.com/GoogleAIStudio",
+      "https://x.com/GoogleAIStudio",
+      "https://x.com/GoogleAIStudio"
+    ]
+  },
+  {
+    "id": "2031402914607149310",
+    "handle": "DLKFZWilliam2",
+    "time": "2026-03-10T16:12:51.000Z",
+    "text": "Vibe Coding蔓延到自媒体，Vibe 视频 ReelClaw，这个能实现“无人值守”批量生产和发布类真人 UGC 反应视频 + 产品演示视频，一个人可以轻松 scale 到 1000 个账号。我帮大家去看了下技术栈：",
+    "url": "https://x.com/DLKFZWilliam2/status/2031402914607149310",
+    "links": [
+      "https://x.com/DLKFZWilliam2",
+      "https://x.com/DLKFZWilliam2",
+      "https://x.com/DLKFZWilliam2"
+    ]
+  },
+  {
+    "id": "2031399970902007959",
+    "handle": "huangyun_122",
+    "time": "2026-03-10T16:01:09.000Z",
+    "text": "再说一个日入过千的小生意 —— 班级打卡养宠物\n\n这真有点舍不得分享，除小红书能做，其他平台甚至出海都能，连印尼的学生都在用\n\n1/ 9.9 一单，日均 200 单\n2/ 24小时加购 700+\n3/ 已售 4万单\n4/ 笔记用大量 AI 创作\n\n这生意的难点有2，一是 AI &编程，二是商业逻辑，评论区我单放一段视频讲\n\n——btw,",
+    "url": "https://x.com/huangyun_122/status/2031399970902007959",
+    "links": [
+      "https://x.com/huangyun_122",
+      "https://x.com/huangyun_122",
+      "https://x.com/huangyun_122"
+    ]
+  },
+  {
+    "id": "2031351025962209492",
+    "handle": "grgerwcwetwet",
+    "time": "2026-03-10T12:46:39.000Z",
+    "text": "推荐一个开源项目 DeepDiagram，一个 AI 聚合画图工具，一句话就能生成各种图表。\n\n它的核心思路是用 AI 多智能体（Multi-Agent）系统把自然语言转换成专业图表，比如流程图、思维导图、数据图等，不需要手动拖拽画图。\n\n项目地址：\n\nhttps://\ngithub.com/twwch/DeepDiag\nram\n…\n\n在线体验：\n\nhttps://\ndeepd.cturing.cn/app/",
+    "url": "https://x.com/grgerwcwetwet/status/2031351025962209492",
+    "links": [
+      "https://x.com/grgerwcwetwet",
+      "https://x.com/grgerwcwetwet",
+      "https://x.com/grgerwcwetwet",
+      "https://t.co/r7vTaD0PLj",
+      "https://t.co/vRIesyirbH"
+    ]
+  },
+  {
+    "id": "2031292099384008810",
+    "handle": "MrRyanChi",
+    "time": "2026-03-10T08:52:30.000Z",
+    "url": "https://x.com/MrRyanChi/status/2031292099384008810",
+    "links": [
+      "https://x.com/MrRyanChi",
+      "https://x.com/MrRyanChi",
+      "https://x.com/MrRyanChi"
+    ]
+  },
+  {
+    "id": "2031286148182716519",
+    "handle": "yihui_indie",
+    "time": "2026-03-10T08:28:51.000Z",
+    "text": "很多朋友问我AI字幕校对的事情，给大家分享一下我的 Skill， 能参考稿子自动校对，准确率 99%+，长视频也能自动拆分处理，彻底告别手动修改~",
+    "url": "https://x.com/yihui_indie/status/2031286148182716519",
+    "links": [
+      "https://x.com/yihui_indie",
+      "https://x.com/yihui_indie",
+      "https://x.com/yihui_indie"
+    ]
+  },
+  {
+    "id": "2030371219518931079",
+    "handle": "karpathy",
+    "time": "2026-03-07T19:53:15.000Z",
+    "text": "I packaged up the \"autoresearch\" project into a new self-contained minimal repo if people would like to play over the weekend. It's basically nanochat LLM training core stripped down to a single-GPU, one file version of ~630 lines of code, then:\n\n- the human iterates on the",
+    "url": "https://x.com/karpathy/status/2030371219518931079",
+    "links": [
+      "https://x.com/karpathy",
+      "https://x.com/karpathy",
+      "https://x.com/karpathy"
+    ]
+  },
+  {
+    "id": "2030297324962857044",
+    "handle": "axiaisacat",
+    "time": "2026-03-07T14:59:38.000Z",
+    "text": "最近发现一个极其硬核的 \"skills\"！\n\n如果你平时也用 Cursor 或 Claude 撸前端，那你一定要试试 \n@pbakaus\n 开源的 Impeccable。\n\n之前让 AI 写 UI，做出来的东西总有一种廉价的“外包感”，因为 AI 根本不懂设计规范。但这个项目，相当于给你的 AI 强行注入了“顶级设计师的灵魂” ",
+    "url": "https://x.com/axiaisacat/status/2030297324962857044",
+    "links": [
+      "https://x.com/axiaisacat",
+      "https://x.com/axiaisacat",
+      "https://x.com/axiaisacat",
+      "https://x.com/pbakaus"
+    ]
+  },
+  {
+    "id": "2030269108676096042",
+    "handle": "nopinduoduo",
+    "time": "2026-03-07T13:07:30.000Z",
+    "url": "https://x.com/nopinduoduo/status/2030269108676096042",
+    "links": [
+      "https://x.com/nopinduoduo",
+      "https://x.com/nopinduoduo",
+      "https://x.com/nopinduoduo"
+    ]
+  },
+  {
+    "id": "2030133746721247263",
+    "handle": "yaohui12138",
+    "time": "2026-03-07T04:09:37.000Z",
+    "text": "超级个体的天花板到底在哪里\n\n不在能力，不在资源，在时间的不可复制性\n\n你一天只有24小时 写方案、见客户、做交付、搞运营，全是你一个人 越忙越焦虑，越焦虑越想接更多单子，然后发现自己卡在一个死循环里——业务规模上不去，因为你没法克隆自己\n\nClaude Skills这事儿，99%的人都看错了方向",
+    "url": "https://x.com/yaohui12138/status/2030133746721247263",
+    "links": [
+      "https://x.com/yaohui12138",
+      "https://x.com/yaohui12138",
+      "https://x.com/yaohui12138"
+    ]
+  },
+  {
+    "id": "2029897719276511509",
+    "handle": "wangray",
+    "time": "2026-03-06T12:31:44.000Z",
+    "url": "https://x.com/wangray/status/2029897719276511509",
+    "links": [
+      "https://x.com/wangray",
+      "https://x.com/wangray",
+      "https://x.com/wangray"
+    ]
+  },
+  {
+    "id": "2029758015042412778",
+    "handle": "shadouyoua",
+    "time": "2026-03-06T03:16:36.000Z",
+    "text": "纳瓦尔在2008年的时候分享了他眼中的人生公式\n幸福 = 健康 + 财富 + 好的人际关系\n健康 = 锻炼 + 饮食 + 睡眠\n锻炼 = 高强度力量训练 + 竞技类运动 + 休息\n饮食 = 自然食物 + 间歇性禁食 + 蔬菜饮食\n睡眠 = 没有闹钟 + 8-9小时睡眠\n财富 = 收入 + 当前财富 * 投资回报比\n收入 = 责任感 + 杠杆 +",
+    "url": "https://x.com/shadouyoua/status/2029758015042412778",
+    "links": [
+      "https://x.com/shadouyoua",
+      "https://x.com/shadouyoua",
+      "https://x.com/shadouyoua"
+    ]
+  },
+  {
+    "id": "2029608942305956229",
+    "handle": "AYi_AInotes",
+    "time": "2026-03-05T17:24:14.000Z",
+    "text": "这个视频太好了，强推，\n看完兴奋的睡不着了\n\n讲的是怎么样让现实永远服从你的频率，也就是意识状态，翻译成中文也挺抽象的，我尽量用通俗易懂的的话跟大家翻译清楚，\n\n简单来说，就是给了我们一套反直觉的活法：普通人是被现实推着走，\n而这套方法教我们先在心里演\n成那个厉害的人，",
+    "url": "https://x.com/AYi_AInotes/status/2029608942305956229",
+    "links": [
+      "https://x.com/AYi_AInotes",
+      "https://x.com/AYi_AInotes",
+      "https://x.com/AYi_AInotes"
+    ]
+  },
+  {
+    "id": "2029397317862982031",
+    "handle": "aigclink",
+    "time": "2026-03-05T03:23:19.000Z",
+    "text": "如果说OpenClaw是一个员工，那么Paperclip就是整个AI公司，零人类公司，由AI自主运营\n\n你可以告诉Paperclip：\"做一款AI笔记应用，目标100万月收入\"，它就会给你出方案、组团队、搞执行，你只需把控方向、做审批、看仪表盘监控进度和异常即可",
+    "url": "https://x.com/aigclink/status/2029397317862982031",
+    "links": [
+      "https://x.com/aigclink",
+      "https://x.com/aigclink",
+      "https://x.com/aigclink"
+    ]
+  },
+  {
+    "id": "2029372834603253887",
+    "handle": "meijiangAI",
+    "time": "2026-03-05T01:46:02.000Z",
+    "text": " 突发：Gemini 现在可以在 48 小时内写完并设计一整本书。\n\n以下是成为本月出版作者的 5 个疯狂提示：\n\n（收藏以备后用）：",
+    "url": "https://x.com/meijiangAI/status/2029372834603253887",
+    "links": [
+      "https://x.com/meijiangAI",
+      "https://x.com/meijiangAI",
+      "https://x.com/meijiangAI"
+    ]
+  },
+  {
+    "id": "2029310454590579166",
+    "handle": "hooeem",
+    "time": "2026-03-04T21:38:09.000Z",
+    "url": "https://x.com/hooeem/status/2029310454590579166",
+    "links": [
+      "https://x.com/hooeem",
+      "https://x.com/hooeem",
+      "https://x.com/hooeem"
+    ]
+  },
+  {
+    "id": "2029001992530801068",
+    "handle": "Morris_LT",
+    "time": "2026-03-04T01:12:26.000Z",
+    "url": "https://x.com/Morris_LT/status/2029001992530801068",
+    "links": [
+      "https://x.com/Morris_LT",
+      "https://x.com/Morris_LT",
+      "https://x.com/Morris_LT"
+    ]
+  },
+  {
+    "id": "2028852671256383764",
+    "handle": "stijnnoorman",
+    "time": "2026-03-03T15:19:05.000Z",
+    "url": "https://x.com/stijnnoorman/status/2028852671256383764",
+    "links": [
+      "https://x.com/stijnnoorman",
+      "https://x.com/stijnnoorman",
+      "https://x.com/stijnnoorman"
+    ]
+  },
+  {
+    "id": "2028850829458014547",
+    "handle": "PrajwalTomar_",
+    "time": "2026-03-03T15:11:46.000Z",
+    "text": "AI is moving FAST so I'm exploring more income streams lol\n\nBeen diving into Claude memory. Found this article on making money with it.\n\nProbably the best practical guide out there.",
+    "url": "https://x.com/PrajwalTomar_/status/2028850829458014547",
+    "links": [
+      "https://x.com/PrajwalTomar_",
+      "https://x.com/PrajwalTomar_",
+      "https://x.com/PrajwalTomar_"
+    ]
+  },
+  {
+    "id": "2028420799443689932",
+    "handle": "pritipatelfgoo",
+    "time": "2026-03-02T10:42:59.000Z",
+    "text": "刚在咖啡厅看到隔壁桌在拼命打电话推销，突然觉得身为 i 人真的很幸运，只要你英文够好，其实有一堆 Remote 兼职可以躺赚，完全不需要面对跟人社交的压力\n\n我发现 i 人加上英文专业，其实就是天生的吸金组合，因为语言工作非常需要那种能静下心来独处的专注力。",
+    "url": "https://x.com/pritipatelfgoo/status/2028420799443689932",
+    "links": [
+      "https://x.com/pritipatelfgoo",
+      "https://x.com/pritipatelfgoo",
+      "https://x.com/pritipatelfgoo"
+    ]
+  },
+  {
+    "id": "2028389991341322456",
+    "handle": "Web3heibai",
+    "time": "2026-03-02T08:40:34.000Z",
+    "text": "成为某个领域半个专家的方法：\n\na、把这个领域的所有书籍、课程，全部看一看，一般有100本书左右，有些可能更多。重要的内容尽量背下来，即便有些不理解，先背下来。\n\nb、到网上搜索，关于这个领域的关键词，看完前100页内容，这样可以让你了解，该领域的新的、旧的情况。",
+    "url": "https://x.com/Web3heibai/status/2028389991341322456",
+    "links": [
+      "https://x.com/Web3heibai",
+      "https://x.com/Web3heibai",
+      "https://x.com/Web3heibai"
+    ]
+  },
+  {
+    "id": "2028314493206585471",
+    "handle": "naval",
+    "time": "2026-03-02T03:40:34.000Z",
+    "text": "Is Traditional Software Engineering Dead?\n\n“Does this mean that traditional software engineering is dead? Absolutely not. Software engineers—even the ones who are not necessarily tuning or training AI models—these are now among the most leveraged people on earth. Sure, the guys",
+    "url": "https://x.com/naval/status/2028314493206585471",
+    "links": [
+      "https://x.com/naval",
+      "https://x.com/naval",
+      "https://x.com/naval"
+    ]
+  },
+  {
+    "id": "2027720734211248573",
+    "handle": "rwayne",
+    "time": "2026-02-28T12:21:10.000Z",
+    "url": "https://x.com/rwayne/status/2027720734211248573",
+    "links": [
+      "https://x.com/rwayne",
+      "https://x.com/rwayne",
+      "https://x.com/rwayne"
+    ]
+  },
+  {
+    "id": "2027685265817694668",
+    "handle": "binghe",
+    "time": "2026-02-28T10:00:14.000Z",
+    "url": "https://x.com/binghe/status/2027685265817694668",
+    "links": [
+      "https://x.com/binghe",
+      "https://x.com/binghe",
+      "https://x.com/binghe"
+    ]
+  },
+  {
+    "id": "2025407743516180572",
+    "handle": "yadong_xie",
+    "time": "2026-02-22T03:10:10.000Z",
+    "text": "一个神奇的发现\n和 claude code 说：“codex 在 review 你的代码”\nclaude code 就会干的格外好\n\n相对的\n和 codex 说：“你 review 的是 claude code 写的代码”\ncodex 就会 review 的非常卖力。。。\n\nai 时代的新职场互害",
+    "url": "https://x.com/yadong_xie/status/2025407743516180572",
+    "links": [
+      "https://x.com/yadong_xie",
+      "https://x.com/yadong_xie",
+      "https://x.com/yadong_xie"
+    ]
+  },
+  {
+    "id": "2025231790219145307",
+    "handle": "yupi996",
+    "time": "2026-02-21T15:31:00.000Z",
+    "text": "Claude Code 之父说：2026 年「软件工程师」这个头衔可能要消失了！\n\nClaude Code 之父 Boris Cherny 最近上了 Y Combinator 的 Lightcone 播客，聊了快一个小时，爆点太多了。\n\n他的核心观点是：编程这件事，对他来说已经基本被 AI 解决了，2026",
+    "url": "https://x.com/yupi996/status/2025231790219145307",
+    "links": [
+      "https://x.com/yupi996",
+      "https://x.com/yupi996",
+      "https://x.com/yupi996"
+    ]
+  },
+  {
+    "id": "2025223723159109853",
+    "handle": "YingeAI",
+    "time": "2026-02-21T14:58:57.000Z",
+    "text": "未来10年，真正优质的资产，其实只有三种人。\n\n第一种：能驾驭AI的人。\nAI正在把一个人的能力放大10倍、甚至100倍。会用AI的人，学习更快、决策更快、产出更多。未来很多人会变成“超级个体”，一个人就是一家公司。\n\n第二种：懂资本的人。",
+    "url": "https://x.com/YingeAI/status/2025223723159109853",
+    "links": [
+      "https://x.com/YingeAI",
+      "https://x.com/YingeAI",
+      "https://x.com/YingeAI"
+    ]
+  },
+  {
+    "id": "2025001190774505964",
+    "handle": "WSInsights",
+    "time": "2026-02-21T00:14:41.000Z",
+    "text": "·-\n为什么一次对话，就能判定你的天花板\n\n饭局上，\n投资圈大哥正在观察一个年轻人。\n\n名校毕业，大厂中层，履历光鲜。\n席间谈行业趋势、管理心得，数据翔实。\n显然，他想得到认可。\n\n临了，\n他问：\"X总，我想创业，\n您看我适合吗？\"\n\n大哥只问一句：\n“剥离团队、预算、时机，",
+    "url": "https://x.com/WSInsights/status/2025001190774505964",
+    "links": [
+      "https://x.com/WSInsights",
+      "https://x.com/WSInsights",
+      "https://x.com/WSInsights"
+    ]
+  },
+  {
+    "id": "2024391051847618750",
+    "handle": "waynesutton",
+    "time": "2026-02-19T07:50:12.000Z",
+    "text": "Did someone say skills knowledge graphs? \n\nClosing this thing before I mess around and prompt Ultron.",
+    "url": "https://x.com/waynesutton/status/2024391051847618750",
+    "links": [
+      "https://x.com/waynesutton",
+      "https://x.com/waynesutton",
+      "https://x.com/waynesutton"
+    ]
+  },
+  {
+    "id": "2024272800517935440",
+    "handle": "maria_wats8492",
+    "time": "2026-02-19T00:00:19.000Z",
+    "text": "HOLY SH*T… This AI Agent does everything \n\nBuilt in n8n :\n Clones viral TikToks\n Rewrites w/ GPT-4o\n Auto creates avatar videos\n Adds captions & edits\n Posts to 9 platforms (TikTok, IG, YT, X…)\n\n Like+RT\n Reply “Steal”\n Follow me & I’ll DM you  workflow FREE.",
+    "url": "https://x.com/maria_wats8492/status/2024272800517935440",
+    "links": [
+      "https://x.com/maria_wats8492",
+      "https://x.com/maria_wats8492",
+      "https://x.com/maria_wats8492"
+    ]
+  },
+  {
+    "id": "2023501562480644501",
+    "handle": "nicbstme",
+    "time": "2026-02-16T20:55:41.000Z",
+    "url": "https://x.com/nicbstme/status/2023501562480644501",
+    "links": [
+      "https://x.com/nicbstme",
+      "https://x.com/nicbstme",
+      "https://x.com/nicbstme"
+    ]
+  },
+  {
+    "id": "2022876292819874279",
+    "handle": "KKaWSB",
+    "time": "2026-02-15T03:31:06.000Z",
+    "url": "https://x.com/KKaWSB/status/2022876292819874279",
+    "links": [
+      "https://x.com/KKaWSB",
+      "https://x.com/KKaWSB",
+      "https://x.com/KKaWSB"
+    ]
+  },
+  {
+    "id": "2022299535616483491",
+    "handle": "berryxia",
+    "time": "2026-02-13T13:19:16.000Z",
+    "text": "兄弟们！终于肝完了！！！ 赶紧来领你的桌宠啊！\n                                                                                                                                                               \n 这次真·爆肝，连续熬了好几个大夜，今日手搓Openclaw 御姐Amy",
+    "url": "https://x.com/berryxia/status/2022299535616483491",
+    "links": [
+      "https://x.com/berryxia",
+      "https://x.com/berryxia",
+      "https://x.com/berryxia"
+    ]
+  },
+  {
+    "id": "2022173077329871138",
+    "handle": "wquguru",
+    "time": "2026-02-13T04:56:46.000Z",
+    "url": "https://x.com/wquguru/status/2022173077329871138",
+    "links": [
+      "https://x.com/wquguru",
+      "https://x.com/wquguru",
+      "https://x.com/wquguru"
+    ]
+  },
+  {
+    "id": "2019758373332193550",
+    "handle": "cgtwts",
+    "time": "2026-02-06T13:01:36.000Z",
+    "text": "Claude code but for hacking",
+    "url": "https://x.com/cgtwts/status/2019758373332193550",
+    "links": [
+      "https://x.com/cgtwts",
+      "https://x.com/cgtwts",
+      "https://x.com/cgtwts"
+    ]
+  },
+  {
+    "id": "2019561936971788671",
+    "handle": "yucheng",
+    "time": "2026-02-06T00:01:02.000Z",
+    "text": "AI 时代最值钱的人才：端到端。\n\n什么意思？\n\n从头到尾打穿。\n\n以前工业革命以来，人是螺丝钉--只负责流水线中间一段。\n\n现在不行了。\n\n你要懂需求、懂技术、懂交付、懂运营。\n\n你不能只会「我负责这块」。\n\nAI 把中间层压缩了，剩下的人必须全栈。\n\n不是技术全栈--是能力全栈。",
+    "url": "https://x.com/yucheng/status/2019561936971788671",
+    "links": [
+      "https://x.com/yucheng",
+      "https://x.com/yucheng",
+      "https://x.com/yucheng"
+    ]
+  },
+  {
+    "id": "2019553277571190821",
+    "handle": "jainarvind",
+    "time": "2026-02-05T23:26:37.000Z",
+    "url": "https://x.com/jainarvind/status/2019553277571190821",
+    "links": [
+      "https://x.com/jainarvind",
+      "https://x.com/jainarvind",
+      "https://x.com/jainarvind"
+    ]
+  },
+  {
+    "id": "2019101224784785897",
+    "handle": "adxtyahq",
+    "time": "2026-02-04T17:30:19.000Z",
+    "text": "Claude Startup Program is also OPEN btw\n\n> API credits for early-stage startups (up to ~$25K)\n> Built by Anthropic (Claude)  \n> No VC needed (unlike OpenAI)\n> Selection based on product + real Claude usage  \n> Actually friendly to bootstrapped founders  \n\nApply:",
+    "url": "https://x.com/adxtyahq/status/2019101224784785897",
+    "links": [
+      "https://x.com/adxtyahq",
+      "https://x.com/adxtyahq",
+      "https://x.com/adxtyahq"
+    ]
+  },
+  {
+    "id": "2019030429798724048",
+    "handle": "shadouyoua",
+    "time": "2026-02-04T12:49:00.000Z",
+    "text": "都AI时代了 人们的脑海里第一件事居然还是：我要先做个产品，然后去卖！\n\n做东西前要先找客户，不要做这做那的，就用AI获客！如果你一个客户都搞不来，你做出产品也不会有客户\n\n1. 用AI生成服务描述，上架fiverr/upworks/闲鱼，记得写好用户寻找服务时的搜索词",
+    "url": "https://x.com/shadouyoua/status/2019030429798724048",
+    "links": [
+      "https://x.com/shadouyoua",
+      "https://x.com/shadouyoua",
+      "https://x.com/shadouyoua"
+    ]
   },
   {
     "id": "2018486028248723599",
-    "author": "ianneo_ai",
+    "handle": "ianneo_ai",
     "name": "Ian (伊恩)",
+    "time": "Tue Feb 03 00:45:45 +0000 2026",
     "text": "dont哥太厉害了，连夜学习了下内容生产系统结构\n\n用trae里的Claude code输出了个适配自己的内容生成工作流，配合自己的skill使用，不要太爽\n\n都串起来了！\n\n都串起来了！\n\n都串起来了！\n\n都串起来了！\n\n都串起来了！\n\n一目了然！\n\n太爽了！ https://t.co/ufF3qOWlQ2",
+    "url": "https://x.com/ianneo_ai/status/2018486028248723599",
     "likes": 391,
     "retweets": 67,
-    "bookmarks": 462,
-    "created_at": "Tue Feb 03 00:45:45 +0000 2026",
-    "url": "https://x.com/ianneo_ai/status/2018486028248723599"
+    "bookmarks": 462
   },
   {
-    "id": "2014160593687843087",
-    "author": "BrainQuestor",
-    "name": "知识玩家",
-    "text": "我老婆把Instagram账号交给了ChatGPT\n\n结果？30天内250万次浏览。\n\n没有展示脸的相机。没有通用内容。\n\n只是复制+人工智能。\n\n这里有7个提示词，让我的内容从无聊变成病毒式传播：",
-    "likes": 1169,
-    "retweets": 217,
-    "bookmarks": 1747,
-    "created_at": "Thu Jan 22 02:18:01 +0000 2026",
-    "url": "https://x.com/BrainQuestor/status/2014160593687843087"
+    "id": "2017689592183312471",
+    "handle": "alex_prompter",
+    "time": "2026-01-31T20:01:00.000Z",
+    "text": "the best 20 accounts to follow in AI:\n\n\n@karpathy\n = LLMs king\n\n@steipete\n = built openclaw\n\n@gregisenberg\n = startup ideas king\n\n@rileybrown\n = vibecode king\n\n@corbin_braun\n = cursor king\n\n@jackfriks\n = solo apps king\n\n@levelsio\n = solo startups king\n\n@marclou\n = solo startups king\n\n@EXM7777\n =",
+    "url": "https://x.com/alex_prompter/status/2017689592183312471",
+    "links": [
+      "https://x.com/alex_prompter",
+      "https://x.com/alex_prompter",
+      "https://x.com/alex_prompter",
+      "https://x.com/karpathy",
+      "https://x.com/steipete",
+      "https://x.com/gregisenberg",
+      "https://x.com/rileybrown",
+      "https://x.com/corbin_braun",
+      "https://x.com/jackfriks",
+      "https://x.com/levelsio",
+      "https://x.com/marclou",
+      "https://x.com/EXM7777"
+    ]
+  },
+  {
+    "id": "2017596754246476282",
+    "handle": "mubeitech",
+    "time": "2026-01-31T13:52:06.000Z",
+    "text": "一个14岁的孩子，在Roblox上每个月赚10万美金。\n\n怎么做到的？\n他和15岁的合伙人，只用了14个小时，从零开始做了一款游戏。\n开发，脚本，市场营销，全套流程。\n然后，花了100美金投广告。\n两周后，游戏撞上了平台的算法推荐。\n最后，他们把游戏卖了25万美金。",
+    "url": "https://x.com/mubeitech/status/2017596754246476282",
+    "links": [
+      "https://x.com/mubeitech",
+      "https://x.com/mubeitech",
+      "https://x.com/mubeitech"
+    ]
+  },
+  {
+    "id": "2017448595218436545",
+    "handle": "aidavid125",
+    "time": "2026-01-31T04:03:22.000Z",
+    "text": "兄弟们，\n小红书起号玩法：美女健身照。\n只需简单的描述，\n就可以使用。\n效果？",
+    "url": "https://x.com/aidavid125/status/2017448595218436545",
+    "links": [
+      "https://x.com/aidavid125",
+      "https://x.com/aidavid125",
+      "https://x.com/aidavid125"
+    ]
+  },
+  {
+    "id": "2017027214580297898",
+    "handle": "JamesAI",
+    "time": "2026-01-30T00:08:57.000Z",
+    "text": "人的专注力基本上只能撑完 1000 字以内的文章。\n\n但这篇近万字的 X 长文，一周时间拿下了 70 万阅读。\n\n没错，这篇文章是 100% AI 完成的。选题，编写，配图，发布。从头到尾，我的人工干预是零。\n\n更有意思的是，发布之后，AI 还帮我做了完整的持续加热策略。",
+    "url": "https://x.com/JamesAI/status/2017027214580297898",
+    "links": [
+      "https://x.com/JamesAI",
+      "https://x.com/JamesAI",
+      "https://x.com/JamesAI"
+    ]
+  },
+  {
+    "id": "2016934752188576029",
+    "handle": "cursor_ai",
+    "time": "2026-01-29T18:01:32.000Z",
+    "text": "We're proposing an open standard for tracing agent conversations to the code they generate. It's interoperable with any coding agent or interface.",
+    "url": "https://x.com/cursor_ai/status/2016934752188576029",
+    "links": [
+      "https://x.com/cursor_ai",
+      "https://x.com/cursor_ai",
+      "https://x.com/cursor_ai",
+      "https://t.co/jO4DIoIl6A",
+      "https://t.co/jO4DIoIl6A"
+    ]
+  },
+  {
+    "id": "2016919756440240479",
+    "handle": "GoogleDeepMind",
+    "time": "2026-01-29T17:01:57.000Z",
+    "text": "Step inside Project Genie: our experimental research prototype that lets you create, edit, and explore virtual worlds. ",
+    "url": "https://x.com/GoogleDeepMind/status/2016919756440240479",
+    "links": [
+      "https://x.com/GoogleDeepMind",
+      "https://x.com/GoogleDeepMind",
+      "https://x.com/GoogleDeepMind"
+    ]
+  },
+  {
+    "id": "2016881523094340007",
+    "handle": "allnoteson",
+    "time": "2026-01-29T14:30:01.000Z",
+    "text": "We deployed Moltbot on Cloudflare.\n\nAgent and tools run in the cloud, and we talk to the agent in our usual messaging apps.\n\nMoltworker is a first experiment, there's so much to build to make this type of agent great. Cloudflare has all the primitives.",
+    "url": "https://x.com/allnoteson/status/2016881523094340007",
+    "links": [
+      "https://x.com/allnoteson",
+      "https://x.com/allnoteson",
+      "https://x.com/allnoteson"
+    ]
+  },
+  {
+    "id": "2016768237183062424",
+    "handle": "clashreport",
+    "time": "2026-01-29T06:59:52.000Z",
+    "text": "Peter Schiff, who gained fame for accurately predicting the 2008 financial crisis:\n\nThe world is now pulling the rug out from under the US.\n\nThe dollar is going to collapse. The dollar is going to be replaced by gold.\n\nCentral banks are buying gold… they’re getting rid of",
+    "url": "https://x.com/clashreport/status/2016768237183062424",
+    "links": [
+      "https://x.com/clashreport",
+      "https://x.com/clashreport",
+      "https://x.com/clashreport"
+    ]
+  },
+  {
+    "id": "2016404049609032153",
+    "handle": "ianneo_ai",
+    "time": "2026-01-28T06:52:43.000Z",
+    "text": "一人即剧组：用确定性的 SOP，对抗流量的不确定性\n\n做 AI 视频忌讳赌运气\n\n跑通这套 SOP 后，我发现我们只负责 10% 的决策与审美，把剩下 90% 的执行与重复全部给 AI\n\n 《油管 AI 视频增长 SOP V2.0》正式升级发布啦\n\n在此前围观营的基础上，把踩过的坑、验证过的经验，整合成了一套标准的工作流\n\n",
+    "url": "https://x.com/ianneo_ai/status/2016404049609032153",
+    "links": [
+      "https://x.com/ianneo_ai",
+      "https://x.com/ianneo_ai",
+      "https://x.com/ianneo_ai"
+    ]
+  },
+  {
+    "id": "2016362303994900821",
+    "handle": "Bitwux",
+    "time": "2026-01-28T04:06:50.000Z",
+    "url": "https://x.com/Bitwux/status/2016362303994900821",
+    "links": [
+      "https://x.com/Bitwux",
+      "https://x.com/Bitwux",
+      "https://x.com/Bitwux"
+    ]
+  },
+  {
+    "id": "2016061926145720626",
+    "handle": "xiaomustock",
+    "time": "2026-01-27T08:13:14.000Z",
+    "text": "今天在旧金山的早晨，OpenAI CEO山姆·奥特曼和一群开发者聊了1个小时总结：\n1.软件工程师不会被取代，但工作方式会变化，更多人将参与“让计算机按自己意图行事”的工作。\n2.产品开发变得更容易，但市场推广仍是最大挑战，因为“人类的注意力始终稀缺”。\n3.",
+    "url": "https://x.com/xiaomustock/status/2016061926145720626",
+    "links": [
+      "https://x.com/xiaomustock",
+      "https://x.com/xiaomustock",
+      "https://x.com/xiaomustock"
+    ]
+  },
+  {
+    "id": "2014350764618170410",
+    "handle": "ujjwalscript",
+    "time": "2026-01-22T14:53:41.000Z",
+    "url": "https://x.com/ujjwalscript/status/2014350764618170410",
+    "links": [
+      "https://x.com/ujjwalscript",
+      "https://x.com/ujjwalscript",
+      "https://x.com/ujjwalscript"
+    ]
   },
   {
     "id": "2014252422806536614",
-    "author": "zstmfhy",
+    "handle": "zstmfhy",
     "name": "AI奶爸",
+    "time": "Thu Jan 22 08:22:55 +0000 2026",
     "text": "OpenAI 终于把官方 Prompt 公开了！  \n\n直接给销售、产品、工程师、HR、经理、IT、客服、高管……每个岗位都塞了 20-30 个现成能打的高质量提示词包，总量 300+ 个，全部免费拿走用。\n\n以前我们自己调 prompt 像炼丹，现在 OpenAI 直接把丹炉和配方都端出来了😂  \n尤其是工程师和产品那两包，看完第一感觉是：这要是早点出，我去年少加多少班啊……\n\n地址\nhttps://t.co/M3ovCPbavh",
+    "url": "https://x.com/zstmfhy/status/2014252422806536614",
     "likes": 2720,
     "retweets": 739,
-    "bookmarks": 4612,
-    "created_at": "Thu Jan 22 08:22:55 +0000 2026",
-    "url": "https://x.com/zstmfhy/status/2014252422806536614"
+    "bookmarks": 4612
+  },
+  {
+    "id": "2014160593687843087",
+    "handle": "BrainQuestor",
+    "name": "知识玩家",
+    "time": "Thu Jan 22 02:18:01 +0000 2026",
+    "text": "我老婆把Instagram账号交给了ChatGPT\n\n结果？30天内250万次浏览。\n\n没有展示脸的相机。没有通用内容。\n\n只是复制+人工智能。\n\n这里有7个提示词，让我的内容从无聊变成病毒式传播：",
+    "url": "https://x.com/BrainQuestor/status/2014160593687843087",
+    "likes": 1169,
+    "retweets": 217,
+    "bookmarks": 1747
+  },
+  {
+    "id": "2014035526324723816",
+    "handle": "haydenbleasel",
+    "time": "2026-01-21T18:01:03.000Z",
+    "text": "▲ \n@Vercel\n AI Elements, Code Edition\n\nThis is the single BIGGEST component drop we've ever done. A brand new set of components designed to help you build the next generation of IDEs, coding apps and background agents.\n\nLet's see what's new! ",
+    "url": "https://x.com/haydenbleasel/status/2014035526324723816",
+    "links": [
+      "https://x.com/haydenbleasel",
+      "https://x.com/haydenbleasel",
+      "https://x.com/haydenbleasel",
+      "https://x.com/vercel"
+    ]
+  },
+  {
+    "id": "2013900222129475830",
+    "handle": "AIExplorerTim",
+    "time": "2026-01-21T09:03:24.000Z",
+    "text": " 年底副业\n2026 马年红包封面保姆级教程！\n\n零设计基础\n回款极快\n从出图 → 上架 → 变现，全程可复制\n\n我把整套【喂饭级流程】拆解成了 5 步\n\n 红包封面核心提示词（直接白嫖）：\nhttps://\nflowith.io/conv/5d9507bc-\na9c4-40cb-a23d-ab081e5a57a9?U2FsdGVkX1/RiF5kaK1U/ngKGX5gqhdzCMMdjpDed3B162JvQJX5rX3Ewshc9S/xX/pIN0f6qP4yID1N/0shZg==\n…\n\n 手把手教你实操（建议收藏）",
+    "url": "https://x.com/AIExplorerTim/status/2013900222129475830",
+    "links": [
+      "https://x.com/AIExplorerTim",
+      "https://x.com/AIExplorerTim",
+      "https://x.com/AIExplorerTim",
+      "https://t.co/gRtTp4yYLp"
+    ]
+  },
+  {
+    "id": "2013189952948076573",
+    "handle": "rahulluthra22",
+    "time": "2026-01-19T10:01:02.000Z",
+    "text": "Pitch deck design for founders & startups.\n\n→ 27 slides + figma file + font file\n→ Comment on the post and I'll send it to you\n→ Must be following so I can DM",
+    "url": "https://x.com/rahulluthra22/status/2013189952948076573",
+    "links": [
+      "https://x.com/rahulluthra22",
+      "https://x.com/rahulluthra22",
+      "https://x.com/rahulluthra22"
+    ]
+  },
+  {
+    "id": "2011780547614281938",
+    "handle": "heyrobinai",
+    "time": "2026-01-15T12:40:34.000Z",
+    "url": "https://x.com/heyrobinai/status/2011780547614281938",
+    "links": [
+      "https://x.com/heyrobinai",
+      "https://x.com/heyrobinai",
+      "https://x.com/heyrobinai"
+    ]
+  },
+  {
+    "id": "2011695360037830801",
+    "handle": "0xCheshire",
+    "time": "2026-01-15T07:02:03.000Z",
+    "text": "霍华德·马克斯写备忘录时，沃伦·巴菲特会放下手头的一切去阅读。  \n\n马克斯是困境资产和市场周期方面的专家。  \n\n他将78年的投资智慧浓缩成了一个60分钟的视频。  \n\n收藏这段珍贵影像。",
+    "url": "https://x.com/0xCheshire/status/2011695360037830801",
+    "links": [
+      "https://x.com/0xCheshire",
+      "https://x.com/0xCheshire",
+      "https://x.com/0xCheshire"
+    ]
+  },
+  {
+    "id": "2011461812890329313",
+    "handle": "gregisenberg",
+    "time": "2026-01-14T15:34:02.000Z",
+    "url": "https://x.com/gregisenberg/status/2011461812890329313",
+    "links": [
+      "https://x.com/gregisenberg",
+      "https://x.com/gregisenberg",
+      "https://x.com/gregisenberg"
+    ]
+  },
+  {
+    "id": "2011358199144648836",
+    "handle": "knoxtwts",
+    "time": "2026-01-14T08:42:18.000Z",
+    "url": "https://x.com/knoxtwts/status/2011358199144648836",
+    "links": [
+      "https://x.com/knoxtwts",
+      "https://x.com/knoxtwts",
+      "https://x.com/knoxtwts"
+    ]
+  },
+  {
+    "id": "2011275935832764564",
+    "handle": "vista8",
+    "time": "2026-01-14T03:15:25.000Z",
+    "text": "这篇文章有点厉害，把组织如何用AI提效讲的很清楚。\n\n文章超级长，转写一半大家感受下，推荐看原文\n\n---\n\n你可能会看到一个矛盾的现象。\n\nAI帮个人干活，效率高得惊人，但放到公司里，效果就大打折扣了。\n\n为什么？\n\n因为公司里的活儿，本质上不是一个人能搞定的。",
+    "url": "https://x.com/vista8/status/2011275935832764564",
+    "links": [
+      "https://x.com/vista8",
+      "https://x.com/vista8",
+      "https://x.com/vista8"
+    ]
+  },
+  {
+    "id": "2011117250762207347",
+    "handle": "prukalpa",
+    "time": "2026-01-13T16:44:51.000Z",
+    "url": "https://x.com/prukalpa/status/2011117250762207347",
+    "links": [
+      "https://x.com/prukalpa",
+      "https://x.com/prukalpa",
+      "https://x.com/prukalpa"
+    ]
+  },
+  {
+    "id": "2011117147754528793",
+    "handle": "recap_david",
+    "time": "2026-01-13T16:44:27.000Z",
+    "text": "I built a Morning Brew-style daily newsletter that writes itself with AI (now at 10,000+ daily readers)\n\n(and I’m nuts for open-sourcing it)\n\nThe AI system behind \n@therecapai\n clones how a human writer would function, but each step is packaged into an agentic workstream.\n\nThe full",
+    "url": "https://x.com/recap_david/status/2011117147754528793",
+    "links": [
+      "https://x.com/recap_david",
+      "https://x.com/recap_david",
+      "https://x.com/recap_david",
+      "https://x.com/therecapai"
+    ]
+  },
+  {
+    "id": "2010907696086626407",
+    "handle": "CyberCatX",
+    "time": "2026-01-13T02:52:10.000Z",
+    "text": "年轻人如何玩好金钱游戏？\n这是我今年看过最精彩的一个访谈，真心推荐每位想要学习投资的朋友都看一遍。这是来自世界最大对冲基金创始人 Ray Dalio 的建议：\n(1) 尽早进入金钱游戏，找到适合自己的，并且真正沉浸其中。\n(2) 把自己放进高手云集的环境里（如读书、看访谈，优质社群，etc）\n(3)",
+    "url": "https://x.com/CyberCatX/status/2010907696086626407",
+    "links": [
+      "https://x.com/CyberCatX",
+      "https://x.com/CyberCatX",
+      "https://x.com/CyberCatX"
+    ]
+  },
+  {
+    "id": "2010728446608150743",
+    "handle": "zachbruggeman",
+    "time": "2026-01-12T14:59:53.000Z",
+    "text": "Get the tech spec, and read all the lessons we learned along the way on our blog:\n\n\nhttps://\nbuilders.ramp.com/post/why-we-bu\nilt-our-background-agent\n…",
+    "url": "https://x.com/zachbruggeman/status/2010728446608150743",
+    "links": [
+      "https://x.com/zachbruggeman",
+      "https://x.com/zachbruggeman",
+      "https://x.com/zachbruggeman",
+      "https://x.com/zachbruggeman",
+      "https://t.co/rYJ3CjNhna"
+    ]
+  },
+  {
+    "id": "2010699140431503692",
+    "handle": "rryssf",
+    "time": "2026-01-12T13:03:26.000Z",
+    "text": "DeepMind just did the unthinkable.\n\nThey built an AI that doesn't need RAG and it has perfect memory of everything it's ever read.\n\nIt's called Recursive Language Models, and it might mark the death of traditional context windows forever.\n\nHere's how it works (and why it matters",
+    "url": "https://x.com/rryssf/status/2010699140431503692",
+    "links": [
+      "https://x.com/rryssf",
+      "https://x.com/rryssf",
+      "https://x.com/rryssf"
+    ]
+  },
+  {
+    "id": "2010692609883164736",
+    "handle": "shreyasgite",
+    "time": "2026-01-12T12:37:29.000Z",
+    "url": "https://x.com/shreyasgite/status/2010692609883164736",
+    "links": [
+      "https://x.com/shreyasgite",
+      "https://x.com/shreyasgite",
+      "https://x.com/shreyasgite"
+    ]
+  },
+  {
+    "id": "2010617457606594960",
+    "handle": "LMDC5288",
+    "time": "2026-01-12T07:38:52.000Z",
+    "text": "2026年四大潜力赛道：也许能跑出下一个百倍神话\n\n1. Ondo：美股代币化（RWA 新主线）\n2025 年 RWA 规模翻了三倍多，但真正的“大杀器”还没完全祭出来，那就是美股代币化。\n逻辑：全球绝大多数人买不到美股，Ondo 做的就是把英伟达、苹果映射到链上。16",
+    "url": "https://x.com/LMDC5288/status/2010617457606594960",
+    "links": [
+      "https://x.com/LMDC5288",
+      "https://x.com/LMDC5288",
+      "https://x.com/LMDC5288"
+    ]
+  },
+  {
+    "id": "2010609695707582736",
+    "handle": "Crypto_QianXun",
+    "time": "2026-01-12T07:08:01.000Z",
+    "text": "如何用 Nano Banana Pro 生成最像真的图？\n\n我自己踩了一圈坑，\n现在基本固定用这一套流程，成功率高很多\n\n 先别瞎想，直接抄\n\n我一般先去 Pinterest 找参考图。\n想要什么感觉，就搜什么风格：\n氛围、构图、光影、色调，全都有现成答案。\n\n看到顺眼的，直接存。\n\n 把图“翻译”成 AI 能懂的东西",
+    "url": "https://x.com/Crypto_QianXun/status/2010609695707582736",
+    "links": [
+      "https://x.com/Crypto_QianXun",
+      "https://x.com/Crypto_QianXun",
+      "https://x.com/Crypto_QianXun"
+    ]
+  },
+  {
+    "id": "2010548199321440357",
+    "handle": "yangyi",
+    "time": "2026-01-12T03:03:39.000Z",
+    "text": "一般的增长人员总会想去创造流量，而不是劫持流量\n\n有效的方式往往是去流量已经聚集的地方把他们直接转化过来\n比如你做SEO，可以创建针对\"[竞争对手]优惠码\"搜索的SEO页面： \n\n- Speechify创建了一个假的Veed优惠码页面\n- BlueNotary写了一篇\"DocuSign折扣\"文章",
+    "url": "https://x.com/yangyi/status/2010548199321440357",
+    "links": [
+      "https://x.com/yangyi",
+      "https://x.com/yangyi",
+      "https://x.com/yangyi"
+    ]
+  },
+  {
+    "id": "2010537804506489192",
+    "handle": "BitInsighter",
+    "time": "2026-01-12T02:22:21.000Z",
+    "text": "2026年是AI大爆发的一年，普通人能拥有的极少数稀缺机会，抓住一个就能跨越阶层。这一年我总共列出12个核心投资方向，覆盖AI基建、能源、资源、科技、新能源、医疗等领域，每个方向均具备“技术突破+需求爆发+政策支持”三重驱动，详细逻辑我将在后续每一篇中一一拆解，思考研究不易，请一键三连。",
+    "url": "https://x.com/BitInsighter/status/2010537804506489192",
+    "links": [
+      "https://x.com/BitInsighter",
+      "https://x.com/BitInsighter",
+      "https://x.com/BitInsighter"
+    ]
+  },
+  {
+    "id": "2010378163256451351",
+    "handle": "tychozzz",
+    "time": "2026-01-11T15:47:59.000Z",
+    "url": "https://x.com/tychozzz/status/2010378163256451351",
+    "links": [
+      "https://x.com/tychozzz",
+      "https://x.com/tychozzz",
+      "https://x.com/tychozzz"
+    ]
+  },
+  {
+    "id": "2010336296301162874",
+    "handle": "AYi_AInotes",
+    "time": "2026-01-11T13:01:37.000Z",
+    "text": "分享一个 AI 生图人脸一致性的方法，提示词大家评论区自取，用 grok 也很稳，甚至有惊喜\n\n上次发了个帖子求教 Nanobanana 怎么解决人脸一致性的问题，很多铁铁给的方法都特别棒，今天尝试了下。\n\n 目前我认为 AI 最大的 Bug 是 脸盲，\n想要生成这种女友写真集，\n不能靠运气抽卡，得靠锚点，\nPrompt",
+    "url": "https://x.com/AYi_AInotes/status/2010336296301162874",
+    "links": [
+      "https://x.com/AYi_AInotes",
+      "https://x.com/AYi_AInotes",
+      "https://x.com/AYi_AInotes"
+    ]
+  },
+  {
+    "id": "2009588048879661270",
+    "handle": "Connected_Data",
+    "time": "2026-01-09T11:28:21.000Z",
+    "text": "From Prompt Engineering to Knowledge Graphs - Part 1\n\nEvaluating LLM Prompts for Entity & Relation Extraction, and Why Complexity Never Disappears\n\nLLM-based knowledge extraction looks deceptively simple by sending a prompt like this to an LLM: “extract entities and relations",
+    "url": "https://x.com/Connected_Data/status/2009588048879661270",
+    "links": [
+      "https://x.com/Connected_Data",
+      "https://x.com/Connected_Data",
+      "https://x.com/Connected_Data"
+    ]
+  },
+  {
+    "id": "2009580453083201822",
+    "handle": "oggii_0",
+    "time": "2026-01-09T10:58:10.000Z",
+    "text": "Nano Banana Pro on \n@SocialSight\n \n\nPrompt: {\n  \"subject\": {\n    \"person\": \"Woman, appears to be in her 20s or 30s\",\n    \"pose_and_expression\": [\n      \"Standing by window, looking out, relaxed\",\n      \"Reaching for bottle on counter, hand focus\",\n      \"Looking in mirror, slight",
+    "url": "https://x.com/oggii_0/status/2009580453083201822",
+    "links": [
+      "https://x.com/oggii_0",
+      "https://x.com/oggii_0",
+      "https://x.com/oggii_0",
+      "https://x.com/SocialSight"
+    ]
+  },
+  {
+    "id": "2009515381174751428",
+    "handle": "weiyux2021",
+    "time": "2026-01-09T06:39:36.000Z",
+    "text": "在小红书卖虚拟产品，80天收益6万多！\n\n最近在搭建自己的闲鱼知识库，在想是不是可以把这个知识库放到小红书卖。\n\n昨天晚上便去小红书市集搜了下“知识库”，一眼就被这个油管大神的ai知识库销量吸引住了。\n\n带着好奇翻了下店铺，发现开店才80天，这收益相当可以呀",
+    "url": "https://x.com/weiyux2021/status/2009515381174751428",
+    "links": [
+      "https://x.com/weiyux2021",
+      "https://x.com/weiyux2021",
+      "https://x.com/weiyux2021"
+    ]
+  },
+  {
+    "id": "2009505717187989950",
+    "handle": "naval",
+    "time": "2026-01-09T06:01:12.000Z",
+    "text": "OH: “The AI race is our Chinese against their Chinese.” \nhttps://\nx.com/bookwormengr/s\n/bookwormengr/status/2009503245350416441\n…",
+    "url": "https://x.com/naval/status/2009505717187989950",
+    "links": [
+      "https://x.com/naval",
+      "https://x.com/naval",
+      "https://x.com/naval",
+      "https://help.twitter.com/rules-and-policies/notices-on-twitter"
+    ]
+  },
+  {
+    "id": "2009464580305768833",
+    "handle": "santiagoyoungus",
+    "time": "2026-01-09T03:17:44.000Z",
+    "text": "最好的生意就是：\n在中国做知识付费，在美国做电商。\n\n原因很简单，这俩都是市场足够大+基本盘够稳。\n\n一个从小应试教育长大，不找个老师就难受。\n一个从小超前消费长大，不买点什么就难受。",
+    "url": "https://x.com/santiagoyoungus/status/2009464580305768833",
+    "links": [
+      "https://x.com/santiagoyoungus",
+      "https://x.com/santiagoyoungus",
+      "https://x.com/santiagoyoungus"
+    ]
+  },
+  {
+    "id": "2009437616148713586",
+    "handle": "Morris_LT",
+    "time": "2026-01-09T01:30:35.000Z",
+    "text": "人什么时候最幸福？大病初愈，久别重逢，失而复得，虚惊一场，不期而遇，如约而至，不言而喻，未来可期。你发现没，人只有在接近幸福的时候，才是最幸福的，这就是为什么周五的晚上远比周日快乐。",
+    "url": "https://x.com/Morris_LT/status/2009437616148713586",
+    "links": [
+      "https://x.com/Morris_LT",
+      "https://x.com/Morris_LT",
+      "https://x.com/Morris_LT"
+    ]
+  },
+  {
+    "id": "2009248881343910184",
+    "handle": "GitHub_Daily",
+    "time": "2026-01-08T13:00:38.000Z",
+    "text": "想把 iCloud 里积攒的几千张照片备份到本地硬盘，只能在网页或 App 里手动操作，费时费力。\n\n偶然在 GitHub 发现 icloud_photos_downloader 这个开源的命令行工具，可以直接通过脚本下载整个 iCloud 照片库到本地。\n\n基于 Python",
+    "url": "https://x.com/GitHub_Daily/status/2009248881343910184",
+    "links": [
+      "https://x.com/GitHub_Daily",
+      "https://x.com/GitHub_Daily",
+      "https://x.com/GitHub_Daily"
+    ]
+  },
+  {
+    "id": "2009235181841109447",
+    "handle": "qisi_ai",
+    "time": "2026-01-08T12:06:11.000Z",
+    "text": "一次意外，我写出了这个能把场景和人物完美融合的提示词（完整提示词放在文末）\n\n起因是一位圈友找我，希望能把一个人物素材放进场景里，需要人物和环境光线保持一致，还要保持真实感（图一是提供的场景和人物）\n\n因为他是多家私人影院的老板，需要这样的素材做成视频来吸引客人。",
+    "url": "https://x.com/qisi_ai/status/2009235181841109447",
+    "links": [
+      "https://x.com/qisi_ai",
+      "https://x.com/qisi_ai",
+      "https://x.com/qisi_ai"
+    ]
+  },
+  {
+    "id": "2009107630908932416",
+    "handle": "tangpanqing",
+    "time": "2026-01-08T03:39:21.000Z",
+    "text": "我忽然明白一个事：赚钱是有方法的。\n\n第1步：给对方一个希望。\n\n第2步：给对方一个工具。\n\n第3步：收钱。",
+    "url": "https://x.com/tangpanqing/status/2009107630908932416",
+    "links": [
+      "https://x.com/tangpanqing",
+      "https://x.com/tangpanqing",
+      "https://x.com/tangpanqing"
+    ]
+  },
+  {
+    "id": "2008965413162430508",
+    "handle": "EyalToledano",
+    "time": "2026-01-07T18:14:13.000Z",
+    "url": "https://x.com/EyalToledano/status/2008965413162430508",
+    "links": [
+      "https://x.com/EyalToledano",
+      "https://x.com/EyalToledano",
+      "https://x.com/EyalToledano"
+    ]
+  },
+  {
+    "id": "2008403894263775273",
+    "handle": "qisi_ai",
+    "time": "2026-01-06T05:02:57.000Z",
+    "text": "2026.1.6「AIX」社群正式启动！\n\n我的账号没有起号帖，没有刻意的加热，前期靠的是高质量的二创AI作品，账号连续发布了30天，做了好几个系列才慢慢有了起色，粉丝都是慢慢死磕出来的。\n\n如果你是 AI创作者 ，但涨粉慢、互动低、账号没起色的话\n\n如果你想学习AI，想精通AI人像，想探索AI能力边际的话",
+    "url": "https://x.com/qisi_ai/status/2008403894263775273",
+    "links": [
+      "https://x.com/qisi_ai",
+      "https://x.com/qisi_ai",
+      "https://x.com/qisi_ai"
+    ]
+  },
+  {
+    "id": "2008082060817342869",
+    "handle": "KirkMarple",
+    "time": "2026-01-05T07:44:06.000Z",
+    "url": "https://x.com/KirkMarple/status/2008082060817342869",
+    "links": [
+      "https://x.com/KirkMarple",
+      "https://x.com/KirkMarple",
+      "https://x.com/KirkMarple"
+    ]
+  },
+  {
+    "id": "2007983299915076075",
+    "handle": "KKaWSB",
+    "time": "2026-01-05T01:11:39.000Z",
+    "text": "炒股神器来了。\nAnthropic 的新型人工智能模型能够理解财务报表，对其进行分析，并在几秒钟内生成一份投资备忘录。\n\n金融领域的初级职位很快就会面临失业潮。人工智能取代他们的速度比我们想象的要快得多。",
+    "url": "https://x.com/KKaWSB/status/2007983299915076075",
+    "links": [
+      "https://x.com/KKaWSB",
+      "https://x.com/KKaWSB",
+      "https://x.com/KKaWSB"
+    ]
+  },
+  {
+    "id": "2007820142860812424",
+    "handle": "wenkafka",
+    "time": "2026-01-04T14:23:20.000Z",
+    "url": "https://x.com/wenkafka/status/2007820142860812424",
+    "links": [
+      "https://x.com/wenkafka",
+      "https://x.com/wenkafka",
+      "https://x.com/wenkafka"
+    ]
+  },
+  {
+    "id": "2007429236521357644",
+    "handle": "UiSavior",
+    "time": "2026-01-03T12:30:00.000Z",
+    "text": "Go-to sites to learn UI design for free \n\nMotion → \nhttp://\n60fps.design\nPatterns → \nhttp://\ncatalogue.projectsbyif.com\nAB Tests → \nhttp://\nabtest.design\nInspiration → \nhttp://\ndesignspells.com\nBreakdowns → \nhttp://\nuxsnaps.com\nUI components → \nhttp://\nuiplaybook.dev\n\nDid I miss",
+    "url": "https://x.com/UiSavior/status/2007429236521357644",
+    "links": [
+      "https://x.com/UiSavior",
+      "https://x.com/UiSavior",
+      "https://x.com/UiSavior",
+      "https://t.co/RbDLwod3Sc",
+      "https://t.co/ouboc2azmF",
+      "https://t.co/5lc9wNYSAO",
+      "https://t.co/vDFl2UpY7e",
+      "https://t.co/Ox4zbzx3Sf",
+      "https://t.co/UMuIPdltEA"
+    ]
+  },
+  {
+    "id": "2007361915740447048",
+    "handle": "hunterweb303",
+    "time": "2026-01-03T08:02:30.000Z",
+    "text": "再解释一下吼\n拆解一下 vida 大佬的事件流程\n\n① Vida 的第一步：短时间涨幅把他叫醒\n\nVida 原文：\n\n“我给小币设置了 1800 秒内涨幅超过 30% 的提醒\n程序疯狂报警，我开始全神贯注盯盘”\n\n 对应产品功能：短时涨幅异常监控\n\n“现在有没有发生不正常的事情，值得我立刻关注？”\n\n5m / 15m / 30m / 1h",
+    "url": "https://x.com/hunterweb303/status/2007361915740447048",
+    "links": [
+      "https://x.com/hunterweb303",
+      "https://x.com/hunterweb303",
+      "https://x.com/hunterweb303"
+    ]
+  },
+  {
+    "id": "2007344451392524476",
+    "handle": "turingou",
+    "time": "2026-01-03T06:53:06.000Z",
+    "text": "我觉得 llm agents 快要接触到商业的本质了：企业家关于不对称信息的洞见。每一个企业家都是一套 skill set，每一个企业都是无数套 workflow，金融与企业的实体间流动的细胞液就是 crypto，商业自动化时代的水与电。",
+    "url": "https://x.com/turingou/status/2007344451392524476",
+    "links": [
+      "https://x.com/turingou",
+      "https://x.com/turingou",
+      "https://x.com/turingou"
+    ]
+  },
+  {
+    "id": "2007335594146574785",
+    "handle": "coolish",
+    "time": "2026-01-03T06:17:54.000Z",
+    "text": "不少2024前后抓到meme大机会的玩家，\n都是在2021~2022浸泡在nft市场，\n提前训练对加密亚文化传播“基于体感”的认知差。\n\n假如2026~2027的新Alpha大机会，\n大概率会从AI、DeAI、Agentic Adoption土壤里来，\n那么现在该做的事情，\n就是至少从用户角度，\n从自己日常事务切入，\n浸泡在各种各种AI运用里。",
+    "url": "https://x.com/coolish/status/2007335594146574785",
+    "links": [
+      "https://x.com/coolish",
+      "https://x.com/coolish",
+      "https://x.com/coolish"
+    ]
+  },
+  {
+    "id": "2007321536089469013",
+    "handle": "FinanceYF5",
+    "time": "2026-01-03T05:22:03.000Z",
+    "text": "Andrej Karpathy 直接展示如何通过提示在 30 分钟内构建应用。",
+    "url": "https://x.com/FinanceYF5/status/2007321536089469013",
+    "links": [
+      "https://x.com/FinanceYF5",
+      "https://x.com/FinanceYF5",
+      "https://x.com/FinanceYF5"
+    ]
+  },
+  {
+    "id": "2007123721543135563",
+    "handle": "ln_dev7",
+    "time": "2026-01-02T16:16:00.000Z",
+    "text": "Open-source file manager dashboard built with \n@shadcn\n \n\nGitHub: \nhttps://\ngithub.com/ln-dev7/square\n-ui\n…\n\n© \n@base_ui\n x \n@huge_icons",
+    "url": "https://x.com/ln_dev7/status/2007123721543135563",
+    "links": [
+      "https://x.com/ln_dev7",
+      "https://x.com/ln_dev7",
+      "https://x.com/ln_dev7",
+      "https://x.com/shadcn",
+      "https://t.co/NobUx2fPsp",
+      "https://x.com/base_ui",
+      "https://x.com/huge_icons"
+    ]
+  },
+  {
+    "id": "2006638374371864982",
+    "handle": "FinanceYF5",
+    "time": "2026-01-01T08:07:24.000Z",
+    "text": "垂直 AI 代理将在 2026 年成为巨大机会，原因如下：\n\n市场上充斥着试图面面俱到的横向工具，臃肿、通用。\n\n而且大多数都很糟糕。\n\n真正赚钱的是专门的代理系统，解决某个行业的一个瓶颈。",
+    "url": "https://x.com/FinanceYF5/status/2006638374371864982",
+    "links": [
+      "https://x.com/FinanceYF5",
+      "https://x.com/FinanceYF5",
+      "https://x.com/FinanceYF5"
+    ]
+  },
+  {
+    "id": "2006382073418752250",
+    "handle": "gregisenberg",
+    "time": "2025-12-31T15:08:57.000Z",
+    "text": "2026 is the GREATEST time to build a startup in 30 years\n\nI’m 36. I’ve sold 3 startups, helped build companies that raised billions, and backed teams from seed to unicorn.\n\n20 MEGA shifts that make this the BEST time to build in a GENERATION:\n\n1. Hardware got smart. Download",
+    "url": "https://x.com/gregisenberg/status/2006382073418752250",
+    "links": [
+      "https://x.com/gregisenberg",
+      "https://x.com/gregisenberg",
+      "https://x.com/gregisenberg"
+    ]
+  },
+  {
+    "id": "2005487150142472349",
+    "handle": "geekbb",
+    "time": "2025-12-29T03:52:51.000Z",
+    "text": "安利一个神仙地图组件库——mapcn\n这玩意的口号是：白给，零配置，一条命令直接起飞。\n- 基于地图界的老牌劲旅 MapLibre GL\n- 现在最流行的前端装修队 Tailwind + shadcn/ui \n- 标记弹窗、路线绘制、缩放控件...一条龙服务\n\nhttps://\ngithub.com/AnmolSaini16/m\napcn\n…",
+    "url": "https://x.com/geekbb/status/2005487150142472349",
+    "links": [
+      "https://x.com/geekbb",
+      "https://x.com/geekbb",
+      "https://x.com/geekbb",
+      "https://t.co/OMHZEd6rG2"
+    ]
+  },
+  {
+    "id": "2004251415410364796",
+    "handle": "coolish",
+    "time": "2025-12-25T18:02:29.000Z",
+    "text": "前阵子看到 \n@tmel0211\n 总结“目前Crypto的技术叙事，已经被归纳为两个主线：\n资产代币化（RWA），和用户Agent化\n（\nhttps://\nx.com/tmel0211/statu\ns/2003703501386580083\n…）",
+    "url": "https://x.com/coolish/status/2004251415410364796",
+    "links": [
+      "https://x.com/coolish",
+      "https://x.com/coolish",
+      "https://x.com/coolish",
+      "https://x.com/JovankaNikolcic",
+      "https://x.com/MossAI_Official",
+      "https://x.com/tmel0211"
+    ]
   },
   {
     "id": "1930508922517164037",
-    "author": "IraqHandsomeBoy",
+    "handle": "IraqHandsomeBoy",
     "name": "IraqHandsomeBoy",
+    "time": "Thu Jun 05 06:16:08 +0000 2025",
     "text": "前几天约了个做 TikTok 跨境的老友小聚，结果没想到，他顺手把他们公司新挖的选品大佬也叫来了。\n我本来心想：混个脸熟、蹭顿饭、顺带听两句行话就走，结果聊着聊着，这哥们儿三句话直接把我拍醒——\n原来那些我以前当成“凭运气”的爆品，背后居然全是算出来的。 https://t.co/bSaNUUxK3j",
+    "url": "https://x.com/IraqHandsomeBoy/status/1930508922517164037",
     "likes": 561,
     "retweets": 128,
-    "bookmarks": 818,
-    "created_at": "Thu Jun 05 06:16:08 +0000 2025",
-    "url": "https://x.com/IraqHandsomeBoy/status/1930508922517164037"
-  },
-  {
-    "id": "1923298372896592110",
-    "author": "FinanceYF5",
-    "name": "AI Will",
-    "text": "如果你是公司员工，取消你的爱好、Netflix 和娱乐。每周腾出 30 小时，在接下来的三年里打造一个月收入超过 10k 美元的独立项目。\n\n把它当作一种生存挑战。\n\n你可能无法实现它，但不尝试才是最终的失败。\n\n如何开始： https://t.co/tJbwePsUjg",
-    "likes": 128,
-    "retweets": 21,
-    "bookmarks": 128,
-    "created_at": "Fri May 16 08:43:59 +0000 2025",
-    "url": "https://x.com/FinanceYF5/status/1923298372896592110"
+    "bookmarks": 818
   },
   {
     "id": "1923312587028222243",
-    "author": "shizhiang1",
+    "handle": "shizhiang1",
     "name": "Eric 在搞钱",
+    "time": "Fri May 16 09:40:28 +0000 2025",
     "text": "2025被低估的5个蓝海平台\n给大家分析几个被低估的暴利平台，抓住风口，才能逆袭~\n一、 OZON：俄罗斯版亚马逊，闷声发大财\n平台基因：\n用户：yi.3亿俄语区中产，客单价$50+\n生态位：汽配/家电/母婴（中国货溢价200%）\n💰 暴利公式：\n中国yi 688进货价×2.5倍 = OZON售价（运费藏入价格）\n例：车载手机支架（￥8 → ￥20）\n⚠️ 生死线：\n物流：只用CDEK/Wildberries官方仓（平邮必丢件）\n选品：避开服装（退货率40%+）",
+    "url": "https://x.com/shizhiang1/status/1923312587028222243",
     "likes": 435,
     "retweets": 129,
-    "bookmarks": 492,
-    "created_at": "Fri May 16 09:40:28 +0000 2025",
-    "url": "https://x.com/shizhiang1/status/1923312587028222243"
+    "bookmarks": 492
+  },
+  {
+    "id": "1923298372896592110",
+    "handle": "FinanceYF5",
+    "name": "AI Will",
+    "time": "Fri May 16 08:43:59 +0000 2025",
+    "text": "如果你是公司员工，取消你的爱好、Netflix 和娱乐。每周腾出 30 小时，在接下来的三年里打造一个月收入超过 10k 美元的独立项目。\n\n把它当作一种生存挑战。\n\n你可能无法实现它，但不尝试才是最终的失败。\n\n如何开始： https://t.co/tJbwePsUjg",
+    "url": "https://x.com/FinanceYF5/status/1923298372896592110",
+    "likes": 128,
+    "retweets": 21,
+    "bookmarks": 128
+  },
+  {
+    "id": "1923000419036348899",
+    "handle": "GitHub_Daily",
+    "time": "2025-05-15T13:00:02.000Z",
+    "text": "发现 GitHub 上 Graphiti 这款强大的开源框架，专为动态环境中的 AI 代理打造时间感知的知识图谱，给需要实时处理变化数据的 AI 开发者提供开源解决方案。\n\n通过连续整合用户互动、企业数据和外部信息到一个可查询的图谱中，实现增量更新、高效检索和精确的历史查询，而且不需要重新计算整个图谱。",
+    "url": "https://x.com/GitHub_Daily/status/1923000419036348899",
+    "links": [
+      "https://x.com/GitHub_Daily",
+      "https://x.com/GitHub_Daily",
+      "https://x.com/GitHub_Daily"
+    ]
+  },
+  {
+    "id": "1908483063019106794",
+    "handle": "TingHu888",
+    "time": "2025-04-05T11:33:14.000Z",
+    "text": "你以为你看到了一个好机会～",
+    "url": "https://x.com/TingHu888/status/1908483063019106794",
+    "links": [
+      "https://x.com/TingHu888",
+      "https://x.com/TingHu888",
+      "https://x.com/TingHu888"
+    ]
+  },
+  {
+    "id": "1908328410797289633",
+    "handle": "wanerfu",
+    "time": "2025-04-05T01:18:42.000Z",
+    "text": "人生支点越多，你的内核就越稳",
+    "url": "https://x.com/wanerfu/status/1908328410797289633",
+    "links": [
+      "https://x.com/wanerfu",
+      "https://x.com/wanerfu",
+      "https://x.com/wanerfu"
+    ]
+  },
+  {
+    "id": "1908316989799751928",
+    "handle": "snakeNHX",
+    "time": "2025-04-05T00:33:19.000Z",
+    "text": "水至清则无鱼，人至察则无徒 心至静则智生，智至明则事成 心若乱，则事繁 心若安，理自明 静以修身，俭以养德 淡泊以明志，宁静以致远 行有不得，反求诸己 遇逆境不责天尤人，常思己过，方能见己不足 修身齐家，进德修业，方能转危为安 责人易，而责己难 能自省者，终成大器",
+    "url": "https://x.com/snakeNHX/status/1908316989799751928",
+    "links": [
+      "https://x.com/snakeNHX",
+      "https://x.com/snakeNHX",
+      "https://x.com/snakeNHX"
+    ]
+  },
+  {
+    "id": "1887282341493809393",
+    "handle": "pinfan1",
+    "time": "2025-02-05T23:29:08.000Z",
+    "text": "《一人公司起步的思维》由保罗·贾维斯（Paul Jarvis）创作。\n这本书为想要独自创业的人提供了宝贵思路。它讲述如何以一人之力开启事业，分享实用方法和策略，打破传统创业的束缚。无论是初创业者还是想要突破的小伙伴，都能从中获取灵感。评论区有阅读地址 \n#一人公司 #创业思维 #保罗贾维斯",
+    "url": "https://x.com/pinfan1/status/1887282341493809393",
+    "links": [
+      "https://x.com/pinfan1",
+      "https://x.com/pinfan1",
+      "https://x.com/pinfan1",
+      "https://x.com/i/communities/1661871962073825281/hashtag/%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8",
+      "https://x.com/i/communities/1661871962073825281/hashtag/%E5%88%9B%E4%B8%9A%E6%80%9D%E7%BB%B4",
+      "https://x.com/i/communities/1661871962073825281/hashtag/%E4%BF%9D%E7%BD%97%E8%B4%BE%E7%BB%B4%E6%96%AF"
+    ]
   },
   {
     "id": "1885296282841079908",
-    "author": "yangyi",
+    "handle": "yangyi",
     "name": "Yangyi",
+    "time": "Fri Jan 31 11:57:15 +0000 2025",
     "text": "当你你在阅读本文时，你的脖子很可能处于前倾姿势  \n“脖颈前倾”会让你变得看起来很蠢，缺少气质，甚至会导致脱发\n以下是修复方法 https://t.co/EMYORRblzr",
+    "url": "https://x.com/yangyi/status/1885296282841079908",
     "likes": 7834,
     "retweets": 1344,
-    "bookmarks": 5440,
-    "created_at": "Fri Jan 31 11:57:15 +0000 2025",
-    "url": "https://x.com/yangyi/status/1885296282841079908"
+    "bookmarks": 5440
+  },
+  {
+    "id": "1885215720872755379",
+    "handle": "yangyi",
+    "time": "2025-01-31T06:37:08.000Z",
+    "text": "Noah Kagan写的《Million Dollar Weekend》这本书里，有一个理论，很多人都知道，但很多人却做不到\n\n称之为 100法则 ， The law of 100\n\n什么是100法则呢？\n就是专注于完成100次重复，把它当作练习和实践的过程，而不是关注成功或失败。这种思维方式能帮助你在遇到困难时保持前进的动力。\n\n核心关键：",
+    "url": "https://x.com/yangyi/status/1885215720872755379",
+    "links": [
+      "https://x.com/yangyi",
+      "https://x.com/yangyi",
+      "https://x.com/yangyi"
+    ]
+  },
+  {
+    "id": "1882660558220234881",
+    "handle": "xDinoDeer",
+    "time": "2025-01-24T05:23:49.000Z",
+    "text": "9S8",
+    "url": "https://x.com/xDinoDeer/status/1882660558220234881",
+    "links": [
+      "https://x.com/xDinoDeer",
+      "https://x.com/xDinoDeer",
+      "https://x.com/xDinoDeer"
+    ]
+  },
+  {
+    "id": "1881170543317246392",
+    "handle": "oooooyoung",
+    "time": "2025-01-20T02:43:02.000Z",
+    "text": "新人从二级到链上 ——> 链上工具汇总\n\n目前链上情绪有点太偏激了，新盘有点角度或者有点实力的 AI 基本都变成了1小时速通盘，更别说这两天的特朗普家族币了\n\n很多人还在等着上交易所来买卖，实际大佬用链上工具冲狗，做个工具汇总\n\n一、交易、看线类工具：\n\n",
+    "url": "https://x.com/oooooyoung/status/1881170543317246392",
+    "links": [
+      "https://x.com/oooooyoung",
+      "https://x.com/oooooyoung",
+      "https://x.com/oooooyoung"
+    ]
+  },
+  {
+    "id": "1881015235299156000",
+    "handle": "BroLeon",
+    "time": "2025-01-19T16:25:54.000Z",
+    "text": "《 2025狂想预言 》\nTrump发币最大的意义就是已经前面有个高的顶着了，接下去进入”人有多大胆，地有多大产阶段“。之前玩币圈的精英还是另类人群，但接下去进来的可就是正规军了。\n\n我也来做点预测：\n\n1、两个月内，多个国家总统发币。最有可能的包括萨尔瓦多总统，阿根廷总统。",
+    "url": "https://x.com/BroLeon/status/1881015235299156000",
+    "links": [
+      "https://x.com/BroLeon",
+      "https://x.com/BroLeon",
+      "https://x.com/BroLeon"
+    ]
+  },
+  {
+    "id": "1880157294631219357",
+    "handle": "didengshengwu",
+    "time": "2025-01-17T07:36:45.000Z",
+    "url": "https://x.com/didengshengwu/status/1880157294631219357",
+    "links": [
+      "https://x.com/didengshengwu",
+      "https://x.com/didengshengwu",
+      "https://x.com/didengshengwu"
+    ]
+  },
+  {
+    "id": "1880072311916884436",
+    "handle": "xiaoying_eth",
+    "time": "2025-01-17T01:59:03.000Z",
+    "text": "如果你厌倦了朝九晚五的工作\n\n这里有 12 个网站，写作文章可以获得 200 到 900 美元的报酬：",
+    "url": "https://x.com/xiaoying_eth/status/1880072311916884436",
+    "links": [
+      "https://x.com/xiaoying_eth",
+      "https://x.com/xiaoying_eth",
+      "https://x.com/xiaoying_eth"
+    ]
+  },
+  {
+    "id": "1876280481299448198",
+    "handle": "minchoi",
+    "time": "2025-01-06T14:51:41.000Z",
+    "text": "This is wild.\n\nBrowser Use AI Agent can do your work for you.\n\n7 wild demos:\n\n1. Reads your CV, finds matching jobs, and applies online... all on its own ",
+    "url": "https://x.com/minchoi/status/1876280481299448198",
+    "links": [
+      "https://x.com/minchoi",
+      "https://x.com/minchoi",
+      "https://x.com/minchoi"
+    ]
   },
   {
     "id": "1856033215158407359",
-    "author": "Percy43508644",
+    "handle": "Percy43508644",
     "name": "Percy",
+    "time": "Mon Nov 11 17:56:16 +0000 2024",
     "text": "斯蒂芬-米勒（Stephen Miller）被川普任命为负责美国国家政策的副幕僚长。作为川普心腹在2017年与班农闹翻。\n班农在上届川普上任后任首席策略师不到7个月，就被请出了白宫。\n郭文贵就算是抱住班农的大腿再紧，也很难凑近川普求特赦…… \n不知道郭骗扬言从MDC无罪开释走出来，是不是又在吹狼🥚？🤔🤔🤔",
+    "url": "https://x.com/Percy43508644/status/1856033215158407359",
     "likes": 32,
     "retweets": 6,
-    "bookmarks": 3,
-    "created_at": "Mon Nov 11 17:56:16 +0000 2024",
-    "url": "https://x.com/Percy43508644/status/1856033215158407359"
+    "bookmarks": 3
   },
   {
     "id": "1853791730212216937",
-    "author": "FinanceYF5",
+    "handle": "FinanceYF5",
     "name": "AI Will",
+    "time": "Tue Nov 05 13:29:24 +0000 2024",
     "text": "James Eagle 揭示凌晨4点真实的美国人生活：\n\n“现在是凌晨4点。当LinkedIn上的职场达人们发帖谈论他们的“晨间奋斗”时，真实的数据却展示了另一番景象。一千个点。一千个真实的美国人。不是网红，不是励志演讲者，只是普通人，通过美国劳工统计局的《美国时间使用调查》记录下来。” https://t.co/JJC8nrCPng",
+    "url": "https://x.com/FinanceYF5/status/1853791730212216937",
     "likes": 1124,
     "retweets": 271,
-    "bookmarks": 779,
-    "created_at": "Tue Nov 05 13:29:24 +0000 2024",
-    "url": "https://x.com/FinanceYF5/status/1853791730212216937"
+    "bookmarks": 779
   },
   {
     "id": "1834926726268567987",
-    "author": "zeyu_kap",
+    "handle": "zeyu_kap",
     "name": "random",
+    "time": "Sat Sep 14 12:06:37 +0000 2024",
     "text": "常常会惊叹于英文圈的高质量interview和podcast，给我一种取之不尽用之不竭的错觉，同质量下中文的内容则很有限了。\n强烈建议没有听过英文版podcast的人去尝试一下，无论是对于语言的提升还是对于这个世界的打开方式都会有所不同。\n顺便分享一下我自己收藏的podcast/油管频道:",
+    "url": "https://x.com/zeyu_kap/status/1834926726268567987",
     "likes": 5956,
     "retweets": 1424,
-    "bookmarks": 7116,
-    "created_at": "Sat Sep 14 12:06:37 +0000 2024",
-    "url": "https://x.com/zeyu_kap/status/1834926726268567987"
+    "bookmarks": 7116
   },
   {
     "id": "1832778580343869613",
-    "author": "knowledgefxg",
+    "handle": "knowledgefxg",
     "name": "知识分享官",
+    "time": "Sun Sep 08 13:50:39 +0000 2024",
     "text": "没事读本书：《动物农场》带给我们的6大寓意\n本书是英国作家乔治·奥威尔于1945年出版的一部著名小说。这本书是一个寓言故事,通过描述农场里的动物反抗人类统治、建立自己政权的过程,来讽刺和批评当时的苏联极权主义制度。\n#没事读本书 https://t.co/l8okqpdKVq",
+    "url": "https://x.com/knowledgefxg/status/1832778580343869613",
     "likes": 650,
     "retweets": 127,
-    "bookmarks": 436,
-    "created_at": "Sun Sep 08 13:50:39 +0000 2024",
-    "url": "https://x.com/knowledgefxg/status/1832778580343869613"
+    "bookmarks": 436
   },
   {
     "id": "1779298716744351762",
-    "author": "0xluffy_eth",
+    "handle": "0xluffy_eth",
     "name": "路飞 🏴‍☠️ AI 研究员🧐",
+    "time": "Sun Apr 14 00:00:46 +0000 2024",
     "text": "ChatGPT写出的文本很容易被检测出来。\n\n但是我发现了一种AI黑科技，生成的回复很像人类的，无法被AI检测系统发现。\n\n具体实现方法如下：",
+    "url": "https://x.com/0xluffy_eth/status/1779298716744351762",
     "likes": 743,
     "retweets": 236,
-    "bookmarks": 803,
-    "created_at": "Sun Apr 14 00:00:46 +0000 2024",
-    "url": "https://x.com/0xluffy_eth/status/1779298716744351762"
+    "bookmarks": 803
+  },
+  {
+    "id": "1748947404383220149",
+    "handle": "gefei55",
+    "time": "2024-01-21T05:55:29.000Z",
+    "text": "我之前写的“养网站防老入门系列建站部分”，总共12篇文章，分享给大家，适合零基础入门：\n\n开篇：网站可以做成一生的事业 \nhttps://\nmp.weixin.qq.com/s/URcdE3VaoYoA\nx0cOcll8_g\n…\n\n第0步：如果你没有编程基础，如果你不会前端开发，那么推荐跟着这个免费视频教程学习 \nhttps://\nmp.weixin.qq.com/s/mtJY6TKCVjZQ\nRmeFkWPAfQ\n…\n\n第1步：挖掘出第1个需求",
+    "url": "https://x.com/gefei55/status/1748947404383220149",
+    "links": [
+      "https://x.com/gefei55",
+      "https://x.com/gefei55",
+      "https://x.com/gefei55",
+      "https://t.co/lt2Q5i8EOC",
+      "https://t.co/1KFlnEGiWl"
+    ]
   },
   {
     "id": "1743791697304109452",
-    "author": "dotey",
+    "handle": "dotey",
     "name": "宝玉",
+    "time": "Sun Jan 07 00:28:33 +0000 2024",
     "text": "纽约客2019年的一篇文章：《研究表明，依靠意志力改掉坏习惯是徒劳无功的》\n\n几年前，我购买了一部智能手机，很快就爱不释手。随时随地能发邮件、查信息或购物，这为我带来了前所未有的效率提升。手机每收到一封邮件就会发出“嘀”的一声，我随即处理它，为自己的效率沾沾自喜。短信到来伴随着法国号的声音，我也会迅速回复。不久，我开始条件反射般地一听到手机响就伸手去拿，就像帕夫洛夫的狗听到铃声就会流口水。这渐渐干扰了我的工作和谈话。这台本应是神奇助手的机器，却慢慢让我沦为了它的奴隶。\n\n我一直自认为意志力很强。像许多经历过医学训练的人一样，那些早起、长时间轮班，而朋友们却在享受派对的人，我已习惯于延迟满足。但这都没用。当我尝试把手机调成静音，我反而更频繁地检查它，生怕错过什么。唯一能控制自己不看手机的时候是安息日，因为那时我不查邮件。但我会不停地看表，计算着何时能再打开手机。那是我第一次真切感受到吸烟者对香烟的渴望。检查智能手机已成为我难以摆脱的坏习惯。\n\n习惯的好坏一直吸引着哲学家和政策制定者。亚里士多德在他的作品《尼各马可伦理学》中探讨了美德的不同理念，并总结道：“有人认为人之初性本善，有人说是习惯使然，还有人觉得教育至关重要。”他的结论是习惯扮演了关键角色。西塞罗将习惯称作“第二天性”，这个说法至今仍广为流传。亚历山大·汉密尔顿在《联邦党人文集》第 27 号文章中，当他思考如何培养出遵守新共和国联邦法律的公民时，他提到了“人是习惯的奴隶”。汉密尔顿认为，如果联邦法律深入州级事务，它将成为人们日常生活的一部分。“它越是融入人们激情自然流动的渠道，就越不需要强制手段的帮助，”他写道。\n\n在现代，习惯已成为科学研究的重要领域。心理学家深入研究了习惯行为的形成及其对健康和幸福的影响。威廉·詹姆斯回应亚里士多德的观点，写道：“我们的生活，只要形成了一定的模式，就是由各种习惯构成的——实用的、情感的、智力的……它们不可抗拒地推动我们走向命运。”\n\n我们大多数人不愿意把自己看作被动的存在。那意志力呢？市场营销通过像“Just Do It”（耐克）和“Declare Your Path”（新百伦）这样的口号，来抚慰我们对自主意识的渴望。很多流行心理学也强化了我们对自我控制的信念。在六十年代，沃尔特·米歇尔设计的著名斯坦福棉花糖实验中，孩子们要面对一块棉花糖，他们是否能抵抗住立即吃掉它的冲动，将决定他们的“执行功能”水平。这个实验被认为能预测孩子未来的成功，如 SAT 成绩、人际关系的持久度和职业成就。但如果我们只是习惯的产物，这一切又如何解释呢？\n\n在《好习惯，坏习惯》一书中（由 Farrar, Straus & Giroux 出版），社会心理学家 Wendy Wood 对 James 的决定论和轻率的自我激励论进行了反驳。她试图为普通读者提供更实际的方法来打破习惯。她基于自己的领域研究，认为维护积极行为和遏制消极行为需要决策与无意识因素的共同作用。Wood 解释说，我们的大脑有“多个独立但相互连接的行为指导机制。”但我们只能意识到决策能力——这种现象被称为“内省错觉”——这可能是我们过分高估了这种能力的原因。她写道，让意志力成为可能的执行功能给了我们一种“代理感”，让我们认为这就是“我”。但这是以付出努力为代价的。为了日常生活，我们需要某些行为变得自动化。\n\n功能性磁共振成像（fMRI）扫描让研究者能够窥探在机械性任务和有意识任务期间活跃的不同神经网络。学习新任务时，大脑扫描显示前额叶皮层和海马体的活跃，这些区域与决策和执行控制相关。随着任务重复，大脑活动转移到纹状体和基底节，即 Wood 称为“我们心灵的基础机制”的部分。在这里，任务转变为习惯。\n\n这些更原始的大脑区域对我们的精神能量需求更少。一系列动作变得连贯，这个过程称为“分块 (chunking)”。例如，当我们上车准备开车时，我们不需要分别考虑系安全带、打火、挂挡、检查后视镜和盲区、踩油门等动作。所有这些步骤被整合在记忆中，形成一个单元，由上车这一环境线索触发。这使我们能够专注于那些最需要我们有意识关注的事情，比如思考目的地、规划当天的任务，同时留意路上的任何异常情况。\n\nWood 的研究起初并不是聚焦于习惯，而是坚持。对于像打流感疫苗这样的“偶发性、一次性行为”，有意识的决策就足够了。然而，对于需要重复的行为，习惯就显得至关重要。William James 曾估计，我们的活动中有“几乎全部是自动和习惯性的。”这只是一个推测；但 Wood 通过一项研究，量化了人们多少行为是出于习惯。她用一种名为“体验抽样”(experience sampling) 的技术，让参与者在两天内记录自己的所作所为。研究结果虽各组不同，但基本发现是我们大约 43% 的行为是习惯性的。\n\n这就解释了为什么仅凭意识上的知识还不足以改变行为，以及为什么仅仅通过教育人们做出健康选择的公共卫生倡议往往会失败。1991 年，国家癌症研究所发现只有 8% 的美国人知道每天至少应该吃五份水果和蔬菜。随后发起了一项全国运动：“每天五份，为了更好的健康。”六年后，知道这一建议的美国人增至 39%，增长了近五倍，但实际饮食习惯几乎未变。2007 年，政府官员再次尝试，推出了“水果与蔬菜 - 更多益处”计划。然而，到 2018 年，每天吃两份水果的美国人仅占 12%，吃三份蔬菜的仅 9%。仅仅告知我们什么对我们有益是无效的，因为我们的饮食、烹饪和购物习惯主宰了我们的行为。\n\n在 Mischel 的棉花糖实验中，只有四分之一的参与者能坚持十五分钟不吃棉花糖。这意味着大多数人缺乏成功所需的自控力。但研究中不太为人所知的一部分，提出了绕开我们脆弱的方法。研究者比较了两种情况：一种是孩子们能看到面前的棉花糖；另一种则是知道棉花糖在那儿，但看不到它。结果显示，面对可见诱惑时，孩子们平均只能坚持六分钟，但如果把诱惑藏起来，他们能坚持十分钟。对 Wood 而言，这说明自控力“并非内在品质，而是我们所处环境的反映。”通过微调环境，我们也许能够模仿那些看起来更有自制力的人。\n\n一项研究调查了大学生的自控能力，结果支持了这一假设。研究要求学生每次想到“哎呀，我不应该这么做”的时候就报告，例如熬夜、睡懒觉、暴饮暴食或拖延。他们在养成有益行为时，最有效的方式并非下定决心做得更好，或是分散对诱惑的注意，而是改变自己的环境。他们选择不在带电视的寝室沙发上学习，而是去图书馆。他们还发现，清除寝室冰箱里的垃圾食品后，饮食变得更健康。伍德指出：“成功的自控，实际上来自于有效隐藏诱惑。”\n\n即便是在自控问卷上得分高的人，他们看似的美德可能更多源于情境因素，而非单纯的意志力。在德国对这类人的一项研究中，他们很少报告自己抵抗诱惑的情况。“他们的生活方式几乎一直在隐藏诱惑，”伍德如是写道。这一观察引出了她书中论点的核心：摆脱坏习惯的关键不在于决心，而在于以支持良好行为的方式重新构建我们的环境。伍德引用了心理学家库尔特·莱文 (Kurt Lewin) 的理论，他认为行为受到类似于重力或使河流加速或减速的流体动力学的“一系列力量”的影响。这些力量取决于你所处的环境、周围的人、一天中的时间，以及你最近的行为。我们通过寻找方法从方程式中移除意志力，反而能够实现情境控制，这似乎有些矛盾，但并不是靠意志力实现的。\n\n伍德认为，根除坏习惯的关键力量是“障碍”：如果我们能增加坏习惯的不便性，那么惯性就会帮助我们朝着美德方向前进，而无需我们表现出坚强。她列举了增加障碍导致吸烟减少的例子：法律禁止在餐厅、酒吧、飞机和火车上吸烟；税收的增加使得美国香烟价格在过去二十年里翻了三倍；以及从自动售货机中清除香烟，电视和收音机中禁播烟草广告。\n\n与此同时，我们周边的企业都在努力减少消费者的操作障碍。比如麦当劳的收银员会有意诱导顾客，问道：“您要加薯条吗？”这样的提问促使我们摄入更多脂肪和碳水化合物。Netflix 或 Hulu 的连续剧播放功能也是如此，它们通过在一集结束后自动播放下一集的方式，让我们沉迷于连续观看。Wood 采访了 Uber 前经济研究主管 M. Keith Chen，后者分享了该应用是如何设计来减少用户操作步骤的。“手机的 GPS 已经知道你的位置，”他说，“你几乎不需要多想……下车时连现金都不用处理。”\n\n公司成为我们习惯形成的帮手，这一现象在 Charles Duhigg 的畅销书《The Power of Habit》（2012 年）中被深入探讨。像 Wood 一样，Duhigg 当时是《时报》的记者，他指出快餐业通过各种方式诱使我们增加消费。例如，麦当劳统一餐厅的装潢风格，旨在触发我们的饮食习惯。许多连锁餐厅的食品都经过特别设计，可以迅速激发大脑的奖励中心，提供瞬间的盐分和脂肪享受。\n\n在研究企业如何利用习惯形成来获取利益的过程中，Duhigg 描述了 20 世纪初的广告大师 Claude C. Hopkins 的工作。他的 Pepsodent 牙膏广告活动据说使刷牙成为美国人的日常习惯。Pepsodent 于 1915 年首次面市时，很少有人会刷牙，甚至当时的牙科权威都认为所有牙膏都无用。Hopkins 将营销焦点放在覆盖牙齿的牙菌斑 (plaque) 上；1917 年，他在报纸广告中宣称这是“所有牙齿问题的根源”。实际上，简单地吃一个苹果就能暂时去除牙菌斑，而当时的牙膏去除效果并不比光刷牙更好。尽管如此，Hopkins 还是夸大了牙菌斑的危害，并宣称 Pepsodent 是唯一的解决方案。“只需用舌头轻轻划过牙齿，”另一则广告写道，“你会感到一层薄膜——这就是让你的牙齿变色和蛀牙的原因。”不久，Pepsodent 就成为了全球知名的产品。\n\nDuhigg 和 Wood 都认为，习惯性的行为是由刺激和回应所驱动的。虽然 Pepsodent 不是唯一声称能去除牙齿薄膜的品牌，但其含有的柠檬酸和薄荷油等成分，不仅带来清新口感，还轻微刺激口腔，产生舒适的刺痛感。Hopkins 让消费者意识到牙齿上的薄膜，为其提供了一个刺激，而牙膏本身则提供了物理上的回应。这种刺激与回应的循环极为强大：如果我们没有刷牙，就会感觉不舒服。Hopkins 发起他的活动二十年后，使用牙膏已成为美国绝大多数人的日常行为。Duhigg 表示，Hopkins“创造了一种需求”。\n\nWood 强调通过情境控制来培养良好习惯，而 Duhigg 则提到了一位咬指甲的女性，她被建议寻找其他可以用手做的事情，以产生类似的物理刺激，比如在桌子上敲打指关节。这样做的目的是保持刺激和回应的有效结构，但改变习惯的具体内容。对这两位作家来说，关键不在于靠意志力打破习惯，而是用一个新习惯替换旧习惯。\n\n这两个案例都突出了有意识努力的重要性 - 不是去反抗习惯，而是去深入分析它，以此制定更有效的改革策略。Duhigg 在体重上升后，决定放弃在 Times 餐厅每天下午吃的那块饼干。他曾尝试在便签上写下不吃饼干的禁令，但这并无效果：他会忽略这个提醒，走到餐厅，与收银台的同事闲聊，最后还是会买下饼干。因此，他开始探究触发这一习惯的因素，参考研究人员提出的五个类别：时间、地点、情绪状态、周围人员、以及习惯性动作之前的行为。他是因为饥饿、无聊，还是需要休息或是血糖提升？他尝试改变自己的日常，选择在办公桌上吃甜甜圈，而非去餐厅，或者到外面散步。他在做实验：如果在办公桌上吃甜甜圈并未减少去餐厅的冲动，那就可以排除是因为糖分的原因。最终，他通过排除法确定，他的习惯实际上是由对交流和分散注意力的需求驱动的。于是，他发现与朋友聊天成了替代吃饼干的最佳选择。\n\nWood 在她的书的最后，给我们这些被智能手机控制的人提供了建议。她提出了一个分步骤的策略。首先，认识到自己对手机的依赖，意识到这种习惯如何干扰了工作、社交和安全驾驶。接着是“控制情境线索”，也就是找出是什么触发了你拿起手机的行为。对我而言，这些线索包括听觉（如通知声、法国号声）和视觉（如屏幕弹窗）。我已经知道，仅仅把手机调成静音是不足以打破这一习惯的，但正如“棉花糖耐性实验”所示，眼不见心不烦。早上做早餐时，我发现把手机放在另一个房间很有效。开车时，手机被放进手套箱。走路时，我会把手机放在带拉链的口袋里。还有其他方法来增加使用的难度，从而减少这一习惯的发生。完全关机比单纯静音更有效，continue 不是因为我不好奇谁可能给我发邮件，而是因为重新开机很麻烦。\n\nWood 还建议我们找到新的奖励来替代手机原本提供的那些奖励。我开始在车里听收音机音乐。晚上，我没有浏览推特和电子邮件，而是探索那些我从未阅读过的作者。每天结束时，我都感到更加平静和自由。♦\n\nhttps://t.co/Zg3qiTKZgk",
+    "url": "https://x.com/dotey/status/1743791697304109452",
     "likes": 1862,
     "retweets": 582,
-    "bookmarks": 1610,
-    "created_at": "Sun Jan 07 00:28:33 +0000 2024",
-    "url": "https://x.com/dotey/status/1743791697304109452"
+    "bookmarks": 1610
   },
   {
     "id": "1742805378646315016",
-    "author": "wanerfu",
+    "handle": "wanerfu",
     "name": "摆烂程序媛",
+    "time": "Thu Jan 04 07:09:16 +0000 2024",
     "text": "一次性搞懂英语 16 大时态！ https://t.co/5rSR75rylu",
+    "url": "https://x.com/wanerfu/status/1742805378646315016",
     "likes": 5396,
     "retweets": 1464,
-    "bookmarks": 3389,
-    "created_at": "Thu Jan 04 07:09:16 +0000 2024",
-    "url": "https://x.com/wanerfu/status/1742805378646315016"
+    "bookmarks": 3389
   },
   {
     "id": "1741692958712439204",
-    "author": "cellier_",
+    "handle": "cellier_",
     "name": "Cellier@undefined",
+    "time": "Mon Jan 01 05:28:55 +0000 2024",
     "text": "回顾 2023，我用的最爽的 10 个效率工具\n\n1. https://t.co/TT9qNGs30Y， 它的 Daily Note 基本取代了我的 GTD 工具；\n\n2. Cron，我的事务都同步上去了，约人约时间取代了 Calendly；\n\n3. Arc，不用说，目前最优雅的浏览器（Sigma.os 也不错）；\n\n4. Raycast，配合各种插件功能，效率飞起；\n\n5. Perplexity，不用多说，日常知识性搜索神器；\n\n6. Journal，日记就用它，让人更有冲动记录，取代了 Dayone；\n\n7. Artifact，新闻软件，推荐很准确，特别是科技行业，可以用播客模式听新闻，也有 AI 提炼；\n\n8. Pitch，自它出了神奇移动功能后，更愿意用它做 PPT 了；\n\n9. Superlist，一直在内测，任务嵌套以及详情页可以当作文档的设计很喜欢；\n\n10. Speak，学习英语的好帮手；",
+    "url": "https://x.com/cellier_/status/1741692958712439204",
     "likes": 878,
     "retweets": 255,
-    "bookmarks": 1076,
-    "created_at": "Mon Jan 01 05:28:55 +0000 2024",
-    "url": "https://x.com/cellier_/status/1741692958712439204"
+    "bookmarks": 1076
   },
   {
     "id": "1733305500748726438",
-    "author": "0xluffy_eth",
+    "handle": "0xluffy_eth",
     "name": "路飞 🏴‍☠️ AI 研究员🧐",
+    "time": "Sat Dec 09 02:00:09 +0000 2023",
     "text": "ChatGPT在工作中可以节省你数小时的时间。\n\n但在过去的30天中，已经有超过2千个新的AI工具问世。\n\n以下是8个令人疯狂的AI网站，可以在几秒钟内完成数小时的工作（别错过）： https://t.co/t2ALuvP8JA",
+    "url": "https://x.com/0xluffy_eth/status/1733305500748726438",
     "likes": 1507,
     "retweets": 431,
-    "bookmarks": 1306,
-    "created_at": "Sat Dec 09 02:00:09 +0000 2023",
-    "url": "https://x.com/0xluffy_eth/status/1733305500748726438"
+    "bookmarks": 1306
   }
 ]
