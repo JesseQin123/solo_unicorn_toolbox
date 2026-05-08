@@ -1,0 +1,63 @@
+name: Sync starred repos
+
+# Pulls the latest public stars for each configured GitHub account and appends
+# any newly starred repos to inbox.md (and refreshes data/stars.json).
+#
+# Schedule: every Monday at 09:00 UTC. Change the cron below to '0 9 * * *' for
+# daily runs. You can also trigger this manually from the Actions tab.
+#
+# Auth: uses the workflow's GITHUB_TOKEN, which is enough to read public stars
+# via `users/<name>/starred`. To pick up *private* stars, create a PAT with the
+# `read:user` scope, save it as a repo secret named STARS_PAT, and the workflow
+# will prefer it automatically.
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
+    inputs:
+      accounts:
+        description: 'Space-separated GitHub usernames (defaults to JesseQin123 jesseqin-kamiwaza)'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-stars
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Sync stars for each account
+        env:
+          GH_TOKEN: ${{ secrets.STARS_PAT || secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          accounts="${{ github.event.inputs.accounts }}"
+          if [ -z "$accounts" ]; then
+            accounts="JesseQin123 jesseqin-kamiwaza"
+          fi
+          for u in $accounts; do
+            echo "::group::Syncing $u"
+            scripts/sync-stars.sh "$u"
+            echo "::endgroup::"
+          done
+
+      - name: Commit & push if changed
+        run: |
+          set -euo pipefail
+          if [ -z "$(git status --porcelain inbox.md data/stars.json)" ]; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add inbox.md data/stars.json
+          git commit -m "chore: weekly star sync ($(date -u +%Y-%m-%d))"
+          git push

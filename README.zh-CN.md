@@ -4,24 +4,24 @@
 
 > English version: [README.md](./README.md)
 
-**共 446 个项目** · 由 `scripts/build-readme.py` 自动生成。要添加新条目，把 GitHub URL 粘到 [`inbox.md`](./inbox.md)。
+**共 486 个项目** · 由 `scripts/build-readme.py` 自动生成。要添加新条目，把 GitHub URL 粘到 [`inbox.md`](./inbox.md)。
 
 ---
 
 ## 目录
 
-- [🤖 AI 智能体与编码助手生态 (77)](#-ai-智能体与编码助手生态)
-- [🛠 智能体 Skills 与 MCP (29)](#-智能体-skills-与-mcp)
+- [🤖 AI 智能体与编码助手生态 (84)](#-ai-智能体与编码助手生态)
+- [🛠 智能体 Skills 与 MCP (56)](#-智能体-skills-与-mcp)
 - [🌐 浏览器与网页自动化 (12)](#-浏览器与网页自动化)
-- [🧠 RAG / 知识图谱 / 记忆 (39)](#-rag--知识图谱--记忆)
-- [🎨 多媒体 AI (49)](#-多媒体-ai)
+- [🧠 RAG / 知识图谱 / 记忆 (42)](#-rag--知识图谱--记忆)
+- [🎨 多媒体 AI (50)](#-多媒体-ai)
 - [📊 爬虫与内容发布 (29)](#-爬虫与内容发布)
 - [💻 前端模板与 UI (23)](#-前端模板与-ui)
 - [🏗 后端与基础设施 (40)](#-后端与基础设施)
 - [📝 知识库与个人生产力 (23)](#-知识库与个人生产力)
 - [💰 金融、职业与独立开发者 (26)](#-金融职业与独立开发者)
 - [🎓 教程与精选列表 (73)](#-教程与精选列表)
-- [🌈 杂项 / 生活娱乐 (26)](#-杂项--生活娱乐)
+- [🌈 杂项 / 生活娱乐 (28)](#-杂项--生活娱乐)
 
 ---
 
@@ -53,7 +53,7 @@
 |---|---|---|---|---|
 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | 在 Claude Code 里使用 Codex 来 review 代码或派发任务 | JavaScript | 17.9k |  |
 
-### OpenClaw / Hermes / Paperclip (14)
+### OpenClaw / Hermes / Paperclip (20)
 
 | 仓库 | 描述 | 语言 | ⭐ | 标签 |
 |---|---|---|---|---|
@@ -69,10 +69,16 @@
 | [miaoxworld/OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller) | ClawdBot 一键部署工具 | Shell | 3.4k | `clawdbot` `moltbot` `openclaw` |
 | [SumeLabs/clawra](https://github.com/SumeLabs/clawra) | Clawra - Openclaw as your companion | TypeScript | 2.3k |  |
 | [NousResearch/hermes-paperclip-adapter](https://github.com/NousResearch/hermes-paperclip-adapter) | Paperclip 的 Hermes adapter：把 Hermes 当作 managed employee 跑在 Paperclip company 里 | TypeScript | 1.1k |  |
+| [awizemann/scarf](https://github.com/awizemann/scarf) | 🪟 Hermes Agent 的 macOS / iOS 原生 GUI — 多窗口、多服务（本地+远端）。 | Swift | 432 | `ai-agent` `gui` `hermes` `macos` |
 | [AnthonyDavidAdams/zero-employee-company-book](https://github.com/AnthonyDavidAdams/zero-employee-company-book) | Headcount Zero：用 Paperclip 构建 AI 驱动公司的方法论书籍 | — | 363 |  |
 | [Yesterday-AI/paperclip-plugin-company-wizard](https://github.com/Yesterday-AI/paperclip-plugin-company-wizard) | 从模块化模板 bootstrap AI agent 公司 | TypeScript | 123 | `ai-agents` `bootstrap` `cli` `company-as-code` |
+| [Kori-x/hermes-dashboard](https://github.com/Kori-x/hermes-dashboard) | 📊 Hermes Agent 会话、工具调用与活动的实时 dashboard。 | TypeScript | 47 | `agent-framework` `ai-agents` `dashboard` `devtools` |
+| [GUNAASHRINM/Hermes-Agent-Wizard](https://github.com/GUNAASHRINM/Hermes-Agent-Wizard) | 🚀 Hermes Agent GUI 一键启动器 — Windows / macOS 双平台。 | — | 11 | `ai-agent` `beginner-friendly` `chinese-ui` `desktop-app` |
+| [xujfcn/crazyrouter-hermes](https://github.com/xujfcn/crazyrouter-hermes) | 🛣️ 把 Hermes Agent 接到 CrazyRouter — 600+ 模型、比官方便宜 30-50%。 | Shell | 5 | `ai-agent` `crazyrouter` `crazyrouter-integration` `hermes-agent` |
+| [wysie/drawthings-grpc-hermes-plugin](https://github.com/wysie/drawthings-grpc-hermes-plugin) | 🎨 Hermes Agent 插件 — 通过 gRPC 调用本地 Draw Things 生图。 | Python | 4 | `apple-silicon` `draw-things` `grpc` `hermes-agent` |
+| [AlexanderWhitestone/hermes-dashboard-sovereign-ops](https://github.com/AlexanderWhitestone/hermes-dashboard-sovereign-ops) | 📈 Hermes Agent 的「主权运维」dashboard 插件与主题。 | JavaScript | 3 | `dashboard` `hackathon` `hermes-agent` `local-first` |
 
-### 多智能体编排 (14)
+### 多智能体编排 (15)
 
 | 仓库 | 描述 | 语言 | ⭐ | 标签 |
 |---|---|---|---|---|
@@ -90,14 +96,15 @@
 | [gensyn-ai/rl-swarm](https://github.com/gensyn-ai/rl-swarm) | 完全开源的框架，用于在互联网上创建 RL 训练 swarm | Python | 1.7k |  |
 | [KroMiose/nekro-agent](https://github.com/KroMiose/nekro-agent) | NekroAgent：多人互动场景的跨平台 Agent 框架，集 Claude Code 沙盒、记忆、MCP 管理与可视化控制台于一体，支持 QQ/Discord/Telegram/B 站直播等 | Python | 837 | `agent` `ai` `chatbot` `claudecode` |
 | [coleam00/Linear-Coding-Agent-Harness](https://github.com/coleam00/Linear-Coding-Agent-Harness) | Linear Autonomous Coding Agent Harness | Python | 216 |  |
+| [Abruptive/Ankh.md](https://github.com/Abruptive/Ankh.md) | 🐝 多智能体蜂群框架 — TAW Agent 召唤的「来自 1971 年」的神秘 swarm。 | Shell | 51 | `abruptive` `agent` `agent-so` `agents` |
 
 ### 智能体平台与 UI (21)
 
 | 仓库 | 描述 | 语言 | ⭐ | 标签 |
 |---|---|---|---|---|
-| [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 开源的 AI agent，把 Gemini 的能力直接带到终端 | TypeScript | 103.4k | `ai` `ai-agents` `cli` `gemini` |
+| [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 开源的 AI agent，把 Gemini 的能力直接带到终端 | TypeScript | 103.5k | `ai` `ai-agents` `cli` `gemini` |
 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. | Shell | 95.1k |  |
-| [lobehub/lobehub](https://github.com/lobehub/lobehub) | LobeHub：协同 agent 团队的工作与生活空间，多 agent 协作、agent 团队设计、agent 作为工作交互单元 | TypeScript | 76.4k | `agent` `agent-collaboration` `agent-harness` `ai` |
+| [lobehub/lobehub](https://github.com/lobehub/lobehub) | LobeHub：协同 agent 团队的工作与生活空间，多 agent 协作、agent 团队设计、agent 作为工作交互单元 | TypeScript | 76.5k | `agent` `agent-collaboration` `agent-harness` `ai` |
 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 🙌 OpenHands: AI-Driven Development | Python | 72.9k | `agent` `artificial-intelligence` `chatgpt` `claude-ai` |
 | [cline/cline](https://github.com/cline/cline) | Cline：IDE 内的自治 coding agent，可创建/编辑文件、执行命令、使用浏览器 | TypeScript | 61.5k |  |
 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | AnythingLLM：一体化的 AI 生产力加速器，本地优先，免恼人配置 | JavaScript | 59.7k | `ai-agents` `custom-ai-agents` `deepseek` `kimi` |
@@ -140,33 +147,60 @@
 | 仓库 | 描述 | 语言 | ⭐ | 标签 |
 |---|---|---|---|---|
 | [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | 183.2k |  |
-| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | AI SKILL：为多平台 UI/UX 提供专业设计智能 | Python | 75.5k | `ai-skills` `antigravity` `claude` `claude-code` |
+| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | AI SKILL：为多平台 UI/UX 提供专业设计智能 | Python | 75.6k | `ai-skills` `antigravity` `claude` `claude-code` |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .claude directory. | Shell | 66.5k |  |
 | [upstash/context7](https://github.com/upstash/context7) | Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors | TypeScript | 54.8k | `llm` `mcp` `mcp-server` `vibe-coding` |
 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 给 coding agent 用的 Chrome DevTools MCP server | TypeScript | 38.5k | `browser` `chrome` `chrome-devtools` `debugging` |
 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Build and run agents you can see, understand and trust. | Python | 24.7k | `agent` `chatbot` `large-language-models` `llm` |
 | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | Claude Code skill：实现 Manus 风格的持久化 markdown 规划工作流 | Python | 20.7k | `adal` `agent-skills` `antigravity` `claude` |
 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 即用型 Agent Skills：覆盖科研、科学、工程、分析、金融与写作 | Python | 20.4k | `agent-skills` `ai-scientist` `bioinformatics` `chemoinformatics` |
+| [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 🧬 女娲.skill — 蒸馏任何人思维方式的元 skill，整个「人格蒸馏」热潮的起点。 | Python | 18.1k |  |
 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | JavaScript in-page GUI agent. Control web interfaces with natural language. | TypeScript | 17.7k | `agent` `ai` `ai-agents` `browser-automation` |
 | [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) | 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶 | Python | 17.5k |  |
 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork | Python | 12k |  |
 | [huggingface/skills](https://github.com/huggingface/skills) | Give your agents the power of the Hugging Face ecosystem | Python | 10.4k |  |
 | [numman-ali/openskills](https://github.com/numman-ali/openskills) | OpenSkills：AI coding agent 的通用 skill 加载器 | TypeScript | 10.1k |  |
+| [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 🎓 张雪峰.skill — 高考志愿/考研/职业规划的实战思维框架，由女娲.skill 生成。 | — | 7k |  |
+| [therealXiaomanChu/ex-skill](https://github.com/therealXiaomanChu/ex-skill) | 💔 前任.skill — 把前任蒸馏成 AI Skill，用 ta 的方式跟你说话。 | Python | 5.1k |  |
+| [notdog1998/yourself-skill](https://github.com/notdog1998/yourself-skill) | 🪞 自己.skill — 蒸馏自己看清自己，欢迎加入数字永生 1.0。 | Python | 2.6k |  |
 | [blader/Claudeception](https://github.com/blader/Claudeception) | Claude Code skill：自治 skill 提取与持续学习，让 Claude Code 越用越聪明 | Shell | 2.3k |  |
+| [leilei926524-tech/anti-distill](https://github.com/leilei926524-tech/anti-distill) | 🛡️ 反蒸馏 Skill — 清洗你被迫写的 Skill 文件，看起来完整但留住核心知识。 | — | 2.1k |  |
 | [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) | OpenClaw / Claude Code 的 skill：从 10000+ Nano Banana Pro（Gemini）图像 prompt 中智能推荐 | TypeScript | 1.5k | `ai-agent` `ai-image` `claude-code-skill` `clawhub` |
 | [CloudAI-X/claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) | Universal Claude Code workflow plugin with agents, skills, hooks, and commands | Python | 1.4k | `agent-skills` `ai` `ai-agents` `claude-code` |
+| [jinchenma94/bazi-skill](https://github.com/jinchenma94/bazi-skill) | 🔮 八字.skill — 四柱八字命理分析的 Claude Code Skill。 | — | 1.4k |  |
 | [better-auth/better-icons](https://github.com/better-auth/better-icons) | Skill and MCP server for searching and retrieving icons | TypeScript | 992 |  |
 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. | Python | 936 |  |
+| [alchaincyf/steve-jobs-skill](https://github.com/alchaincyf/steve-jobs-skill) | 🍎 乔布斯.skill — 6 个心智模型 + 8 条决策启发式 + 表达 DNA。 | — | 819 |  |
 | [ythx-101/x-tweet-fetcher](https://github.com/ythx-101/x-tweet-fetcher) | 🦞 OpenClaw skill：无需登录或 API key，抓取 X/Twitter 的推文与回复 | Python | 809 |  |
+| [alchaincyf/x-mentor-skill](https://github.com/alchaincyf/x-mentor-skill) | 📈 X 导师.skill — 蒸馏 6 位顶级 X 创作者方法论 + 算法数据。 | — | 777 |  |
 | [wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill) | Claude Code skill：把 Markdown 文章发布到 X (Twitter) Articles | Python | 752 |  |
+| [yaojingang/yao-open-skills](https://github.com/yaojingang/yao-open-skills) | 📚 OpenYao 公开 Skill 合集：把决策、商业分析、学习教程、研究取证、文档生成沉淀成可复用的 AI 资产。 | HTML | 705 |  |
 | [huangkiki/dailypaper-skills](https://github.com/huangkiki/dailypaper-skills) | 用Claude Code skills打造我的论文流水线 | Python | 691 |  |
 | [awslabs/graphrag-toolkit](https://github.com/awslabs/graphrag-toolkit) | Python toolkit for building graph-enhanced GenAI applications | Python | 393 | `amazon-neptune` `amazon-opensearch-serverless` `graph-database` `graphrag` |
 | [kkoppenhaver/cc-nano-banana](https://github.com/kkoppenhaver/cc-nano-banana) | 用 Nano Banana 生成图像的 Claude Code skill | — | 295 |  |
+| [alchaincyf/elon-musk-skill](https://github.com/alchaincyf/elon-musk-skill) | 🚀 马斯克.skill — Elon Musk 的认知操作系统。 | — | 292 |  |
 | [1sadjlk/bounty-hunter-skill](https://github.com/1sadjlk/bounty-hunter-skill) | 暂无描述 | Python | 280 |  |
+| [xr843/Master-skill](https://github.com/xr843/Master-skill) | 🪷 高僧大德 AI 教学角色生成器（汉传/藏传/南传），数据源 CBETA / BDRC / Sutta。 | Python | 265 | `agent-skills` `ai-persona` `bdrc` `buddhism` |
 | [keli-wen/agentic-harness-patterns-skill](https://github.com/keli-wen/agentic-harness-patterns-skill) | Agent skill for harness engineering — memory, permissions, context engineering, multi-agent coordination. Distilled from Claude Code, with Codex CLI and Gemini CLI on the roadmap. EN/ZH. Install via npx skills add. | — | 260 | `agent` `claude-code` `codex` `contexts` |
+| [alchaincyf/trump-skill](https://github.com/alchaincyf/trump-skill) | 🦅 特朗普.skill — 可运行的谈判与权力分析框架，不是模仿秀。 | — | 217 |  |
+| [alchaincyf/munger-skill](https://github.com/alchaincyf/munger-skill) | 📊 芒格.skill — Charlie Munger 的认知操作系统。 | — | 213 |  |
+| [Ming-H/yinyuan-skills](https://github.com/Ming-H/yinyuan-skills) | 🪜 yinyuan-skills — 通用 skill 合集。 | — | 205 |  |
+| [vogtsw/boss-skills](https://github.com/vogtsw/boss-skills) | 👔 老板.skills — 把老板炼入 token，把生产力的解放留给自己。 | Python | 199 |  |
+| [alchaincyf/naval-skill](https://github.com/alchaincyf/naval-skill) | 💎 纳瓦尔.skill — Naval Ravikant 的认知操作系统。 | — | 146 |  |
+| [alchaincyf/feynman-skill](https://github.com/alchaincyf/feynman-skill) | 🔬 费曼.skill — 理查德·费曼的认知操作系统。 | — | 142 |  |
+| [alchaincyf/karpathy-skill](https://github.com/alchaincyf/karpathy-skill) | 🤖 Karpathy.skill — Andrej Karpathy 的可运行思维框架。 | — | 127 |  |
+| [alchaincyf/zhang-yiming-skill](https://github.com/alchaincyf/zhang-yiming-skill) | 🐉 张一鸣.skill — 张一鸣的认知操作系统。 | — | 99 |  |
 | [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) | Agent skill for managing Linear issues, projects, and teams. MCP tools, SDK automation, GraphQL API patterns. | TypeScript | 94 | `claude-code` `claude-code-skills` `claude-skill` `claude-skills` |
+| [alchaincyf/taleb-skill](https://github.com/alchaincyf/taleb-skill) | 🦢 塔勒布.skill — Nassim Taleb 的认知操作系统（黑天鹅、反脆弱）。 | — | 76 |  |
+| [YIKUAIBANZI/forge-skill](https://github.com/YIKUAIBANZI/forge-skill) | 🔥 人格蒸馏引擎 forge-skill — 蒸馏自己/亲友的 Claude Code Skill。 | Python | 72 | `ai-agent` `claude-code` `claude-skill` `digital-twin` |
+| [YourongZhou/chat_with_me](https://github.com/YourongZhou/chat_with_me) | 💬 chat_with_me — 让 AI 用「你自己」的方式和你说话。 | Python | 57 |  |
+| [alchaincyf/paul-graham-skill](https://github.com/alchaincyf/paul-graham-skill) | 📝 Paul Graham.skill — Paul Graham 的可运行思维框架。 | — | 53 |  |
 | [chendongqi/OPB-Skills](https://github.com/chendongqi/OPB-Skills) | 覆盖完整业务的 SKILL 集合，适用 Claude Code / Codex / OpenCode 等 | Python | 50 |  |
+| [alchaincyf/mrbeast-skill](https://github.com/alchaincyf/mrbeast-skill) | 🎬 MrBeast.skill — 内容创造方法论的可运行版本，不是语录合集。 | Python | 42 |  |
+| [alchaincyf/ilya-sutskever-skill](https://github.com/alchaincyf/ilya-sutskever-skill) | 🧠 Ilya Sutskever.skill — Ilya 的认知操作系统。 | — | 32 |  |
 | [ythx-101/x-profile-analyzer](https://github.com/ythx-101/x-profile-analyzer) | 🦞 X/Twitter 用户主页分析工具，无需 API key 或登录 | Python | 30 |  |
+| [jtshow/Medusa](https://github.com/jtshow/Medusa) | 🐍 Medusa Skill Framework — 给 AI Agent 用的 Rust 写的 skill 框架。 | Rust | 22 |  |
+| [xiaohei-info/oh-my-agent-skills](https://github.com/xiaohei-info/oh-my-agent-skills) | 📦 开源 Agent 方法论与 Hermes 兼容 skill 合集。 | Python | 14 | `ai-agents` `chatops` `hermes` `knowledge-management` |
 | [fastapi-practices/mcp](https://github.com/fastapi-practices/mcp) ⚠️ | FastAPI 最佳架构 MCP 插件 | Python | 1 | `ai` `fba` `fba-plugin` `mcp` |
 
 
@@ -217,7 +251,9 @@
 | [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) | EdgeQuake 🌋 高性能 GraphRAG，Rust 编写，灵感来自 LightRAG，把文档转化为智能知识图谱 | Rust | 2k | `graphrag` `knowledge-graph` `lightrag` `rag` |
 | [GitHamza0206/simba](https://github.com/GitHamza0206/simba) | Simba：开源的生产级客服 RAG，自带 evals 与监控 | TypeScript | 1.4k | `customer-service` `evals` `knowledge-base` `llm` |
 | [whyhow-ai/knowledge-graph-studio](https://github.com/whyhow-ai/knowledge-graph-studio) | WhyHow Knowledge Graph Studio | Python | 918 |  |
+| [yifanfeng97/Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract) | 📑 LLM 把非结构化长文本（论文/合同/研报）转成图、超图与结构化知识。 | Python | 853 | `ai` `ai-agents` `cli` `hypergraph` |
 | [kweaver-ai/kweaver-core](https://github.com/kweaver-ai/kweaver-core) | KWeaver Core：企业决策智能体的 harness-first 基础框架，把碎片化的数据/知识/工具/政策转化为受治理的上下文与可追溯执行 | Go | 682 | `agents` `bkn` `bussiness-knowledge-network` `decision-intelligence` |
+| [kitfunso/hippo-memory](https://github.com/kitfunso/hippo-memory) | 🧠 受生物学启发的 AI Agent 记忆系统 — 衰减、检索强化、巩固。 | TypeScript | 626 |  |
 | [ChristopherLyon/graphrag-workbench](https://github.com/ChristopherLyon/graphrag-workbench) | Interactive 3D visualization of knowledge graphs generated by Microsoft GraphRAG. Explore entities, relationships, and communities with immersive visual analytics. | TypeScript | 605 | `graphrag` `microsoft` `nextjs` `visualization` |
 | [TuGraph-family/chat2graph](https://github.com/TuGraph-family/chat2graph) | Chat2Graph: Graph Native Agentic System. | Python | 418 | `agentic-ai` `agentic-rag` `ai-agents` `bionics` |
 | [noworneverev/graphrag-visualizer](https://github.com/noworneverev/graphrag-visualizer) | A web-based tool for visualizing and exploring artifacts from Microsoft's GraphRAG. | TypeScript | 417 | `gpt` `gpt-4` `gpt4` `graph-visualization` |
@@ -225,6 +261,7 @@
 | [CyberMagician/Project_Golem](https://github.com/CyberMagician/Project_Golem) | A 3D interface for visualizing RAG (Retrieval-Augmented Generation) memory structures in real-time. | HTML | 272 |  |
 | [morph-kgc/morph-kgc](https://github.com/morph-kgc/morph-kgc) | Powerful RDF Knowledge Graph Generation with RML Mappings | Python | 270 | `data-engineering` `data-integration` `database` `etl` |
 | [DEEP-PolyU/Awesome-GraphMemory](https://github.com/DEEP-PolyU/Awesome-GraphMemory) | A survey of Graph-based Agent Memory \| A curated list of resources (surveys, papers, benchmarks, and opensource projects) on graph-based agent memory. | — | 266 | `agent` `agent-memory` `agent-memory-survey` `graph-based-agent-memory` |
+| [AxDSan/mnemosyne](https://github.com/AxDSan/mnemosyne) | ⚡ Hermes Agent 的零依赖、亚毫秒级 AI 记忆系统。 | Python | 197 | `agents` `ai` `hermes` `hermes-agent` |
 | [kweaver-ai/kweaver-dip](https://github.com/kweaver-ai/kweaver-dip) | KWeaver DIP：企业级数字员工平台，基于 KWeaver Core 构建，提供 AI 原生的业务知识网络开发与治理环境 | TypeScript | 167 | `agent-skills` `agents` `ai` `business-knowledge-network` |
 | [NanGePlus/KagTest](https://github.com/NanGePlus/KagTest) | KAG开源框架介绍及使用KAG实现知识增强生成应用(产品模式测试、开发者模式测试)，KAG是OpenSPG发布v0.5版本中推出的知识增强生成（KAG）的专业领域知识服务框架，旨在充分利用知识图谱和向量检索的优势，增强大型语言模型和知识图谱，以解决 RAG 挑战 | Python | 155 |  |
 | [markburgess/SSTorytime](https://github.com/markburgess/SSTorytime) | Semantic Spacetime Story graph database library over postgresql (SSTorytime) | Go | 144 |  |
@@ -252,7 +289,7 @@
 | [11cafe/jaaz](https://github.com/11cafe/jaaz) | The world's first open-source multimodal creative assistant  This is a substitute for Canva and Manus that prioritizes privacy and is usable locally. | TypeScript | 6.2k | `agent` `ai` `aiagent` `aiimage` |
 | [antvis/Infographic](https://github.com/antvis/Infographic) | 🦋 An Infographic Generation and Rendering Framework, bring words to life with AI! | TypeScript | 5k | `ai` `antv` `infographic` `llm` |
 | [MeiGen-AI/PosterCraft](https://github.com/MeiGen-AI/PosterCraft) | [ICLR 2026] 在统一框架下重新思考高质量美学海报生成 | Python | 929 |  |
-| [LingyiChen-AI/DeepDiagram](https://github.com/LingyiChen-AI/DeepDiagram) | An open-source AI visualization tool that transforms natural language into Mind Maps, Mermaid diagrams, and Echarts. Turn your ideas into structured visuals instantly. | TypeScript | 903 |  |
+| [LingyiChen-AI/DeepDiagram](https://github.com/LingyiChen-AI/DeepDiagram) | An open-source AI visualization tool that transforms natural language into Mind Maps, Mermaid diagrams, and Echarts. Turn your ideas into structured visuals instantly. | TypeScript | 904 |  |
 | [markfulton/NanoBananaEditor](https://github.com/markfulton/NanoBananaEditor) | 最先进的 Nano Banana 图像生成与编辑应用，集成 reference image、image mask、版本历史等 | TypeScript | 675 | `aiimages` `bolt` `imageediting` `imageeditor` |
 | [chatfire-AI/huobao-canvas](https://github.com/chatfire-AI/huobao-canvas) | 火宝无限画布：文生图、图生图、图生视频、多模型切换，兼容 OpenAI 标准格式 | Vue | 512 |  |
 | [amrrs/fal-nanobanana-studio](https://github.com/amrrs/fal-nanobanana-studio) | 基于 fal AI 与 Nanobanana 的 Photoshop 风格图像工作室 | TypeScript | 340 |  |
@@ -292,7 +329,7 @@
 | [audacity/audacity](https://github.com/audacity/audacity) | Audacity 音频编辑器 | C++ | 16.9k | `audio` `cross-platform` `editor` `gplv2` |
 | [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) | Mixxx：开源 DJ 软件，提供现场混音所需的全部能力 | C++ | 6.7k | `audio` `dj` `hid` `linux` |
 
-### 文档 / 幻灯片 / Office (7)
+### 文档 / 幻灯片 / Office (8)
 
 | 仓库 | 描述 | 语言 | ⭐ | 标签 |
 |---|---|---|---|---|
@@ -302,6 +339,7 @@
 | [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) | Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to learn more about our enterprise grade Platform product for production grade workflows, partitioning, enrichments, chunking and embedding. | HTML | 14.7k | `data-pipelines` `deep-learning` `document-image-analysis` `document-image-processing` |
 | [Anionex/banana-slides](https://github.com/Anionex/banana-slides) | 基于 Nano Banana Pro 的 AI 原生 PPT 生成器，支持上传模板、智能解析素材、口头修改、一键导出可编辑 pptx | Python | 14.4k | `ai-ppt-maker` `ai-slide-builder` `ai-slides` `document-recognition` |
 | [presenton/presenton](https://github.com/presenton/presenton) | Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative) | JavaScript | 4.9k | `ai-agent` `ai-presentation` `api` `gamma` |
+| [1weiho/open-slide](https://github.com/1weiho/open-slide) | 🪄 专为 AI Agent 设计的开源 Slide 框架 — 一句 prompt 直接出整套精美幻灯片。 | TypeScript | 2.6k | `agent` `react` `slides` |
 | [GordenSun/BananaPPT](https://github.com/GordenSun/BananaPPT) | 暂无描述 | HTML | 54 |  |
 
 
@@ -711,12 +749,14 @@
 | [cubewhy/skid-homework](https://github.com/cubewhy/skid-homework) | 符合人体工程学的 AI 驱动作业助手 | TypeScript | 1.5k | `ai` `gemini` `homework` `homework-helper` |
 | [wassimj/topologicpy](https://github.com/wassimj/topologicpy) | The python bindings for topologic | Jupyter Notebook | 218 |  |
 
-### 个人 / 试验性项目 (9)
+### 个人 / 试验性项目 (11)
 
 | 仓库 | 描述 | 语言 | ⭐ | 标签 |
 |---|---|---|---|---|
 | [LOG1997/log-lottery](https://github.com/LOG1997/log-lottery) | 🎈🎈🎈🎈年会抽奖程序，threejs+vue3 3D球体动态抽奖应用。 | TypeScript | 3.3k | `3d` `daisyui` `lottery` `lucky` |
+| [DestinyLinker/MingLi-Bench](https://github.com/DestinyLinker/MingLi-Bench) | 🔮 中文传统命理（八字 / 紫微）LLM 评测基准 — Tianfu Agent 的训练参照。 | Python | 902 |  |
 | [context-labs/aella-data-explorer](https://github.com/context-labs/aella-data-explorer) | LAION 研究论文数据集的可视化浏览器 | TypeScript | 900 |  |
+| [FANzR-arch/Numerologist_skills](https://github.com/FANzR-arch/Numerologist_skills) | 🔮 给 LLM 做中国玄学的「紧箍咒」工程框架 — 减少赛博半仙的幻觉。 | HTML | 691 |  |
 | [khalildh/garment-notation](https://github.com/khalildh/garment-notation) | 服装符号化项目（暂无明确描述） | JavaScript | 432 |  |
 | [jayrodge/ai-agents](https://github.com/jayrodge/ai-agents) | AI agents 项目（暂无描述） | Python | 261 |  |
 | [gkamradt/MultiTerminalCodeViz](https://github.com/gkamradt/MultiTerminalCodeViz) | 多终端代码可视化工具 | TypeScript | 251 |  |

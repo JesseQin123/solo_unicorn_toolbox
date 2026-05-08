@@ -1,0 +1,67 @@
+[
+  {
+    "id": "2019553277571190821",
+    "handle": "jainarvind",
+    "time": "2026-02-05T23:26:37.000Z",
+    "authorText": "Arvind Jain | @jainarvind | · | Feb 5",
+    "text": "",
+    "links": [
+      "https://x.com/jainarvind",
+      "https://x.com/jainarvind",
+      "https://x.com/jainarvind"
+    ],
+    "url": "https://x.com/jainarvind/status/2019553277571190821"
+  },
+  {
+    "id": "2009588048879661270",
+    "handle": "Connected_Data",
+    "time": "2026-01-09T11:28:21.000Z",
+    "authorText": "Connected Data | @Connected_Data | · | Jan 9",
+    "text": "From Prompt Engineering to Knowledge Graphs - Part 1\n\nEvaluating LLM Prompts for Entity & Relation Extraction, and Why Complexity Never Disappears\n\nLLM-based knowledge extraction looks deceptively simple by sending a prompt like this to an LLM: “extract entities and relations",
+    "links": [
+      "https://x.com/Connected_Data",
+      "https://x.com/Connected_Data",
+      "https://x.com/Connected_Data"
+    ],
+    "url": "https://x.com/Connected_Data/status/2009588048879661270"
+  },
+  {
+    "id": "2009107630908932416",
+    "handle": "tangpanqing",
+    "time": "2026-01-08T03:39:21.000Z",
+    "authorText": "汤光头 | @tangpanqing | · | Jan 7",
+    "text": "我忽然明白一个事：赚钱是有方法的。\n\n第1步：给对方一个希望。\n\n第2步：给对方一个工具。\n\n第3步：收钱。",
+    "links": [
+      "https://x.com/tangpanqing",
+      "https://x.com/tangpanqing",
+      "https://x.com/tangpanqing"
+    ],
+    "url": "https://x.com/tangpanqing/status/2009107630908932416"
+  },
+  {
+    "id": "2008965413162430508",
+    "handle": "EyalToledano",
+    "time": "2026-01-07T18:14:13.000Z",
+    "authorText": "Eyal Toledano | @EyalToledano | · | Jan 7",
+    "text": "",
+    "links": [
+      "https://x.com/EyalToledano",
+      "https://x.com/EyalToledano",
+      "https://x.com/EyalToledano"
+    ],
+    "url": "https://x.com/EyalToledano/status/2008965413162430508"
+  },
+  {
+    "id": "1923000419036348899",
+    "handle": "GitHub_Daily",
+    "time": "2025-05-15T13:00:02.000Z",
+    "authorText": "GitHubDaily | @GitHub_Daily | · | May 15, 2025",
+    "text": "发现 GitHub 上 Graphiti 这款强大的开源框架，专为动态环境中的 AI 代理打造时间感知的知识图谱，给需要实时处理变化数据的 AI 开发者提供开源解决方案。\n\n通过连续整合用户互动、企业数据和外部信息到一个可查询的图谱中，实现增量更新、高效检索和精确的历史查询，而且不需要重新计算整个图谱。",
+    "links": [
+      "https://x.com/GitHub_Daily",
+      "https://x.com/GitHub_Daily",
+      "https://x.com/GitHub_Daily"
+    ],
+    "url": "https://x.com/GitHub_Daily/status/1923000419036348899"
+  }
+]

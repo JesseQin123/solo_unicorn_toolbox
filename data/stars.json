@@ -95,6 +95,22 @@
     "pushed_at": "2026-02-13T06:33:17Z"
   },
   {
+    "full_name": "1weiho/open-slide",
+    "html_url": "https://github.com/1weiho/open-slide",
+    "description": "A slide framework built for agents.",
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "react",
+      "slides"
+    ],
+    "stargazers_count": 2624,
+    "homepage": "https://open-slide.dev",
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:22Z",
+    "pushed_at": "2026-05-08T15:25:01Z"
+  },
+  {
     "full_name": "6551Team/opennews-mcp",
     "html_url": "https://github.com/6551Team/opennews-mcp",
     "description": "News Aggregation · AI Ratings · Trading Signals · Real-time Updates",
@@ -135,10 +151,10 @@
       "python3",
       "sentiment-analysis"
     ],
-    "stargazers_count": 40819,
+    "stargazers_count": 40817,
     "homepage": "https://deepwiki.com/666ghj/BettaFish",
     "archived": false,
-    "starred_at": "2025-11-06T00:03:11Z",
+    "starred_at": "2025-11-04T22:01:02Z",
     "pushed_at": "2026-05-08T10:22:58Z"
   },
   {
@@ -158,10 +174,10 @@
       "social-prediction",
       "swarm-intelligence"
     ],
-    "stargazers_count": 59673,
+    "stargazers_count": 59675,
     "homepage": "https://mirofish.ai",
     "archived": false,
-    "starred_at": "2026-03-05T04:44:57Z",
+    "starred_at": "2026-01-14T00:37:09Z",
     "pushed_at": "2026-04-02T08:54:54Z"
   },
   {
@@ -187,6 +203,38 @@
     "archived": false,
     "starred_at": "2025-06-25T13:08:04Z",
     "pushed_at": "2026-05-08T18:10:11Z"
+  },
+  {
+    "full_name": "Abruptive/Ankh.md",
+    "html_url": "https://github.com/Abruptive/Ankh.md",
+    "description": "A mysterious multi-agent swarm framework summoned by TAW Agent from 1971 to help you craft a better future towards 2133 & beyond. Ankh.md is a Hermes Agent (Nous Research) launch exclusive.",
+    "language": "Shell",
+    "topics": [
+      "abruptive",
+      "agent",
+      "agent-so",
+      "agents",
+      "ai",
+      "ai-agents",
+      "ankh",
+      "cli",
+      "cloud",
+      "cross-platform",
+      "free",
+      "hermes",
+      "hermes-agent",
+      "local",
+      "mit-license",
+      "nous-hermes",
+      "nous-research",
+      "swarm",
+      "swarm-intelligence"
+    ],
+    "stargazers_count": 51,
+    "homepage": "https://www.ankh.md",
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:23Z",
+    "pushed_at": "2026-03-15T05:36:36Z"
   },
   {
     "full_name": "abus-aikorea/voice-pro",
@@ -305,10 +353,10 @@
       "mcp",
       "productivity"
     ],
-    "stargazers_count": 175853,
+    "stargazers_count": 175861,
     "homepage": "https://ecc.tools",
     "archived": false,
-    "starred_at": "2026-02-12T16:06:55Z",
+    "starred_at": "2026-02-12T01:12:44Z",
     "pushed_at": "2026-05-03T04:53:48Z"
   },
   {
@@ -411,6 +459,30 @@
     "pushed_at": "2026-05-06T09:59:32Z"
   },
   {
+    "full_name": "alchaincyf/elon-musk-skill",
+    "html_url": "https://github.com/alchaincyf/elon-musk-skill",
+    "description": "马斯克.skill — Elon Musk的认知操作系统。由女娲.skill生成。",
+    "language": null,
+    "topics": [],
+    "stargazers_count": 292,
+    "homepage": null,
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:28Z",
+    "pushed_at": "2026-04-21T05:29:14Z"
+  },
+  {
+    "full_name": "alchaincyf/feynman-skill",
+    "html_url": "https://github.com/alchaincyf/feynman-skill",
+    "description": "费曼.skill — 理查德·费曼的认知操作系统。由女娲.skill生成。",
+    "language": null,
+    "topics": [],
+    "stargazers_count": 142,
+    "homepage": null,
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:28Z",
+    "pushed_at": "2026-04-10T02:28:13Z"
+  },
+  {
     "full_name": "alchaincyf/hermes-agent-orange-book",
     "html_url": "https://github.com/alchaincyf/hermes-agent-orange-book",
     "description": "Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南",
@@ -421,6 +493,182 @@
     "archived": false,
     "starred_at": "2026-04-27T22:13:01Z",
     "pushed_at": "2026-04-21T05:29:28Z"
+  },
+  {
+    "full_name": "alchaincyf/ilya-sutskever-skill",
+    "html_url": "https://github.com/alchaincyf/ilya-sutskever-skill",
+    "description": "Ilya Sutskever的认知操作系统。不是语录合集，是可运行的思维框架。Made with 女娲.skill",
+    "language": null,
+    "topics": [],
+    "stargazers_count": 32,
+    "homepage": null,
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:29Z",
+    "pushed_at": "2026-04-10T02:28:35Z"
+  },
+  {
+    "full_name": "alchaincyf/karpathy-skill",
+    "html_url": "https://github.com/alchaincyf/karpathy-skill",
+    "description": "Andrej Karpathy的认知操作系统。不是语录合集，是可运行的思维框架。Made with 女娲.skill",
+    "language": null,
+    "topics": [],
+    "stargazers_count": 127,
+    "homepage": null,
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:29Z",
+    "pushed_at": "2026-04-10T02:28:38Z"
+  },
+  {
+    "full_name": "alchaincyf/mrbeast-skill",
+    "html_url": "https://github.com/alchaincyf/mrbeast-skill",
+    "description": "MrBeast的内容创造操作系统。不是语录合集，是可运行的内容方法论。Made with 女娲.skill",
+    "language": "Python",
+    "topics": [],
+    "stargazers_count": 42,
+    "homepage": null,
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:30Z",
+    "pushed_at": "2026-04-10T02:28:43Z"
+  },
+  {
+    "full_name": "alchaincyf/munger-skill",
+    "html_url": "https://github.com/alchaincyf/munger-skill",
+    "description": "芒格.skill — 查理·芒格的认知操作系统。由女娲.skill生成。",
+    "language": null,
+    "topics": [],
+    "stargazers_count": 213,
+    "homepage": null,
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:30Z",
+    "pushed_at": "2026-04-10T02:28:48Z"
+  },
+  {
+    "full_name": "alchaincyf/naval-skill",
+    "html_url": "https://github.com/alchaincyf/naval-skill",
+    "description": "纳瓦尔.skill — Naval Ravikant的认知操作系统。由女娲.skill生成。",
+    "language": null,
+    "topics": [],
+    "stargazers_count": 146,
+    "homepage": null,
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:31Z",
+    "pushed_at": "2026-04-12T05:11:15Z"
+  },
+  {
+    "full_name": "alchaincyf/nuwa-skill",
+    "html_url": "https://github.com/alchaincyf/nuwa-skill",
+    "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
+    "language": "Python",
+    "topics": [],
+    "stargazers_count": 18054,
+    "homepage": null,
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:31Z",
+    "pushed_at": "2026-04-23T12:04:08Z"
+  },
+  {
+    "full_name": "alchaincyf/paul-graham-skill",
+    "html_url": "https://github.com/alchaincyf/paul-graham-skill",
+    "description": "Paul Graham的认知操作系统。不是语录合集，是可运行的思维框架。Made with 女娲.skill",
+    "language": null,
+    "topics": [],
+    "stargazers_count": 53,
+    "homepage": null,
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:31Z",
+    "pushed_at": "2026-04-10T02:28:59Z"
+  },
+  {
+    "full_name": "alchaincyf/steve-jobs-skill",
+    "html_url": "https://github.com/alchaincyf/steve-jobs-skill",
+    "description": "乔布斯.skill — Steve Jobs的认知操作系统。6个心智模型 + 8条决策启发式 + 完整表达DNA。由女娲.skill生成。",
+    "language": null,
+    "topics": [],
+    "stargazers_count": 819,
+    "homepage": null,
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:32Z",
+    "pushed_at": "2026-04-21T05:28:59Z"
+  },
+  {
+    "full_name": "alchaincyf/taleb-skill",
+    "html_url": "https://github.com/alchaincyf/taleb-skill",
+    "description": "塔勒布.skill — Nassim Taleb的认知操作系统。由女娲.skill生成。",
+    "language": null,
+    "topics": [],
+    "stargazers_count": 76,
+    "homepage": null,
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:32Z",
+    "pushed_at": "2026-04-10T02:29:06Z"
+  },
+  {
+    "full_name": "alchaincyf/trump-skill",
+    "html_url": "https://github.com/alchaincyf/trump-skill",
+    "description": "特朗普的思维操作系统。不是模仿秀，是可运行的谈判与权力分析框架。Made with 女娲.skill",
+    "language": null,
+    "topics": [],
+    "stargazers_count": 217,
+    "homepage": null,
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:33Z",
+    "pushed_at": "2026-04-10T02:29:10Z"
+  },
+  {
+    "full_name": "alchaincyf/x-mentor-skill",
+    "html_url": "https://github.com/alchaincyf/x-mentor-skill",
+    "description": "X导师.skill — 女娲的第一个「非人类」作品。蒸馏6位顶级X创作者方法论 + 开源算法数据，提炼完整的选题-写作-增长操作手册。Made with 女娲.skill",
+    "language": null,
+    "topics": [],
+    "stargazers_count": 777,
+    "homepage": null,
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:33Z",
+    "pushed_at": "2026-04-21T05:29:05Z"
+  },
+  {
+    "full_name": "alchaincyf/zhang-yiming-skill",
+    "html_url": "https://github.com/alchaincyf/zhang-yiming-skill",
+    "description": "张一鸣的认知操作系统。不是语录合集，是可运行的思维框架。Made with 女娲.skill",
+    "language": null,
+    "topics": [],
+    "stargazers_count": 99,
+    "homepage": null,
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:34Z",
+    "pushed_at": "2026-04-10T02:29:20Z"
+  },
+  {
+    "full_name": "alchaincyf/zhangxuefeng-skill",
+    "html_url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+    "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+    "language": null,
+    "topics": [],
+    "stargazers_count": 6966,
+    "homepage": null,
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:34Z",
+    "pushed_at": "2026-04-21T05:28:55Z"
+  },
+  {
+    "full_name": "AlexanderWhitestone/hermes-dashboard-sovereign-ops",
+    "html_url": "https://github.com/AlexanderWhitestone/hermes-dashboard-sovereign-ops",
+    "description": "Sovereign Ops dashboard plugin + theme for Hermes Agent",
+    "language": "JavaScript",
+    "topics": [
+      "dashboard",
+      "hackathon",
+      "hermes-agent",
+      "local-first",
+      "plugin",
+      "sovereign-ai",
+      "theme"
+    ],
+    "stargazers_count": 3,
+    "homepage": null,
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:23Z",
+    "pushed_at": "2026-04-29T21:24:57Z"
   },
   {
     "full_name": "alibaba/page-agent",
@@ -618,7 +866,7 @@
     "description": "Anthropic's educational courses",
     "language": "Jupyter Notebook",
     "topics": [],
-    "stargazers_count": 21122,
+    "stargazers_count": 21126,
     "homepage": null,
     "archived": false,
     "starred_at": "2025-06-01T20:55:09Z",
@@ -642,7 +890,7 @@
     "description": "Anthropic's Interactive Prompt Engineering Tutorial",
     "language": "Jupyter Notebook",
     "topics": [],
-    "stargazers_count": 35450,
+    "stargazers_count": 35455,
     "homepage": null,
     "archived": false,
     "starred_at": "2025-07-07T15:43:58Z",
@@ -724,7 +972,7 @@
       "team-collaboration",
       "wiki"
     ],
-    "stargazers_count": 70325,
+    "stargazers_count": 70326,
     "homepage": "https://appflowy.com",
     "archived": false,
     "starred_at": "2026-01-16T02:31:58Z",
@@ -757,7 +1005,7 @@
       "theme",
       "website-template"
     ],
-    "stargazers_count": 5632,
+    "stargazers_count": 5633,
     "homepage": "https://astrowind.vercel.app",
     "archived": false,
     "starred_at": "2025-06-30T23:45:54Z",
@@ -842,7 +1090,7 @@
       "gplv2",
       "wxwidgets-applications"
     ],
-    "stargazers_count": 16925,
+    "stargazers_count": 16926,
     "homepage": "https://wiki.audacityteam.org/wiki/For_Developers",
     "archived": false,
     "starred_at": "2026-01-16T02:39:01Z",
@@ -877,7 +1125,7 @@
     "homepage": "https://authzed.com/docs",
     "archived": false,
     "starred_at": "2025-06-27T20:54:06Z",
-    "pushed_at": "2026-05-08T03:20:27Z"
+    "pushed_at": "2026-05-08T22:01:58Z"
   },
   {
     "full_name": "awesome-sideprojects/awesome-sideprojects",
@@ -890,6 +1138,27 @@
     "archived": false,
     "starred_at": "2025-07-11T01:35:51Z",
     "pushed_at": "2025-12-26T23:01:55Z"
+  },
+  {
+    "full_name": "awizemann/scarf",
+    "html_url": "https://github.com/awizemann/scarf",
+    "description": "Native macOS and iOS App for the Hermes AI agent — multi-window, multi-server (local + remote over SSH). Chat, dashboard, sessions, memory, cron, MCP, and more.",
+    "language": "Swift",
+    "topics": [
+      "ai-agent",
+      "gui",
+      "hermes",
+      "macos",
+      "macos-app",
+      "swift",
+      "swiftui",
+      "terminal"
+    ],
+    "stargazers_count": 432,
+    "homepage": "https://awizemann.github.io/scarf/",
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:34Z",
+    "pushed_at": "2026-05-08T11:59:38Z"
   },
   {
     "full_name": "awslabs/graphrag-toolkit",
@@ -910,6 +1179,25 @@
     "archived": false,
     "starred_at": "2025-11-06T21:45:54Z",
     "pushed_at": "2026-05-08T17:00:23Z"
+  },
+  {
+    "full_name": "AxDSan/mnemosyne",
+    "html_url": "https://github.com/AxDSan/mnemosyne",
+    "description": "The Zero-Dependency, Sub-Millisecond AI Memory System for Hermes Agents",
+    "language": "Python",
+    "topics": [
+      "agents",
+      "ai",
+      "hermes",
+      "hermes-agent",
+      "ml",
+      "nousresearch"
+    ],
+    "stargazers_count": 197,
+    "homepage": "https://mnemosyne.site",
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:24Z",
+    "pushed_at": "2026-05-08T20:18:37Z"
   },
   {
     "full_name": "AZeC4/TelegramGroup",
@@ -1108,7 +1396,7 @@
     "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
     "language": "Python",
     "topics": [],
-    "stargazers_count": 11655,
+    "stargazers_count": 11661,
     "homepage": "https://browser-harness.com",
     "archived": false,
     "starred_at": "2026-04-30T18:13:49Z",
@@ -1128,7 +1416,7 @@
       "playwright",
       "python"
     ],
-    "stargazers_count": 92956,
+    "stargazers_count": 92958,
     "homepage": "https://browser-use.com",
     "archived": false,
     "starred_at": "2026-04-30T18:12:43Z",
@@ -1147,11 +1435,11 @@
       "puppeteer",
       "selenium"
     ],
-    "stargazers_count": 22567,
+    "stargazers_count": 22566,
     "homepage": "https://stagehand.dev",
     "archived": false,
     "starred_at": "2025-07-13T22:24:25Z",
-    "pushed_at": "2026-05-08T20:39:37Z"
+    "pushed_at": "2026-05-08T21:59:06Z"
   },
   {
     "full_name": "bytedance/deer-flow",
@@ -1178,7 +1466,7 @@
       "superagent",
       "typescript"
     ],
-    "stargazers_count": 66090,
+    "stargazers_count": 66098,
     "homepage": "https://deerflow.tech",
     "archived": false,
     "starred_at": "2026-03-23T14:00:22Z",
@@ -1344,7 +1632,7 @@
     "stargazers_count": 512,
     "homepage": "",
     "archived": false,
-    "starred_at": "2026-01-16T05:43:47Z",
+    "starred_at": "2026-01-15T03:19:27Z",
     "pushed_at": "2026-03-18T14:34:25Z"
   },
   {
@@ -1453,7 +1741,7 @@
     "stargazers_count": 38525,
     "homepage": "https://npmjs.org/package/chrome-devtools-mcp",
     "archived": false,
-    "starred_at": "2025-10-22T01:09:30Z",
+    "starred_at": "2025-12-12T14:52:53Z",
     "pushed_at": "2026-05-08T13:20:55Z"
   },
   {
@@ -1462,7 +1750,7 @@
     "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
     "language": "TypeScript",
     "topics": [],
-    "stargazers_count": 61526,
+    "stargazers_count": 61527,
     "homepage": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev",
     "archived": false,
     "starred_at": "2025-06-25T01:14:47Z",
@@ -1516,7 +1804,7 @@
       "rust",
       "semantic-search"
     ],
-    "stargazers_count": 9154,
+    "stargazers_count": 9160,
     "homepage": "https://cocoindex.io",
     "archived": false,
     "starred_at": "2025-07-04T18:29:34Z",
@@ -1535,7 +1823,7 @@
       "tutorial-exercises",
       "tutorials"
     ],
-    "stargazers_count": 499936,
+    "stargazers_count": 499945,
     "homepage": "https://codecrafters.io",
     "archived": false,
     "starred_at": "2025-07-04T03:28:52Z",
@@ -1698,7 +1986,7 @@
     "homepage": "https://docs.conductor-oss.org/",
     "archived": false,
     "starred_at": "2026-04-24T20:26:13Z",
-    "pushed_at": "2026-05-08T20:19:20Z"
+    "pushed_at": "2026-05-08T21:14:33Z"
   },
   {
     "full_name": "confident-ai/deepeval",
@@ -2009,7 +2297,7 @@
     "stargazers_count": 30033,
     "homepage": "https://datawhalechina.github.io/happy-llm/",
     "archived": false,
-    "starred_at": "2025-08-28T15:20:19Z",
+    "starred_at": "2025-07-08T19:25:46Z",
     "pushed_at": "2026-05-06T16:17:10Z"
   },
   {
@@ -2023,7 +2311,7 @@
       "rag",
       "tutorial"
     ],
-    "stargazers_count": 44502,
+    "stargazers_count": 44514,
     "homepage": "https://hello-agents.datawhale.cc",
     "archived": false,
     "starred_at": "2026-05-02T15:18:05Z",
@@ -2119,7 +2407,7 @@
     "stargazers_count": 30314,
     "homepage": "",
     "archived": false,
-    "starred_at": "2025-08-28T15:23:10Z",
+    "starred_at": "2025-04-24T00:00:01Z",
     "pushed_at": "2026-04-24T13:50:47Z"
   },
   {
@@ -2165,7 +2453,7 @@
       "ui-library",
       "web"
     ],
-    "stargazers_count": 38979,
+    "stargazers_count": 38980,
     "homepage": "https://reactbits.dev",
     "archived": false,
     "starred_at": "2026-01-02T00:09:24Z",
@@ -2269,6 +2557,18 @@
     "pushed_at": "2026-04-20T08:00:45Z"
   },
   {
+    "full_name": "DestinyLinker/MingLi-Bench",
+    "html_url": "https://github.com/DestinyLinker/MingLi-Bench",
+    "description": "A benchmark for evaluating LLMs on Chinese traditional fortune telling — Bazi (八字) and Ziwei Doushu (紫微斗数).",
+    "language": "Python",
+    "topics": [],
+    "stargazers_count": 902,
+    "homepage": "https://destinyLinker.github.io/MingLi-Bench/",
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:25Z",
+    "pushed_at": "2026-05-06T04:05:10Z"
+  },
+  {
     "full_name": "dgraph-io/dgraph",
     "html_url": "https://github.com/dgraph-io/dgraph",
     "description": "high-performance graph database for real-time use cases",
@@ -2303,7 +2603,7 @@
     "homepage": "https://www.discourse.org",
     "archived": false,
     "starred_at": "2025-06-15T00:27:07Z",
-    "pushed_at": "2026-05-08T20:35:21Z"
+    "pushed_at": "2026-05-08T22:07:58Z"
   },
   {
     "full_name": "dkozlov/awesome-knowledge-distillation",
@@ -2349,7 +2649,7 @@
       "web-application",
       "webapp"
     ],
-    "stargazers_count": 347475,
+    "stargazers_count": 347479,
     "homepage": "",
     "archived": false,
     "starred_at": "2025-05-19T19:45:25Z",
@@ -2722,6 +3022,18 @@
     "pushed_at": "2026-03-13T17:04:16Z"
   },
   {
+    "full_name": "FANzR-arch/Numerologist_skills",
+    "html_url": "https://github.com/FANzR-arch/Numerologist_skills",
+    "description": "🔮 An engineering framework to stop LLM hallucinations in Chinese astrology. / 给“赛博半仙”戴上紧箍咒：减少幻觉、固定排盘步骤的奇门遁甲与紫微斗数 AI skills。",
+    "language": "HTML",
+    "topics": [],
+    "stargazers_count": 691,
+    "homepage": "https://numerologist-skills.vercel.app",
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:25Z",
+    "pushed_at": "2026-04-10T11:24:18Z"
+  },
+  {
     "full_name": "fastapi-practices/mcp",
     "html_url": "https://github.com/fastapi-practices/mcp",
     "description": "FastAPI Best Architecture mcp 插件",
@@ -2844,11 +3156,11 @@
       "typescript",
       "workflow-automation"
     ],
-    "stargazers_count": 52656,
+    "stargazers_count": 52658,
     "homepage": "https://flowiseai.com",
     "archived": false,
     "starred_at": "2026-01-08T15:37:40Z",
-    "pushed_at": "2026-05-08T17:44:19Z"
+    "pushed_at": "2026-05-08T22:15:39Z"
   },
   {
     "full_name": "freemocap/freemocap",
@@ -2880,7 +3192,7 @@
     "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
     "language": "TypeScript",
     "topics": [],
-    "stargazers_count": 91609,
+    "stargazers_count": 91629,
     "homepage": "",
     "archived": false,
     "starred_at": "2026-03-25T02:24:43Z",
@@ -2976,7 +3288,7 @@
       "subscriptions",
       "usage-based-billing"
     ],
-    "stargazers_count": 9641,
+    "stargazers_count": 9642,
     "homepage": "https://www.getlago.com",
     "archived": false,
     "starred_at": "2026-01-19T04:29:51Z",
@@ -2993,10 +3305,10 @@
       "llms",
       "rag"
     ],
-    "stargazers_count": 25828,
+    "stargazers_count": 25829,
     "homepage": "https://help.getzep.com/graphiti",
     "archived": false,
-    "starred_at": "2025-11-13T14:42:21Z",
+    "starred_at": "2025-10-15T09:46:36Z",
     "pushed_at": "2026-05-07T16:33:58Z"
   },
   {
@@ -3142,7 +3454,7 @@
     "stargazers_count": 30138,
     "homepage": "https://postiz.com",
     "archived": false,
-    "starred_at": "2026-01-12T17:20:27Z",
+    "starred_at": "2026-01-13T01:31:30Z",
     "pushed_at": "2026-05-07T03:40:41Z"
   },
   {
@@ -3181,7 +3493,7 @@
       "stream-processing",
       "video-processing"
     ],
-    "stargazers_count": 35117,
+    "stargazers_count": 35118,
     "homepage": "https://ai.google.dev/edge/mediapipe",
     "archived": false,
     "starred_at": "2025-05-08T22:52:40Z",
@@ -3201,11 +3513,11 @@
       "mcp-client",
       "mcp-server"
     ],
-    "stargazers_count": 103448,
+    "stargazers_count": 103454,
     "homepage": "https://geminicli.com",
     "archived": false,
     "starred_at": "2025-12-11T13:13:12Z",
-    "pushed_at": "2026-05-08T20:49:11Z"
+    "pushed_at": "2026-05-08T21:35:39Z"
   },
   {
     "full_name": "google-gemini/gemini-fullstack-langgraph-quickstart",
@@ -3228,7 +3540,7 @@
     "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
     "language": "TypeScript",
     "topics": [],
-    "stargazers_count": 12190,
+    "stargazers_count": 12195,
     "homepage": "https://stitch.withgoogle.com/docs/design-md/specification",
     "archived": false,
     "starred_at": "2026-04-30T20:45:37Z",
@@ -3359,11 +3671,34 @@
       "meta-prompting",
       "spec-driven-development"
     ],
-    "stargazers_count": 60964,
+    "stargazers_count": 60968,
     "homepage": "",
     "archived": false,
-    "starred_at": "2026-01-29T17:09:21Z",
+    "starred_at": "2026-03-30T04:32:40Z",
     "pushed_at": "2026-05-08T14:26:16Z"
+  },
+  {
+    "full_name": "GUNAASHRINM/Hermes-Agent-Wizard",
+    "html_url": "https://github.com/GUNAASHRINM/Hermes-Agent-Wizard",
+    "description": "🚀 Hermes Agent GUI Launcher 2026 – Windows & macOS 1-Click Setup Tool 🖱️",
+    "language": null,
+    "topics": [
+      "ai-agent",
+      "beginner-friendly",
+      "chinese-ui",
+      "desktop-app",
+      "gui-launcher",
+      "hermes-agent",
+      "installer",
+      "macos",
+      "no-code",
+      "windows"
+    ],
+    "stargazers_count": 11,
+    "homepage": null,
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:25Z",
+    "pushed_at": "2026-04-24T18:11:04Z"
   },
   {
     "full_name": "harry0703/MoneyPrinterTurbo",
@@ -3379,7 +3714,7 @@
       "shortvideo",
       "tiktok"
     ],
-    "stargazers_count": 56936,
+    "stargazers_count": 56937,
     "homepage": "",
     "archived": false,
     "starred_at": "2025-05-09T21:01:41Z",
@@ -3442,7 +3777,7 @@
       "coding-assistants",
       "llm"
     ],
-    "stargazers_count": 42999,
+    "stargazers_count": 43004,
     "homepage": "",
     "archived": false,
     "starred_at": "2025-07-21T13:59:11Z",
@@ -3741,7 +4076,7 @@
       "skills",
       "webui"
     ],
-    "stargazers_count": 24097,
+    "stargazers_count": 24100,
     "homepage": "https://www.aionui.com",
     "archived": false,
     "starred_at": "2026-02-09T18:14:01Z",
@@ -3822,6 +4157,18 @@
     "pushed_at": "2026-04-30T08:55:09Z"
   },
   {
+    "full_name": "jinchenma94/bazi-skill",
+    "html_url": "https://github.com/jinchenma94/bazi-skill",
+    "description": "四柱八字命理分析",
+    "language": null,
+    "topics": [],
+    "stargazers_count": 1350,
+    "homepage": null,
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:35Z",
+    "pushed_at": "2026-04-04T18:46:04Z"
+  },
+  {
     "full_name": "joeyism/linkedin_scraper",
     "html_url": "https://github.com/joeyism/linkedin_scraper",
     "description": "A library that scrapes Linkedin for user data",
@@ -3859,6 +4206,18 @@
     "pushed_at": "2026-05-08T20:11:14Z"
   },
   {
+    "full_name": "jtshow/Medusa",
+    "html_url": "https://github.com/jtshow/Medusa",
+    "description": "Medusa Skill Framework for AI Agents.",
+    "language": "Rust",
+    "topics": [],
+    "stargazers_count": 22,
+    "homepage": null,
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:35Z",
+    "pushed_at": "2026-05-07T03:54:30Z"
+  },
+  {
     "full_name": "juliangarnier/anime",
     "html_url": "https://github.com/juliangarnier/anime",
     "description": "JavaScript animation engine",
@@ -3872,7 +4231,7 @@
       "javascript-library",
       "svg"
     ],
-    "stargazers_count": 67896,
+    "stargazers_count": 67897,
     "homepage": "https://animejs.com",
     "archived": false,
     "starred_at": "2026-01-01T23:48:32Z",
@@ -3950,7 +4309,7 @@
       "system-design-interview",
       "tech"
     ],
-    "stargazers_count": 43160,
+    "stargazers_count": 43159,
     "homepage": "https://leanpub.com/systemdesign",
     "archived": false,
     "starred_at": "2025-06-08T03:31:54Z",
@@ -3980,7 +4339,7 @@
     "description": "AI agents running research on single-GPU nanochat training automatically",
     "language": "Python",
     "topics": [],
-    "stargazers_count": 79773,
+    "stargazers_count": 79786,
     "homepage": null,
     "archived": false,
     "starred_at": "2026-03-07T22:34:10Z",
@@ -4106,6 +4465,18 @@
     "pushed_at": "2026-03-26T03:35:43Z"
   },
   {
+    "full_name": "kitfunso/hippo-memory",
+    "html_url": "https://github.com/kitfunso/hippo-memory",
+    "description": "Biologically-inspired memory for AI agents. Decay, retrieval strengthening, consolidation. Zero dependencies.",
+    "language": "TypeScript",
+    "topics": [],
+    "stargazers_count": 626,
+    "homepage": null,
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:36Z",
+    "pushed_at": "2026-05-08T15:11:13Z"
+  },
+  {
     "full_name": "kkoppenhaver/cc-nano-banana",
     "html_url": "https://github.com/kkoppenhaver/cc-nano-banana",
     "description": "A Claude Code skill to generate images with Nano Banana",
@@ -4116,6 +4487,29 @@
     "archived": false,
     "starred_at": "2026-02-07T17:50:50Z",
     "pushed_at": "2026-02-19T01:51:25Z"
+  },
+  {
+    "full_name": "Kori-x/hermes-dashboard",
+    "html_url": "https://github.com/Kori-x/hermes-dashboard",
+    "description": "Dashboard for monitoring and managing Hermes agent sessions, tool usage, and activity in real-time",
+    "language": "TypeScript",
+    "topics": [
+      "agent-framework",
+      "ai-agents",
+      "dashboard",
+      "devtools",
+      "hermes",
+      "monitoring",
+      "react",
+      "real-time",
+      "typescript",
+      "websocket"
+    ],
+    "stargazers_count": 47,
+    "homepage": "https://github.com/Kori-x/hermes-dashboard",
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:26Z",
+    "pushed_at": "2026-04-08T02:26:28Z"
   },
   {
     "full_name": "kortix-ai/suna",
@@ -4131,7 +4525,7 @@
     "homepage": "https://www.kortix.com",
     "archived": false,
     "starred_at": "2025-06-12T17:57:47Z",
-    "pushed_at": "2026-05-07T22:12:24Z"
+    "pushed_at": "2026-05-08T22:07:41Z"
   },
   {
     "full_name": "KroMiose/nekro-agent",
@@ -4224,7 +4618,7 @@
     "description": null,
     "language": "Jupyter Notebook",
     "topics": [],
-    "stargazers_count": 8212,
+    "stargazers_count": 8213,
     "homepage": null,
     "archived": false,
     "starred_at": "2025-05-20T13:47:44Z",
@@ -4246,8 +4640,20 @@
     "stargazers_count": 24732,
     "homepage": "",
     "archived": true,
-    "starred_at": "2026-01-22T23:23:52Z",
+    "starred_at": "2026-01-22T23:09:13Z",
     "pushed_at": "2025-09-13T20:06:46Z"
+  },
+  {
+    "full_name": "leilei926524-tech/anti-distill",
+    "html_url": "https://github.com/leilei926524-tech/anti-distill",
+    "description": "反蒸馏 Skill：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己。Anti-distillation for employee Skills.",
+    "language": null,
+    "topics": [],
+    "stargazers_count": 2149,
+    "homepage": null,
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:36Z",
+    "pushed_at": "2026-05-08T01:09:29Z"
   },
   {
     "full_name": "Leonxlnx/taste-skill",
@@ -4269,10 +4675,10 @@
       "skills",
       "vibecoding"
     ],
-    "stargazers_count": 16236,
+    "stargazers_count": 16242,
     "homepage": "https://tasteskill.dev",
     "archived": false,
-    "starred_at": "2026-03-09T21:44:50Z",
+    "starred_at": "2026-03-07T15:52:17Z",
     "pushed_at": "2026-05-06T22:05:11Z"
   },
   {
@@ -4342,10 +4748,10 @@
     "description": "An open-source AI visualization tool that transforms natural language into Mind Maps, Mermaid diagrams, and Echarts. Turn your ideas into structured visuals instantly.",
     "language": "TypeScript",
     "topics": [],
-    "stargazers_count": 903,
+    "stargazers_count": 904,
     "homepage": "http://deepd.cturing.cn",
     "archived": false,
-    "starred_at": "2026-03-11T03:18:31Z",
+    "starred_at": "2026-05-08T22:14:38Z",
     "pushed_at": "2026-02-04T09:43:33Z"
   },
   {
@@ -4372,7 +4778,7 @@
     "homepage": "https://dashy.to",
     "archived": false,
     "starred_at": "2026-02-15T14:37:46Z",
-    "pushed_at": "2026-05-08T19:47:22Z"
+    "pushed_at": "2026-05-08T21:19:22Z"
   },
   {
     "full_name": "Lissy93/web-check",
@@ -4512,10 +4918,10 @@
       "mcp",
       "openai"
     ],
-    "stargazers_count": 76440,
+    "stargazers_count": 76451,
     "homepage": "https://lobehub.com",
     "archived": false,
-    "starred_at": "2026-03-04T02:43:12Z",
+    "starred_at": "2025-07-07T00:25:22Z",
     "pushed_at": "2026-05-08T20:25:19Z"
   },
   {
@@ -4559,11 +4965,11 @@
       "org-mode",
       "pkm"
     ],
-    "stargazers_count": 42711,
+    "stargazers_count": 42714,
     "homepage": "https://logseq.com",
     "archived": false,
     "starred_at": "2026-01-16T02:32:50Z",
-    "pushed_at": "2026-05-08T16:04:04Z"
+    "pushed_at": "2026-05-08T21:39:28Z"
   },
   {
     "full_name": "lsdefine/GenericAgent",
@@ -4587,7 +4993,7 @@
       "skill-tree",
       "task-automation"
     ],
-    "stargazers_count": 9786,
+    "stargazers_count": 9790,
     "homepage": "https://github.com/lsdefine/GenericAgent",
     "archived": false,
     "starred_at": "2026-04-29T13:19:59Z",
@@ -4659,7 +5065,7 @@
     "description": "A long list of (advanced) JavaScript questions, and their explanations :sparkles:  ",
     "language": null,
     "topics": [],
-    "stargazers_count": 65323,
+    "stargazers_count": 65324,
     "homepage": "",
     "archived": false,
     "starred_at": "2025-05-02T14:38:29Z",
@@ -4961,7 +5367,7 @@
     "stargazers_count": 2518,
     "homepage": "https://hacker-podcast.agi.li",
     "archived": false,
-    "starred_at": "2025-09-25T14:31:34Z",
+    "starred_at": "2025-09-24T12:02:06Z",
     "pushed_at": "2026-05-08T11:25:53Z"
   },
   {
@@ -5064,7 +5470,7 @@
     "homepage": "https://playwright.dev",
     "archived": false,
     "starred_at": "2026-05-02T15:13:20Z",
-    "pushed_at": "2026-05-08T20:54:02Z"
+    "pushed_at": "2026-05-08T21:37:44Z"
   },
   {
     "full_name": "microsoft/semantic-kernel",
@@ -5097,6 +5503,18 @@
     "pushed_at": "2026-01-28T10:54:11Z"
   },
   {
+    "full_name": "Ming-H/yinyuan-skills",
+    "html_url": "https://github.com/Ming-H/yinyuan-skills",
+    "description": "yinyuan-skills",
+    "language": null,
+    "topics": [],
+    "stargazers_count": 205,
+    "homepage": null,
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:26Z",
+    "pushed_at": "2026-04-05T08:09:38Z"
+  },
+  {
     "full_name": "Mintplex-Labs/anything-llm",
     "html_url": "https://github.com/Mintplex-Labs/anything-llm",
     "description": "The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.",
@@ -5122,11 +5540,11 @@
       "vector-database",
       "web-scraping"
     ],
-    "stargazers_count": 59738,
+    "stargazers_count": 59744,
     "homepage": "https://anythingllm.com",
     "archived": false,
     "starred_at": "2026-01-05T07:07:18Z",
-    "pushed_at": "2026-05-08T01:20:10Z"
+    "pushed_at": "2026-05-08T21:59:54Z"
   },
   {
     "full_name": "MiroMindAI/MiroThinker",
@@ -5202,7 +5620,7 @@
       "machine-learning",
       "roadmap"
     ],
-    "stargazers_count": 79094,
+    "stargazers_count": 79095,
     "homepage": "https://mlabonne.github.io/blog/",
     "archived": false,
     "starred_at": "2025-04-24T00:27:38Z",
@@ -5242,7 +5660,7 @@
     "homepage": "https://maestro.dev",
     "archived": false,
     "starred_at": "2026-05-02T15:13:42Z",
-    "pushed_at": "2026-05-08T20:06:13Z"
+    "pushed_at": "2026-05-08T21:35:05Z"
   },
   {
     "full_name": "mobile-next/mobile-mcp",
@@ -5284,7 +5702,7 @@
     "stargazers_count": 24616,
     "homepage": "https://beta.monicahq.com",
     "archived": false,
-    "starred_at": "2026-04-22T13:18:18Z",
+    "starred_at": "2026-05-02T10:15:07Z",
     "pushed_at": "2026-04-24T19:52:26Z"
   },
   {
@@ -5399,10 +5817,10 @@
     "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
     "language": "TypeScript",
     "topics": [],
-    "stargazers_count": 26219,
+    "stargazers_count": 26226,
     "homepage": "https://multica.ai",
     "archived": false,
-    "starred_at": "2026-04-01T18:20:03Z",
+    "starred_at": "2026-04-27T00:11:07Z",
     "pushed_at": "2026-05-08T11:14:12Z"
   },
   {
@@ -5530,11 +5948,11 @@
       "hermes-agent",
       "nous-research"
     ],
-    "stargazers_count": 6218,
+    "stargazers_count": 6225,
     "homepage": "https://get-hermes.ai/",
     "archived": false,
     "starred_at": "2026-04-29T02:15:26Z",
-    "pushed_at": "2026-05-08T20:30:06Z"
+    "pushed_at": "2026-05-08T21:40:05Z"
   },
   {
     "full_name": "NevaMind-AI/memU",
@@ -5604,7 +6022,7 @@
       "uikit",
       "windsurf-ai"
     ],
-    "stargazers_count": 75541,
+    "stargazers_count": 75554,
     "homepage": "https://www.uupm.cc/",
     "archived": false,
     "starred_at": "2026-01-01T21:40:42Z",
@@ -5680,6 +6098,18 @@
     "archived": false,
     "starred_at": "2025-05-21T14:26:01Z",
     "pushed_at": "2026-04-15T15:30:57Z"
+  },
+  {
+    "full_name": "notdog1998/yourself-skill",
+    "html_url": "https://github.com/notdog1998/yourself-skill",
+    "description": "与其蒸馏别人，不如蒸馏自己。欢迎加入数字永生！Inspired by colleague-skill（同事skill）。",
+    "language": "Python",
+    "topics": [],
+    "stargazers_count": 2610,
+    "homepage": "",
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:37Z",
+    "pushed_at": "2026-04-01T16:38:03Z"
   },
   {
     "full_name": "NousResearch/hermes-agent",
@@ -5933,7 +6363,7 @@
     "description": "Use Codex from Claude Code to review code or delegate tasks.",
     "language": "JavaScript",
     "topics": [],
-    "stargazers_count": 17925,
+    "stargazers_count": 17929,
     "homepage": null,
     "archived": false,
     "starred_at": "2026-04-22T02:54:24Z",
@@ -5991,11 +6421,11 @@
       "own-your-data",
       "personal"
     ],
-    "stargazers_count": 369859,
+    "stargazers_count": 369864,
     "homepage": "https://openclaw.ai",
     "archived": false,
-    "starred_at": "2026-01-26T15:12:15Z",
-    "pushed_at": "2026-05-08T21:29:35Z"
+    "starred_at": "2026-01-25T20:50:34Z",
+    "pushed_at": "2026-05-08T22:15:40Z"
   },
   {
     "full_name": "OpenCut-app/OpenCut",
@@ -6007,7 +6437,7 @@
       "oss",
       "videoeditor"
     ],
-    "stargazers_count": 48832,
+    "stargazers_count": 48833,
     "homepage": "https://opencut.app",
     "archived": false,
     "starred_at": "2025-06-23T20:58:11Z",
@@ -6120,10 +6550,10 @@
       "pi-agent",
       "planning"
     ],
-    "stargazers_count": 20687,
+    "stargazers_count": 20689,
     "homepage": "",
     "archived": false,
-    "starred_at": "2026-02-09T17:37:40Z",
+    "starred_at": "2026-01-05T14:46:53Z",
     "pushed_at": "2026-05-05T15:59:41Z"
   },
   {
@@ -6152,7 +6582,7 @@
       "react",
       "typescript"
     ],
-    "stargazers_count": 3625,
+    "stargazers_count": 3635,
     "homepage": "https://hermes-workspace.com",
     "archived": false,
     "starred_at": "2026-04-26T12:38:08Z",
@@ -6206,10 +6636,10 @@
     "description": "Open-source orchestration for zero-human companies",
     "language": "TypeScript",
     "topics": [],
-    "stargazers_count": 63584,
+    "stargazers_count": 63590,
     "homepage": "https://paperclip.ing",
     "archived": false,
-    "starred_at": "2026-03-05T04:44:00Z",
+    "starred_at": "2026-03-11T05:12:22Z",
     "pushed_at": "2026-05-08T00:03:49Z"
   },
   {
@@ -6225,7 +6655,7 @@
       "mcp",
       "rag"
     ],
-    "stargazers_count": 34776,
+    "stargazers_count": 34780,
     "homepage": "https://join.dailydoseofds.com",
     "archived": false,
     "starred_at": "2025-06-27T22:33:45Z",
@@ -6263,10 +6693,10 @@
       "ux-design",
       "ux-experience"
     ],
-    "stargazers_count": 47413,
+    "stargazers_count": 47414,
     "homepage": "https://penpot.app",
     "archived": false,
-    "starred_at": "2026-04-29T23:19:30Z",
+    "starred_at": "2026-01-16T02:31:16Z",
     "pushed_at": "2026-05-08T18:42:39Z"
   },
   {
@@ -6376,7 +6806,7 @@
       "tutorial",
       "webdevelopment"
     ],
-    "stargazers_count": 265121,
+    "stargazers_count": 265124,
     "homepage": null,
     "archived": false,
     "starred_at": "2025-05-31T01:26:52Z",
@@ -6433,7 +6863,7 @@
       "ai",
       "mcp"
     ],
-    "stargazers_count": 86503,
+    "stargazers_count": 86504,
     "homepage": "https://glama.ai/mcp/servers",
     "archived": false,
     "starred_at": "2025-05-28T01:00:00Z",
@@ -6479,10 +6909,10 @@
       "pytorch",
       "transformers"
     ],
-    "stargazers_count": 92187,
+    "stargazers_count": 92188,
     "homepage": "https://amzn.to/4fqvn0D",
     "archived": false,
-    "starred_at": "2026-03-04T13:22:48Z",
+    "starred_at": "2025-04-24T00:19:39Z",
     "pushed_at": "2026-05-06T17:25:14Z"
   },
   {
@@ -6669,10 +7099,10 @@
       "swarm",
       "swarm-intelligence"
     ],
-    "stargazers_count": 46802,
+    "stargazers_count": 46821,
     "homepage": "https://Cognitum.One",
     "archived": false,
-    "starred_at": "2025-08-18T17:58:38Z",
+    "starred_at": "2025-07-17T19:44:59Z",
     "pushed_at": "2026-05-08T17:59:25Z"
   },
   {
@@ -6769,10 +7199,10 @@
       "open-source",
       "resume"
     ],
-    "stargazers_count": 43580,
+    "stargazers_count": 43587,
     "homepage": "https://career-ops.org",
     "archived": false,
-    "starred_at": "2026-04-07T00:40:21Z",
+    "starred_at": "2026-04-29T15:14:30Z",
     "pushed_at": "2026-05-06T14:10:02Z"
   },
   {
@@ -6883,7 +7313,7 @@
       "ui",
       "vite"
     ],
-    "stargazers_count": 113839,
+    "stargazers_count": 113842,
     "homepage": "https://ui.shadcn.com",
     "archived": false,
     "starred_at": "2025-06-27T02:16:27Z",
@@ -6906,10 +7336,10 @@
       "teaching",
       "tutorial"
     ],
-    "stargazers_count": 59126,
+    "stargazers_count": 59127,
     "homepage": "https://learn.shareai.run",
     "archived": false,
-    "starred_at": "2026-03-06T20:55:06Z",
+    "starred_at": "2025-07-19T14:55:01Z",
     "pushed_at": "2026-04-14T16:58:21Z"
   },
   {
@@ -6963,7 +7393,7 @@
     "description": "Kronos: A Foundation Model for the Language of Financial Markets",
     "language": "Python",
     "topics": [],
-    "stargazers_count": 23657,
+    "stargazers_count": 23666,
     "homepage": null,
     "archived": false,
     "starred_at": "2026-01-01T21:39:44Z",
@@ -6998,7 +7428,7 @@
       "resources",
       "unicorns"
     ],
-    "stargazers_count": 464088,
+    "stargazers_count": 464104,
     "homepage": "",
     "archived": false,
     "starred_at": "2025-12-18T00:55:31Z",
@@ -7068,7 +7498,7 @@
     "stargazers_count": 33203,
     "homepage": "https://oneapi.justsong.cn/",
     "archived": false,
-    "starred_at": "2026-05-08T14:47:32Z",
+    "starred_at": "2025-07-14T22:00:40Z",
     "pushed_at": "2026-01-09T03:26:43Z"
   },
   {
@@ -7098,10 +7528,10 @@
       "social-network",
       "socmint"
     ],
-    "stargazers_count": 26576,
+    "stargazers_count": 26584,
     "homepage": "https://maigret.readthedocs.io",
     "archived": false,
-    "starred_at": "2026-05-02T10:48:24Z",
+    "starred_at": "2026-05-02T10:50:41Z",
     "pushed_at": "2026-05-08T08:10:25Z"
   },
   {
@@ -7236,7 +7666,7 @@
     "stargazers_count": 106357,
     "homepage": "https://tauri.app",
     "archived": false,
-    "starred_at": "2026-03-06T13:38:50Z",
+    "starred_at": "2026-03-13T22:42:49Z",
     "pushed_at": "2026-05-08T12:17:45Z"
   },
   {
@@ -7251,7 +7681,7 @@
       "multiagent",
       "trading"
     ],
-    "stargazers_count": 71713,
+    "stargazers_count": 71744,
     "homepage": "https://arxiv.org/pdf/2412.20138",
     "archived": false,
     "starred_at": "2025-07-02T19:45:17Z",
@@ -7289,6 +7719,18 @@
     "archived": false,
     "starred_at": "2025-12-09T15:43:18Z",
     "pushed_at": "2026-05-08T21:14:04Z"
+  },
+  {
+    "full_name": "therealXiaomanChu/ex-skill",
+    "html_url": "https://github.com/therealXiaomanChu/ex-skill",
+    "description": "把前任蒸馏成 AI Skill，用ta的方式跟你说话。",
+    "language": "Python",
+    "topics": [],
+    "stargazers_count": 5069,
+    "homepage": "",
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:37Z",
+    "pushed_at": "2026-04-08T16:46:35Z"
   },
   {
     "full_name": "tim-hub/techtim-astro-bento-portfolio",
@@ -7365,11 +7807,11 @@
       "sync",
       "whiteboard"
     ],
-    "stargazers_count": 46895,
+    "stargazers_count": 46896,
     "homepage": "https://tldraw.dev",
     "archived": false,
     "starred_at": "2026-01-16T02:40:54Z",
-    "pushed_at": "2026-05-08T15:55:05Z"
+    "pushed_at": "2026-05-08T21:59:08Z"
   },
   {
     "full_name": "tobi/qmd",
@@ -7408,7 +7850,7 @@
       "wiki",
       "workspace"
     ],
-    "stargazers_count": 68143,
+    "stargazers_count": 68145,
     "homepage": "https://affine.pro",
     "archived": false,
     "starred_at": "2025-07-13T20:02:39Z",
@@ -7565,11 +8007,11 @@
       "publishing",
       "web-application"
     ],
-    "stargazers_count": 52763,
+    "stargazers_count": 52764,
     "homepage": "https://ghost.org",
     "archived": false,
     "starred_at": "2025-06-15T00:21:10Z",
-    "pushed_at": "2026-05-08T20:35:41Z"
+    "pushed_at": "2026-05-08T21:18:42Z"
   },
   {
     "full_name": "TuGraph-family/chat2graph",
@@ -7684,10 +8126,10 @@
       "vibe-coding",
       "workflow"
     ],
-    "stargazers_count": 12380,
+    "stargazers_count": 12381,
     "homepage": "https://x.com/123olp",
     "archived": false,
-    "starred_at": "2025-12-18T17:40:30Z",
+    "starred_at": "2026-01-01T21:40:05Z",
     "pushed_at": "2026-05-08T14:02:53Z"
   },
   {
@@ -7714,10 +8156,10 @@
       "typescript",
       "web"
     ],
-    "stargazers_count": 45620,
+    "stargazers_count": 45619,
     "homepage": "https://twenty.com",
     "archived": false,
-    "starred_at": "2026-01-09T16:29:50Z",
+    "starred_at": "2025-06-25T18:16:18Z",
     "pushed_at": "2026-05-08T20:46:12Z"
   },
   {
@@ -7910,11 +8352,11 @@
       "vercel",
       "vue"
     ],
-    "stargazers_count": 24098,
+    "stargazers_count": 24099,
     "homepage": "https://ai-sdk.dev",
     "archived": false,
     "starred_at": "2025-06-27T22:08:49Z",
-    "pushed_at": "2026-05-08T20:48:58Z"
+    "pushed_at": "2026-05-08T21:29:52Z"
   },
   {
     "full_name": "vercel/chatbot",
@@ -7930,7 +8372,7 @@
       "shadcn-ui",
       "vercel"
     ],
-    "stargazers_count": 20259,
+    "stargazers_count": 20260,
     "homepage": "https://chatbot.ai-sdk.dev",
     "archived": false,
     "starred_at": "2025-06-03T02:12:45Z",
@@ -8010,7 +8452,7 @@
       "python-libraries",
       "python-tools"
     ],
-    "stargazers_count": 296586,
+    "stargazers_count": 296593,
     "homepage": "https://awesome-python.com/",
     "archived": false,
     "starred_at": "2025-05-18T15:07:36Z",
@@ -8022,7 +8464,7 @@
     "description": "An AI Hedge Fund Team",
     "language": "Python",
     "topics": [],
-    "stargazers_count": 58361,
+    "stargazers_count": 58363,
     "homepage": null,
     "archived": false,
     "starred_at": "2026-03-10T20:56:39Z",
@@ -8034,11 +8476,23 @@
     "description": "An autonomous agent for deep financial research",
     "language": "TypeScript",
     "topics": [],
-    "stargazers_count": 24862,
+    "stargazers_count": 24873,
     "homepage": null,
     "archived": false,
     "starred_at": "2026-02-09T18:10:33Z",
     "pushed_at": "2026-05-08T18:49:07Z"
+  },
+  {
+    "full_name": "vogtsw/boss-skills",
+    "html_url": "https://github.com/vogtsw/boss-skills",
+    "description": "老板.skills. 把老板炼入token，把生产力的解放留给自己。Alchemize your boss into a token, and keep the liberation of productivity for yourself.",
+    "language": "Python",
+    "topics": [],
+    "stargazers_count": 199,
+    "homepage": "",
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:38Z",
+    "pushed_at": "2026-05-08T11:54:06Z"
   },
   {
     "full_name": "volcengine/OpenViking",
@@ -8134,10 +8588,10 @@
       "openclaw",
       "openclaw-skills"
     ],
-    "stargazers_count": 48238,
+    "stargazers_count": 48239,
     "homepage": "https://clawskills.sh/",
     "archived": false,
-    "starred_at": "2026-02-05T21:37:11Z",
+    "starred_at": "2026-01-29T04:05:22Z",
     "pushed_at": "2026-04-20T06:41:09Z"
   },
   {
@@ -8269,6 +8723,25 @@
     "pushed_at": "2026-04-30T01:31:08Z"
   },
   {
+    "full_name": "wysie/drawthings-grpc-hermes-plugin",
+    "html_url": "https://github.com/wysie/drawthings-grpc-hermes-plugin",
+    "description": "Hermes Agent plugin for local Draw Things image generation via gRPC",
+    "language": "Python",
+    "topics": [
+      "apple-silicon",
+      "draw-things",
+      "grpc",
+      "hermes-agent",
+      "image-generation",
+      "local-ai"
+    ],
+    "stargazers_count": 4,
+    "homepage": null,
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:27Z",
+    "pushed_at": "2026-05-01T01:55:24Z"
+  },
+  {
     "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
     "html_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
     "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
@@ -8295,10 +8768,10 @@
       "windsurf",
       "windsurf-ai"
     ],
-    "stargazers_count": 136918,
+    "stargazers_count": 136921,
     "homepage": "",
     "archived": false,
-    "starred_at": "2026-02-26T16:33:17Z",
+    "starred_at": "2025-05-07T18:56:17Z",
     "pushed_at": "2026-05-07T17:49:45Z"
   },
   {
@@ -8315,6 +8788,26 @@
     "archived": false,
     "starred_at": "2026-04-09T23:01:05Z",
     "pushed_at": "2026-04-16T12:56:37Z"
+  },
+  {
+    "full_name": "xiaohei-info/oh-my-agent-skills",
+    "html_url": "https://github.com/xiaohei-info/oh-my-agent-skills",
+    "description": "Open-source bundle of agent methodologies and Hermes-compatible skills.",
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "chatops",
+      "hermes",
+      "knowledge-management",
+      "multi-agent",
+      "obsidian",
+      "prompt-engineering"
+    ],
+    "stargazers_count": 14,
+    "homepage": null,
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:39Z",
+    "pushed_at": "2026-05-04T10:02:05Z"
   },
   {
     "full_name": "XiaomingX/ai-money-maker-handbook",
@@ -8390,6 +8883,53 @@
     "pushed_at": "2026-04-27T02:53:12Z"
   },
   {
+    "full_name": "xr843/Master-skill",
+    "html_url": "https://github.com/xr843/Master-skill",
+    "description": "Buddhist Master-skill powered by FoJin — 三大传统（汉传/藏传/南传）祖师大德 AI 教学角色生成器，CBETA / BDRC / SuttaCentral 引证",
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "ai-persona",
+      "bdrc",
+      "buddhism",
+      "chinese-buddhism",
+      "claude-skills",
+      "digital-humanities",
+      "fojin",
+      "llm",
+      "mahamudra",
+      "rag",
+      "suttacentral",
+      "thai-forest-tradition",
+      "theravada",
+      "tibetan-buddhism"
+    ],
+    "stargazers_count": 265,
+    "homepage": "https://fojin.app/chat",
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:39Z",
+    "pushed_at": "2026-05-03T13:10:43Z"
+  },
+  {
+    "full_name": "xujfcn/crazyrouter-hermes",
+    "html_url": "https://github.com/xujfcn/crazyrouter-hermes",
+    "description": "Use Hermes Agent (NousResearch) with Crazyrouter — 600+ AI models, 30-50% cheaper than OpenRouter",
+    "language": "Shell",
+    "topics": [
+      "ai-agent",
+      "crazyrouter",
+      "crazyrouter-integration",
+      "hermes-agent",
+      "llm",
+      "nousresearch"
+    ],
+    "stargazers_count": 5,
+    "homepage": "https://crazyrouter.com",
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:40Z",
+    "pushed_at": "2026-04-24T13:58:41Z"
+  },
+  {
     "full_name": "yamadashy/repomix",
     "html_url": "https://github.com/yamadashy/repomix",
     "description": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.",
@@ -8421,6 +8961,18 @@
     "archived": false,
     "starred_at": "2026-03-10T13:38:13Z",
     "pushed_at": "2026-05-08T17:40:19Z"
+  },
+  {
+    "full_name": "yaojingang/yao-open-skills",
+    "html_url": "https://github.com/yaojingang/yao-open-skills",
+    "description": "OpenYao 公开 Skill 合集：把决策、商业分析、学习教程、研究取证和文档生成流程沉淀成可复用的 AI 资产。",
+    "language": "HTML",
+    "topics": [],
+    "stargazers_count": 705,
+    "homepage": null,
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:40Z",
+    "pushed_at": "2026-05-04T03:02:38Z"
   },
   {
     "full_name": "ycccccccy/echotrace",
@@ -8492,6 +9044,29 @@
     "pushed_at": "2026-05-08T00:06:16Z"
   },
   {
+    "full_name": "yifanfeng97/Hyper-Extract",
+    "html_url": "https://github.com/yifanfeng97/Hyper-Extract",
+    "description": "Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "cli",
+      "hypergraph",
+      "information-extraction",
+      "knowledge",
+      "knowledge-graph",
+      "llm",
+      "python",
+      "rag"
+    ],
+    "stargazers_count": 853,
+    "homepage": "https://yifanfeng97.github.io/Hyper-Extract/",
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:40Z",
+    "pushed_at": "2026-04-30T02:50:53Z"
+  },
+  {
     "full_name": "yikart/AiToEarn",
     "html_url": "https://github.com/yikart/AiToEarn",
     "description": "Let's use AI to Earn!",
@@ -8514,6 +9089,26 @@
     "archived": false,
     "starred_at": "2026-03-10T12:45:30Z",
     "pushed_at": "2026-04-20T14:49:18Z"
+  },
+  {
+    "full_name": "YIKUAIBANZI/forge-skill",
+    "html_url": "https://github.com/YIKUAIBANZI/forge-skill",
+    "description": "人格蒸馏引擎 · 蒸馏自己看清自己，蒸馏亲友留住余温与回声 · Claude Code Skill",
+    "language": "Python",
+    "topics": [
+      "ai-agent",
+      "claude-code",
+      "claude-skill",
+      "digital-twin",
+      "memory",
+      "persona",
+      "prompt-engineering"
+    ],
+    "stargazers_count": 72,
+    "homepage": "",
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:27Z",
+    "pushed_at": "2026-04-08T10:49:12Z"
   },
   {
     "full_name": "YILS-LIN/short-video-factory",
@@ -8609,6 +9204,18 @@
     "pushed_at": "2026-05-08T14:01:51Z"
   },
   {
+    "full_name": "YourongZhou/chat_with_me",
+    "html_url": "https://github.com/YourongZhou/chat_with_me",
+    "description": null,
+    "language": "Python",
+    "topics": [],
+    "stargazers_count": 57,
+    "homepage": null,
+    "archived": false,
+    "starred_at": "2026-05-08T22:14:28Z",
+    "pushed_at": "2026-04-13T08:12:48Z"
+  },
+  {
     "full_name": "ythx-101/x-profile-analyzer",
     "html_url": "https://github.com/ythx-101/x-profile-analyzer",
     "description": "🦞 X/Twitter user profile analyzer — no API key, no login required",
@@ -8629,7 +9236,7 @@
     "stargazers_count": 809,
     "homepage": null,
     "archived": false,
-    "starred_at": "2026-03-11T15:39:02Z",
+    "starred_at": "2026-04-29T13:45:20Z",
     "pushed_at": "2026-04-04T03:40:43Z"
   },
   {
@@ -8691,7 +9298,7 @@
       "best-practices",
       "fastapi"
     ],
-    "stargazers_count": 17201,
+    "stargazers_count": 17202,
     "homepage": "",
     "archived": false,
     "starred_at": "2025-05-22T18:17:15Z",
@@ -8740,7 +9347,7 @@
     "stargazers_count": 5143,
     "homepage": "https://zhouxiaoka.github.io/autoclip_intro/",
     "archived": false,
-    "starred_at": "2026-03-05T18:39:13Z",
+    "starred_at": "2026-04-26T22:26:44Z",
     "pushed_at": "2026-05-08T10:20:24Z"
   },
   {

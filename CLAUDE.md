@@ -43,11 +43,18 @@ solo_unicorn_toolbox/
 ### 2. Sync newly starred GitHub repos
 
 ```bash
-scripts/sync-stars.sh
+scripts/sync-stars.sh                 # authenticated user
+scripts/sync-stars.sh <username>      # public stars for any user
 ```
 
 Refreshes `data/stars.json` and appends repos newly starred since the last
 sync to `inbox.md` under "## Newly starred". Then follow the flow above.
+
+This is also automated: `.github/workflows/sync-stars.yml` runs every Monday
+at 09:00 UTC (and on manual `workflow_dispatch`), syncs both `JesseQin123` and
+`jesseqin-kamiwaza`, and commits any changes back to `main`. Switch the cron
+to `'0 9 * * *'` for daily. Uses `GITHUB_TOKEN` for public stars; for private
+stars, add a `STARS_PAT` secret with `read:user` scope.
 
 ### 3. Re-classify or rewrite a description
 
