@@ -28,3 +28,51 @@
   - 第二轮（9 个文件夹合并）→ 5 推文 → 6 个 GitHub repo（`data/bookmarks_resolved.json`）
   - 累计 star + 入档 49 个 repo，`data/manifest.json` 从 446 → 486
   - 未抓到 GitHub 链接的 119 条主要为：DeepSeek/Claude 演示、推荐文章、视频、小红书内容、纯文字推文
+
+
+## Newly starred (overflow)
+
+<!-- Top 20 were auto-classified. These 20 need manual review next run. -->
+- https://github.com/vogtsw/boss-skills  — ⭐ 199 · Python · 老板.skills. 把老板炼入token，把生产力的解放留给自己。Alchemize your boss into a token, and keep the
+- https://github.com/AxDSan/mnemosyne  — ⭐ 197 · Python · The Zero-Dependency, Sub-Millisecond AI Memory System for Hermes Agents
+- https://github.com/alchaincyf/naval-skill  — ⭐ 146 ·  · 纳瓦尔.skill — Naval Ravikant的认知操作系统。由女娲.skill生成。
+- https://github.com/alchaincyf/feynman-skill  — ⭐ 142 ·  · 费曼.skill — 理查德·费曼的认知操作系统。由女娲.skill生成。
+- https://github.com/alchaincyf/karpathy-skill  — ⭐ 127 ·  · Andrej Karpathy的认知操作系统。不是语录合集，是可运行的思维框架。Made with 女娲.skill
+- https://github.com/alchaincyf/zhang-yiming-skill  — ⭐ 99 ·  · 张一鸣的认知操作系统。不是语录合集，是可运行的思维框架。Made with 女娲.skill
+- https://github.com/alchaincyf/taleb-skill  — ⭐ 76 ·  · 塔勒布.skill — Nassim Taleb的认知操作系统。由女娲.skill生成。
+- https://github.com/YIKUAIBANZI/forge-skill  — ⭐ 72 · Python · 人格蒸馏引擎 · 蒸馏自己看清自己，蒸馏亲友留住余温与回声 · Claude Code Skill
+- https://github.com/YourongZhou/chat_with_me  — ⭐ 57 · Python · 
+- https://github.com/alchaincyf/paul-graham-skill  — ⭐ 53 ·  · Paul Graham的认知操作系统。不是语录合集，是可运行的思维框架。Made with 女娲.skill
+- https://github.com/Abruptive/Ankh.md  — ⭐ 51 · Shell · A mysterious multi-agent swarm framework summoned by TAW Agent from 1971 to help
+- https://github.com/Kori-x/hermes-dashboard  — ⭐ 47 · TypeScript · Dashboard for monitoring and managing Hermes agent sessions, tool usage, and act
+- https://github.com/alchaincyf/mrbeast-skill  — ⭐ 42 · Python · MrBeast的内容创造操作系统。不是语录合集，是可运行的内容方法论。Made with 女娲.skill
+- https://github.com/alchaincyf/ilya-sutskever-skill  — ⭐ 32 ·  · Ilya Sutskever的认知操作系统。不是语录合集，是可运行的思维框架。Made with 女娲.skill
+- https://github.com/jtshow/Medusa  — ⭐ 22 · Rust · Medusa Skill Framework for AI Agents.
+- https://github.com/xiaohei-info/oh-my-agent-skills  — ⭐ 14 · Python · Open-source bundle of agent methodologies and Hermes-compatible skills.
+- https://github.com/GUNAASHRINM/Hermes-Agent-Wizard  — ⭐ 11 ·  · 🚀 Hermes Agent GUI Launcher 2026 – Windows & macOS 1-Click Setup Tool 🖱️
+- https://github.com/xujfcn/crazyrouter-hermes  — ⭐ 5 · Shell · Use Hermes Agent (NousResearch) with Crazyrouter — 600+ AI models, 30-50% cheape
+- https://github.com/wysie/drawthings-grpc-hermes-plugin  — ⭐ 4 · Python · Hermes Agent plugin for local Draw Things image generation via gRPC
+- https://github.com/AlexanderWhitestone/hermes-dashboard-sovereign-ops  — ⭐ 3 · JavaScript · Sovereign Ops dashboard plugin + theme for Hermes Agent
+
+## Auto-classified 2026-05-08
+
+- https://github.com/alchaincyf/nuwa-skill  → skills-mcp/N/A
+- https://github.com/alchaincyf/zhangxuefeng-skill  → skills-mcp/N/A
+- https://github.com/therealXiaomanChu/ex-skill  → skills-mcp/N/A
+- https://github.com/1weiho/open-slide  → multimedia/documents-slides
+- https://github.com/notdog1998/yourself-skill  → skills-mcp/N/A
+- https://github.com/leilei926524-tech/anti-distill  → skills-mcp/N/A
+- https://github.com/jinchenma94/bazi-skill  → skills-mcp/N/A
+- https://github.com/DestinyLinker/MingLi-Bench  → misc/personal-projects
+- https://github.com/yifanfeng97/Hyper-Extract  → rag-kg-memory/N/A
+- https://github.com/alchaincyf/steve-jobs-skill  → skills-mcp/N/A
+- https://github.com/alchaincyf/x-mentor-skill  → skills-mcp/N/A
+- https://github.com/yaojingang/yao-open-skills  → skills-mcp/N/A
+- https://github.com/FANzR-arch/Numerologist_skills  → misc/personal-projects
+- https://github.com/kitfunso/hippo-memory  → rag-kg-memory/N/A
+- https://github.com/awizemann/scarf  → ai-agents/openclaw-hermes
+- https://github.com/alchaincyf/elon-musk-skill  → skills-mcp/N/A
+- https://github.com/xr843/Master-skill  → skills-mcp/N/A
+- https://github.com/alchaincyf/trump-skill  → skills-mcp/N/A
+- https://github.com/alchaincyf/munger-skill  → skills-mcp/N/A
+- https://github.com/Ming-H/yinyuan-skills  → skills-mcp/N/A
