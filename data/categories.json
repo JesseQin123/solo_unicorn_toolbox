@@ -43,7 +43,8 @@
       "subcategories": [
         {"id": "image", "en": "Image Generation & Design", "zh": "图像生成与设计"},
         {"id": "video", "en": "Video Generation & Editing", "zh": "视频生成与剪辑"},
-        {"id": "audio", "en": "Audio / Voice / Music", "zh": "音频 / 语音 / 音乐"}
+        {"id": "audio", "en": "Audio / Voice / Music", "zh": "音频 / 语音 / 音乐"},
+        {"id": "documents-slides", "en": "Documents / Slides / Office", "zh": "文档 / 幻灯片 / Office"}
       ]
     },
     {
@@ -78,7 +79,8 @@
         {"id": "llm-gateway", "en": "LLM Gateway / SDK", "zh": "LLM 网关 / SDK"},
         {"id": "auth-billing", "en": "Auth / Billing / Email", "zh": "鉴权 / 计费 / 邮件"},
         {"id": "self-host", "en": "Self-Host / PaaS", "zh": "自托管 / PaaS"},
-        {"id": "ai-toolkit", "en": "AI Toolkits / RAG Apps", "zh": "AI 工具包 / RAG 应用"}
+        {"id": "ai-toolkit", "en": "AI Toolkits / RAG Apps", "zh": "AI 工具包 / RAG 应用"},
+        {"id": "databases-analytics", "en": "Databases / Analytics / Search", "zh": "数据库 / 分析 / 搜索"}
       ]
     },
     {
@@ -101,7 +103,8 @@
       "subcategories": [
         {"id": "finance", "en": "Finance / Trading / Quant", "zh": "金融 / 交易 / 量化"},
         {"id": "career", "en": "Career / Job Search", "zh": "职业 / 求职"},
-        {"id": "indie-hacker", "en": "Indie Hacker / Side Projects", "zh": "独立开发 / 副业"}
+        {"id": "indie-hacker", "en": "Indie Hacker / Side Projects", "zh": "独立开发 / 副业"},
+        {"id": "marketing-growth", "en": "Marketing / Growth", "zh": "营销 / 增长"}
       ]
     },
     {
