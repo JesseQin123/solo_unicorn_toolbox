@@ -1,6 +1,6 @@
 # Solo Unicorn Toolbox 🛠️
 
-> 一份双语整理的 **486 个 GitHub 项目** 目录——AI agents、coding harnesses、RAG、多媒体、教程等等——汇总自 GitHub stars、Twitter bookmarks 和小红书收藏。
+> 一份双语整理的 **487 个 GitHub 项目** 目录——AI agents、coding harnesses、RAG、多媒体、教程等等——汇总自 GitHub stars、Twitter bookmarks 和小红书收藏。
 
 > English: [README.md](./README.md) · 维护说明：[CLAUDE.md](./CLAUDE.md)
 
@@ -10,7 +10,7 @@
 
 ### 里面有什么
 
-- **共 486 个项目**，分布在 12 个大类——见下方目录
+- **共 487 个项目**，分布在 12 个大类——见下方目录
 - 两个 GitHub 账号的 stars：`JesseQin123`（个人）+ `jesseqin-kamiwaza`（工作）
 - Twitter bookmarks 整理——从我在 X 收藏的推文线程里手动挑出的 GitHub URL
 - 每周自动同步：[`.github/workflows/sync-stars.yml`](.github/workflows/sync-stars.yml)
@@ -28,7 +28,7 @@
 ## 目录
 
 - [🤖 AI 智能体与编码助手生态 (84)](#-ai-智能体与编码助手生态)
-- [🛠 智能体 Skills 与 MCP (56)](#-智能体-skills-与-mcp)
+- [🛠 智能体 Skills 与 MCP (57)](#-智能体-skills-与-mcp)
 - [🌐 浏览器与网页自动化 (12)](#-浏览器与网页自动化)
 - [🧠 RAG / 知识图谱 / 记忆 (42)](#-rag--知识图谱--记忆)
 - [🎨 多媒体 AI (50)](#-多媒体-ai)
@@ -177,6 +177,7 @@
 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork | Python | 12k |  |
 | [huggingface/skills](https://github.com/huggingface/skills) | Give your agents the power of the Hugging Face ecosystem | Python | 10.4k |  |
 | [numman-ali/openskills](https://github.com/numman-ali/openskills) | OpenSkills：AI coding agent 的通用 skill 加载器 | TypeScript | 10.1k |  |
+| [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) | Khazix（数字生命）发布的开源 AI Skills 合集 | Python | 9.7k |  |
 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 🎓 张雪峰.skill — 高考志愿/考研/职业规划的实战思维框架，由女娲.skill 生成。 | — | 7k |  |
 | [therealXiaomanChu/ex-skill](https://github.com/therealXiaomanChu/ex-skill) | 💔 前任.skill — 把前任蒸馏成 AI Skill，用 ta 的方式跟你说话。 | Python | 5.1k |  |
 | [notdog1998/yourself-skill](https://github.com/notdog1998/yourself-skill) | 🪞 自己.skill — 蒸馏自己看清自己，欢迎加入数字永生 1.0。 | Python | 2.6k |  |

@@ -9473,5 +9473,17 @@
     "archived": false,
     "starred_at": "2026-03-10T12:35:46Z",
     "pushed_at": "2026-04-29T17:43:35Z"
+  },
+  {
+    "full_name": "KKKKhazix/khazix-skills",
+    "html_url": "https://github.com/KKKKhazix/khazix-skills",
+    "description": "数字生命卡兹克开源的 AI Skills 合集",
+    "language": "Python",
+    "topics": [],
+    "stargazers_count": 9658,
+    "homepage": "",
+    "archived": false,
+    "starred_at": "2026-05-09T13:57:37Z",
+    "pushed_at": "2026-05-08T17:18:26Z"
   }
 ]

@@ -1,6 +1,6 @@
 # Solo Unicorn Toolbox 🛠️
 
-> A bilingual, weekly-synced catalog of **486 curated GitHub repos** — AI agents, coding harnesses, RAG, multimedia, tutorials, and more — aggregated from GitHub stars, Twitter bookmarks, and 小红书.
+> A bilingual, weekly-synced catalog of **487 curated GitHub repos** — AI agents, coding harnesses, RAG, multimedia, tutorials, and more — aggregated from GitHub stars, Twitter bookmarks, and 小红书.
 
 > 中文版本：[README.zh-CN.md](./README.zh-CN.md) · Maintenance guide: [CLAUDE.md](./CLAUDE.md)
 
@@ -10,7 +10,7 @@ I keep finding the same kinds of tools across different platforms (GitHub, X/Twi
 
 ### What's inside
 
-- **486 repositories** across 12 categories — see the table of contents below
+- **487 repositories** across 12 categories — see the table of contents below
 - Stars from two GitHub accounts: `JesseQin123` (personal) + `jesseqin-kamiwaza` (work)
 - Twitter bookmark sweeps — GitHub URLs hand-picked from threads I save on X
 - Weekly auto-sync via [`.github/workflows/sync-stars.yml`](.github/workflows/sync-stars.yml)
@@ -28,7 +28,7 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 ## Table of Contents
 
 - [🤖 AI Agents & Coding Harnesses (84)](#-ai-agents--coding-harnesses)
-- [🛠 AI Agent Skills & MCP (56)](#-ai-agent-skills--mcp)
+- [🛠 AI Agent Skills & MCP (57)](#-ai-agent-skills--mcp)
 - [🌐 Browser & Web Automation (12)](#-browser--web-automation)
 - [🧠 RAG / Knowledge Graph / Memory (42)](#-rag--knowledge-graph--memory)
 - [🎨 Multimedia AI (50)](#-multimedia-ai)
@@ -177,6 +177,7 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork | Python | 12k |  |
 | [huggingface/skills](https://github.com/huggingface/skills) | Give your agents the power of the Hugging Face ecosystem | Python | 10.4k |  |
 | [numman-ali/openskills](https://github.com/numman-ali/openskills) | Universal skills loader for AI coding agents - npm i -g openskills | TypeScript | 10.1k |  |
+| [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) | 数字生命卡兹克开源的 AI Skills 合集 | Python | 9.7k |  |
 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。 | — | 7k |  |
 | [therealXiaomanChu/ex-skill](https://github.com/therealXiaomanChu/ex-skill) | 把前任蒸馏成 AI Skill，用ta的方式跟你说话。 | Python | 5.1k |  |
 | [notdog1998/yourself-skill](https://github.com/notdog1998/yourself-skill) | 与其蒸馏别人，不如蒸馏自己。欢迎加入数字永生！Inspired by colleague-skill（同事skill）。 | Python | 2.6k |  |
