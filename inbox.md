@@ -54,6 +54,10 @@
 - https://github.com/wysie/drawthings-grpc-hermes-plugin  — ⭐ 4 · Python · Hermes Agent plugin for local Draw Things image generation via gRPC
 - https://github.com/AlexanderWhitestone/hermes-dashboard-sovereign-ops  — ⭐ 3 · JavaScript · Sovereign Ops dashboard plugin + theme for Hermes Agent
 
+## Auto-classified 2026-05-10
+
+- https://github.com/KKKKhazix/khazix-skills  → skills-mcp/null
+
 ## Auto-classified 2026-05-08
 
 - https://github.com/alchaincyf/nuwa-skill  → skills-mcp/N/A
