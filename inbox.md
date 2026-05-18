@@ -102,3 +102,24 @@
 - https://github.com/safishamsi/graphify  — ⭐ 48971 · Python · AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
 - https://github.com/trinodb/trino  — ⭐ 12828 · Java · Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 - https://github.com/zeroclaw-labs/zeroclaw  — ⭐ 31418 · Rust · Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
+
+## Auto-classified 2026-05-18
+
+- https://github.com/D4Vinci/Scrapling  → crawler-publish/crawler
+- https://github.com/safishamsi/graphify  → skills-mcp/null
+- https://github.com/QuantumNous/new-api  → backend-infra/llm-gateway
+- https://github.com/lissy93/web-check  → misc/osint
+- https://github.com/hasura/graphql-engine  → backend-infra/databases-analytics
+- https://github.com/zeroclaw-labs/zeroclaw  → ai-agents/openclaw-hermes
+- https://github.com/lissy93/dashy  → kb-productivity/dashboard
+- https://github.com/airbytehq/airbyte  → backend-infra/databases-analytics
+- https://github.com/trinodb/trino  → backend-infra/databases-analytics
+- https://github.com/fathah/hermes-desktop  → ai-agents/openclaw-hermes
+- https://github.com/OpenLineage/OpenLineage  → backend-infra/databases-analytics
+- https://github.com/MarquezProject/marquez  → backend-infra/databases-analytics
+- https://github.com/moj-analytical-services/splink  → backend-infra/databases-analytics
+- https://github.com/huangserva/3DCellForge  → multimedia/image
+- https://github.com/vasu-devs/JustHireMe  → finance-career/career
+- https://github.com/fastino-ai/GLiNER2  → rag-kg-memory/null
+- https://github.com/neo4j-labs/neosemantics  → rag-kg-memory/null
+- https://github.com/ontop/ontop  → rag-kg-memory/null
