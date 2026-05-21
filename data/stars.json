@@ -14364,5 +14364,37 @@
     "archived": false,
     "starred_at": "2026-03-10T12:35:46Z",
     "pushed_at": "2026-08-17T06:28:26Z"
+  },
+  {
+    "full_name": "Xquik-dev/hermes-tweet",
+    "html_url": "https://github.com/Xquik-dev/hermes-tweet",
+    "description": "Native Hermes Agent plugin for X/Twitter automation through Xquik. Not affiliated with X Corp.",
+    "language": "Python",
+    "topics": [
+      "agent-skill",
+      "agent-tools",
+      "ai-agent",
+      "automation",
+      "hermes",
+      "hermes-agent",
+      "hermes-plugin",
+      "python",
+      "social-media",
+      "social-media-api",
+      "social-media-automation",
+      "tweet",
+      "twitter",
+      "twitter-api",
+      "twitter-automation",
+      "x-api",
+      "x-automation",
+      "x-twitter",
+      "xquik"
+    ],
+    "stargazers_count": 27,
+    "homepage": "https://github.com/Xquik-dev/hermes-tweet#readme",
+    "archived": false,
+    "starred_at": "2026-05-21T22:59:19Z",
+    "pushed_at": "2026-08-13T04:59:02Z"
   }
 ]

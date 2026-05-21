@@ -1,6 +1,6 @@
 # Solo Unicorn Toolbox 🛠️
 
-> 一份双语整理的 **702 个 GitHub 项目** 目录——AI agents、coding harnesses、RAG、多媒体、教程等等——汇总自 GitHub stars、Twitter bookmarks 和小红书收藏。
+> 一份双语整理的 **703 个 GitHub 项目** 目录——AI agents、coding harnesses、RAG、多媒体、教程等等——汇总自 GitHub stars、Twitter bookmarks 和小红书收藏。
 
 > English: [README.md](./README.md) · 维护说明：[CLAUDE.md](./CLAUDE.md)
 
@@ -10,7 +10,7 @@
 
 ### 里面有什么
 
-- **共 702 个项目**，分布在 12 个大类——见下方目录
+- **共 703 个项目**，分布在 12 个大类——见下方目录
 - 两个 GitHub 账号的 stars：`JesseQin123`（个人）+ `jesseqin-kamiwaza`（工作）
 - Twitter bookmarks 整理——从我在 X 收藏的推文线程里手动挑出的 GitHub URL
 - 每周自动同步：[`.github/workflows/sync-stars.yml`](.github/workflows/sync-stars.yml)
@@ -27,7 +27,7 @@
 
 ## 目录
 
-- [🤖 AI 智能体与编码助手生态 (132)](#-ai-智能体与编码助手生态)
+- [🤖 AI 智能体与编码助手生态 (133)](#-ai-智能体与编码助手生态)
 - [🛠 智能体 Skills 与 MCP (92)](#-智能体-skills-与-mcp)
 - [🌐 浏览器与网页自动化 (13)](#-浏览器与网页自动化)
 - [🧠 RAG / 知识图谱 / 记忆 (68)](#-rag--知识图谱--记忆)
@@ -76,7 +76,7 @@
 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | 在 Claude Code 里使用 Codex 来 review 代码或派发任务 | JavaScript | 32k |  |
 | [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) | 复杂代码库专用 Codex Agent Harness，内置项目记忆、任务规划与验证完成机制。 | TypeScript | 3.2k | `ai` `ai-agents` `claude` `claude-code` |
 
-### OpenClaw / Hermes / Paperclip (24)
+### OpenClaw / Hermes / Paperclip (25)
 
 | 仓库 | 描述 | 语言 | ⭐ | 标签 |
 |---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [AnthonyDavidAdams/zero-employee-company-book](https://github.com/AnthonyDavidAdams/zero-employee-company-book) | Headcount Zero：用 Paperclip 构建 AI 驱动公司的方法论书籍 | — | 574 |  |
 | [Yesterday-AI/paperclip-plugin-company-wizard](https://github.com/Yesterday-AI/paperclip-plugin-company-wizard) | 从模块化模板 bootstrap AI agent 公司 | TypeScript | 168 | `ai-agents` `bootstrap` `cli` `company-as-code` |
 | [Kori-x/hermes-dashboard](https://github.com/Kori-x/hermes-dashboard) | 📊 Hermes Agent 会话、工具调用与活动的实时 dashboard。 | TypeScript | 65 | `agent-framework` `ai-agents` `dashboard` `devtools` |
+| [Xquik-dev/hermes-tweet](https://github.com/Xquik-dev/hermes-tweet) | Hermes Agent 的 X/Twitter 自动化插件，支持搜索推文、读取回复、查找用户、监控推文、导出 followers、发推/回复和发送 DM。 | Python | 27 | `agent-skill` `agent-tools` `ai-agent` `automation` |
 | [GUNAASHRINM/Hermes-Agent-Wizard](https://github.com/GUNAASHRINM/Hermes-Agent-Wizard) | 🚀 Hermes Agent GUI 一键启动器 — Windows / macOS 双平台。 | — | 11 | `ai-agent` `beginner-friendly` `chinese-ui` `desktop-app` |
 | [xujfcn/crazyrouter-hermes](https://github.com/xujfcn/crazyrouter-hermes) | 🛣️ 把 Hermes Agent 接到 CrazyRouter — 600+ 模型、比官方便宜 30-50%。 | Shell | 6 | `ai-agent` `crazyrouter` `crazyrouter-integration` `hermes-agent` |
 | [AlexanderWhitestone/hermes-dashboard-sovereign-ops](https://github.com/AlexanderWhitestone/hermes-dashboard-sovereign-ops) | 📈 Hermes Agent 的「主权运维」dashboard 插件与主题。 | JavaScript | 5 | `dashboard` `hackathon` `hermes-agent` `local-first` |
