@@ -89,6 +89,11 @@
     "subcategory": "crawler",
     "zh": "trafilatura：Python 与命令行工具，抓取并提取 web 上的文本与元数据，支持 CSV/JSON/HTML/MD/XML 输出"
   },
+  "affaan-m/ECC": {
+    "category": "ai-agents",
+    "subcategory": "claude-code",
+    "zh": "agent harness 性能优化系统：skills、本能、记忆、安全、research-first 开发，兼容 Claude Code、Codex、Opencode、Cursor 等主流 coding agent。"
+  },
   "affaan-m/everything-claude-code": {
     "category": "ai-agents",
     "subcategory": "claude-code",
@@ -204,6 +209,11 @@
     "subcategory": null,
     "zh": "🎓 张雪峰.skill — 高考志愿/考研/职业规划的实战思维框架，由女娲.skill 生成。"
   },
+  "alecm20/story-flicks": {
+    "category": "multimedia",
+    "subcategory": "video",
+    "zh": "基于 AI 大模型，一键生成高清故事短视频，支持多种风格输出。"
+  },
   "AlexanderWhitestone/hermes-dashboard-sovereign-ops": {
     "category": "ai-agents",
     "subcategory": "openclaw-hermes",
@@ -298,6 +308,11 @@
     "category": "frontend",
     "subcategory": "astro",
     "zh": "⭕️ AstroWind：免费的 Astro 5 + Tailwind CSS 模板"
+  },
+  "asgeirtj/system_prompts_leaks": {
+    "category": "tutorials",
+    "subcategory": "awesome-lists",
+    "zh": "持续更新的各大 AI 工具（Claude、ChatGPT、Codex、Gemini、Grok 等）system prompt 泄露合集。"
   },
   "ashishpatel26/500-AI-Agents-Projects": {
     "category": "tutorials",
@@ -518,6 +533,11 @@
     "category": "rag-kg-memory",
     "subcategory": null,
     "zh": "An MCP server plus a CLI tool that indexes local code into a graph database to provide context to AI assistants."
+  },
+  "colbymchenry/codegraph": {
+    "category": "rag-kg-memory",
+    "subcategory": null,
+    "zh": "为 Claude Code、Codex、Cursor、OpenCode、Hermes Agent 提供预构建代码知识图谱，减少 token 消耗与工具调用，完全本地运行。"
   },
   "coleam00/context-engineering-intro": {
     "category": "tutorials",
@@ -874,6 +894,11 @@
     "subcategory": "multi-orchestration",
     "zh": "Flowise：可视化构建 AI Agent"
   },
+  "Forget-C/Jellyfish": {
+    "category": "multimedia",
+    "subcategory": "video",
+    "zh": "AI 短剧端到端生产工作台，覆盖剧本输入、分镜结构化、角色一致性管理、镜头准备与视频生成全流程。"
+  },
   "freemocap/freemocap": {
     "category": "multimedia",
     "subcategory": "video",
@@ -984,6 +1009,11 @@
     "subcategory": "agent-platforms",
     "zh": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control."
   },
+  "google/eng-practices": {
+    "category": "tutorials",
+    "subcategory": "system-design",
+    "zh": "Google 工程实践文档，包含 Google 代码审查规范与工程最佳实践。"
+  },
   "google/langextract": {
     "category": "backend-infra",
     "subcategory": "ai-toolkit",
@@ -1044,6 +1074,11 @@
     "subcategory": "ai-toolkit",
     "zh": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)"
   },
+  "HKUDS/CLI-Anything": {
+    "category": "backend-infra",
+    "subcategory": "ai-toolkit",
+    "zh": "将任意软件封装为 agent 原生 CLI 接口的统一工具套件，让 AI agent 可无缝发现、学习和调用任意工具。"
+  },
   "HKUDS/LightRAG": {
     "category": "rag-kg-memory",
     "subcategory": null,
@@ -1058,6 +1093,11 @@
     "category": "rag-kg-memory",
     "subcategory": null,
     "zh": "\"RAG-Anything: All-in-One RAG Framework\""
+  },
+  "HKUDS/ViMax": {
+    "category": "multimedia",
+    "subcategory": "video",
+    "zh": "ViMax：集导演、编剧、制片与视频生成于一体的 agentic 视频生成框架。"
   },
   "huangkiki/dailypaper-skills": {
     "category": "skills-mcp",
@@ -1304,6 +1344,11 @@
     "subcategory": "image",
     "zh": "An open-source AI visualization tool that transforms natural language into Mind Maps, Mermaid diagrams, and Echarts. Turn your ideas into structured visuals instantly."
   },
+  "linyqh/NarratoAI": {
+    "category": "multimedia",
+    "subcategory": "video",
+    "zh": "基于 AI 大模型，一键实现视频自动解说与剪辑，支持多语言输出。"
+  },
   "Lissy93/dashy": {
     "category": "kb-productivity",
     "subcategory": "dashboard",
@@ -1549,6 +1594,11 @@
     "subcategory": null,
     "zh": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)"
   },
+  "modelscope/FunClip": {
+    "category": "multimedia",
+    "subcategory": "video",
+    "zh": "开源视频语音识别与 AI 智能剪辑工具，集成 LLM 实现语义化视频片段提取。"
+  },
   "moj-analytical-services/splink": {
     "category": "backend-infra",
     "subcategory": "databases-analytics",
@@ -1748,6 +1798,11 @@
     "category": "finance-career",
     "subcategory": "finance",
     "zh": "Financial data platform for analysts, quants and AI agents."
+  },
+  "OpenBMB/VoxCPM": {
+    "category": "multimedia",
+    "subcategory": "audio",
+    "zh": "VoxCPM2：无 tokenizer 架构的多语言 TTS 模型，支持创意声音设计与高保真语音克隆。"
   },
   "openclaw/openclaw": {
     "category": "ai-agents",
@@ -2019,6 +2074,11 @@
     "subcategory": "awesome-lists",
     "zh": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
   },
+  "shuyu-labs/BigBanana-AI-Director": {
+    "category": "multimedia",
+    "subcategory": "video",
+    "zh": "BigBanana AI Director：工业级 AI 短剧/漫剧导演平台，采用 Script-to-Asset-to-Keyframe 工作流实现从剧本到成片的精准可控生成。"
+  },
   "sindresorhus/awesome": {
     "category": "tutorials",
     "subcategory": "awesome-lists",
@@ -2174,6 +2234,11 @@
     "subcategory": "finance",
     "zh": "交易猫数据系统（量化交易）"
   },
+  "tukuaiai/tradecat-public": {
+    "category": "finance-career",
+    "subcategory": "finance",
+    "zh": "交易猫数据系统公开版，提供量化交易所需的市场数据与分析工具。"
+  },
   "tukuaiai/vibe-coding-cn": {
     "category": "tutorials",
     "subcategory": "llm-cn",
@@ -2299,6 +2364,11 @@
     "subcategory": "image",
     "zh": "OpenUI：用想象力描述 UI，实时渲染出来"
   },
+  "waooAI/waoowaoo": {
+    "category": "multimedia",
+    "subcategory": "video",
+    "zh": "工业级 AI 影视全流程生产平台，支持从短剧到真人剧的好莱坞级工作流，提供可控影视 AI Agent 生产线。"
+  },
   "wassimj/topologicpy": {
     "category": "misc",
     "subcategory": "education",
@@ -2344,6 +2414,11 @@
     "subcategory": "awesome-lists",
     "zh": "Cursor / Devin / Lovable / v0 等 AI 工具的 system prompt、内部 tool 与 AI 模型合集"
   },
+  "xhongc/ai_story": {
+    "category": "multimedia",
+    "subcategory": "video",
+    "zh": "AI 视频、AI 动漫、AI 短剧与漫剧自动化生成工具，支持多种风格与形式输出。"
+  },
   "xianyu110/awesome-openclaw-tutorial": {
     "category": "tutorials",
     "subcategory": "awesome-lists",
@@ -2379,6 +2454,11 @@
     "subcategory": null,
     "zh": "🪷 高僧大德 AI 教学角色生成器（汉传/藏传/南传），数据源 CBETA / BDRC / Sutta。"
   },
+  "xuanyustudio/LocalMiniDrama": {
+    "category": "multimedia",
+    "subcategory": "video",
+    "zh": "开源本地 AI 短剧 & 漫剧生成工具，从故事到成片一站式完成，支持完全离线运行。"
+  },
   "xujfcn/crazyrouter-hermes": {
     "category": "ai-agents",
     "subcategory": "openclaw-hermes",
@@ -2388,6 +2468,11 @@
     "category": "backend-infra",
     "subcategory": "ai-toolkit",
     "zh": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more."
+  },
+  "yaojingang/GEOFlow": {
+    "category": "crawler-publish",
+    "subcategory": "publish",
+    "zh": "开源 GEO 内容工程与多站点分发系统，集成 AI 任务、RAG 语义分块、GEOFlow Agent 与 WordPress 目标发布。"
   },
   "yaojingang/yao-open-skills": {
     "category": "skills-mcp",
