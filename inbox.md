@@ -123,3 +123,25 @@
 - https://github.com/fastino-ai/GLiNER2  → rag-kg-memory/null
 - https://github.com/neo4j-labs/neosemantics  → rag-kg-memory/null
 - https://github.com/ontop/ontop  → rag-kg-memory/null
+
+<!-- synced 2026-05-25T12:37:16Z -->
+- https://github.com/Forget-C/Jellyfish  — ⭐ 3397 · Python · An end-to-end production workspace for AI-generated short dramas. From script input to structured storyboarding, consistency management, shot preparation, video generation, and export.
+- https://github.com/HKUDS/ViMax  — ⭐ 7473 · Python · "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
+- https://github.com/affaan-m/ECC  — ⭐ 191702 · JavaScript · The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- https://github.com/alecm20/story-flicks  — ⭐ 2371 · Python · 使用AI大模型，一键生成高清故事短视频。Generate high-definition story short videos with one click using AI large models.
+- https://github.com/linyqh/NarratoAI  — ⭐ 9452 · Python · 利用AI大模型，一键解说并剪辑视频； Using AI models to automatically provide commentary and edit videos with a single click.
+- https://github.com/modelscope/FunClip  — ⭐ 5637 · Python · Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.
+- https://github.com/shuyu-labs/BigBanana-AI-Director  — ⭐ 1317 · — · BigBanana AI Director是一个工业级一站式  AI 短剧，AI 漫剧,AI 导演平台，面向创作者，实现从灵感到成片的高效生产。  它摇弃了传统的“抽卡式”生成，采用 "Script-to-Asset-to-Keyframe" 的工业化工作流。实现 “一句话生成完整短剧，从剧本到成片全自动化”，同时精准控制角色一致性、场景连续性与镜头运动。
+- https://github.com/tukuaiai/tradecat-public  — ⭐ 952 · Python · 交易猫数据系统
+- https://github.com/waooAI/waoowaoo  — ⭐ 12377 · TypeScript · 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
+- https://github.com/xhongc/ai_story  — ⭐ 810 · Python · AI视频, AI动漫,AI 短剧,AI漫剧自动化生成工具
+- https://github.com/xuanyustudio/LocalMiniDrama  — ⭐ 429 · JavaScript · 🎬 seedance2接入  开源本地 AI 短剧 & 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。 Open-source local AI short drama maker: story → storyboard → video, fully offline, your data stays yours. 纳米流水线
+
+<!-- synced 2026-05-25T12:37:22Z -->
+- https://github.com/HKUDS/CLI-Anything  — ⭐ 40250 · Python · "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+- https://github.com/OpenBMB/VoxCPM  — ⭐ 19772 · Python · VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
+- https://github.com/affaan-m/ECC  — ⭐ 191702 · JavaScript · The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- https://github.com/asgeirtj/system_prompts_leaks  — ⭐ 40752 · — · Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. Github Copilot. Perplexity, and more. Updated regularly.
+- https://github.com/colbymchenry/codegraph  — ⭐ 24087 · TypeScript · Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+- https://github.com/google/eng-practices  — ⭐ 22063 · — · Google's Engineering Practices documentation
+- https://github.com/yaojingang/GEOFlow  — ⭐ 2222 · PHP · Open-source GEO content engineering and multi-site distribution system with AI tasks, RAG/semantic chunking, analytics, GEOFlow Agent and WordPress target publishing.
