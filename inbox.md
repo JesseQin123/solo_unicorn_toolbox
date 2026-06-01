@@ -144,3 +144,18 @@
 - https://github.com/tukuaiai/tradecat-public  → finance-career/finance
 - https://github.com/xhongc/ai_story  → multimedia/video
 - https://github.com/xuanyustudio/LocalMiniDrama  → multimedia/video
+
+<!-- synced 2026-06-01T15:28:40Z -->
+- https://github.com/norahe0304-art/30x-growth-marketing-panel  — ⭐ 24 · Shell · AI Growth Marketing Expert Panel — 11 world-class experts distilled from 3,500+ YouTube videos. Claude Code Skill.
+- https://github.com/p-e-w/heretic  — ⭐ 22933 · Python · Fully automatic censorship removal for language models
+- https://github.com/tradecatlabs/tradecat-public  — ⭐ 952 · Python · 交易猫数据系统
+- https://github.com/tradecatlabs/vibe-coding-cn  — ⭐ 14101 · Python · Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南
+
+<!-- synced 2026-06-01T15:28:47Z -->
+- https://github.com/ConardLi/garden-skills  — ⭐ 6880 · CSS · ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
+- https://github.com/Donchitos/Claude-Code-Game-Studios  — ⭐ 20570 · Shell · Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+- https://github.com/StarTrail-org/LEANN  — ⭐ 11845 · Python · [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+- https://github.com/anthropics/financial-services  — ⭐ 29236 · Python · 
+- https://github.com/greensock/gsap-skills  — ⭐ 7079 · — · Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.
+- https://github.com/tradecatlabs/vibe-coding-cn  — ⭐ 14101 · Python · Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南
+- https://github.com/velobase/velobase-harness  — ⭐ 438 · TypeScript · From code to cash — open-source SaaS boilerplate with Stripe, affiliate, attribution & usage-based billing for AI apps. T3 stack + Next.js 16.
