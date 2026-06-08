@@ -159,3 +159,27 @@
 - https://github.com/greensock/gsap-skills  — ⭐ 7079 · — · Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.
 - https://github.com/tradecatlabs/vibe-coding-cn  — ⭐ 14101 · Python · Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南
 - https://github.com/velobase/velobase-harness  — ⭐ 438 · TypeScript · From code to cash — open-source SaaS boilerplate with Stripe, affiliate, attribution & usage-based billing for AI apps. T3 stack + Next.js 16.
+
+<!-- synced 2026-06-08T13:11:44Z -->
+- https://github.com/ConardLi/garden-skills  — ⭐ 7562 · CSS · ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
+- https://github.com/Makisuo/maple  — ⭐ 1187 · TypeScript · OpenTelemetry observability platform
+- https://github.com/VoltAgent/voltagent  — ⭐ 9472 · TypeScript · AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
+- https://github.com/collabs-inc/collab-public  — ⭐ 2521 · TypeScript · Collaborator is a place to create with agents.
+- https://github.com/mvanhorn/last30days-skill  — ⭐ 33175 · Python · AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+- https://github.com/norahe0304-art/30x-growth-marketing-panel  — ⭐ 24 · Shell · AI Growth Marketing Expert Panel — 11 world-class experts distilled from 3,500+ YouTube videos. Claude Code Skill.
+- https://github.com/p-e-w/heretic  — ⭐ 23985 · Python · Fully automatic censorship removal for language models
+- https://github.com/tradecatlabs/tradecat-public  — ⭐ 954 · Python · 交易猫数据系统
+- https://github.com/tradecatlabs/vibe-coding-cn  — ⭐ 14514 · Python · Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南
+
+<!-- synced 2026-06-08T13:11:49Z -->
+- https://github.com/AgentWrapper/agent-orchestrator  — ⭐ 7455 · TypeScript ·  Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.
+- https://github.com/ConardLi/garden-skills  — ⭐ 7562 · CSS · ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
+- https://github.com/Donchitos/Claude-Code-Game-Studios  — ⭐ 21154 · Shell · Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+- https://github.com/FoundationAgents/MetaGPT  — ⭐ 68641 · Python · 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+- https://github.com/StarTrail-org/LEANN  — ⭐ 11895 · Python · [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+- https://github.com/anthropics/financial-services  — ⭐ 30483 · Python · 
+- https://github.com/greensock/gsap-skills  — ⭐ 8516 · — · Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.
+- https://github.com/mvanhorn/last30days-skill  — ⭐ 33175 · Python · AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+- https://github.com/pewdiepie-archdaemon/odysseus  — ⭐ 62795 · Python · Self-hosted AI workspace. 
+- https://github.com/tradecatlabs/vibe-coding-cn  — ⭐ 14514 · Python · Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南
+- https://github.com/velobase/velobase-harness  — ⭐ 475 · TypeScript · From code to cash — open-source SaaS boilerplate with Stripe, affiliate, attribution & usage-based billing for AI apps. T3 stack + Next.js 16.
