@@ -172,7 +172,7 @@
 - https://github.com/tradecatlabs/vibe-coding-cn  — ⭐ 14514 · Python · Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南
 
 <!-- synced 2026-06-08T13:11:49Z -->
-- https://github.com/AgentWrapper/agent-orchestrator  — ⭐ 7455 · TypeScript ·  Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.
+- https://github.com/AgentWrapper/agent-orchestrator  — ⭐ 7455 · TypeScript ·  Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews.
 - https://github.com/ConardLi/garden-skills  — ⭐ 7562 · CSS · ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
 - https://github.com/Donchitos/Claude-Code-Game-Studios  — ⭐ 21154 · Shell · Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - https://github.com/FoundationAgents/MetaGPT  — ⭐ 68641 · Python · 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
@@ -183,3 +183,23 @@
 - https://github.com/pewdiepie-archdaemon/odysseus  — ⭐ 62795 · Python · Self-hosted AI workspace. 
 - https://github.com/tradecatlabs/vibe-coding-cn  — ⭐ 14514 · Python · Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南
 - https://github.com/velobase/velobase-harness  — ⭐ 475 · TypeScript · From code to cash — open-source SaaS boilerplate with Stripe, affiliate, attribution & usage-based billing for AI apps. T3 stack + Next.js 16.
+
+## Auto-classified 2026-06-08
+
+- https://github.com/norahe0304-art/30x-growth-marketing-panel  → skills-mcp/null
+- https://github.com/p-e-w/heretic  → misc/osint
+- https://github.com/tradecatlabs/tradecat-public  → finance-career/finance
+- https://github.com/tradecatlabs/vibe-coding-cn  → tutorials/context-vibe
+- https://github.com/ConardLi/garden-skills  → skills-mcp/null
+- https://github.com/Donchitos/Claude-Code-Game-Studios  → ai-agents/claude-code
+- https://github.com/StarTrail-org/LEANN  → rag-kg-memory/null
+- https://github.com/anthropics/financial-services  → tutorials/llm-en
+- https://github.com/greensock/gsap-skills  → skills-mcp/null
+- https://github.com/velobase/velobase-harness  → backend-infra/auth-billing
+- https://github.com/Makisuo/maple  → backend-infra/databases-analytics
+- https://github.com/VoltAgent/voltagent  → ai-agents/agent-platforms
+- https://github.com/collabs-inc/collab-public  → ai-agents/agent-platforms
+- https://github.com/mvanhorn/last30days-skill  → skills-mcp/null
+- https://github.com/AgentWrapper/agent-orchestrator  → ai-agents/multi-orchestration
+- https://github.com/FoundationAgents/MetaGPT  → ai-agents/multi-orchestration
+- https://github.com/pewdiepie-archdaemon/odysseus  → ai-agents/agent-platforms
