@@ -203,3 +203,11 @@
 - https://github.com/AgentWrapper/agent-orchestrator  → ai-agents/multi-orchestration
 - https://github.com/FoundationAgents/MetaGPT  → ai-agents/multi-orchestration
 - https://github.com/pewdiepie-archdaemon/odysseus  → ai-agents/agent-platforms
+
+## Auto-classified 2026-06-15
+
+- https://github.com/orange2ai/renwei-writing  → skills-mcp/null  ⭐654 · jesseqin123
+- https://github.com/chopratejas/headroom  → backend-infra/ai-toolkit  ⭐28.3k · jesseqin-kamiwaza
+- https://github.com/joeseesun/qiaomu-goal-meta-skill  → skills-mcp/null  ⭐603 · jesseqin-kamiwaza
+- https://github.com/muxuuu/serenity-skill  → finance-career/finance  ⭐2.3k · jesseqin-kamiwaza
+- https://github.com/21st-dev/magic-mcp  → skills-mcp/null  ⭐5.1k · jesseqin-kamiwaza

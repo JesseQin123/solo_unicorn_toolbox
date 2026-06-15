@@ -2693,5 +2693,30 @@
     "category": "finance-career",
     "subcategory": "marketing-growth",
     "zh": "GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports.  If you want learn how to sell this to real businesses, check out the skool community"
+  },
+  "orange2ai/renwei-writing": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "人味儿写作 skill — AI 辅助编辑时保留原作者声音与个性的方法论，附核实清单与真实案例。"
+  },
+  "chopratejas/headroom": {
+    "category": "backend-infra",
+    "subcategory": "ai-toolkit",
+    "zh": "上下文压缩工具，将 tool 输出、日志、RAG chunks 压缩 60-95% 后再传给 LLM，节省 token，兼容 Claude Code、Cursor、LangChain 等主流 agent 工具链。"
+  },
+  "joeseesun/qiaomu-goal-meta-skill": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "乔木 goal meta-skill — 将模糊的 Codex 任务转化为结构化 /goal 指令，自动生成验证步骤、操作约束与完成证据清单。"
+  },
+  "muxuuu/serenity-skill": {
+    "category": "finance-career",
+    "subcategory": "finance",
+    "zh": "Serenity 供应链投资研究 skill — AI Agent 系统化分析科技行业供应链瓶颈，识别值得深入研究的股票与基金机会。"
+  },
+  "21st-dev/magic-mcp": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "Magic MCP — v0 风格的 AI UI 组件生成 MCP server，在 Cursor/Windsurf/VSCode + Cline 中通过自然语言即时创建精美前端组件。"
   }
 }

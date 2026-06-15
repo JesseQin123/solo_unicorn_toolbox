@@ -1,6 +1,6 @@
 # Solo Unicorn Toolbox 🛠️
 
-> 一份双语整理的 **539 个 GitHub 项目** 目录——AI agents、coding harnesses、RAG、多媒体、教程等等——汇总自 GitHub stars、Twitter bookmarks 和小红书收藏。
+> 一份双语整理的 **544 个 GitHub 项目** 目录——AI agents、coding harnesses、RAG、多媒体、教程等等——汇总自 GitHub stars、Twitter bookmarks 和小红书收藏。
 
 > English: [README.md](./README.md) · 维护说明：[CLAUDE.md](./CLAUDE.md)
 
@@ -10,7 +10,7 @@
 
 ### 里面有什么
 
-- **共 539 个项目**，分布在 12 个大类——见下方目录
+- **共 544 个项目**，分布在 12 个大类——见下方目录
 - 两个 GitHub 账号的 stars：`JesseQin123`（个人）+ `jesseqin-kamiwaza`（工作）
 - Twitter bookmarks 整理——从我在 X 收藏的推文线程里手动挑出的 GitHub URL
 - 每周自动同步：[`.github/workflows/sync-stars.yml`](.github/workflows/sync-stars.yml)
@@ -28,15 +28,15 @@
 ## 目录
 
 - [🤖 AI 智能体与编码助手生态 (93)](#-ai-智能体与编码助手生态)
-- [🛠 智能体 Skills 与 MCP (62)](#-智能体-skills-与-mcp)
+- [🛠 智能体 Skills 与 MCP (65)](#-智能体-skills-与-mcp)
 - [🌐 浏览器与网页自动化 (12)](#-浏览器与网页自动化)
 - [🧠 RAG / 知识图谱 / 记忆 (47)](#-rag--知识图谱--记忆)
 - [🎨 多媒体 AI (61)](#-多媒体-ai)
 - [📊 爬虫与内容发布 (31)](#-爬虫与内容发布)
 - [💻 前端模板与 UI (23)](#-前端模板与-ui)
-- [🏗 后端与基础设施 (50)](#-后端与基础设施)
+- [🏗 后端与基础设施 (51)](#-后端与基础设施)
 - [📝 知识库与个人生产力 (24)](#-知识库与个人生产力)
-- [💰 金融、职业与独立开发者 (29)](#-金融职业与独立开发者)
+- [💰 金融、职业与独立开发者 (30)](#-金融职业与独立开发者)
 - [🎓 教程与精选列表 (77)](#-教程与精选列表)
 - [🌈 杂项 / 生活娱乐 (30)](#-杂项--生活娱乐)
 
@@ -193,6 +193,7 @@
 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 🎓 张雪峰.skill — 高考志愿/考研/职业规划的实战思维框架，由女娲.skill 生成。 | — | 7.7k |  |
 | [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | ConardLi 开源 Skills 合集，涵盖网页设计、知识检索、图像生成等多种场景技能 | CSS | 7.6k | `agent` `claude` `gpt-image-2` `rag` |
 | [therealXiaomanChu/ex-skill](https://github.com/therealXiaomanChu/ex-skill) | 💔 前任.skill — 把前任蒸馏成 AI Skill，用 ta 的方式跟你说话。 | Python | 5.4k |  |
+| [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) | Magic MCP — v0 风格的 AI UI 组件生成 MCP server，在 Cursor/Windsurf/VSCode + Cline 中通过自然语言即时创建精美前端组件。 | TypeScript | 5.1k | `mcp` `ui` `components` `cursor` |
 | [notdog1998/yourself-skill](https://github.com/notdog1998/yourself-skill) | 🪞 自己.skill — 蒸馏自己看清自己，欢迎加入数字永生 1.0。 | Python | 2.9k |  |
 | [blader/Claudeception](https://github.com/blader/Claudeception) | Claude Code skill：自治 skill 提取与持续学习，让 Claude Code 越用越聪明 | Shell | 2.4k |  |
 | [leilei926524-tech/anti-distill](https://github.com/leilei926524-tech/anti-distill) | 🛡️ 反蒸馏 Skill — 清洗你被迫写的 Skill 文件，看起来完整但留住核心知识。 | — | 2.3k |  |
@@ -207,6 +208,8 @@
 | [ythx-101/x-tweet-fetcher](https://github.com/ythx-101/x-tweet-fetcher) | 🦞 OpenClaw skill：无需登录或 API key，抓取 X/Twitter 的推文与回复 | Python | 859 | `agent-tools` `ai-agent` `automation` `no-api` |
 | [alchaincyf/x-mentor-skill](https://github.com/alchaincyf/x-mentor-skill) | 📈 X 导师.skill — 蒸馏 6 位顶级 X 创作者方法论 + 算法数据。 | — | 858 |  |
 | [wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill) | Claude Code skill：把 Markdown 文章发布到 X (Twitter) Articles | Python | 790 |  |
+| [orange2ai/renwei-writing](https://github.com/orange2ai/renwei-writing) | 人味儿写作 skill — AI 辅助编辑时保留原作者声音与个性的方法论，附核实清单与真实案例。 | — | 654 | `writing` `ai-skill` `agent-skill` `claude-code` |
+| [joeseesun/qiaomu-goal-meta-skill](https://github.com/joeseesun/qiaomu-goal-meta-skill) | 乔木 goal meta-skill — 将模糊的 Codex 任务转化为结构化 /goal 指令，自动生成验证步骤、操作约束与完成证据清单。 | Python | 603 | `codex` `claude-code` `agent-skill` `goal` |
 | [awslabs/graphrag-toolkit](https://github.com/awslabs/graphrag-toolkit) | Python toolkit for building graph-enhanced GenAI applications | Python | 405 | `amazon-neptune` `amazon-opensearch-serverless` `graph-database` `graphrag` |
 | [alchaincyf/elon-musk-skill](https://github.com/alchaincyf/elon-musk-skill) | 🚀 马斯克.skill — Elon Musk 的认知操作系统。 | — | 353 |  |
 | [kkoppenhaver/cc-nano-banana](https://github.com/kkoppenhaver/cc-nano-banana) | 用 Nano Banana 生成图像的 Claude Code skill | — | 328 |  |
@@ -516,7 +519,7 @@
 | [InsForge/InsForge](https://github.com/InsForge/InsForge) | The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end. | TypeScript | 11.6k | `ai` `ai-agents` `coding` `deno` |
 | [ankane/ahoy_email](https://github.com/ankane/ahoy_email) | ahoy_email：Rails 的第一方邮件分析 | Ruby | 1.2k | `analytics` `first-party-analytics` `rails` |
 
-### AI 工具包 / RAG 应用 (20)
+### AI 工具包 / RAG 应用 (21)
 
 | 仓库 | 描述 | 语言 | ⭐ | 标签 |
 |---|---|---|---|---|
@@ -527,6 +530,7 @@
 | [ray-project/ray](https://github.com/ray-project/ray) | Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. | Python | 42.8k | `data-science` `deep-learning` `deployment` `distributed` |
 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 将任意软件封装为 agent 原生 CLI 接口的统一工具套件，让 AI agent 可无缝发现、学习和调用任意工具。 | Python | 42.3k |  |
 | [google/langextract](https://github.com/google/langextract) | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. | Python | 36.8k | `gemini` `gemini-ai` `gemini-api` `gemini-flash` |
+| [chopratejas/headroom](https://github.com/chopratejas/headroom) | 上下文压缩工具，将 tool 输出、日志、RAG chunks 压缩 60-95% 后再传给 LLM，节省 token，兼容 Claude Code、Cursor、LangChain 等主流 agent 工具链。 | Python | 28.3k | `python` `agent` `compression` `ai` |
 | [yamadashy/repomix](https://github.com/yamadashy/repomix) | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. | TypeScript | 26.1k | `ai` `anthropic` `artificial-intelligence` `chatbot` |
 | [vercel/ai](https://github.com/vercel/ai) | Vercel AI Toolkit：构建 AI 应用与 agent 的免费开源 TypeScript SDK | TypeScript | 24.7k | `anthropic` `artificial-intelligence` `gemini` `generative-ai` |
 | [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) | Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. | JavaScript | 23.8k | `ai-agent` `ai-agents` `ai-tools` `browser-automation` |
@@ -613,7 +617,7 @@
 
 ## 💰 金融、职业与独立开发者
 
-### 金融 / 交易 / 量化 (15)
+### 金融 / 交易 / 量化 (16)
 
 | 仓库 | 描述 | 语言 | ⭐ | 标签 |
 |---|---|---|---|---|
@@ -626,6 +630,7 @@
 | [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell) | ValueCell is a community-driven, multi-agent platform for financial applications. | Python | 10.8k | `agentic-ai` `agents` `ai` `assitant` |
 | [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) | FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀 | Jupyter Notebook | 7.2k | `aiagent` `chatgpt` `finance` `fingpt` |
 | [Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli) | 暂无描述 | Rust | 2.8k |  |
+| [muxuuu/serenity-skill](https://github.com/muxuuu/serenity-skill) | Serenity 供应链投资研究 skill — AI Agent 系统化分析科技行业供应链瓶颈，识别值得深入研究的股票与基金机会。 | Python | 2.3k | `supply-chain` `codex` `ai-agents` `investment-research` |
 | [tradecatlabs/tradecat-public](https://github.com/tradecatlabs/tradecat-public) | 交易猫量化交易数据系统，支持加密货币实时行情采集与技术指标分析 | Python | 954 | `ai` `binance` `bitcoin` `ccxt` |
 | [tukuaiai/tradecat-public](https://github.com/tukuaiai/tradecat-public) | 交易猫数据系统公开版，提供量化交易所需的市场数据与分析工具。 | Python | 952 | `ai` `binance` `bitcoin` `ccxt` |
 | [tukuaiai/tradecat](https://github.com/tukuaiai/tradecat) | 交易猫数据系统（量化交易） | Python | 947 | `ai` `binance` `bitcoin` `ccxt` |

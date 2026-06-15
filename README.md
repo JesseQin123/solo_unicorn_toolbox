@@ -1,6 +1,6 @@
 # Solo Unicorn Toolbox 🛠️
 
-> A bilingual, weekly-synced catalog of **539 curated GitHub repos** — AI agents, coding harnesses, RAG, multimedia, tutorials, and more — aggregated from GitHub stars, Twitter bookmarks, and 小红书.
+> A bilingual, weekly-synced catalog of **544 curated GitHub repos** — AI agents, coding harnesses, RAG, multimedia, tutorials, and more — aggregated from GitHub stars, Twitter bookmarks, and 小红书.
 
 > 中文版本：[README.zh-CN.md](./README.zh-CN.md) · Maintenance guide: [CLAUDE.md](./CLAUDE.md)
 
@@ -10,7 +10,7 @@ I keep finding the same kinds of tools across different platforms (GitHub, X/Twi
 
 ### What's inside
 
-- **539 repositories** across 12 categories — see the table of contents below
+- **544 repositories** across 12 categories — see the table of contents below
 - Stars from two GitHub accounts: `JesseQin123` (personal) + `jesseqin-kamiwaza` (work)
 - Twitter bookmark sweeps — GitHub URLs hand-picked from threads I save on X
 - Weekly auto-sync via [`.github/workflows/sync-stars.yml`](.github/workflows/sync-stars.yml)
@@ -28,15 +28,15 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 ## Table of Contents
 
 - [🤖 AI Agents & Coding Harnesses (93)](#-ai-agents--coding-harnesses)
-- [🛠 AI Agent Skills & MCP (62)](#-ai-agent-skills--mcp)
+- [🛠 AI Agent Skills & MCP (65)](#-ai-agent-skills--mcp)
 - [🌐 Browser & Web Automation (12)](#-browser--web-automation)
 - [🧠 RAG / Knowledge Graph / Memory (47)](#-rag--knowledge-graph--memory)
 - [🎨 Multimedia AI (61)](#-multimedia-ai)
 - [📊 Crawler & Content Publishing (31)](#-crawler--content-publishing)
 - [💻 Frontend Templates & UI (23)](#-frontend-templates--ui)
-- [🏗 Backend & Infrastructure (50)](#-backend--infrastructure)
+- [🏗 Backend & Infrastructure (51)](#-backend--infrastructure)
 - [📝 Knowledge Base & Personal Productivity (24)](#-knowledge-base--personal-productivity)
-- [💰 Finance, Career & Indie Hacker (29)](#-finance-career--indie-hacker)
+- [💰 Finance, Career & Indie Hacker (30)](#-finance-career--indie-hacker)
 - [🎓 Tutorials & Awesome Lists (77)](#-tutorials--awesome-lists)
 - [🌈 Misc / Lifestyle (30)](#-misc--lifestyle)
 
@@ -193,6 +193,7 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。 | — | 7.7k |  |
 | [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. | CSS | 7.6k | `agent` `claude` `gpt-image-2` `rag` |
 | [therealXiaomanChu/ex-skill](https://github.com/therealXiaomanChu/ex-skill) | 把前任蒸馏成 AI Skill，用ta的方式跟你说话。 | Python | 5.4k |  |
+| [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) | It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic | TypeScript | 5.1k | `mcp` `ui` `components` `cursor` |
 | [notdog1998/yourself-skill](https://github.com/notdog1998/yourself-skill) | 与其蒸馏别人，不如蒸馏自己。欢迎加入数字永生！Inspired by colleague-skill（同事skill）。 | Python | 2.9k |  |
 | [blader/Claudeception](https://github.com/blader/Claudeception) | A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works. | Shell | 2.4k |  |
 | [leilei926524-tech/anti-distill](https://github.com/leilei926524-tech/anti-distill) | 反蒸馏 Skill：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己。Anti-distillation for employee Skills. | — | 2.3k |  |
@@ -207,6 +208,8 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [ythx-101/x-tweet-fetcher](https://github.com/ythx-101/x-tweet-fetcher) | Fetch X/Twitter tweets, replies, timelines, and articles without login or API keys — field tool for AI agents. | Python | 859 | `agent-tools` `ai-agent` `automation` `no-api` |
 | [alchaincyf/x-mentor-skill](https://github.com/alchaincyf/x-mentor-skill) | X导师.skill — 女娲的第一个「非人类」作品。蒸馏6位顶级X创作者方法论 + 开源算法数据，提炼完整的选题-写作-增长操作手册。Made with 女娲.skill | — | 858 |  |
 | [wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill) | Claude Code skill for publishing Markdown articles to X (Twitter) Articles | Python | 790 |  |
+| [orange2ai/renwei-writing](https://github.com/orange2ai/renwei-writing) | 人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them | — | 654 | `writing` `ai-skill` `agent-skill` `claude-code` |
+| [joeseesun/qiaomu-goal-meta-skill](https://github.com/joeseesun/qiaomu-goal-meta-skill) | Turn vague or complex Codex tasks into strong /goal commands with outcome, verification, constraints, boundaries, iteration policy, completion evidence | Python | 603 | `codex` `claude-code` `agent-skill` `goal` |
 | [awslabs/graphrag-toolkit](https://github.com/awslabs/graphrag-toolkit) | Python toolkit for building graph-enhanced GenAI applications | Python | 405 | `amazon-neptune` `amazon-opensearch-serverless` `graph-database` `graphrag` |
 | [alchaincyf/elon-musk-skill](https://github.com/alchaincyf/elon-musk-skill) | 马斯克.skill — Elon Musk的认知操作系统。由女娲.skill生成。 | — | 353 |  |
 | [kkoppenhaver/cc-nano-banana](https://github.com/kkoppenhaver/cc-nano-banana) | A Claude Code skill to generate images with Nano Banana | — | 328 |  |
@@ -516,7 +519,7 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [InsForge/InsForge](https://github.com/InsForge/InsForge) | The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end. | TypeScript | 11.6k | `ai` `ai-agents` `coding` `deno` |
 | [ankane/ahoy_email](https://github.com/ankane/ahoy_email) | First-party email analytics for Rails | Ruby | 1.2k | `analytics` `first-party-analytics` `rails` |
 
-### AI Toolkits / RAG Apps (20)
+### AI Toolkits / RAG Apps (21)
 
 | Repo | Description | Lang | ⭐ | Topics |
 |---|---|---|---|---|
@@ -527,6 +530,7 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [ray-project/ray](https://github.com/ray-project/ray) | Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. | Python | 42.8k | `data-science` `deep-learning` `deployment` `distributed` |
 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ | Python | 42.3k |  |
 | [google/langextract](https://github.com/google/langextract) | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. | Python | 36.8k | `gemini` `gemini-ai` `gemini-api` `gemini-flash` |
+| [chopratejas/headroom](https://github.com/chopratejas/headroom) | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. | Python | 28.3k | `python` `agent` `compression` `ai` |
 | [yamadashy/repomix](https://github.com/yamadashy/repomix) | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. | TypeScript | 26.1k | `ai` `anthropic` `artificial-intelligence` `chatbot` |
 | [vercel/ai](https://github.com/vercel/ai) | The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents | TypeScript | 24.7k | `anthropic` `artificial-intelligence` `gemini` `generative-ai` |
 | [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) | Make Any Website into CLI & Use your logged-in browser by AI agent. | JavaScript | 23.8k | `ai-agent` `ai-agents` `ai-tools` `browser-automation` |
@@ -613,7 +617,7 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 
 ## 💰 Finance, Career & Indie Hacker
 
-### Finance / Trading / Quant (15)
+### Finance / Trading / Quant (16)
 
 | Repo | Description | Lang | ⭐ | Topics |
 |---|---|---|---|---|
@@ -626,6 +630,7 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell) | ValueCell is a community-driven, multi-agent platform for financial applications. | Python | 10.8k | `agentic-ai` `agents` `ai` `assitant` |
 | [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) | FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀 | Jupyter Notebook | 7.2k | `aiagent` `chatgpt` `finance` `fingpt` |
 | [Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli) | — | Rust | 2.8k |  |
+| [muxuuu/serenity-skill](https://github.com/muxuuu/serenity-skill) | Serenity-inspired Agent Skill for supply-chain bottleneck stock research | Python | 2.3k | `supply-chain` `codex` `ai-agents` `investment-research` |
 | [tradecatlabs/tradecat-public](https://github.com/tradecatlabs/tradecat-public) | 交易猫数据系统 | Python | 954 | `ai` `binance` `bitcoin` `ccxt` |
 | [tukuaiai/tradecat-public](https://github.com/tukuaiai/tradecat-public) | 交易猫数据系统 | Python | 952 | `ai` `binance` `bitcoin` `ccxt` |
 | [tukuaiai/tradecat](https://github.com/tukuaiai/tradecat) | 交易猫数据系统 | Python | 947 | `ai` `binance` `bitcoin` `ccxt` |

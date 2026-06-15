@@ -10659,5 +10659,106 @@
     "archived": false,
     "starred_at": "2026-03-10T12:35:46Z",
     "pushed_at": "2026-05-27T01:40:01Z"
+  },
+  {
+    "full_name": "orange2ai/renwei-writing",
+    "html_url": "https://github.com/orange2ai/renwei-writing",
+    "description": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
+    "language": null,
+    "topics": [
+      "writing",
+      "ai-skill",
+      "agent-skill",
+      "claude-code"
+    ],
+    "stargazers_count": 654,
+    "homepage": "",
+    "archived": false,
+    "starred_at": "2026-06-15T00:00:00Z",
+    "pushed_at": "2026-06-15T00:00:00Z"
+  },
+  {
+    "full_name": "chopratejas/headroom",
+    "html_url": "https://github.com/chopratejas/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers.",
+    "language": "Python",
+    "topics": [
+      "python",
+      "agent",
+      "compression",
+      "ai",
+      "proxy",
+      "mcp",
+      "rag",
+      "fastapi",
+      "llm",
+      "context-window",
+      "claude-code",
+      "token-optimization",
+      "context-engineering"
+    ],
+    "stargazers_count": 28300,
+    "homepage": "",
+    "archived": false,
+    "starred_at": "2026-06-15T00:00:00Z",
+    "pushed_at": "2026-06-15T00:00:00Z"
+  },
+  {
+    "full_name": "joeseesun/qiaomu-goal-meta-skill",
+    "html_url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
+    "description": "Turn vague or complex Codex tasks into strong /goal commands with outcome, verification, constraints, boundaries, iteration policy, completion evidence",
+    "language": "Python",
+    "topics": [
+      "codex",
+      "claude-code",
+      "agent-skill",
+      "goal",
+      "meta-skill"
+    ],
+    "stargazers_count": 603,
+    "homepage": "",
+    "archived": false,
+    "starred_at": "2026-06-15T00:00:00Z",
+    "pushed_at": "2026-06-15T00:00:00Z"
+  },
+  {
+    "full_name": "muxuuu/serenity-skill",
+    "html_url": "https://github.com/muxuuu/serenity-skill",
+    "description": "Serenity-inspired Agent Skill for supply-chain bottleneck stock research",
+    "language": "Python",
+    "topics": [
+      "supply-chain",
+      "codex",
+      "ai-agents",
+      "investment-research",
+      "agent-skills",
+      "claude-code",
+      "stock-research"
+    ],
+    "stargazers_count": 2300,
+    "homepage": "",
+    "archived": false,
+    "starred_at": "2026-06-15T00:00:00Z",
+    "pushed_at": "2026-06-15T00:00:00Z"
+  },
+  {
+    "full_name": "21st-dev/magic-mcp",
+    "html_url": "https://github.com/21st-dev/magic-mcp",
+    "description": "It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic",
+    "language": "TypeScript",
+    "topics": [
+      "mcp",
+      "ui",
+      "components",
+      "cursor",
+      "claude-code",
+      "ai",
+      "frontend"
+    ],
+    "stargazers_count": 5100,
+    "homepage": "",
+    "archived": false,
+    "starred_at": "2026-06-15T00:00:00Z",
+    "pushed_at": "2026-06-15T00:00:00Z"
   }
 ]
