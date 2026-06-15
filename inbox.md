@@ -211,3 +211,6 @@
 - https://github.com/joeseesun/qiaomu-goal-meta-skill  → skills-mcp/null  ⭐603 · jesseqin-kamiwaza
 - https://github.com/muxuuu/serenity-skill  → finance-career/finance  ⭐2.3k · jesseqin-kamiwaza
 - https://github.com/21st-dev/magic-mcp  → skills-mcp/null  ⭐5.1k · jesseqin-kamiwaza
+
+<!-- synced 2026-06-15T15:20:24Z -->
+- https://github.com/ALwrity/ALwrity  — ⭐ 1063 · Python · ALwrity - AI-first Digital Marketing Platform. AI Content Strategy and Planning, Multimodal content generation, Publishing, Analytics, AI SEO, Connect & Manage Social Accounts. Marketing OS - WIP
