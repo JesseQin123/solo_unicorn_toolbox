@@ -214,3 +214,7 @@
 
 <!-- synced 2026-06-15T15:20:24Z -->
 - https://github.com/ALwrity/ALwrity  — ⭐ 1063 · Python · ALwrity - AI-first Digital Marketing Platform. AI Content Strategy and Planning, Multimodal content generation, Publishing, Analytics, AI SEO, Connect & Manage Social Accounts. Marketing OS - WIP
+
+## Auto-classified 2026-06-16
+
+- https://github.com/ALwrity/ALwrity  → finance-career/marketing-growth  ⭐1063 · Python
