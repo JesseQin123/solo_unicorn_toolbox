@@ -117,6 +117,28 @@ def build_readme(lang: str) -> str:
             "- Twitter bookmark sweeps — GitHub URLs hand-picked from threads I save on X\n"
             "- Weekly auto-sync via [`.github/workflows/sync-stars.yml`](.github/workflows/sync-stars.yml)\n"
         )
+        out.append("### Smart Toolbox Navigator\n")
+        out.append(
+            "The repo also includes a lightweight `solo` CLI that turns the catalog "
+            "into a smarter toolbox: usage cards, intent-based recommendations, "
+            "reverse idea generation, cost-aware browsing, and recommendation evals.\n"
+        )
+        out.append(
+            "```bash\n"
+            "bun run solo card ALwrity/ALwrity\n"
+            "bun run solo find \"I want to build an AI content growth system\"\n"
+            "bun run solo ideas ALwrity/ALwrity\n"
+            "bun run solo browse --time 15min --difficulty easy --kind skill\n"
+            "bun run solo eval\n"
+            "bun run solo cards coverage\n"
+            "```\n"
+        )
+        out.append(
+            "The navigator is intentionally not an auto-installer. It helps you decide "
+            "what to try, why it fits, the first 15-minute validation task, and what "
+            "ideas a tool can unlock. Usage cards now cover the full manifest/starred "
+            "catalog, while low-evidence tools stay marked as candidate or reference-only.\n"
+        )
         out.append("### How to read each row\n")
         out.append(
             "`Repo · Description · Language · ⭐ stars · Topic tags`. "
@@ -154,6 +176,26 @@ def build_readme(lang: str) -> str:
             "- 两个 GitHub 账号的 stars：`JesseQin123`（个人）+ `jesseqin-kamiwaza`（工作）\n"
             "- Twitter bookmarks 整理——从我在 X 收藏的推文线程里手动挑出的 GitHub URL\n"
             "- 每周自动同步：[`.github/workflows/sync-stars.yml`](.github/workflows/sync-stars.yml)\n"
+        )
+        out.append("### 智能工具箱导航器\n")
+        out.append(
+            "这个 repo 现在也包含一个轻量 `solo` CLI，把收藏目录变成更聪明的工具箱："
+            "usage card、按 idea 推荐工具组合、按工具反推 idea、按上手成本筛选，以及推荐质量评估。\n"
+        )
+        out.append(
+            "```bash\n"
+            "bun run solo card ALwrity/ALwrity\n"
+            "bun run solo find \"我想做一个 AI 内容增长系统\"\n"
+            "bun run solo ideas ALwrity/ALwrity\n"
+            "bun run solo browse --time 15min --difficulty easy --kind skill\n"
+            "bun run solo eval\n"
+            "bun run solo cards coverage\n"
+            "```\n"
+        )
+        out.append(
+            "Navigator 不做外部 repo 自动安装；它的目标是告诉你该试什么、为什么适合、"
+            "15 分钟怎么验证，以及这个工具能反向启发哪些 idea。usage cards 现在覆盖完整 "
+            "manifest/starred catalog；证据较少的工具会保持 candidate 或 reference-only 状态。\n"
         )
         out.append("### 每行表格怎么看\n")
         out.append(

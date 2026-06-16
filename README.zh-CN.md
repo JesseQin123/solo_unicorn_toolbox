@@ -15,6 +15,21 @@
 - Twitter bookmarks 整理——从我在 X 收藏的推文线程里手动挑出的 GitHub URL
 - 每周自动同步：[`.github/workflows/sync-stars.yml`](.github/workflows/sync-stars.yml)
 
+### 智能工具箱导航器
+
+这个 repo 现在也包含一个轻量 `solo` CLI，把收藏目录变成更聪明的工具箱：usage card、按 idea 推荐工具组合、按工具反推 idea、按上手成本筛选，以及推荐质量评估。
+
+```bash
+bun run solo card ALwrity/ALwrity
+bun run solo find "我想做一个 AI 内容增长系统"
+bun run solo ideas ALwrity/ALwrity
+bun run solo browse --time 15min --difficulty easy --kind skill
+bun run solo eval
+bun run solo cards coverage
+```
+
+Navigator 不做外部 repo 自动安装；它的目标是告诉你该试什么、为什么适合、15 分钟怎么验证，以及这个工具能反向启发哪些 idea。usage cards 现在覆盖完整 manifest/starred catalog；证据较少的工具会保持 candidate 或 reference-only 状态。
+
 ### 每行表格怎么看
 
 `仓库 · 描述 · 语言 · ⭐ Star 数 · Topic 标签`。每个（子）分类内部按 star 数倒序。⚠️ 标记的是已被原作者 archive 的项目。

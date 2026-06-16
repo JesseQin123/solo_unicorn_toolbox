@@ -1,0 +1,53 @@
+[
+  {
+    "id": "content-engine",
+    "input": "我想做 AI 内容增长系统",
+    "expected_use_cases": ["content", "growth", "research"],
+    "expected_terms": ["内容", "写作", "SEO", "发布", "趋势"]
+  },
+  {
+    "id": "ai-saas-starter",
+    "input": "我想做一个小型 AI SaaS",
+    "expected_use_cases": ["saas-building", "agent-building"],
+    "expected_terms": ["SaaS", "支付", "鉴权", "LLM", "部署"]
+  },
+  {
+    "id": "research-agent",
+    "input": "我想做一个自动研究最近热点的 agent",
+    "expected_use_cases": ["research", "agent-building", "browser-automation", "knowledge-base"],
+    "expected_terms": ["研究", "趋势", "agent", "浏览器", "RAG"]
+  },
+  {
+    "id": "browser-automation",
+    "input": "我想自动操作网站完成任务",
+    "expected_use_cases": ["browser-automation", "automation"],
+    "expected_terms": ["浏览器", "Playwright", "网站", "自动化"]
+  },
+  {
+    "id": "personal-knowledge-base",
+    "input": "我想管理自己的长期知识和记忆",
+    "expected_use_cases": ["knowledge-base", "personal-productivity"],
+    "expected_terms": ["知识", "记忆", "RAG", "笔记"]
+  },
+  {
+    "id": "tool-to-idea",
+    "input": "ALwrity/ALwrity",
+    "mode": "ideas",
+    "expected_use_cases": ["content", "growth"],
+    "expected_terms": ["内容", "SEO", "营销", "发布"]
+  },
+  {
+    "id": "skill-to-workflow",
+    "input": "orange2ai/renwei-writing",
+    "mode": "ideas",
+    "expected_use_cases": ["content"],
+    "expected_terms": ["写作", "文章", "workflow", "内容"]
+  },
+  {
+    "id": "low-effort-discovery",
+    "input": "我今天只有 15 分钟，想试一个有用的 AI 工具",
+    "filters": { "time": "15min" },
+    "expected_use_cases": ["content", "research", "agent-building", "design"],
+    "expected_terms": ["15", "试", "工具"]
+  }
+]

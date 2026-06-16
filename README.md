@@ -15,6 +15,21 @@ I keep finding the same kinds of tools across different platforms (GitHub, X/Twi
 - Twitter bookmark sweeps — GitHub URLs hand-picked from threads I save on X
 - Weekly auto-sync via [`.github/workflows/sync-stars.yml`](.github/workflows/sync-stars.yml)
 
+### Smart Toolbox Navigator
+
+The repo also includes a lightweight `solo` CLI that turns the catalog into a smarter toolbox: usage cards, intent-based recommendations, reverse idea generation, cost-aware browsing, and recommendation evals.
+
+```bash
+bun run solo card ALwrity/ALwrity
+bun run solo find "I want to build an AI content growth system"
+bun run solo ideas ALwrity/ALwrity
+bun run solo browse --time 15min --difficulty easy --kind skill
+bun run solo eval
+bun run solo cards coverage
+```
+
+The navigator is intentionally not an auto-installer. It helps you decide what to try, why it fits, the first 15-minute validation task, and what ideas a tool can unlock. Usage cards now cover the full manifest/starred catalog, while low-evidence tools stay marked as candidate or reference-only.
+
 ### How to read each row
 
 `Repo · Description · Language · ⭐ stars · Topic tags`. Entries within each (sub)category are sorted by stars descending. ⚠️ marks repos archived by their authors.
