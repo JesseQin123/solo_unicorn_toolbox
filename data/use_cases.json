@@ -1,0 +1,68 @@
+[
+  {
+    "id": "content",
+    "label": "Content",
+    "zh": "内容生产",
+    "keywords": ["content", "writing", "article", "seo", "publish", "newsletter", "内容", "写作", "文章", "选题", "发布", "公众号", "小红书"]
+  },
+  {
+    "id": "research",
+    "label": "Research",
+    "zh": "研究与趋势",
+    "keywords": ["research", "trend", "report", "deep research", "recent", "热点", "趋势", "研究", "调研", "报告", "最近"]
+  },
+  {
+    "id": "agent-building",
+    "label": "Agent Building",
+    "zh": "智能体构建",
+    "keywords": ["agent", "agents", "claude", "codex", "gemini", "mcp", "skill", "workflow", "智能体", "代理", "技能", "编排"]
+  },
+  {
+    "id": "browser-automation",
+    "label": "Browser Automation",
+    "zh": "浏览器自动化",
+    "keywords": ["browser", "playwright", "web automation", "scrape", "crawler", "website", "浏览器", "网页", "网站", "自动操作", "爬虫", "采集"]
+  },
+  {
+    "id": "saas-building",
+    "label": "SaaS Building",
+    "zh": "SaaS 构建",
+    "keywords": ["saas", "startup", "billing", "auth", "stripe", "deploy", "nextjs", "api", "应用", "支付", "鉴权", "部署", "创业"]
+  },
+  {
+    "id": "design",
+    "label": "Design",
+    "zh": "设计与视觉",
+    "keywords": ["design", "ui", "image", "slide", "ppt", "canvas", "prototype", "设计", "视觉", "图片", "海报", "幻灯片", "原型"]
+  },
+  {
+    "id": "growth",
+    "label": "Growth",
+    "zh": "增长与营销",
+    "keywords": ["growth", "marketing", "seo", "social", "analytics", "营销", "增长", "获客", "流量", "社媒", "转化"]
+  },
+  {
+    "id": "knowledge-base",
+    "label": "Knowledge Base",
+    "zh": "知识库与记忆",
+    "keywords": ["knowledge", "memory", "rag", "graph", "notes", "wiki", "知识", "记忆", "知识库", "图谱", "笔记"]
+  },
+  {
+    "id": "finance",
+    "label": "Finance",
+    "zh": "金融与交易",
+    "keywords": ["finance", "trading", "quant", "stock", "crypto", "金融", "交易", "量化", "投资", "股票"]
+  },
+  {
+    "id": "personal-productivity",
+    "label": "Personal Productivity",
+    "zh": "个人生产力",
+    "keywords": ["productivity", "dashboard", "workspace", "crm", "calendar", "效率", "仪表盘", "工作区", "个人", "复盘"]
+  },
+  {
+    "id": "automation",
+    "label": "Automation",
+    "zh": "自动化流程",
+    "keywords": ["automation", "workflow", "sync", "publish", "upload", "monitor", "自动化", "流程", "同步", "监控", "批量"]
+  }
+]

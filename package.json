@@ -1,0 +1,16 @@
+{
+  "name": "solo-unicorn-toolbox",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "solo": "./src/solo/cli.ts"
+  },
+  "scripts": {
+    "solo": "bun run src/solo/cli.ts",
+    "test": "bun test"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  }
+}
