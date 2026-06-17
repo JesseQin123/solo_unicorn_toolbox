@@ -113,7 +113,6 @@ def build_readme(lang: str) -> str:
         out.append("### What's inside\n")
         out.append(
             f"- **{n} repositories** across 12 categories — see the table of contents below\n"
-            "- Stars from two GitHub accounts: `JesseQin123` (personal) + `jesseqin-kamiwaza` (work)\n"
             "- Twitter bookmark sweeps — GitHub URLs hand-picked from threads I save on X\n"
             "- Weekly auto-sync via [`.github/workflows/sync-stars.yml`](.github/workflows/sync-stars.yml)\n"
         )
@@ -173,7 +172,6 @@ def build_readme(lang: str) -> str:
         out.append("### 里面有什么\n")
         out.append(
             f"- **共 {n} 个项目**，分布在 12 个大类——见下方目录\n"
-            "- 两个 GitHub 账号的 stars：`JesseQin123`（个人）+ `jesseqin-kamiwaza`（工作）\n"
             "- Twitter bookmarks 整理——从我在 X 收藏的推文线程里手动挑出的 GitHub URL\n"
             "- 每周自动同步：[`.github/workflows/sync-stars.yml`](.github/workflows/sync-stars.yml)\n"
         )

@@ -11,7 +11,6 @@
 ### 里面有什么
 
 - **共 544 个项目**，分布在 12 个大类——见下方目录
-- 两个 GitHub 账号的 stars：`JesseQin123`（个人）+ `jesseqin-kamiwaza`（工作）
 - Twitter bookmarks 整理——从我在 X 收藏的推文线程里手动挑出的 GitHub URL
 - 每周自动同步：[`.github/workflows/sync-stars.yml`](.github/workflows/sync-stars.yml)
 

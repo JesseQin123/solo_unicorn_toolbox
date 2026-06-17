@@ -11,7 +11,6 @@ I keep finding the same kinds of tools across different platforms (GitHub, X/Twi
 ### What's inside
 
 - **544 repositories** across 12 categories — see the table of contents below
-- Stars from two GitHub accounts: `JesseQin123` (personal) + `jesseqin-kamiwaza` (work)
 - Twitter bookmark sweeps — GitHub URLs hand-picked from threads I save on X
 - Weekly auto-sync via [`.github/workflows/sync-stars.yml`](.github/workflows/sync-stars.yml)
 
