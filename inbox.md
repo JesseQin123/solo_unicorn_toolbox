@@ -218,3 +218,33 @@
 ## Auto-classified 2026-06-16
 
 - https://github.com/ALwrity/ALwrity  → finance-career/marketing-growth  ⭐1063 · Python
+
+<!-- synced 2026-06-22T14:47:06Z -->
+- https://github.com/DietrichGebert/ponytail  — ⭐ 48709 · JavaScript · Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+- https://github.com/Goekdeniz-Guelmez/MLX-LoRA-Studio  — ⭐ 185 · Swift · A native Mac App for LLM fine-tuning on Apple Silicon — fully on-device, fully open source.
+- https://github.com/HuaizhengZhang/AI-Infra-from-Zero-to-Hero  — ⭐ 4128 · — · 🚀 Awesome System for Machine Learning ⚡️ AI System Papers and Industry Practice. ⚡️ System for Machine Learning, LLM (Large Language Model), GenAI (Generative AI). 🍻 OSDI, NSDI, SIGCOMM, SoCC, MLSys, etc. 🗃️ Llama3, Mistral, etc. 🧑‍💻 Video Tutorials. 
+- https://github.com/MIT-MI/how2ai-course  — ⭐ 467 · SCSS · How to AI (Almost) Anything Course
+- https://github.com/freestylefly/awesome-gpt-image-2  — ⭐ 7798 · JavaScript · Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+- https://github.com/jasontang-ai/Context-Engineering  — ⭐ 9104 · Python · "Context engineering is the delicate art and science of filling the context window with just the right information for the next step." — Andrej Karpathy. A frontier, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization.
+
+<!-- synced 2026-06-22T14:47:10Z -->
+- https://github.com/DeusData/codebase-memory-mcp  — ⭐ 11086 · C · High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+- https://github.com/DietrichGebert/ponytail  — ⭐ 48710 · JavaScript · Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+- https://github.com/Egonex-AI/Understand-Anything  — ⭐ 65947 · TypeScript · Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+- https://github.com/EverMind-AI/EverOS  — ⭐ 8368 · Python · Self-evolving memory across Agent and platform. The one portable memory layer for every agent they use - Claude Code, Codex, OpenClaw, Hermes, and more
+- https://github.com/Forsy-AI/agent-apprenticeship  — ⭐ 652 · — · The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.
+- https://github.com/Thysrael/Horizon  — ⭐ 6955 · Python · 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
+- https://github.com/alibaba/open-code-review  — ⭐ 8423 · Go · Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+- https://github.com/chatwoot/chatwoot  — ⭐ 33226 · Ruby · Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+- https://github.com/code-yeongyu/lazycodex  — ⭐ 1765 · TypeScript · The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
+- https://github.com/code-yeongyu/oh-my-openagent  — ⭐ 63236 · TypeScript · omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
+- https://github.com/frappe/erpnext  — ⭐ 35953 · Python · Free and Open Source Enterprise Resource Planning (ERP)
+- https://github.com/freeCodeCamp/freeCodeCamp  — ⭐ 450175 · TypeScript · freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+- https://github.com/google-deepmind/science-skills  — ⭐ 2014 · Python · GDM Science Skills to speed up agentic scientific workflows with better grounding and higher token efficiency. Integrate insights from AlphaGenome, AFDB, UniProt and 30+ other databases and tools.
+- https://github.com/headroomlabs-ai/headroom  — ⭐ 46418 · Python · Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+- https://github.com/microsoft/SkillOpt  — ⭐ 8726 · Python · SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
+- https://github.com/opentsc/opentsc  — ⭐ 13 · Python · A private, offline 'second brain' for the people, projects, and decisions you juggle — and it keeps score of whether your judgment was right. 本地私密的人际情报与决策记忆系统。
+- https://github.com/opentsc/tsc  — ⭐ 6 · — · The Thin-Shell Company: a whitepaper on running a large, self-evolving organization as one person with AI agents. 薄壳公司白皮书。
+- https://github.com/staru09/open-paxel  — ⭐ 19 · Python · AI native open-source analyser for your coding patterns 
+- https://github.com/steipete/agent-scripts  — ⭐ 5140 · Shell · Scripts for agents, shared between my repositories.
+- https://github.com/trustgraph-ai/TrustGraph  — ⭐ 2214 · Python · Write context once. Run agents anywhere. Discover the power of holonic context graphs and dramatically reduce your token usage.
