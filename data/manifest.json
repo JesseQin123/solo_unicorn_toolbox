@@ -2723,5 +2723,105 @@
     "category": "skills-mcp",
     "subcategory": null,
     "zh": "Magic MCP — v0 风格的 AI UI 组件生成 MCP server，在 Cursor/Windsurf/VSCode + Cline 中通过自然语言即时创建精美前端组件。"
+  },
+  "freeCodeCamp/freeCodeCamp": {
+    "category": "misc",
+    "subcategory": "education",
+    "zh": "freeCodeCamp 开源课程平台，提供数学、编程与计算机科学的免费系统性学习资源。"
+  },
+  "Egonex-AI/Understand-Anything": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "将任意代码库转换为可交互知识图谱的 AI 工具，支持 Claude Code、Codex、Cursor、Copilot 等主流 coding agent。"
+  },
+  "DietrichGebert/ponytail": {
+    "category": "ai-agents",
+    "subcategory": "generic",
+    "zh": "让 AI agent 像资深懒惰工程师一样思考——最好的代码是你永远不需要写的代码。"
+  },
+  "code-yeongyu/oh-my-openagent": {
+    "category": "ai-agents",
+    "subcategory": "codex",
+    "zh": "专为 Codex 与 OpenCode 用户设计的复杂代码库 coding agent harness，具备项目记忆与执行验证能力。"
+  },
+  "headroomlabs-ai/headroom": {
+    "category": "backend-infra",
+    "subcategory": "ai-toolkit",
+    "zh": "在 LLM 接收之前压缩工具输出、日志、文件与 RAG chunk，节省 60-95% token，同时保持答案质量。支持 Library、Proxy 与 MCP server 三种用法。"
+  },
+  "run-llama/llama_index": {
+    "category": "rag-kg-memory",
+    "subcategory": null,
+    "zh": "领先的 RAG 框架 LlamaIndex，支持文档 agent 与 OCR 的一体化平台。"
+  },
+  "frappe/erpnext": {
+    "category": "backend-infra",
+    "subcategory": "self-host",
+    "zh": "免费开源企业资源规划（ERP）系统，适合中小企业自托管部署。"
+  },
+  "chatwoot/chatwoot": {
+    "category": "backend-infra",
+    "subcategory": "self-host",
+    "zh": "开源全渠道客服平台，支持实时聊天、邮件与工单，可自托管替代 Intercom 和 Zendesk。"
+  },
+  "calesthio/OpenMontage": {
+    "category": "multimedia",
+    "subcategory": "video",
+    "zh": "全球首个开源 agentic 视频生产系统，12 条 pipeline，从脚本到成片全自动生产。"
+  },
+  "DeusData/codebase-memory-mcp": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "高性能代码智能 MCP server，毫秒级将代码库索引为持久知识图谱，158 种语言，零依赖单一二进制。"
+  },
+  "opensearch-project/OpenSearch": {
+    "category": "backend-infra",
+    "subcategory": "databases-analytics",
+    "zh": "开源分布式 RESTful 搜索引擎，Elasticsearch 的开源替代方案。"
+  },
+  "microsoft/SkillOpt": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "微软出品的文本空间优化器，通过轨迹驱动编辑为冻结 LLM agent 训练可复用自然语言 Skills。"
+  },
+  "EverMind-AI/EverOS": {
+    "category": "rag-kg-memory",
+    "subcategory": null,
+    "zh": "跨平台便携记忆层，兼容 Claude Code、Codex、OpenClaw、Hermes 等主流 AI agent，本地优先 Markdown 原生。"
+  },
+  "alibaba/open-code-review": {
+    "category": "ai-agents",
+    "subcategory": "generic",
+    "zh": "阿里巴巴开源的混合架构代码审查工具，结合确定性 pipeline 与 LLM Agent，支持精准行级注释与内置安全规则集。"
+  },
+  "jasontang-ai/Context-Engineering": {
+    "category": "tutorials",
+    "subcategory": "context-vibe",
+    "zh": "受 Karpathy 与 3Blue1Brown 启发的上下文工程手册，从第一性原理出发，涵盖上下文设计、编排与优化。"
+  },
+  "freestylefly/awesome-gpt-image-2": {
+    "category": "multimedia",
+    "subcategory": "image",
+    "zh": "GPT-Image2 工业级提示词引擎与模板库，470+ 案例逆向工程，20+ 套工业级模板，提炼为可复用 Skills。"
+  },
+  "Thysrael/Horizon": {
+    "category": "kb-productivity",
+    "subcategory": "dashboard",
+    "zh": "AI 驱动的个人新闻雷达，每日生成英中双语简报。"
+  },
+  "dontbesilent2025/dbskill": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "dontbesilent 的商业诊断 Skills，供 AI coding agent 作为商业分析工具调用。"
+  },
+  "vasturiano/3d-force-graph": {
+    "category": "frontend",
+    "subcategory": "components",
+    "zh": "基于 ThreeJS/WebGL 的 3D 力导向图组件库，适用于知识图谱可视化。"
+  },
+  "zerostaticthemes/square-ui": {
+    "category": "frontend",
+    "subcategory": "components",
+    "zh": "使用 Tailwind CSS 与 Next.js 构建的精美开源 UI 布局组件集合。"
   }
 }

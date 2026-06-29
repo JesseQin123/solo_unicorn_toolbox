@@ -287,3 +287,44 @@
 - https://github.com/steipete/agent-scripts  — ⭐ 5210 · Shell · Scripts for agents, shared between my repositories.
 - https://github.com/sumelabs/clawra  — ⭐ 2340 · TypeScript · Clawra - Openclaw as your companion
 - https://github.com/vasturiano/3d-force-graph  — ⭐ 6166 · HTML · 3D force-directed graph component using ThreeJS/WebGL
+
+## Newly starred (overflow) 2026-06-29
+
+<!-- Top 20 were auto-classified. These 14 need manual review next run. -->
+- https://github.com/steipete/agent-scripts  — ⭐ 5,210 · Shell · Scripts for agents, shared between my repositories.
+- https://github.com/HuaizhengZhang/AI-Infra-from-Zero-to-Hero  — ⭐ 4,153 ·  · 🚀 Awesome System for Machine Learning ⚡️ AI System Papers and Industry Practice.
+- https://github.com/sumelabs/clawra  — ⭐ 2,340 · TypeScript · Clawra - Openclaw as your companion
+- https://github.com/trustgraph-ai/TrustGraph  — ⭐ 2,214 · Python · Write context once. Run agents anywhere. Discover the power of holonic context g
+- https://github.com/code-yeongyu/lazycodex  — ⭐ 2,147 · TypeScript · The one and only agent harness for complex codebases. Project memory, planning, 
+- https://github.com/google-deepmind/science-skills  — ⭐ 2,119 · Python · GDM Science Skills to speed up agentic scientific workflows with better groundin
+- https://github.com/mnemosyne-oss/mnemosyne  — ⭐ 1,327 · Python · The Zero-Dependency, Sub-Millisecond AI Memory System for Hermes Agents and Ever
+- https://github.com/Forsy-AI/agent-apprenticeship  — ⭐ 1,046 ·  · The living ecosystem where AI agents run automated workflow loops on any task, i
+- https://github.com/MIT-MI/how2ai-course  — ⭐ 471 · SCSS · How to AI (Almost) Anything Course
+- https://github.com/Goekdeniz-Guelmez/MLX-LoRA-Studio  — ⭐ 228 · Swift · A native Mac App for LLM fine-tuning on Apple Silicon — fully on-device, fully o
+- https://github.com/biolink/kgx  — ⭐ 175 · Python · KGX is a Python library for exchanging Knowledge Graphs
+- https://github.com/opentsc/opentsc  — ⭐ 28 · Python · A private, offline 'second brain' for the people, projects, and decisions you ju
+- https://github.com/staru09/open-paxel  — ⭐ 20 · Python · AI native open-source analyser for your coding patterns 
+- https://github.com/opentsc/tsc  — ⭐ 11 ·  · The Thin-Shell Company: a whitepaper on running a large, self-evolving organizat
+
+## Auto-classified 2026-06-29
+
+- https://github.com/freeCodeCamp/freeCodeCamp  → misc/education  ⭐450,723 · TypeScript
+- https://github.com/Egonex-AI/Understand-Anything  → skills-mcp/null  ⭐69,123 · TypeScript
+- https://github.com/DietrichGebert/ponytail  → ai-agents/generic  ⭐66,379 · JavaScript
+- https://github.com/code-yeongyu/oh-my-openagent  → ai-agents/codex  ⭐64,142 · TypeScript
+- https://github.com/headroomlabs-ai/headroom  → backend-infra/ai-toolkit  ⭐53,537 · Python
+- https://github.com/run-llama/llama_index  → rag-kg-memory/null  ⭐50,498 · Python
+- https://github.com/frappe/erpnext  → backend-infra/self-host  ⭐36,188 · Python
+- https://github.com/chatwoot/chatwoot  → backend-infra/self-host  ⭐33,717 · Ruby
+- https://github.com/calesthio/OpenMontage  → multimedia/video  ⭐28,051 · Python
+- https://github.com/DeusData/codebase-memory-mcp  → skills-mcp/null  ⭐20,813 · C
+- https://github.com/opensearch-project/OpenSearch  → backend-infra/databases-analytics  ⭐13,289 · Java
+- https://github.com/microsoft/SkillOpt  → skills-mcp/null  ⭐9,826 · Python
+- https://github.com/EverMind-AI/EverOS  → rag-kg-memory/null  ⭐9,727 · Python
+- https://github.com/alibaba/open-code-review  → ai-agents/generic  ⭐9,576 · Go
+- https://github.com/jasontang-ai/Context-Engineering  → tutorials/context-vibe  ⭐9,127 · Python
+- https://github.com/freestylefly/awesome-gpt-image-2  → multimedia/image  ⭐8,022 · JavaScript
+- https://github.com/Thysrael/Horizon  → kb-productivity/dashboard  ⭐7,586 · Python
+- https://github.com/dontbesilent2025/dbskill  → skills-mcp/null  ⭐7,153 · JavaScript
+- https://github.com/vasturiano/3d-force-graph  → frontend/components  ⭐6,166 · HTML
+- https://github.com/zerostaticthemes/square-ui  → frontend/components  ⭐5,909 · TypeScript
