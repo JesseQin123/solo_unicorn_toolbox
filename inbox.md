@@ -367,3 +367,49 @@
 - https://github.com/staru09/open-paxel  — ⭐ 23 · Python · AI native open-source analyser for your coding patterns 
 - https://github.com/steipete/agent-scripts  — ⭐ 5250 · Shell · Scripts for agents, shared between my repositories.
 - https://github.com/sumelabs/clawra  — ⭐ 2339 · TypeScript · Clawra - Openclaw as your companion
+
+## Needs manual classification (2026-07-06)
+
+- https://github.com/baojie/shiji-kb  — ⭐ 2,215 · HTML · (no description available)
+
+## Newly starred (overflow) 2026-07-06
+
+<!-- Top 20 were auto-classified. These 16 need manual review next run. -->
+- https://github.com/LiuMengxuan04/shushu-internment-tool  — ⭐ 1,694 · Python · 把岗位描述变项目，把项目变简历，把简历变面试。
+- https://github.com/rynfar/meridian  — ⭐ 1,571 · TypeScript · Use your Claude Max subscription with OpenCode, Pi, Droid, Aider, Crush, Cline. 
+- https://github.com/MapleTechLabs/maple  — ⭐ 1,512 · TypeScript · OpenTelemetry observability platform
+- https://github.com/mnemosyne-oss/mnemosyne  — ⭐ 1,414 · Python · The Zero-Dependency, Sub-Millisecond AI Memory System for Hermes Agents and Ever
+- https://github.com/Forsy-AI/agent-apprenticeship  — ⭐ 1,259 · Python · The living ecosystem where AI agents complete tasks through workflow loops, impr
+- https://github.com/MIT-MI/how2ai-course  — ⭐ 474 · SCSS · How to AI (Almost) Anything Course
+- https://github.com/HKUDS/OpenOPC  — ⭐ 464 · Python · OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grow
+- https://github.com/Goekdeniz-Guelmez/MLX-LoRA-Studio  — ⭐ 237 · Swift · A native Mac App for LLM fine-tuning on Apple Silicon — fully on-device, fully o
+- https://github.com/biolink/kgx  — ⭐ 179 · Python · KGX is a Python library for exchanging Knowledge Graphs
+- https://github.com/lanfuli/aleabito-serenity-skills  — ⭐ 85 · JavaScript · Claude/Codex agent skills distilled from @aleabitoreddit (Serenity)'s full publi
+- https://github.com/opentsc/opentsc  — ⭐ 30 · Python · A private, offline 'second brain' for the people, projects, and decisions you ju
+- https://github.com/staru09/open-paxel  — ⭐ 23 · Python · AI native open-source analyser for your coding patterns
+- https://github.com/norahe0304-art/30x-video  — ⭐ 18 · TypeScript · Tell it what you want, get a video. Agency-grade marketing videos with auto-comp
+- https://github.com/binghe1980/cueflow  — ⭐ 14 · Swift · CueFlow (随读) — a notch-adjacent macOS teleprompter that listens as you read and 
+- https://github.com/opentsc/tsc  — ⭐ 11 · None · The Thin-Shell Company: a whitepaper on running a large, self-evolving organizat
+- https://github.com/olaxbt/serenity-skill  — ⭐ 5 · Python · 
+
+## Auto-classified 2026-07-06
+
+- https://github.com/Graphify-Labs/graphify  → skills-mcp/null  ⭐78,457 · Python
+- https://github.com/blader/humanizer  → skills-mcp/null  ⭐27,704 · 
+- https://github.com/ATH-MaaS/Pixelle-Video  → multimedia/video  ⭐24,214 · Python
+- https://github.com/humanlayer/12-factor-agents  → tutorials/llm-en  ⭐23,974 · TypeScript
+- https://github.com/kyegomez/OpenMythos  → ai-agents/generic  ⭐14,629 · Python
+- https://github.com/HKUDS/OpenHarness  → ai-agents/agent-platforms  ⭐14,575 · Python
+- https://github.com/hasaneyldrm/exercises-dataset  → misc/lifestyle  ⭐10,090 · HTML
+- https://github.com/EKKOLearnAI/hermes-studio  → ai-agents/openclaw-hermes  ⭐8,867 · TypeScript
+- https://github.com/GoogleCloudPlatform/knowledge-catalog  → backend-infra/databases-analytics  ⭐6,318 · HTML
+- https://github.com/facebook/astryx  → frontend/components  ⭐6,263 · TypeScript
+- https://github.com/MadsLorentzen/ai-job-search  → finance-career/career  ⭐5,968 · TypeScript
+- https://github.com/steipete/agent-scripts  → skills-mcp/null  ⭐5,250 · Shell
+- https://github.com/HuaizhengZhang/AI-Infra-from-Zero-to-Hero  → tutorials/llm-en  ⭐4,162 · 
+- https://github.com/0xNyk/council-of-high-intelligence  → skills-mcp/null  ⭐3,351 · Shell
+- https://github.com/Renhuai123/ziwei-doushu  → misc/personal-projects  ⭐2,920 · TypeScript
+- https://github.com/code-yeongyu/lazycodex  → ai-agents/codex  ⭐2,468 · TypeScript
+- https://github.com/sumelabs/clawra  → ai-agents/openclaw-hermes  ⭐2,339 · TypeScript
+- https://github.com/google-deepmind/science-skills  → skills-mcp/null  ⭐2,251 · Python
+- https://github.com/trustgraph-ai/TrustGraph  → rag-kg-memory/null  ⭐2,214 · Python

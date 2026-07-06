@@ -2823,5 +2823,100 @@
     "category": "frontend",
     "subcategory": "components",
     "zh": "使用 Tailwind CSS 与 Next.js 构建的精美开源 UI 布局组件集合。"
+  },
+  "Graphify-Labs/graphify": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "AI 编程助手 skill，可将任意代码库、SQL schema、脚本及文档转换为可查询的知识图谱，兼容 Claude Code、Codex、Cursor 等多种 AI 编码工具。"
+  },
+  "blader/humanizer": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "Claude Code skill，自动去除 AI 生成文本的机器痕迹，让输出更贴近自然人类写作风格。"
+  },
+  "ATH-MaaS/Pixelle-Video": {
+    "category": "multimedia",
+    "subcategory": "video",
+    "zh": "AI 全自动短视频引擎，支持从脚本到成片的端到端视频生成流程。"
+  },
+  "humanlayer/12-factor-agents": {
+    "category": "tutorials",
+    "subcategory": "llm-en",
+    "zh": "构建可投入生产的 LLM 驱动软件的 12 条原则，涵盖 AI Agent 工程最佳实践与设计模式。"
+  },
+  "kyegomez/OpenMythos": {
+    "category": "ai-agents",
+    "subcategory": "generic",
+    "zh": "基于公开研究文献从第一原理重建的 Claude Mythos 架构，探索大型自主 AI Agent 的核心设计。"
+  },
+  "HKUDS/OpenHarness": {
+    "category": "ai-agents",
+    "subcategory": "agent-platforms",
+    "zh": "开源 Agent Harness，内置个人 AI Agent Ohmo，提供完整的智能体运行与管理平台。"
+  },
+  "hasaneyldrm/exercises-dataset": {
+    "category": "misc",
+    "subcategory": "lifestyle",
+    "zh": "涵盖 433 个健身动作的综合数据集，含动作名称、分类、目标肌群、器材说明及演示视频。"
+  },
+  "EKKOLearnAI/hermes-studio": {
+    "category": "ai-agents",
+    "subcategory": "openclaw-hermes",
+    "zh": "Hermes Agent 的 Web 控制台，支持多平台 AI 对话、会话管理、定时任务与使用量分析。"
+  },
+  "GoogleCloudPlatform/knowledge-catalog": {
+    "category": "backend-infra",
+    "subcategory": "databases-analytics",
+    "zh": "Google Cloud 数据目录工具与示例合集，提供数据资产元数据管理与数据治理的最佳实践。"
+  },
+  "facebook/astryx": {
+    "category": "frontend",
+    "subcategory": "components",
+    "zh": "Facebook 出品的开源设计系统，高度可定制且为 AI Agent 适配，组件开箱即用。"
+  },
+  "MadsLorentzen/ai-job-search": {
+    "category": "finance-career",
+    "subcategory": "career",
+    "zh": "基于 Claude Code 的 AI 求职框架，可自动评估职位匹配度、定制简历并生成求职信。"
+  },
+  "steipete/agent-scripts": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "跨项目共享的 AI Agent 实用脚本集合，可直接集成到各类 Agent 工作流中。"
+  },
+  "HuaizhengZhang/AI-Infra-from-Zero-to-Hero": {
+    "category": "tutorials",
+    "subcategory": "llm-en",
+    "zh": "系统化的 AI 基础设施学习路径，汇集 OSDI、MLSys 等顶会 ML 系统论文与工业实践案例。"
+  },
+  "0xNyk/council-of-high-intelligence": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "Claude Code 插件，召集 18 个 AI 人格跨多家 LLM 提供商进行多轮辩论，通过置信度加权输出决策建议。"
+  },
+  "Renhuai123/ziwei-doushu": {
+    "category": "misc",
+    "subcategory": "personal-projects",
+    "zh": "紫微斗数开源排盘引擎，基于倪海夏《天纪》体系，含完整四化系统与格局知识库。"
+  },
+  "code-yeongyu/lazycodex": {
+    "category": "ai-agents",
+    "subcategory": "codex",
+    "zh": "复杂代码库专用 Codex Agent Harness，内置项目记忆、任务规划与验证完成机制。"
+  },
+  "sumelabs/clawra": {
+    "category": "ai-agents",
+    "subcategory": "openclaw-hermes",
+    "zh": "Clawra — 专为 Openclaw 设计的伴侣工具，扩展其功能与集成能力。"
+  },
+  "google-deepmind/science-skills": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "Google DeepMind 出品的科学研究 Skills，集成 AlphaGenome、AFDB、UniProt 等 30+ 数据库，提升 AI Agent 科研 grounding 能力。"
+  },
+  "trustgraph-ai/TrustGraph": {
+    "category": "rag-kg-memory",
+    "subcategory": null,
+    "zh": "通过 holonic 上下文图谱实现「一次写入、随处运行」，显著降低 LLM 调用 token 消耗。"
   }
 }
