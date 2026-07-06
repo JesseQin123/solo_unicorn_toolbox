@@ -328,3 +328,42 @@
 - https://github.com/dontbesilent2025/dbskill  → skills-mcp/null  ⭐7,153 · JavaScript
 - https://github.com/vasturiano/3d-force-graph  → frontend/components  ⭐6,166 · HTML
 - https://github.com/zerostaticthemes/square-ui  → frontend/components  ⭐5,909 · TypeScript
+
+<!-- synced 2026-07-06T12:53:40Z -->
+- https://github.com/0xNyk/council-of-high-intelligence  — ⭐ 3351 · Shell · 18 AI personas deliberate your hardest decisions across multiple LLM providers. Structured multi-round deliberation, confidence-weighted verdicts, genuine model diversity. Install as a Claude Code plugin — one command: /council
+- https://github.com/Goekdeniz-Guelmez/MLX-LoRA-Studio  — ⭐ 237 · Swift · A native Mac App for LLM fine-tuning on Apple Silicon — fully on-device, fully open source.
+- https://github.com/GoogleCloudPlatform/knowledge-catalog  — ⭐ 6318 · HTML · Google Cloud Knowledge Catalog Tools and Samples
+- https://github.com/HKUDS/OpenHarness  — ⭐ 14575 · Python · "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
+- https://github.com/HuaizhengZhang/AI-Infra-from-Zero-to-Hero  — ⭐ 4162 · — · 🚀 Awesome System for Machine Learning ⚡️ AI System Papers and Industry Practice. ⚡️ System for Machine Learning, LLM (Large Language Model), GenAI (Generative AI). 🍻 OSDI, NSDI, SIGCOMM, SoCC, MLSys, etc. 🗃️ Llama3, Mistral, etc. 🧑‍💻 Video Tutorials. 
+- https://github.com/LiuMengxuan04/shushu-internship-tool  — ⭐ 1694 · Python · 把岗位描述变项目，把项目变简历，把简历变面试。
+- https://github.com/MIT-MI/how2ai-course  — ⭐ 474 · SCSS · How to AI (Almost) Anything Course
+- https://github.com/MadsLorentzen/ai-job-search  — ⭐ 5968 · TypeScript · AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.
+- https://github.com/MapleTechLabs/maple  — ⭐ 1512 · TypeScript · OpenTelemetry observability platform
+- https://github.com/baojie/shiji-kb  — ⭐ 2215 · HTML · 
+- https://github.com/binghe1980/cueflow  — ⭐ 14 · Swift · CueFlow (随读) — a notch-adjacent macOS teleprompter that listens as you read and auto-scrolls to follow you. 会听你朗读、自动跟随滚动的 Mac 刘海提词器。
+- https://github.com/hasaneyldrm/exercises-dataset  — ⭐ 10090 · HTML · A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.
+- https://github.com/humanlayer/12-factor-agents  — ⭐ 23974 · TypeScript · What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+- https://github.com/kyegomez/OpenMythos  — ⭐ 14629 · Python · A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
+- https://github.com/lanfuli/aleabito-serenity-skills  — ⭐ 85 · JavaScript · Claude/Codex agent skills distilled from @aleabitoreddit (Serenity)'s full public archive — track her, analyze like her, anticipate her next focus. Bilingual 中文/English.
+- https://github.com/mnemosyne-oss/mnemosyne  — ⭐ 1414 · Python · The Zero-Dependency, Sub-Millisecond AI Memory System for Hermes Agents and Everyone Else!
+- https://github.com/norahe0304-art/30x-video  — ⭐ 18 · TypeScript · Tell it what you want, get a video. Agency-grade marketing videos with auto-composed BGM and voice over.
+- https://github.com/olaxbt/serenity-skill  — ⭐ 5 · Python · 
+- https://github.com/rynfar/meridian  — ⭐ 1571 · TypeScript · Use your Claude Max subscription with OpenCode, Pi, Droid, Aider, Crush, Cline. Proxy that bridges Anthropic's official SDK to enable Claude Max in third-party tools.
+
+<!-- synced 2026-07-06T12:53:43Z -->
+- https://github.com/ATH-MaaS/Pixelle-Video  — ⭐ 24214 · Python · 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+- https://github.com/EKKOLearnAI/hermes-studio  — ⭐ 8867 · TypeScript · Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics 
+- https://github.com/Forsy-AI/agent-apprenticeship  — ⭐ 1259 · Python · The living ecosystem where AI agents complete tasks through workflow loops, improve through iterative execution, are evaluated by mentor agents or humans in the loop, and turn completed work into reusable work experience and data to improve future agents.
+- https://github.com/Graphify-Labs/graphify  — ⭐ 78457 · Python · AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
+- https://github.com/HKUDS/OpenOPC  — ⭐ 464 · Python · OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown
+- https://github.com/Renhuai123/ziwei-doushu  — ⭐ 2920 · TypeScript · 紫微斗数开源排盘引擎 — 基于倪海夏《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
+- https://github.com/biolink/kgx  — ⭐ 179 · Python · KGX is a Python library for exchanging Knowledge Graphs
+- https://github.com/blader/humanizer  — ⭐ 27704 · — · Claude Code skill that removes signs of AI-generated writing from text
+- https://github.com/code-yeongyu/lazycodex  — ⭐ 2468 · TypeScript · The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
+- https://github.com/facebook/astryx  — ⭐ 6263 · TypeScript · An open source design system that's fully customizable and agent ready
+- https://github.com/google-deepmind/science-skills  — ⭐ 2251 · Python · GDM Science Skills to speed up agentic scientific workflows with better grounding and higher token efficiency. Integrate insights from AlphaGenome, AFDB, UniProt and 30+ other databases and tools.
+- https://github.com/opentsc/opentsc  — ⭐ 30 · Python · A private, offline 'second brain' for the people, projects, and decisions you juggle — and it keeps score of whether your judgment was right. 本地私密的人际情报与决策记忆系统。
+- https://github.com/opentsc/tsc  — ⭐ 11 · — · The Thin-Shell Company: a whitepaper on running a large, self-evolving organization as one person with AI agents. 薄壳公司白皮书。
+- https://github.com/staru09/open-paxel  — ⭐ 23 · Python · AI native open-source analyser for your coding patterns 
+- https://github.com/steipete/agent-scripts  — ⭐ 5250 · Shell · Scripts for agents, shared between my repositories.
+- https://github.com/sumelabs/clawra  — ⭐ 2339 · TypeScript · Clawra - Openclaw as your companion
