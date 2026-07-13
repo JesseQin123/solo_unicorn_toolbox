@@ -2918,5 +2918,105 @@
     "category": "rag-kg-memory",
     "subcategory": null,
     "zh": "通过 holonic 上下文图谱实现「一次写入、随处运行」，显著降低 LLM 调用 token 消耗。"
+  },
+  "electron/electron": {
+    "category": "frontend",
+    "subcategory": "desktop",
+    "zh": "使用 JavaScript、HTML 和 CSS 构建跨平台桌面应用的开源框架，是 VS Code、Slack 等知名应用的底层技术。"
+  },
+  "louislam/uptime-kuma": {
+    "category": "backend-infra",
+    "subcategory": "self-host",
+    "zh": "颜值出众的自托管服务监控工具，支持多种通知渠道、状态页面与 Docker 部署。"
+  },
+  "macrozheng/mall": {
+    "category": "backend-infra",
+    "subcategory": "self-host",
+    "zh": "基于 Spring Boot + MyBatis 的完整电商系统，含前台商城与后台管理，支持 Docker 容器化部署。"
+  },
+  "anthropics/claude-cookbooks": {
+    "category": "tutorials",
+    "subcategory": "llm-en",
+    "zh": "Anthropic 官方出品的 Claude API 实战 Notebook 合集，展示各种创意使用方法与最佳实践。"
+  },
+  "hugohe3/ppt-master": {
+    "category": "multimedia",
+    "subcategory": "documents-slides",
+    "zh": "AI 从任意文档生成可编辑的 PowerPoint，支持原生形状动画、可编辑图表、扬声器注释与自定义模板。"
+  },
+  "iOfficeAI/OfficeCLI": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "专为 AI agent 设计的 Office 套件 CLI，无需安装 Office 即可读写 Word、Excel、PowerPoint，单一静态二进制。"
+  },
+  "Sjj1024/PakePlus": {
+    "category": "frontend",
+    "subcategory": "desktop",
+    "zh": "一键将任意网页 / HTML / Vue / React 项目打包为体积 <5MB 的跨平台桌面与移动应用。"
+  },
+  "xszyou/Fay": {
+    "category": "ai-agents",
+    "subcategory": "agent-platforms",
+    "zh": "数字人与 LLM 的 Agent 连接框架，帮助 2.5D/3D/移动/PC/网页数字人接入业务系统（兼容 OpenAI 与 DeepSeek）。"
+  },
+  "emilkowalski/skills": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "面向设计工程师的 AI agent skills，覆盖前端设计、UI/UX 工程与组件开发场景。"
+  },
+  "lipku/LiveTalking": {
+    "category": "multimedia",
+    "subcategory": "video",
+    "zh": "实时交互式流媒体数字人框架，支持音视频驱动与多种数字人方案。"
+  },
+  "HKUDS/OpenSpace": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "HKUDS 出品的 AI Agent Quality-First Skill Hub，汇聚并分发高质量的可发现公开 skills。"
+  },
+  "kangarooking/cangjie-skill": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "仓颉 Skill：将书籍、长视频、播客等高价值内容蒸馏提炼为 AI agent 可执行的 Skills。"
+  },
+  "Younesfdj/gitfut": {
+    "category": "misc",
+    "subcategory": "personal-projects",
+    "zh": "将 GitHub 统计数据转化为世界杯风格球员卡片的趣味工具。"
+  },
+  "MengTo/Skills": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "面向设计师与全栈开发者的 Agent skills 合集，兼容 Codex、Claude Code、Cursor 等多种 AI 编程助手。"
+  },
+  "LiuMengxuan04/shushu-internship-tool": {
+    "category": "finance-career",
+    "subcategory": "career",
+    "zh": "AI 求职加速工具：自动将岗位描述转化为项目经验、生成定制简历与面试准备材料。"
+  },
+  "rynfar/meridian": {
+    "category": "backend-infra",
+    "subcategory": "llm-gateway",
+    "zh": "Claude Max 订阅代理，将 Anthropic 官方 SDK 桥接至 OpenCode、Aider、Cline 等第三方 AI 工具。"
+  },
+  "fqscfqj/Y2A-Auto": {
+    "category": "crawler-publish",
+    "subcategory": "publish",
+    "zh": "YouTube 到 AcFun 与 Bilibili 的自动化搬运工具，支持 AI 翻译、字幕生成与内容审核。"
+  },
+  "mnemosyne-oss/mnemosyne": {
+    "category": "rag-kg-memory",
+    "subcategory": null,
+    "zh": "零依赖、亚毫秒级 AI 记忆系统，专为 Hermes Agent 及所有 AI 场景设计的开源记忆层。"
+  },
+  "Forsy-AI/agent-apprenticeship": {
+    "category": "ai-agents",
+    "subcategory": "multi-orchestration",
+    "zh": "AI agent 通过工作流循环迭代完成任务、自我改进，并将执行经验转化为可复用训练数据的活体生态。"
+  },
+  "Hao0321/video-autopilot-kit": {
+    "category": "multimedia",
+    "subcategory": "video",
+    "zh": "YouTube 与短视频自动化的零私有数据框架，基于 CapCut JSON + ffmpeg 工具链，内含新手引导问卷。"
   }
 }
