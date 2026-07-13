@@ -413,3 +413,46 @@
 - https://github.com/sumelabs/clawra  → ai-agents/openclaw-hermes  ⭐2,339 · TypeScript
 - https://github.com/google-deepmind/science-skills  → skills-mcp/null  ⭐2,251 · Python
 - https://github.com/trustgraph-ai/TrustGraph  → rag-kg-memory/null  ⭐2,214 · Python
+
+<!-- synced 2026-07-13T12:11:32Z -->
+- https://github.com/Goekdeniz-Guelmez/MLX-LoRA-Studio  — ⭐ 241 · Swift · A native Mac App for LLM fine-tuning on Apple Silicon — fully on-device, fully open source.
+- https://github.com/Hao0321/video-autopilot-kit  — ⭐ 1203 · Python · Fill-in-your-own-data framework for YouTube / short-form video automation: CapCut JSON + ffmpeg tooling + an onboarding questionnaire. Ships with zero private data.
+- https://github.com/LiuMengxuan04/shushu-internship-tool  — ⭐ 1735 · Python · 把岗位描述变项目，把项目变简历，把简历变面试。
+- https://github.com/MIT-MI/how2ai-course  — ⭐ 477 · SCSS · How to AI (Almost) Anything Course
+- https://github.com/MapleTechLabs/maple  — ⭐ 1525 · TypeScript · OpenTelemetry observability platform
+- https://github.com/Younesfdj/gitfut  — ⭐ 2025 · TypeScript · Your GitHub stats, turned into a World-Cup-style player card 
+- https://github.com/baojie/shiji-kb  — ⭐ 2295 · HTML · 
+- https://github.com/binghe1980/cueflow  — ⭐ 14 · Swift · CueFlow (随读) — a notch-adjacent macOS teleprompter that listens as you read and auto-scrolls to follow you. 会听你朗读、自动跟随滚动的 Mac 刘海提词器。
+- https://github.com/galacean/effects-runtime  — ⭐ 727 · TypeScript · It can load and render cool animation effects
+- https://github.com/hugohe3/ppt-master  — ⭐ 38703 · Python · AI generates a real, editable PowerPoint from any document — native shapes & animations, editable charts & tables you can change the data on, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He
+- https://github.com/lanfuli/aleabito-serenity-skills  — ⭐ 89 · JavaScript · Claude/Codex agent skills distilled from @aleabitoreddit (Serenity)'s full public archive — track her, analyze like her, anticipate her next focus. Bilingual 中文/English.
+- https://github.com/lemma-work/lemma-platform  — ⭐ 290 · Python · The open-source workspace where humans and AI agents work as one team.
+- https://github.com/lipku/LiveTalking  — ⭐ 8384 · Python · Real time interactive streaming digital human
+- https://github.com/louislam/uptime-kuma  — ⭐ 89072 · JavaScript · A fancy self-hosted monitoring tool
+- https://github.com/macrozheng/mall  — ⭐ 84146 · Java · mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+- https://github.com/mnemosyne-oss/mnemosyne  — ⭐ 1508 · Python · The Zero-Dependency, Sub-Millisecond AI Memory System for Hermes Agents and Everyone Else!
+- https://github.com/mrbear1024/ai-content-kb  — ⭐ 100 · — · A review-first reference architecture for AI-assisted personal content knowledge systems
+- https://github.com/norahe0304-art/30x-video  — ⭐ 54 · TypeScript · One URL in, an agency-grade launch video out. A Claude Code skill (Remotion + React) with a 16-law taste codex — 12 brands, 12 worlds, zero templates.
+- https://github.com/olaxbt/serenity-skill  — ⭐ 5 · Python · 
+- https://github.com/rynfar/meridian  — ⭐ 1657 · TypeScript · Use your Claude Max subscription with OpenCode, Pi, Droid, Aider, Crush, Cline. Proxy that bridges Anthropic's official SDK to enable Claude Max in third-party tools.
+- https://github.com/xszyou/Fay  — ⭐ 13045 · Python · fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
+
+<!-- synced 2026-07-13T12:11:36Z -->
+- https://github.com/Forsy-AI/agent-apprenticeship  — ⭐ 1315 · Python · The living ecosystem where AI agents complete tasks through workflow loops, improve through iterative execution, are evaluated by mentor agents or humans in the loop, and turn completed work into reusable work experience and data to improve future agents.
+- https://github.com/HKUDS/OpenOPC  — ⭐ 713 · Python · OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown
+- https://github.com/HKUDS/OpenSpace  — ⭐ 6720 · Python · "OpenSpace: The Quality-First Skill Hub for AI Agents" -- https://open-space.cloud/
+- https://github.com/MengTo/Skills  — ⭐ 2006 · Python · Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents
+- https://github.com/Sjj1024/PakePlus  — ⭐ 13652 · HTML · Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
+- https://github.com/anthropics/claude-cookbooks  — ⭐ 48709 · Jupyter Notebook · A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+- https://github.com/biolink/kgx  — ⭐ 181 · Python · KGX is a Python library for exchanging Knowledge Graphs
+- https://github.com/electron/electron  — ⭐ 121986 · C++ · :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- https://github.com/emilkowalski/skills  — ⭐ 12030 · — · Skills for Design Engineers.
+- https://github.com/fqscfqj/Y2A-Auto  — ⭐ 1647 · Python · YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、智能监控
+- https://github.com/iOfficeAI/OfficeCLI  — ⭐ 15850 · C# · OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
+- https://github.com/kangarooking/cangjie-skill  — ⭐ 2688 · Python · 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
+- https://github.com/lesliebiubiubiu/agent-context-kb-skill  — ⭐ 5 · Python · Lightweight, agent-facing routed knowledge base skill that gives coding agents durable project memory.
+- https://github.com/lyon-industries/graphrag-workbench  — ⭐ 710 · TypeScript · Interactive 3D visualization of knowledge graphs generated by Microsoft GraphRAG. Explore entities, relationships, and communities with immersive visual analytics.
+- https://github.com/opentsc/opentsc  — ⭐ 31 · Python · A private, offline 'second brain' for the people, projects, and decisions you juggle — and it keeps score of whether your judgment was right. 本地私密的人际情报与决策记忆系统。
+- https://github.com/opentsc/tsc  — ⭐ 12 · — · The Thin-Shell Company: a whitepaper on running a large, self-evolving organization as one person with AI agents. 薄壳公司白皮书。
+- https://github.com/qbdx-hub/sunzi-bingfa-skill  — ⭐ 2 · — · AI skill pack distilled from Sunzi Bingfa for strategy and decision making.
+- https://github.com/staru09/open-paxel  — ⭐ 24 · Python · AI native open-source analyser for your coding patterns 
