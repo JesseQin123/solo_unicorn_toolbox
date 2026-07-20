@@ -544,3 +544,49 @@
 - https://github.com/semantica-agi/semantica  — ⭐ 1416 · Python · Semantica  • Build AI systems that can explain, trace, and justify every decision. Knowledge graphs, context graphs, reasoning engines, provenance, and governance for production AI.
 - https://github.com/staru09/open-paxel  — ⭐ 24 · Python · AI native open-source analyser for your coding patterns 
 - https://github.com/xai-org/grok-build  — ⭐ 20530 · Rust · SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
+
+## Auto-classified 2026-07-20
+
+- https://github.com/odysseus-dev/odysseus  → ai-agents/agent-platforms  ⭐83,314 · Python
+- https://github.com/luongnv89/claude-howto  → tutorials/llm-en  ⭐40,035 · Python
+- https://github.com/xai-org/grok-build  → ai-agents/agent-platforms  ⭐20,530 · Rust
+- https://github.com/RyanCodrai/turbovec  → backend-infra/databases-analytics  ⭐13,612 · Python
+- https://github.com/diet103/claude-code-infrastructure-showcase  → ai-agents/claude-code  ⭐9,927 · TypeScript
+- https://github.com/bojieli/ai-agent-book  → tutorials/llm-cn  ⭐8,724 · Python
+- https://github.com/braedonsaunders/codeflow  → rag-kg-memory/null  ⭐4,631 · HTML
+- https://github.com/GiovanniPasq/agentic-rag-for-dummies  → tutorials/llm-en  ⭐3,768 · Jupyter Notebook
+- https://github.com/Zleap-AI/SAG  → rag-kg-memory/null  ⭐2,171 · TypeScript
+- https://github.com/palemoky/chinese-poetry-api  → misc/personal-projects  ⭐1,959 · Go
+- https://github.com/MapleTechLabs/maple  → backend-infra/databases-analytics  ⭐1,539 · TypeScript
+- https://github.com/semantica-agi/semantica  → rag-kg-memory/null  ⭐1,416 · Python
+- https://github.com/ray-r-ren/agent-apprenticeship  → ai-agents/multi-orchestration  ⭐1,321 · Python
+- https://github.com/HKUDS/OpenOPC  → ai-agents/agent-platforms  ⭐924 · Python
+- https://github.com/galacean/effects-runtime  → frontend/components  ⭐735 · TypeScript
+- https://github.com/lyon-industries/graphrag-workbench  → rag-kg-memory/null  ⭐711 · TypeScript
+- https://github.com/edmcouncil/fibo  → finance-career/finance  ⭐630 · Shell
+- https://github.com/MIT-MI/how2ai-course  → tutorials/llm-en  ⭐479 · SCSS
+- https://github.com/MaibornWolff/codecharta  → rag-kg-memory/null  ⭐477 · TypeScript
+- https://github.com/INCATools/ontology-development-kit  → rag-kg-memory/null  ⭐348 · Dockerfile
+
+## Needs manual classification (2026-07-20)
+
+- https://github.com/baojie/shiji-kb  — ⭐ 2,342 · HTML · (no description available — recurring, needs manual review)
+
+## Newly starred (overflow) 2026-07-20
+
+<!-- Top 20 were auto-classified. These 15 need manual review next run. -->
+- https://github.com/lemma-work/lemma-platform  — ⭐ 331 · Python · The open-source workspace where humans and AI agents work as one team.
+- https://github.com/KRR-Oxford/DeepOnto  — ⭐ 303 · Python · A package for ontology engineering with deep learning and language models.
+- https://github.com/Goekdeniz-Guelmez/MLX-LoRA-Studio  — ⭐ 250 · Swift · A native Mac App for LLM fine-tuning on Apple Silicon — fully on-device, fully open source.
+- https://github.com/biolink/kgx  — ⭐ 182 · Python · KGX is a Python library for exchanging Knowledge Graphs
+- https://github.com/huangyun101/AI-Business-Hunter  — ⭐ 120 · — · 分享一些用 AI 来变现的小生意
+- https://github.com/mrbear1024/ai-content-kb  — ⭐ 111 · — · A review-first reference architecture for AI-assisted personal content knowledge systems
+- https://github.com/lanfuli/aleabito-serenity-skills  — ⭐ 92 · JavaScript · Claude/Codex agent skills distilled from @aleabitoreddit (Serenity)'s full public archive
+- https://github.com/norahe0304-art/30x-video  — ⭐ 60 · TypeScript · One URL in, an agency-grade launch video out. A Claude Code skill (Remotion + React)
+- https://github.com/opentsc/opentsc  — ⭐ 31 · Python · A private, offline 'second brain' for people, projects, and decisions you juggle
+- https://github.com/staru09/open-paxel  — ⭐ 24 · Python · AI native open-source analyser for your coding patterns
+- https://github.com/binghe1980/cueflow  — ⭐ 14 · Swift · CueFlow (随读) — a notch-adjacent macOS teleprompter that listens as you read and auto-scrolls
+- https://github.com/opentsc/tsc  — ⭐ 12 · — · The Thin-Shell Company: a whitepaper on running a large, self-evolving organization
+- https://github.com/lesliebiubiubiu/agent-context-kb-skill  — ⭐ 7 · Python · Lightweight, agent-facing routed knowledge base skill
+- https://github.com/qbdx-hub/sunzi-bingfa-skill  — ⭐ 6 · — · AI skill pack distilled from Sunzi Bingfa for strategy and decision making.
+- https://github.com/olaxbt/serenity-skill  — ⭐ 5 · Python · (no description)
