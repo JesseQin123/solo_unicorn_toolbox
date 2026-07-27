@@ -590,3 +590,40 @@
 - https://github.com/lesliebiubiubiu/agent-context-kb-skill  — ⭐ 7 · Python · Lightweight, agent-facing routed knowledge base skill
 - https://github.com/qbdx-hub/sunzi-bingfa-skill  — ⭐ 6 · — · AI skill pack distilled from Sunzi Bingfa for strategy and decision making.
 - https://github.com/olaxbt/serenity-skill  — ⭐ 5 · Python · (no description)
+
+<!-- synced 2026-07-27T12:30:19Z -->
+- https://github.com/Goekdeniz-Guelmez/MLX-LoRA-Studio  — ⭐ 250 · Swift · A native Mac App for LLM fine-tuning on Apple Silicon — fully on-device, fully open source.
+- https://github.com/HKUDS/AgentSpace  — ⭐ 862 · TypeScript · "AgentSpace: Human + Agents. One Team. One Workspace"
+- https://github.com/OpenBMB/StaffDeck  — ⭐ 1065 · Python · Enterprise Digital Employee Platform
+- https://github.com/OpenMinis/OpenMinis  — ⭐ 2112 · Swift · OpenMinis — The AI Agent app across platforms. Fully free and open source.
+- https://github.com/autodesk-platform-services/aps-sample-mcp-server-revit-automation  — ⭐ 9 · C# · Sample MCP server to automate Revit via Automation API using SSA
+- https://github.com/baojie/shiji-kb  — ⭐ 2366 · HTML · 
+- https://github.com/binghe1980/cueflow  — ⭐ 14 · Swift · CueFlow (随读) — a notch-adjacent macOS teleprompter that listens as you read and auto-scrolls to follow you. 会听你朗读、自动跟随滚动的 Mac 刘海提词器。
+- https://github.com/lanfuli/aleabito-serenity-skills  — ⭐ 92 · JavaScript · Claude/Codex agent skills distilled from @aleabitoreddit (Serenity)'s full public archive — track her, analyze like her, anticipate her next focus. Bilingual 中文/English.
+- https://github.com/lemma-work/lemma-platform  — ⭐ 350 · Python · The open-source workspace where humans and AI agents work as one team.
+- https://github.com/mrbear1024/ai-content-kb  — ⭐ 114 · — · A review-first reference architecture for AI-assisted personal content knowledge systems
+- https://github.com/norahe0304-art/30x-video  — ⭐ 61 · TypeScript · One URL in, an agency-grade launch video out. A Claude Code skill (Remotion + React) with a 16-law taste codex — 12 brands, 12 worlds, zero templates.
+- https://github.com/olaxbt/serenity-skill  — ⭐ 5 · Python · 
+- https://github.com/zhayujie/CowAgent  — ⭐ 46151 · Python · Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)
+
+<!-- synced 2026-07-27T12:30:23Z -->
+- https://github.com/FlagOpen/FlagEmbedding  — ⭐ 11990 · Python · Retrieval and Retrieval-augmented LLMs
+- https://github.com/FoundationAgents/OpenManus  — ⭐ 57710 · Python · No fortress, purely open ground.  OpenManus is Coming.
+- https://github.com/JerBouma/FinanceDatabase  — ⭐ 8263 · Python · This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
+- https://github.com/KRR-Oxford/DeepOnto  — ⭐ 309 · Python · A package for ontology engineering with deep learning and language models.
+- https://github.com/OpenBMB/PilotDeck  — ⭐ 3895 · TypeScript · Task-oriented AI Agent productivity platform
+- https://github.com/OpenBMB/StaffDeck  — ⭐ 1065 · Python · Enterprise Digital Employee Platform
+- https://github.com/OpenBMB/UltraRAG  — ⭐ 5664 · Python · A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
+- https://github.com/biolink/kgx  — ⭐ 183 · Python · KGX is a Python library for exchanging Knowledge Graphs
+- https://github.com/block/buzz  — ⭐ 14171 · Rust · A hive mind communication platform
+- https://github.com/hacksider/Deep-Live-Cam  — ⭐ 95299 · Python · real time face swap and one-click video deepfake with only a single image
+- https://github.com/huangyun101/AI-Business-Hunter  — ⭐ 125 · — · 分享一些用 AI 来变现的小生意
+- https://github.com/lesliebiubiubiu/agent-context-kb-skill  — ⭐ 7 · Python · Lightweight, agent-facing routed knowledge base skill that gives coding agents durable project memory.
+- https://github.com/oblien/openship  — ⭐ 8822 · TypeScript · Self-hosted deployment platform
+- https://github.com/opentsc/opentsc  — ⭐ 31 · Python · A private, offline 'second brain' for the people, projects, and decisions you juggle — and it keeps score of whether your judgment was right. 本地私密的人际情报与决策记忆系统。
+- https://github.com/opentsc/tsc  — ⭐ 12 · — · The Thin-Shell Company: a whitepaper on running a large, self-evolving organization as one person with AI agents. 薄壳公司白皮书。
+- https://github.com/qbdx-hub/sunzi-bingfa-skill  — ⭐ 8 · — · AI skill pack distilled from Sunzi Bingfa for strategy and decision making.
+- https://github.com/refactoringhq/tolaria  — ⭐ 19029 · TypeScript · Desktop app to manage markdown knowledge bases
+- https://github.com/staru09/open-paxel  — ⭐ 24 · Python · AI native open-source analyser for your coding patterns 
+- https://github.com/tirth8205/code-review-graph  — ⭐ 26816 · Python · Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
+- https://github.com/usestrix/strix  — ⭐ 44796 · Python · Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
