@@ -627,3 +627,45 @@
 - https://github.com/staru09/open-paxel  — ⭐ 24 · Python · AI native open-source analyser for your coding patterns 
 - https://github.com/tirth8205/code-review-graph  — ⭐ 26816 · Python · Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
 - https://github.com/usestrix/strix  — ⭐ 44796 · Python · Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+
+## Auto-classified 2026-07-27
+
+- https://github.com/hacksider/Deep-Live-Cam  → multimedia/video  ⭐95,299 · Python
+- https://github.com/FoundationAgents/OpenManus  → ai-agents/generic  ⭐57,710 · Python
+- https://github.com/zhayujie/CowAgent  → ai-agents/agent-platforms  ⭐46,151 · Python
+- https://github.com/usestrix/strix  → misc/osint  ⭐44,796 · Python
+- https://github.com/tirth8205/code-review-graph  → rag-kg-memory/null  ⭐26,816 · Python
+- https://github.com/refactoringhq/tolaria  → kb-productivity/note  ⭐19,029 · TypeScript
+- https://github.com/block/buzz  → kb-productivity/note  ⭐14,171 · Rust
+- https://github.com/FlagOpen/FlagEmbedding  → rag-kg-memory/null  ⭐11,990 · Python
+- https://github.com/oblien/openship  → backend-infra/self-host  ⭐8,822 · TypeScript
+- https://github.com/JerBouma/FinanceDatabase  → finance-career/finance  ⭐8,263 · Python
+- https://github.com/OpenBMB/UltraRAG  → rag-kg-memory/null  ⭐5,664 · Python
+- https://github.com/OpenBMB/PilotDeck  → ai-agents/agent-platforms  ⭐3,895 · TypeScript
+- https://github.com/OpenMinis/OpenMinis  → ai-agents/agent-platforms  ⭐2,112 · Swift
+- https://github.com/OpenBMB/StaffDeck  → ai-agents/agent-platforms  ⭐1,065 · Python
+- https://github.com/HKUDS/AgentSpace  → ai-agents/agent-platforms  ⭐862 · TypeScript
+- https://github.com/lemma-work/lemma-platform  → ai-agents/agent-platforms  ⭐350 · Python
+- https://github.com/KRR-Oxford/DeepOnto  → rag-kg-memory/null  ⭐309 · Python
+- https://github.com/Goekdeniz-Guelmez/MLX-LoRA-Studio  → backend-infra/ai-toolkit  ⭐250 · Swift
+- https://github.com/biolink/kgx  → rag-kg-memory/null  ⭐183 · Python
+
+## Needs manual classification (2026-07-27)
+
+- https://github.com/baojie/shiji-kb  — ⭐ 2,366 · HTML · (no description available — recurring, needs manual review)
+
+## Newly starred (overflow) 2026-07-27
+
+<!-- Top 20 were auto-classified. These 12 need manual review next run. -->
+- https://github.com/huangyun101/AI-Business-Hunter  — ⭐ 125 ·  · 分享一些用 AI 来变现的小生意
+- https://github.com/mrbear1024/ai-content-kb  — ⭐ 114 ·  · A review-first reference architecture for AI-assisted personal content knowledge systems
+- https://github.com/lanfuli/aleabito-serenity-skills  — ⭐ 92 · JavaScript · Claude/Codex agent skills distilled from @aleabitoreddit (Serenity)'s full public archive
+- https://github.com/norahe0304-art/30x-video  — ⭐ 61 · TypeScript · One URL in, an agency-grade launch video out. A Claude Code skill (Remotion + React)
+- https://github.com/opentsc/opentsc  — ⭐ 31 · Python · A private, offline 'second brain' for the people, projects, and decisions you juggle
+- https://github.com/staru09/open-paxel  — ⭐ 24 · Python · AI native open-source analyser for your coding patterns
+- https://github.com/binghe1980/cueflow  — ⭐ 14 · Swift · CueFlow (随读) — a notch-adjacent macOS teleprompter that listens as you read and auto-scrolls
+- https://github.com/opentsc/tsc  — ⭐ 12 ·  · The Thin-Shell Company: a whitepaper on running a large, self-evolving organization
+- https://github.com/autodesk-platform-services/aps-sample-mcp-server-revit-automation  — ⭐ 9 · C# · Sample MCP server to automate Revit via Automation API using SSA
+- https://github.com/qbdx-hub/sunzi-bingfa-skill  — ⭐ 8 ·  · AI skill pack distilled from Sunzi Bingfa for strategy and decision making.
+- https://github.com/lesliebiubiubiu/agent-context-kb-skill  — ⭐ 7 · Python · Lightweight, agent-facing routed knowledge base skill that gives coding agents durable project memory.
+- https://github.com/olaxbt/serenity-skill  — ⭐ 5 · Python · (no description)
