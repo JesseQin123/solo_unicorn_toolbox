@@ -404,6 +404,11 @@
     "subcategory": "osint",
     "zh": "2026最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】"
   },
+  "baojie/shiji-kb": {
+    "category": "rag-kg-memory",
+    "subcategory": null,
+    "zh": "用 AI 将《史记》77 万字转化为包含 14,065 个实体、3,198 个事件的交互式知识图谱，提供可复用的「代理本体论」方法论。"
+  },
   "BehiSecc/awesome-claude-skills": {
     "category": "tutorials",
     "subcategory": "awesome-lists",
@@ -593,6 +598,11 @@
     "category": "ai-agents",
     "subcategory": "agent-platforms",
     "zh": "Cline：IDE 内的自治 coding agent，可创建/编辑文件、执行命令、使用浏览器"
+  },
+  "clockworklabs/SpacetimeDB": {
+    "category": "backend-infra",
+    "subcategory": "databases-analytics",
+    "zh": "面向游戏与 Web 应用的实时关系型数据库，可在云端运行服务端逻辑并将状态实时同步至所有客户端。"
   },
   "CloudAI-X/claude-workflow-v2": {
     "category": "skills-mcp",
@@ -828,6 +838,11 @@
     "category": "rag-kg-memory",
     "subcategory": null,
     "zh": "Awesome-GraphRAG: A curated list of resources (surveys, papers, benchmarks, and opensource projects) on graph-based retrieval-augmented generation."
+  },
+  "deerwork-ai/deer-workflow": {
+    "category": "ai-agents",
+    "subcategory": "multi-orchestration",
+    "zh": "开源图工程运行时，用 TypeScript 定义编排逻辑，将语义任务委托给可热替换的 agent runtime 并行执行。"
   },
   "DestinyLinker/MingLi-Bench": {
     "category": "misc",
@@ -1389,6 +1404,11 @@
     "subcategory": "image",
     "zh": "AI 驱动的交互式 3D 模型生成、检视与展示工作室。"
   },
+  "huangyun101/AI-Business-Hunter": {
+    "category": "finance-career",
+    "subcategory": "indie-hacker",
+    "zh": "汇集利用 AI 实现个人变现的小生意创意与案例，面向独立开发者与副业探索者。"
+  },
   "huggingface/ml-intern": {
     "category": "ai-agents",
     "subcategory": "generic",
@@ -1604,6 +1624,11 @@
     "subcategory": "agent-platforms",
     "zh": "Suna：自治公司操作系统"
   },
+  "krishagarwal314/CodeJury": {
+    "category": "ai-agents",
+    "subcategory": "multi-orchestration",
+    "zh": "多智能体软件交付流水线，覆盖需求梳理、代码实现、测试执行与集成 RAG 的 PR 代码评审全流程。"
+  },
   "KroMiose/nekro-agent": {
     "category": "ai-agents",
     "subcategory": "multi-orchestration",
@@ -1633,6 +1658,16 @@
     "category": "ai-agents",
     "subcategory": "generic",
     "zh": "基于公开研究文献从第一原理重建的 Claude Mythos 架构，探索大型自主 AI Agent 的核心设计。"
+  },
+  "lanfuli/aleabito-serenity-skills": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "从 Serenity（@aleabitoreddit）公开内容提炼的 Claude/Codex agent skill，专注于股票研究、供应链分析与投资决策，中英双语。"
+  },
+  "langchain-ai/langgraph": {
+    "category": "ai-agents",
+    "subcategory": "multi-orchestration",
+    "zh": "用于构建有状态多智能体 AI 应用的图编排框架，支持 LangChain 生态与自定义 agent 循环和工作流。"
   },
   "langchain-ai/rag-from-scratch": {
     "category": "tutorials",
@@ -2004,6 +2039,11 @@
     "subcategory": "video",
     "zh": "开源视频语音识别与 AI 智能剪辑工具，集成 LLM 实现语义化视频片段提取。"
   },
+  "modoojunko/awesome-novel-skill": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "AI 小说创作 skill 包，支持世界观搭建、角色塑造、章节规划到正文生成的全流程中文网文写作。"
+  },
   "moj-analytical-services/splink": {
     "category": "backend-infra",
     "subcategory": "databases-analytics",
@@ -2028,6 +2068,11 @@
     "category": "frontend",
     "subcategory": "astro",
     "zh": "用 Astro 构建的新闻网站"
+  },
+  "mrbear1024/ai-content-kb": {
+    "category": "rag-kg-memory",
+    "subcategory": null,
+    "zh": "以 review 优先理念构建的 AI 辅助个人内容知识系统参考架构，适用于内容创作与知识管理场景。"
   },
   "msitarzewski/agency-agents": {
     "category": "ai-agents",
@@ -2138,6 +2183,11 @@
     "category": "skills-mcp",
     "subcategory": null,
     "zh": "AI 增长营销专家面板，从 3,500+ YouTube 视频提炼 11 位世界级专家方法论，Claude Code Skill"
+  },
+  "norahe0304-art/30x-video": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "输入一个 URL 即可生成品牌级产品发布视频的 Claude Code skill，基于 Remotion + React，内置 16 种品牌审美风格。"
   },
   "notdog1998/yourself-skill": {
     "category": "skills-mcp",
@@ -2294,6 +2344,11 @@
     "subcategory": null,
     "zh": "OneKE is a knowledge extraction framework based on a large model, with preliminary generalized knowledge extraction capabilities in both Chinese and English and in multiple fields and tasks."
   },
+  "opentsc/opentsc": {
+    "category": "rag-kg-memory",
+    "subcategory": null,
+    "zh": "本地私密的人际情报与决策记忆系统，基于知识图谱追踪人际网络与决策历史，并对判断准确性进行评分。"
+  },
   "orange2ai/renwei-writing": {
     "category": "skills-mcp",
     "subcategory": null,
@@ -2364,6 +2419,11 @@
     "subcategory": "agent-platforms",
     "zh": "自托管 AI 工作空间，集成多模型与工具调用于一体的本地优先 AI 助理平台"
   },
+  "phuryn/pm-skills": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "100+ 条面向产品经理的 agentic skill，覆盖需求发现、策略制定、上线规划与增长全流程。"
+  },
   "Physical-Intelligence/openpi": {
     "category": "ai-agents",
     "subcategory": "generic",
@@ -2408,6 +2468,11 @@
     "category": "tutorials",
     "subcategory": "awesome-lists",
     "zh": "MCP servers 合集"
+  },
+  "qiuyiwu1989-star/opendesign": {
+    "category": "frontend",
+    "subcategory": "components",
+    "zh": "通过 Playwright 与视觉 LLM 从现有网页中提取可复用设计 token 的开放标准工具，AI-ready，兼容 Claude 与 Cursor。"
   },
   "QuantumNous/new-api": {
     "category": "backend-infra",
@@ -2458,6 +2523,11 @@
     "category": "backend-infra",
     "subcategory": "ai-toolkit",
     "zh": "⚡️🧪 Fast LLM Tool Calling Experimentation, big and smol"
+  },
+  "robbin/wechat-exporter": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "将 macOS 微信聊天记录导出并解密为纯文本 SQLite 数据库的 Claude Code / Codex skill。"
   },
   "Robbyant/lingbot-map": {
     "category": "multimedia",
@@ -2554,6 +2624,11 @@
     "subcategory": null,
     "zh": "Semantica：为生产级 AI 构建可解释知识图谱，支持推理引擎、来源溯源与治理"
   },
+  "sgl-project/sglang": {
+    "category": "backend-infra",
+    "subcategory": "llm-gateway",
+    "zh": "高性能 LLM 与多模态模型推理服务框架，优化批处理和 KV 缓存，支持 DeepSeek、LLaMA 等主流开源模型。"
+  },
   "shadcn-ui/ui": {
     "category": "frontend",
     "subcategory": "components",
@@ -2633,6 +2708,11 @@
     "category": "rag-kg-memory",
     "subcategory": null,
     "zh": "LEANN 是 MLsys 2026 入选的 RAG 框架，节省 97% 存储空间，可在个人设备上运行快速、准确且完全私有的 RAG 应用"
+  },
+  "staru09/open-paxel": {
+    "category": "ai-agents",
+    "subcategory": "generic",
+    "zh": "AI 原生代码库分析工具，解析开发者的编程模式并提供个性化的编码习惯洞察与改进建议。"
   },
   "steipete/agent-scripts": {
     "category": "skills-mcp",
@@ -2814,6 +2894,11 @@
     "subcategory": "documents-slides",
     "zh": "Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to learn more about our enterprise grade Platform product for production grade workflows, partitioning, enrichments, chunking and embedding."
   },
+  "Untrivial-ai/agent-orchestrator": {
+    "category": "ai-agents",
+    "subcategory": "multi-orchestration",
+    "zh": "编码 agent 集群 IDE，内置 orchestrator 自动规划任务、并行派发 agent 并处理 CI 修复与代码评审。"
+  },
   "upstash/context7": {
     "category": "skills-mcp",
     "subcategory": null,
@@ -2959,6 +3044,11 @@
     "subcategory": null,
     "zh": "WhyHow Knowledge Graph Studio"
   },
+  "worldwonderer/oh-story-claudecode": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "网文写作全流程 skill 包，覆盖扫榜拆文、正文创作、去 AI 味与封面图生成，兼顾中英文小说创作。"
+  },
   "wrsmith108/linear-claude-skill": {
     "category": "skills-mcp",
     "subcategory": null,
@@ -2993,6 +3083,11 @@
     "category": "ai-agents",
     "subcategory": "agent-platforms",
     "zh": "xAI 出品的编码 Agent Harness 与全屏 TUI，支持鼠标交互与插件扩展"
+  },
+  "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer": {
+    "category": "finance-career",
+    "subcategory": "career",
+    "zh": "基于《增长黑客》框架整理的 FDE（前沿部署工程师）零基础入门指南，涵盖技术能力建设与客户成功全流程。"
   },
   "xhongc/ai_story": {
     "category": "multimedia",
@@ -3063,6 +3158,11 @@
     "category": "skills-mcp",
     "subcategory": null,
     "zh": "📚 OpenYao 公开 Skill 合集：把决策、商业分析、学习教程、研究取证、文档生成沉淀成可复用的 AI 资产。"
+  },
+  "yc-software/qm": {
+    "category": "ai-agents",
+    "subcategory": "agent-platforms",
+    "zh": "YC 出品的多人协作 agent 工作平台，支持团队共同调度 AI agent 并行完成复杂工作任务。"
   },
   "ycccccccy/echotrace": {
     "category": "kb-productivity",

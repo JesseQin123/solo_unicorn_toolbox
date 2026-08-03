@@ -701,3 +701,37 @@
 - https://github.com/staru09/open-paxel  — ⭐ 26 · Python · AI native open-source analyser for your coding patterns 
 - https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer  — ⭐ 1924 · — · FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）
 - https://github.com/yc-software/qm  — ⭐ 8448 · TypeScript · Multiplayer agent harness for work
+
+## Auto-classified 2026-08-03
+
+- https://github.com/langchain-ai/langgraph  → ai-agents/multi-orchestration  ⭐38,759 · Python
+- https://github.com/sgl-project/sglang  → backend-infra/llm-gateway  ⭐31,151 · Python
+- https://github.com/clockworklabs/SpacetimeDB  → backend-infra/databases-analytics  ⭐24,972 · Rust
+- https://github.com/phuryn/pm-skills  → skills-mcp/null  ⭐24,812 · —
+- https://github.com/Untrivial-ai/agent-orchestrator  → ai-agents/multi-orchestration  ⭐8,765 · Go
+- https://github.com/yc-software/qm  → ai-agents/agent-platforms  ⭐8,448 · TypeScript
+- https://github.com/worldwonderer/oh-story-claudecode  → skills-mcp/null  ⭐4,954 · JavaScript
+- https://github.com/baojie/shiji-kb  → rag-kg-memory/null  ⭐2,381 · HTML
+- https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer  → finance-career/career  ⭐1,924 · —
+- https://github.com/modoojunko/awesome-novel-skill  → skills-mcp/null  ⭐493 · Python
+- https://github.com/deerwork-ai/deer-workflow  → ai-agents/multi-orchestration  ⭐382 · TypeScript
+- https://github.com/robbin/wechat-exporter  → skills-mcp/null  ⭐188 · —
+- https://github.com/krishagarwal314/CodeJury  → ai-agents/multi-orchestration  ⭐135 · Python
+- https://github.com/huangyun101/AI-Business-Hunter  → finance-career/indie-hacker  ⭐129 · —
+- https://github.com/mrbear1024/ai-content-kb  → rag-kg-memory/null  ⭐114 · —
+- https://github.com/lanfuli/aleabito-serenity-skills  → skills-mcp/null  ⭐92 · JavaScript
+- https://github.com/qiuyiwu1989-star/opendesign  → frontend/components  ⭐62 · JavaScript
+- https://github.com/norahe0304-art/30x-video  → skills-mcp/null  ⭐61 · TypeScript
+- https://github.com/opentsc/opentsc  → rag-kg-memory/null  ⭐32 · Python
+- https://github.com/staru09/open-paxel  → ai-agents/generic  ⭐26 · Python
+
+## Newly starred (overflow) 2026-08-03
+
+<!-- Top 20 were auto-classified. These 7 need manual review next run. -->
+- https://github.com/binghe1980/cueflow  — ⭐ 15 · Swift · macOS 刘海提词器，语音识别自动跟随滚动
+- https://github.com/opentsc/tsc  — ⭐ 12 · — · 薄壳公司白皮书：一人用 AI agent 运营大型自进化组织
+- https://github.com/autodesk-platform-services/aps-sample-mcp-server-revit-automation  — ⭐ 9 · C# · Sample MCP server for Revit automation via APS Automation API
+- https://github.com/qbdx-hub/sunzi-bingfa-skill  — ⭐ 9 · — · AI skill pack distilled from Sunzi Bingfa for strategy and decision making
+- https://github.com/lesliebiubiubiu/agent-context-kb-skill  — ⭐ 7 · Python · Lightweight agent-facing routed knowledge base skill
+- https://github.com/olaxbt/serenity-skill  — ⭐ 6 · Python · (no description)
+- https://github.com/lyrcsjy/wechat-decrypt  — ⭐ 4 · Python · (no description)
