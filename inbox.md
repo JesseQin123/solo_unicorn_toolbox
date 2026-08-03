@@ -669,3 +669,35 @@
 - https://github.com/qbdx-hub/sunzi-bingfa-skill  — ⭐ 8 ·  · AI skill pack distilled from Sunzi Bingfa for strategy and decision making.
 - https://github.com/lesliebiubiubiu/agent-context-kb-skill  — ⭐ 7 · Python · Lightweight, agent-facing routed knowledge base skill that gives coding agents durable project memory.
 - https://github.com/olaxbt/serenity-skill  — ⭐ 5 · Python · (no description)
+
+<!-- synced 2026-08-03T12:30:36Z -->
+- https://github.com/autodesk-platform-services/aps-sample-mcp-server-revit-automation  — ⭐ 9 · C# · Sample MCP server to automate Revit via Automation API using SSA
+- https://github.com/baojie/shiji-kb  — ⭐ 2381 · HTML · 
+- https://github.com/binghe1980/cueflow  — ⭐ 15 · Swift · CueFlow (随读) — a notch-adjacent macOS teleprompter that listens as you read and auto-scrolls to follow you. 会听你朗读、自动跟随滚动的 Mac 刘海提词器。
+- https://github.com/clockworklabs/SpacetimeDB  — ⭐ 24972 · Rust · Development at the speed of light
+- https://github.com/lanfuli/aleabito-serenity-skills  — ⭐ 92 · JavaScript · Claude/Codex agent skills distilled from @aleabitoreddit (Serenity)'s full public archive — track her, analyze like her, anticipate her next focus. Bilingual 中文/English.
+- https://github.com/langchain-ai/langgraph  — ⭐ 38759 · Python · Build resilient agents.
+- https://github.com/lyrcsjy/wechat-decrypt  — ⭐ 4 · Python · 
+- https://github.com/modoojunko/awesome-novel-skill  — ⭐ 493 · Python · 让 AI agent成为你的小说创作搭档。从世界观搭建到角色塑造，从章节规划到正文写作，一步步陪你完成整部小说。
+- https://github.com/mrbear1024/ai-content-kb  — ⭐ 114 · — · A review-first reference architecture for AI-assisted personal content knowledge systems
+- https://github.com/norahe0304-art/30x-video  — ⭐ 61 · TypeScript · One URL in, an agency-grade launch video out. A Claude Code skill (Remotion + React) with a 16-law taste codex — 12 brands, 12 worlds, zero templates.
+- https://github.com/olaxbt/serenity-skill  — ⭐ 6 · Python · 
+- https://github.com/phuryn/pm-skills  — ⭐ 24812 · — · PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
+- https://github.com/qiuyiwu1989-star/opendesign  — ⭐ 62 · JavaScript · Open standard for extracting reusable web design tokens via Playwright + Vision LLM. AI-ready.
+- https://github.com/robbin/wechat-exporter  — ⭐ 188 · — · A Claude Code / Codex skill to export and decrypt WeChat (macOS) chat history into plaintext SQLite databases
+- https://github.com/sgl-project/sglang  — ⭐ 31151 · Python · SGLang is a high-performance serving framework for large language models and multimodal models.
+- https://github.com/worldwonderer/oh-story-claudecode  — ⭐ 4954 · JavaScript · 网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-form web fiction.
+
+<!-- synced 2026-08-03T12:30:41Z -->
+- https://github.com/Untrivial-ai/agent-orchestrator  — ⭐ 8765 · Go · Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews.
+- https://github.com/deerwork-ai/deer-workflow  — ⭐ 382 · TypeScript · An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.
+- https://github.com/huangyun101/AI-Business-Hunter  — ⭐ 129 · — · 分享一些用 AI 来变现的小生意
+- https://github.com/krishagarwal314/CodeJury  — ⭐ 135 · Python · Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run tests, and gate pull requests with deterministic QA and ensemble code review.
+- https://github.com/lesliebiubiubiu/agent-context-kb-skill  — ⭐ 7 · Python · Lightweight, agent-facing routed knowledge base skill that gives coding agents durable project memory.
+- https://github.com/opentsc/opentsc  — ⭐ 32 · Python · A private, offline 'second brain' for the people, projects, and decisions you juggle — and it keeps score of whether your judgment was right. 本地私密的人际情报与决策记忆系统。
+- https://github.com/opentsc/tsc  — ⭐ 12 · — · The Thin-Shell Company: a whitepaper on running a large, self-evolving organization as one person with AI agents. 薄壳公司白皮书。
+- https://github.com/qbdx-hub/sunzi-bingfa-skill  — ⭐ 9 · — · AI skill pack distilled from Sunzi Bingfa for strategy and decision making.
+- https://github.com/robbin/wechat-exporter  — ⭐ 188 · — · A Claude Code / Codex skill to export and decrypt WeChat (macOS) chat history into plaintext SQLite databases
+- https://github.com/staru09/open-paxel  — ⭐ 26 · Python · AI native open-source analyser for your coding patterns 
+- https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer  — ⭐ 1924 · — · FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）
+- https://github.com/yc-software/qm  — ⭐ 8448 · TypeScript · Multiplayer agent harness for work
