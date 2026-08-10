@@ -766,3 +766,40 @@
 - https://github.com/roboflow/supervision  — ⭐ 49229 · Python · We write your reusable computer vision tools. 💜
 - https://github.com/taosdata/TDengine  — ⭐ 25050 · C · High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios
 - https://github.com/zarazhangrui/codebase-to-course  — ⭐ 5362 · CSS · A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.
+
+## Auto-classified 2026-08-10
+
+- https://github.com/roboflow/supervision  → multimedia/image  ⭐49,229 · Python
+- https://github.com/taosdata/TDengine  → backend-infra/databases-analytics  ⭐25,050 · C
+- https://github.com/h4ckf0r0day/obscura  → browser-automation/null  ⭐21,063 · Rust
+- https://github.com/langchain-ai/open_deep_research  → rag-kg-memory/null  ⭐12,580 · Python
+- https://github.com/PrimeIntellect-ai/prime-agent  → ai-agents/generic  ⭐12,371 · TypeScript
+- https://github.com/HKUDS/AutoAgent  → ai-agents/agent-platforms  ⭐9,731 · Python
+- https://github.com/MervinPraison/PraisonAI  → ai-agents/agent-platforms  ⭐8,794 · Python
+- https://github.com/frappe/hrms  → backend-infra/self-host  ⭐8,546 · Python
+- https://github.com/Nutlope/logocreator  → multimedia/image  ⭐8,001 · TypeScript
+- https://github.com/zarazhangrui/codebase-to-course  → skills-mcp/null  ⭐5,362 · CSS
+- https://github.com/KnockOutEZ/wigolo  → skills-mcp/null  ⭐4,461 · TypeScript
+- https://github.com/huangruiteng/loopx  → ai-agents/multi-orchestration  ⭐3,854 · Python
+- https://github.com/GVCLab/PersonaLive  → multimedia/video  ⭐3,511 · Python
+- https://github.com/TencentCloud/Octop  → ai-agents/agent-platforms  ⭐1,056 · Python
+- https://github.com/modoojunko/awesome-novel-agent  → skills-mcp/null  ⭐554 · Python
+- https://github.com/AMAP-ML/LongHorizon-Harness  → ai-agents/claude-code  ⭐532 · Python
+- https://github.com/zosmaai/pi-llm-wiki  → rag-kg-memory/null  ⭐484 · TypeScript
+- https://github.com/huangserva/ComfyUI_MiniMaxH3_Director  → multimedia/video  ⭐460 · (none)
+- https://github.com/microsoft/Orchard  → ai-agents/generic  ⭐427 · (none)
+
+## Needs manual classification (2026-08-10)
+
+- https://github.com/ethanjlimgit/android-action-kernel  — ⭐ 1,704 · Python · (no description available — needs manual review)
+
+## Newly starred (overflow) 2026-08-10
+
+<!-- Top 20 were auto-classified (1 of those sent to Needs manual classification). These 7 need manual review next run. -->
+- https://github.com/binghe1980/cueflow  — ⭐ 15 · Swift · CueFlow (随读) — macOS 刘海提词器，语音识别自动跟随滚动
+- https://github.com/opentsc/tsc  — ⭐ 12 · — · 薄壳公司白皮书：一人用 AI agent 运营大型自进化组织
+- https://github.com/qbdx-hub/sunzi-bingfa-skill  — ⭐ 10 · — · AI skill pack distilled from Sunzi Bingfa for strategy and decision making
+- https://github.com/autodesk-platform-services/aps-sample-mcp-server-revit-automation  — ⭐ 9 · C# · Sample MCP server for Revit automation via APS Automation API
+- https://github.com/lesliebiubiubiu/agent-context-kb-skill  — ⭐ 7 · Python · Lightweight agent-facing routed knowledge base skill
+- https://github.com/olaxbt/serenity-skill  — ⭐ 7 · Python · (no description)
+- https://github.com/lyrcsjy/wechat-decrypt  — ⭐ 5 · Python · (no description)
