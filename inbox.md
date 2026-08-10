@@ -735,3 +735,34 @@
 - https://github.com/lesliebiubiubiu/agent-context-kb-skill  — ⭐ 7 · Python · Lightweight agent-facing routed knowledge base skill
 - https://github.com/olaxbt/serenity-skill  — ⭐ 6 · Python · (no description)
 - https://github.com/lyrcsjy/wechat-decrypt  — ⭐ 4 · Python · (no description)
+
+<!-- synced 2026-08-10T10:22:03Z -->
+- https://github.com/AMAP-ML/LongHorizon-Harness  — ⭐ 532 · Python · The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.
+- https://github.com/GVCLab/PersonaLive  — ⭐ 3511 · Python · [CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming
+- https://github.com/HKUDS/AutoAgent  — ⭐ 9731 · Python · "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
+- https://github.com/autodesk-platform-services/aps-sample-mcp-server-revit-automation  — ⭐ 9 · C# · Sample MCP server to automate Revit via Automation API using SSA
+- https://github.com/binghe1980/cueflow  — ⭐ 15 · Swift · CueFlow (随读) — a notch-adjacent macOS teleprompter that listens as you read and auto-scrolls to follow you. 会听你朗读、自动跟随滚动的 Mac 刘海提词器。
+- https://github.com/h4ckf0r0day/obscura  — ⭐ 21063 · Rust · The headless browser for AI agents and web scraping
+- https://github.com/huangruiteng/loopx  — ⭐ 3854 · Python · Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
+- https://github.com/huangserva/ComfyUI_MiniMaxH3_Director  — ⭐ 460 · — · ComfyUI MiniMax H3 Director workflow
+- https://github.com/langchain-ai/open_deep_research  — ⭐ 12580 · Python · 
+- https://github.com/lyrcsjy/wechat-decrypt  — ⭐ 5 · Python · 
+- https://github.com/microsoft/Orchard  — ⭐ 427 · — · Orchard: An Open-Source Agentic Modeling Framework
+- https://github.com/modoojunko/awesome-novel-agent  — ⭐ 554 · Python · 让 AI agent成为你的小说创作搭档。从世界观搭建到角色塑造，从章节规划到正文写作，一步步陪你完成整部小说。
+- https://github.com/olaxbt/serenity-skill  — ⭐ 7 · Python · 
+- https://github.com/zosmaai/pi-llm-wiki  — ⭐ 484 · TypeScript · Self-maintaining, Obsidian-compatible knowledge base for pi — turn raw sources into an interlinked wiki that compounds. Native Open Knowledge Format (OKF) v0.2.
+
+<!-- synced 2026-08-10T10:22:07Z -->
+- https://github.com/KnockOutEZ/wigolo  — ⭐ 4461 · TypeScript · The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.
+- https://github.com/MervinPraison/PraisonAI  — ⭐ 8794 · Python · PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs.
+- https://github.com/Nutlope/logocreator  — ⭐ 8001 · TypeScript · A free + OSS logo generator powered by Flux on Together AI
+- https://github.com/PrimeIntellect-ai/prime-agent  — ⭐ 12371 · TypeScript · A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+- https://github.com/TencentCloud/Octop  — ⭐ 1056 · Python · A smarter, self-hosted AI assistant — multi-user, multi-agent.
+- https://github.com/ethanjlimgit/android-action-kernel  — ⭐ 1704 · Python · 
+- https://github.com/frappe/hrms  — ⭐ 8546 · Python · Open Source HR and Payroll Software
+- https://github.com/lesliebiubiubiu/agent-context-kb-skill  — ⭐ 7 · Python · Lightweight, agent-facing routed knowledge base skill that gives coding agents durable project memory.
+- https://github.com/opentsc/tsc  — ⭐ 12 · — · The Thin-Shell Company: a whitepaper on running a large, self-evolving organization as one person with AI agents. 薄壳公司白皮书。
+- https://github.com/qbdx-hub/sunzi-bingfa-skill  — ⭐ 10 · — · AI skill pack distilled from Sunzi Bingfa for strategy and decision making.
+- https://github.com/roboflow/supervision  — ⭐ 49229 · Python · We write your reusable computer vision tools. 💜
+- https://github.com/taosdata/TDengine  — ⭐ 25050 · C · High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios
+- https://github.com/zarazhangrui/codebase-to-course  — ⭐ 5362 · CSS · A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.
