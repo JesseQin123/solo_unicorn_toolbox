@@ -843,3 +843,45 @@
 - https://github.com/tw93/Kami  — ⭐ 10638 · HTML · 👩‍🚒 Good content deserves good paper.
 - https://github.com/xai-org/x-algorithm  — ⭐ 31615 · Rust · Algorithm powering the For You feed on X
 - https://github.com/ysharma3501/LuxTTS  — ⭐ 5111 · Python · A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime.
+
+
+## Auto-classified 2026-08-17
+
+- https://github.com/earendil-works/pi  → ai-agents/agent-platforms  ⭐92,027 · TypeScript
+- https://github.com/pbakaus/impeccable  → skills-mcp/null  ⭐59,786 · JavaScript
+- https://github.com/xai-org/x-algorithm  → tutorials/build-your-own  ⭐31,615 · Rust
+- https://github.com/herdrdev/herdr  → ai-agents/agent-platforms  ⭐29,902 · Rust
+- https://github.com/opensandbox-group/OpenSandbox  → backend-infra/self-host  ⭐14,088 · Python
+- https://github.com/img2threejs/img2threejs  → multimedia/image  ⭐12,017 · Python
+- https://github.com/assistant-ui/assistant-ui  → frontend/components  ⭐11,693 · TypeScript
+- https://github.com/anywhere-labs/deepseek-harness-desktop  → ai-agents/agent-platforms  ⭐10,910 · TypeScript
+- https://github.com/tw93/Kami  → kb-productivity/note  ⭐10,638 · HTML
+- https://github.com/petergyang/no-ai-slop  → skills-mcp/null  ⭐5,210 · Python
+- https://github.com/ysharma3501/LuxTTS  → multimedia/audio  ⭐5,111 · Python
+- https://github.com/embeddings-benchmark/mteb  → rag-kg-memory/null  ⭐3,396 · Python
+- https://github.com/tamnd/kage  → crawler-publish/crawler  ⭐3,237 · Go
+- https://github.com/leaperone/MultiPost-Extension  → crawler-publish/publish  ⭐3,046 · TypeScript
+- https://github.com/codeman008/Financial_freedom  → finance-career/indie-hacker  ⭐2,876 · —
+- https://github.com/KKKKhazix/human-writing  → skills-mcp/null  ⭐2,800 · Python
+- https://github.com/antirez/h3.c  → backend-infra/ai-toolkit  ⭐2,105 · C
+- https://github.com/ethanjlimgit/android-action-kernel  → ai-agents/generic  ⭐1,704 · Python
+- https://github.com/ReScienceLab/opc-skills  → skills-mcp/null  ⭐1,573 · Python
+- https://github.com/MengTo/kage  → misc/personal-projects  ⭐1,064 · HTML
+
+## Newly starred (overflow) 2026-08-17
+
+<!-- Top 20 were auto-classified. These 14 need manual review next run. -->
+- https://github.com/alchaincyf/deepseek-harness-orange-book  — ⭐ 938 · HTML · DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML
+- https://github.com/mindscale-noah/MindMemOS  — ⭐ 937 · Python · (no description available)
+- https://github.com/YouMind-OpenLab/ai-image-prompts-skill  — ⭐ 661 · TypeScript · AI Image Prompts — 10,000+ curated prompts for any model. Works with Nano Banana
+- https://github.com/rampstackco/claude-skills  — ⭐ 552 · Python · Stack-agnostic Claude Skills covering the full website lifecycle: brand, design,
+- https://github.com/hanliang97/MatrixMedia  — ⭐ 445 · JavaScript · 视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli
+- https://github.com/swjybky/deepwrite  — ⭐ 200 · TypeScript · 深度专门用于写作的Harness智能体
+- https://github.com/thebuggeddev/promise-wall  — ⭐ 63 · HTML · A digital promise wall developed in three.js using Fable 5
+- https://github.com/binghe1980/cueflow  — ⭐ 15 · Swift · CueFlow (随读) — a notch-adjacent macOS teleprompter that listens as you read and 
+- https://github.com/opentsc/tsc  — ⭐ 12 · — · The Thin-Shell Company: a whitepaper on running a large, self-evolving organizat
+- https://github.com/qbdx-hub/sunzi-bingfa-skill  — ⭐ 12 · — · AI skill pack distilled from Sunzi Bingfa for strategy and decision making.
+- https://github.com/autodesk-platform-services/aps-sample-mcp-server-revit-automation  — ⭐ 9 · C# · Sample MCP server to automate Revit via Automation API using SSA
+- https://github.com/olaxbt/serenity-skill  — ⭐ 7 · Python · (no description available)
+- https://github.com/lesliebiubiubiu/agent-context-kb-skill  — ⭐ 7 · Python · Lightweight, agent-facing routed knowledge base skill that gives coding agents d
+- https://github.com/lyrcsjy/wechat-decrypt  — ⭐ 6 · Python · (no description available)
