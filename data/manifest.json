@@ -3508,5 +3508,10 @@
     "category": "finance-career",
     "subcategory": "marketing-growth",
     "zh": "GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports.  If you want learn how to sell this to real businesses, check out the skool community"
+  },
+  "Xquik-dev/hermes-tweet": {
+    "category": "ai-agents",
+    "subcategory": "openclaw-hermes",
+    "zh": "Hermes Agent 的 X/Twitter 自动化插件，支持搜索推文、读取回复、查找用户、监控推文、导出 followers、发推/回复和发送 DM。"
   }
 }

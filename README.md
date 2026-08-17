@@ -1,6 +1,6 @@
 # Solo Unicorn Toolbox 🛠️
 
-> A bilingual, weekly-synced catalog of **702 curated GitHub repos** — AI agents, coding harnesses, RAG, multimedia, tutorials, and more — aggregated from GitHub stars, Twitter bookmarks, and 小红书.
+> A bilingual, weekly-synced catalog of **703 curated GitHub repos** — AI agents, coding harnesses, RAG, multimedia, tutorials, and more — aggregated from GitHub stars, Twitter bookmarks, and 小红书.
 
 > 中文版本：[README.zh-CN.md](./README.zh-CN.md) · Maintenance guide: [CLAUDE.md](./CLAUDE.md)
 
@@ -10,7 +10,7 @@ I keep finding the same kinds of tools across different platforms (GitHub, X/Twi
 
 ### What's inside
 
-- **702 repositories** across 12 categories — see the table of contents below
+- **703 repositories** across 12 categories — see the table of contents below
 - Stars from two GitHub accounts: `JesseQin123` (personal) + `jesseqin-kamiwaza` (work)
 - Twitter bookmark sweeps — GitHub URLs hand-picked from threads I save on X
 - Weekly auto-sync via [`.github/workflows/sync-stars.yml`](.github/workflows/sync-stars.yml)
@@ -27,7 +27,7 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 
 ## Table of Contents
 
-- [🤖 AI Agents & Coding Harnesses (132)](#-ai-agents--coding-harnesses)
+- [🤖 AI Agents & Coding Harnesses (133)](#-ai-agents--coding-harnesses)
 - [🛠 AI Agent Skills & MCP (92)](#-ai-agent-skills--mcp)
 - [🌐 Browser & Web Automation (13)](#-browser--web-automation)
 - [🧠 RAG / Knowledge Graph / Memory (68)](#-rag--knowledge-graph--memory)
@@ -76,7 +76,7 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | Use Codex from Claude Code to review code or delegate tasks. | JavaScript | 32k |  |
 | [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) | The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex. | TypeScript | 3.2k | `ai` `ai-agents` `claude` `claude-code` |
 
-### OpenClaw / Hermes / Paperclip (24)
+### OpenClaw / Hermes / Paperclip (25)
 
 | Repo | Description | Lang | ⭐ | Topics |
 |---|---|---|---|---|
@@ -100,6 +100,7 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [AnthonyDavidAdams/zero-employee-company-book](https://github.com/AnthonyDavidAdams/zero-employee-company-book) | Headcount Zero: How to Build an AI-Run Company with Paperclip | — | 574 |  |
 | [Yesterday-AI/paperclip-plugin-company-wizard](https://github.com/Yesterday-AI/paperclip-plugin-company-wizard) | Bootstrap AI agent companies from modular templates. | TypeScript | 168 | `ai-agents` `bootstrap` `cli` `company-as-code` |
 | [Kori-x/hermes-dashboard](https://github.com/Kori-x/hermes-dashboard) | Dashboard for monitoring and managing Hermes agent sessions, tool usage, and activity in real-time | TypeScript | 65 | `agent-framework` `ai-agents` `dashboard` `devtools` |
+| [Xquik-dev/hermes-tweet](https://github.com/Xquik-dev/hermes-tweet) | Native Hermes Agent plugin for X/Twitter automation through Xquik. Not affiliated with X Corp. | Python | 27 | `agent-skill` `agent-tools` `ai-agent` `automation` |
 | [GUNAASHRINM/Hermes-Agent-Wizard](https://github.com/GUNAASHRINM/Hermes-Agent-Wizard) | 🚀 Hermes Agent GUI Launcher 2026 – Windows & macOS 1-Click Setup Tool 🖱️ | — | 11 | `ai-agent` `beginner-friendly` `chinese-ui` `desktop-app` |
 | [xujfcn/crazyrouter-hermes](https://github.com/xujfcn/crazyrouter-hermes) | Use Hermes Agent (NousResearch) with Crazyrouter — 600+ AI models, 30-50% cheaper than OpenRouter | Shell | 6 | `ai-agent` `crazyrouter` `crazyrouter-integration` `hermes-agent` |
 | [AlexanderWhitestone/hermes-dashboard-sovereign-ops](https://github.com/AlexanderWhitestone/hermes-dashboard-sovereign-ops) | Sovereign Ops dashboard plugin + theme for Hermes Agent | JavaScript | 5 | `dashboard` `hackathon` `hermes-agent` `local-first` |
