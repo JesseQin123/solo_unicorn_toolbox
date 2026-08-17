@@ -803,3 +803,43 @@
 - https://github.com/lesliebiubiubiu/agent-context-kb-skill  — ⭐ 7 · Python · Lightweight agent-facing routed knowledge base skill
 - https://github.com/olaxbt/serenity-skill  — ⭐ 7 · Python · (no description)
 - https://github.com/lyrcsjy/wechat-decrypt  — ⭐ 5 · Python · (no description)
+
+<!-- synced 2026-08-17T09:48:58Z -->
+- https://github.com/MengTo/kage  — ⭐ 1064 · HTML · An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.
+- https://github.com/autodesk-platform-services/aps-sample-mcp-server-revit-automation  — ⭐ 9 · C# · Sample MCP server to automate Revit via Automation API using SSA
+- https://github.com/binghe1980/cueflow  — ⭐ 15 · Swift · CueFlow (随读) — a notch-adjacent macOS teleprompter that listens as you read and auto-scrolls to follow you. 会听你朗读、自动跟随滚动的 Mac 刘海提词器。
+- https://github.com/herdrdev/herdr  — ⭐ 29902 · Rust · the runtime your coding agents live on
+- https://github.com/img2threejs/img2threejs  — ⭐ 12017 · Python · Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
+- https://github.com/lyrcsjy/wechat-decrypt  — ⭐ 6 · Python · 
+- https://github.com/mindscale-noah/MindMemOS  — ⭐ 937 · Python · 
+- https://github.com/olaxbt/serenity-skill  — ⭐ 7 · Python · 
+- https://github.com/pbakaus/impeccable  — ⭐ 59786 · JavaScript · The design language that makes your AI harness better at design.
+- https://github.com/rampstackco/claude-skills  — ⭐ 552 · Python · Stack-agnostic Claude Skills covering the full website lifecycle: brand, design, content, SEO, dev, ops, growth, and research. Build, ship, audit, optimize.
+- https://github.com/tamnd/kage  — ⭐ 3237 · Go · Shadow any website for offline viewing, with the JavaScript stripped out
+
+<!-- synced 2026-08-17T09:49:02Z -->
+- https://github.com/KKKKhazix/human-writing  — ⭐ 2800 · Python · 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。
+- https://github.com/ReScienceLab/opc-skills  — ⭐ 1573 · Python · Agent Skills for Solopreneurs
+- https://github.com/YouMind-OpenLab/ai-image-prompts-skill  — ⭐ 661 · TypeScript · AI Image Prompts — 10,000+ curated prompts for any model. Works with Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E, Flux, Stable Diffusion, and more.
+- https://github.com/alchaincyf/deepseek-harness-orange-book  — ⭐ 938 · HTML · DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载
+- https://github.com/antirez/h3.c  — ⭐ 2105 · C · MiniMax H3 inference engine for Mac computers
+- https://github.com/anywhere-labs/deepseek-harness-desktop  — ⭐ 10910 · TypeScript · 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
+- https://github.com/assistant-ui/assistant-ui  — ⭐ 11693 · TypeScript · Typescript/React Library for AI Chat💬🚀
+- https://github.com/codeman008/Financial_freedom  — ⭐ 2876 · — · Technical guide to making money and investing（最全赚钱投资指南）
+- https://github.com/earendil-works/pi  — ⭐ 92027 · TypeScript · AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+- https://github.com/embeddings-benchmark/mteb  — ⭐ 3396 · Python · MTEB: State-of-the-art evaluation of embeddings across languages and modalities
+- https://github.com/ethanjlimgit/android-action-kernel  — ⭐ 1704 · Python · 
+- https://github.com/hanliang97/MatrixMedia  — ⭐ 445 · JavaScript · 视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli
+- https://github.com/herdrdev/herdr  — ⭐ 29902 · Rust · the runtime your coding agents live on
+- https://github.com/img2threejs/img2threejs  — ⭐ 12017 · Python · Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
+- https://github.com/leaperone/MultiPost-Extension  — ⭐ 3046 · TypeScript · A browser extension that helps users publish content to multiple social media platforms with one click.
+- https://github.com/lesliebiubiubiu/agent-context-kb-skill  — ⭐ 7 · Python · Lightweight, agent-facing routed knowledge base skill that gives coding agents durable project memory.
+- https://github.com/opensandbox-group/OpenSandbox  — ⭐ 14088 · Python · Secure, Fast, and Extensible Sandbox runtime for AI agents.
+- https://github.com/opentsc/tsc  — ⭐ 12 · — · The Thin-Shell Company: a whitepaper on running a large, self-evolving organization as one person with AI agents. 薄壳公司白皮书。
+- https://github.com/petergyang/no-ai-slop  — ⭐ 5210 · Python · Removes 20+ patterns of AI slop from any piece of writing.
+- https://github.com/qbdx-hub/sunzi-bingfa-skill  — ⭐ 12 · — · AI skill pack distilled from Sunzi Bingfa for strategy and decision making.
+- https://github.com/swjybky/deepwrite  — ⭐ 200 · TypeScript · 深度专门用于写作的Harness智能体
+- https://github.com/thebuggeddev/promise-wall  — ⭐ 63 · HTML · A digital promise wall developed in three.js using Fable 5
+- https://github.com/tw93/Kami  — ⭐ 10638 · HTML · 👩‍🚒 Good content deserves good paper.
+- https://github.com/xai-org/x-algorithm  — ⭐ 31615 · Rust · Algorithm powering the For You feed on X
+- https://github.com/ysharma3501/LuxTTS  — ⭐ 5111 · Python · A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime.
