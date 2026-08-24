@@ -885,3 +885,50 @@
 - https://github.com/olaxbt/serenity-skill  — ⭐ 7 · Python · (no description available)
 - https://github.com/lesliebiubiubiu/agent-context-kb-skill  — ⭐ 7 · Python · Lightweight, agent-facing routed knowledge base skill that gives coding agents d
 - https://github.com/lyrcsjy/wechat-decrypt  — ⭐ 6 · Python · (no description available)
+
+<!-- synced 2026-08-24T09:53:57Z -->
+- https://github.com/EZ-VAI/outsider  — ⭐ 2 · JavaScript · Open-source controller and tamper-evident evidence layer for long-running AI workers
+- https://github.com/MengTo/threeui  — ⭐ 3218 · HTML · Open-source ThreeUI Community catalog with live interactive components and complete Community source.
+- https://github.com/QuentinFuxa/WhisperLiveKit  — ⭐ 10907 · Python · Real-time, local speech-to-text with streaming ASR, speaker diarization, translation, and OpenAI/Deepgram-compatible APIs.
+- https://github.com/StarTrail-org/PixelRAG  — ⭐ 9687 · Python · The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/
+- https://github.com/VectifyAI/OpenKB  — ⭐ 3837 · Python · OpenKB: Open LLM Knowledge Base
+- https://github.com/Vincentwei1021/video-shotcraft  — ⭐ 6204 · TypeScript · AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template
+- https://github.com/WecomTeam/wecom-cli  — ⭐ 2951 · Rust · 企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信
+- https://github.com/antlionguard/DilMesh  — ⭐ 4 · TypeScript · Live Instant Subtitles & Real-time Multi-language Translation
+- https://github.com/autodesk-platform-services/aps-sample-mcp-server-revit-automation  — ⭐ 9 · C# · Sample MCP server to automate Revit via Automation API using SSA
+- https://github.com/binghe1980/cueflow  — ⭐ 15 · Swift · CueFlow (随读) — a notch-adjacent macOS teleprompter that listens as you read and auto-scrolls to follow you. 会听你朗读、自动跟随滚动的 Mac 刘海提词器。
+- https://github.com/bytedance/UI-TARS-desktop  — ⭐ 38701 · TypeScript · The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+- https://github.com/dataPro-lgtm/fde-interview-fieldbook  — ⭐ 30 · Python · Source-backed, production-first FDE interview fieldbook with cases, scorecards, and current role research.
+- https://github.com/fastapi-practices/ai_mcp  — ⭐ 1 · Python · FastAPI Best Architecture ai mcp 插件
+- https://github.com/g0v/OpenTransLive  — ⭐ 36 · Python · An open-source, broadcast-style live translation framework — built for event organizers.
+- https://github.com/harry0703/AudioNotes  — ⭐ 2458 · Python · 快速提取音视频内容，整理成一份结构化的markdown笔记
+- https://github.com/infiniflow/ragflow  — ⭐ 89141 · Go · RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+- https://github.com/kirodotdev/KiroCrew  — ⭐ 3207 · Python · A persistent workspace for development work that self-improves and continues beyond one session.
+- https://github.com/langfuse/langfuse  — ⭐ 33616 · TypeScript · 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 
+- https://github.com/lyrcsjy/wechat-decrypt  — ⭐ 9 · Python · 
+- https://github.com/mindscale-noah/MindMemOS  — ⭐ 949 · Python · 
+- https://github.com/olaxbt/serenity-skill  — ⭐ 7 · Python · 
+- https://github.com/openai/codex  — ⭐ 116502 · Rust · Lightweight coding agent that runs in your terminal
+- https://github.com/payloadcms/payload  — ⭐ 44368 · TypeScript · Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
+- https://github.com/rampstackco/claude-skills  — ⭐ 697 · Python · Stack-agnostic Claude Skills covering the full website lifecycle: brand, design, content, SEO, dev, ops, growth, and research. Build, ship, audit, optimize.
+- https://github.com/simular-ai/Agent-S  — ⭐ 12188 · Python · Agent S: an open agentic framework that uses computers like a human
+- https://github.com/titanwings/distilly  — ⭐ 23891 · Python · Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
+
+<!-- synced 2026-08-24T09:54:02Z -->
+- https://github.com/YouMind-OpenLab/ai-image-prompts-skill  — ⭐ 687 · TypeScript · AI Image Prompts — 10,000+ curated prompts for any model. Works with Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E, Flux, Stable Diffusion, and more.
+- https://github.com/alchaincyf/deepseek-harness-orange-book  — ⭐ 1173 · HTML · DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载
+- https://github.com/cloudflare/cloudflare-os  — ⭐ 9047 · TypeScript · Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
+- https://github.com/davidahmann/fde-guide  — ⭐ 60 · JavaScript · Forward deployed engineering guide for production AI systems: value, architecture, evals, security, deployment, and operations.
+- https://github.com/docling-project/docling  — ⭐ 65467 · Python · Get your documents ready for gen AI
+- https://github.com/goday-org/FDE-Handbook  — ⭐ 14 · Python · A production-ready handbook for Forward Deployed Engineers (FDEs). Covers enterprise landing zones, VPC Service Controls, data auditing, multi-agent orchestration, and LLM evaluation (中英双语).
+- https://github.com/hanliang97/MatrixMedia  — ⭐ 694 · JavaScript · 视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli
+- https://github.com/iAmCorey/Wake  — ⭐ 573 · Rust · Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.
+- https://github.com/infiniflow/ragflow  — ⭐ 89141 · Go · RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+- https://github.com/lesliebiubiubiu/agent-context-kb-skill  — ⭐ 7 · Python · Lightweight, agent-facing routed knowledge base skill that gives coding agents durable project memory.
+- https://github.com/mallahyari/ml-practical-usecases  — ⭐ 1297 · — · A database of 650 Machine Learning (ML) system design case studies from 100+ companies.
+- https://github.com/ombegov/2025-Federal-Agency-AI-Use-Case-Inventory  — ⭐ 190 · — · The 2025 consolidation of AI use case inventories across U.S. Federal agencies.
+- https://github.com/opentsc/tsc  — ⭐ 12 · — · The Thin-Shell Company: a whitepaper on running a large, self-evolving organization as one person with AI agents. 薄壳公司白皮书。
+- https://github.com/qbdx-hub/sunzi-bingfa-skill  — ⭐ 14 · — · AI skill pack distilled from Sunzi Bingfa for strategy and decision making.
+- https://github.com/swjybky/deepwrite  — ⭐ 243 · TypeScript · 深度专门用于写作的Harness智能体
+- https://github.com/thebuggeddev/promise-wall  — ⭐ 69 · HTML · A digital promise wall developed in three.js using Fable 5
+- https://github.com/titanwings/distilly  — ⭐ 23891 · Python · Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
