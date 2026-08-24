@@ -3508,5 +3508,100 @@
     "category": "finance-career",
     "subcategory": "marketing-growth",
     "zh": "GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports.  If you want learn how to sell this to real businesses, check out the skool community"
+  },
+  "openai/codex": {
+    "category": "ai-agents",
+    "subcategory": "codex",
+    "zh": "OpenAI 官方开源的轻量级终端 AI coding agent，Rust 实现，支持与 Claude Code、Cursor 等主流工具链协同。"
+  },
+  "infiniflow/ragflow": {
+    "category": "rag-kg-memory",
+    "subcategory": null,
+    "zh": "业界领先的开源 RAG 引擎，融合先进 RAG 技术与 Agent 能力，为 LLM 提供上乘的上下文层，支持企业级文档解析与知识检索。"
+  },
+  "docling-project/docling": {
+    "category": "rag-kg-memory",
+    "subcategory": null,
+    "zh": "IBM 出品的文档解析工具，支持 PDF、Word、HTML 等格式，专为 gen AI 与 RAG pipeline 准备结构化文档。"
+  },
+  "payloadcms/payload": {
+    "category": "backend-infra",
+    "subcategory": "self-host",
+    "zh": "开源的全栈 Next.js 框架，即刻获得 TypeScript 后端与管理面板，可用作 headless CMS 或构建强大的 Web 应用。"
+  },
+  "bytedance/UI-TARS-desktop": {
+    "category": "ai-agents",
+    "subcategory": "agent-platforms",
+    "zh": "字节跳动开源的多模态 AI Agent 桌面端，连接前沿 AI 模型与 Agent 基础设施，支持计算机控制与桌面自动化任务。"
+  },
+  "langfuse/langfuse": {
+    "category": "backend-infra",
+    "subcategory": "ai-toolkit",
+    "zh": "开源 AI 工程平台，覆盖 LLM 评测、可观测性、metrics、prompt 管理与数据集，兼容 OpenTelemetry 与主流 LLM 框架（YC W23）。"
+  },
+  "titanwings/distilly": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "Distilly — 将任何人的思维方式蒸馏为可复用 Skill，供 AI Agent 与 Bot 调用（原 Colleague Skill）。"
+  },
+  "simular-ai/Agent-S": {
+    "category": "ai-agents",
+    "subcategory": "generic",
+    "zh": "开放的 Agentic 框架，让 AI Agent 像人类一样操控电脑界面，支持 GUI 任务与桌面自动化，基于视觉感知与工具调用。"
+  },
+  "QuentinFuxa/WhisperLiveKit": {
+    "category": "multimedia",
+    "subcategory": "audio",
+    "zh": "本地实时语音转文字工具包，支持流式 ASR、说话人分离、多语言翻译，兼容 OpenAI/Deepgram API 格式。"
+  },
+  "StarTrail-org/PixelRAG": {
+    "category": "rag-kg-memory",
+    "subcategory": null,
+    "zh": "像素原生 RAG 搜索引擎，告别传统 web 解析，以视觉像素理解为基础构建可扩展的内容检索系统。"
+  },
+  "cloudflare/cloudflare-os": {
+    "category": "ai-agents",
+    "subcategory": "agent-platforms",
+    "zh": "基于 Cloudflare Workers 的 AI Agent 工作空间，支持文档创建、应用构建与 Agent 执行，融合企业上下文与系统。"
+  },
+  "Vincentwei1021/video-shotcraft": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "为 Claude Code 与 Codex 设计的 AI 视频制作 skill，基于 Remotion 实现，内含 152 张镜头配方卡与 209 个动态预览。"
+  },
+  "VectifyAI/OpenKB": {
+    "category": "rag-kg-memory",
+    "subcategory": null,
+    "zh": "OpenKB — 开源 LLM 知识库，提供基于大模型的知识管理、文档解析与智能检索能力。"
+  },
+  "MengTo/threeui": {
+    "category": "frontend",
+    "subcategory": "components",
+    "zh": "ThreeUI 开源社区组件目录，提供 Three.js 实时交互组件展示，含完整社区源代码，适合 3D Web 开发参考。"
+  },
+  "kirodotdev/KiroCrew": {
+    "category": "ai-agents",
+    "subcategory": "agent-platforms",
+    "zh": "KiroCrew — 持久化 AI 开发工作区，能够跨会话保存状态、自我改进，并持续推进复杂开发任务直到完成。"
+  },
+  "WecomTeam/wecom-cli": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "企业微信开放平台命令行工具，让人类与 AI Agent 都能在终端中操作企业微信，Rust 实现，速度快，兼容 MCP。"
+  },
+  "harry0703/AudioNotes": {
+    "category": "multimedia",
+    "subcategory": "audio",
+    "zh": "快速提取音视频内容，整理成结构化 Markdown 笔记，支持多语言转录与内容摘要，适合播客与会议记录场景。"
+  },
+  "mallahyari/ml-practical-usecases": {
+    "category": "tutorials",
+    "subcategory": "system-design",
+    "zh": "收录来自 100+ 公司的 650 个机器学习系统设计真实案例数据库，覆盖推荐、搜索、NLP、广告等核心场景。"
+  },
+  "alchaincyf/deepseek-harness-orange-book": {
+    "category": "tutorials",
+    "subcategory": "context-vibe",
+    "zh": "DeepSeek Harness 橙皮书 — 完整系统提示词、129 行启动清单与三份原始会话日志，官方文档没有的一手实测，免费 PDF/EPUB/HTML 下载。"
   }
 }

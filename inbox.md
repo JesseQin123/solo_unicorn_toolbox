@@ -932,3 +932,54 @@
 - https://github.com/swjybky/deepwrite  — ⭐ 243 · TypeScript · 深度专门用于写作的Harness智能体
 - https://github.com/thebuggeddev/promise-wall  — ⭐ 69 · HTML · A digital promise wall developed in three.js using Fable 5
 - https://github.com/titanwings/distilly  — ⭐ 23891 · Python · Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
+
+## Auto-classified 2026-08-24
+
+- https://github.com/openai/codex  → ai-agents/codex  ⭐116,502 · Rust
+- https://github.com/infiniflow/ragflow  → rag-kg-memory/null  ⭐89,141 · Go
+- https://github.com/docling-project/docling  → rag-kg-memory/null  ⭐65,467 · Python
+- https://github.com/payloadcms/payload  → backend-infra/self-host  ⭐44,368 · TypeScript
+- https://github.com/bytedance/UI-TARS-desktop  → ai-agents/agent-platforms  ⭐38,701 · TypeScript
+- https://github.com/langfuse/langfuse  → backend-infra/ai-toolkit  ⭐33,616 · TypeScript
+- https://github.com/titanwings/distilly  → skills-mcp/null  ⭐23,891 · Python
+- https://github.com/simular-ai/Agent-S  → ai-agents/generic  ⭐12,188 · Python
+- https://github.com/QuentinFuxa/WhisperLiveKit  → multimedia/audio  ⭐10,907 · Python
+- https://github.com/StarTrail-org/PixelRAG  → rag-kg-memory/null  ⭐9,687 · Python
+- https://github.com/cloudflare/cloudflare-os  → ai-agents/agent-platforms  ⭐9,047 · TypeScript
+- https://github.com/Vincentwei1021/video-shotcraft  → skills-mcp/null  ⭐6,204 · TypeScript
+- https://github.com/VectifyAI/OpenKB  → rag-kg-memory/null  ⭐3,837 · Python
+- https://github.com/MengTo/threeui  → frontend/components  ⭐3,218 · HTML
+- https://github.com/kirodotdev/KiroCrew  → ai-agents/agent-platforms  ⭐3,207 · Python
+- https://github.com/WecomTeam/wecom-cli  → skills-mcp/null  ⭐2,951 · Rust
+- https://github.com/harry0703/AudioNotes  → multimedia/audio  ⭐2,458 · Python
+- https://github.com/mallahyari/ml-practical-usecases  → tutorials/system-design  ⭐1,297 · 
+- https://github.com/alchaincyf/deepseek-harness-orange-book  → tutorials/context-vibe  ⭐1,173 · HTML
+
+## Needs manual classification (2026-08-24)
+
+- https://github.com/mindscale-noah/MindMemOS  — ⭐ 949 · Python · (no description available — needs manual review)
+
+## Newly starred (overflow) 2026-08-24
+
+<!-- Top 19 were auto-classified (1 sent to Needs manual classification). These 21 need manual review next run. -->
+- https://github.com/rampstackco/claude-skills  — ⭐ 697 · Python · Stack-agnostic Claude Skills covering the full website lifecycle: brand, design, content, 
+- https://github.com/hanliang97/MatrixMedia  — ⭐ 694 · JavaScript · 视频矩阵工具，批量发布视频到抖音、小红书、头条、视频号、快手等平台，AI 自动化 CLI
+- https://github.com/YouMind-OpenLab/ai-image-prompts-skill  — ⭐ 687 · TypeScript · AI Image Prompts — 10,000+ curated prompts for any model.
+- https://github.com/iAmCorey/Wake  — ⭐ 573 · Rust · Every coding-agent session on your Mac in one place — browse, search, resume.
+- https://github.com/swjybky/deepwrite  — ⭐ 243 · TypeScript · 深度专门用于写作的Harness智能体
+- https://github.com/ombegov/2025-Federal-Agency-AI-Use-Case-Inventory  — ⭐ 190 · The 2025 consolidation of AI use case inventories across U.S. Federal agencies.
+- https://github.com/thebuggeddev/promise-wall  — ⭐ 69 · HTML · A digital promise wall developed in three.js using Fable 5
+- https://github.com/davidahmann/fde-guide  — ⭐ 60 · JavaScript · Forward deployed engineering guide for production AI systems.
+- https://github.com/g0v/OpenTransLive  — ⭐ 36 · Python · An open-source, broadcast-style live translation framework — built for event organizers.
+- https://github.com/dataPro-lgtm/fde-interview-fieldbook  — ⭐ 30 · Python · Source-backed, production-first FDE interview fieldbook with cases, scorecards, and curren
+- https://github.com/binghe1980/cueflow  — ⭐ 15 · Swift · CueFlow (随读) — a notch-adjacent macOS teleprompter that listens as you read and auto-scrol
+- https://github.com/goday-org/FDE-Handbook  — ⭐ 14 · Python · A production-ready handbook for Forward Deployed Engineers (FDEs).
+- https://github.com/qbdx-hub/sunzi-bingfa-skill  — ⭐ 14 · AI skill pack distilled from Sunzi Bingfa for strategy and decision making.
+- https://github.com/opentsc/tsc  — ⭐ 12 · The Thin-Shell Company: a whitepaper on running a large, self-evolving organization as one
+- https://github.com/autodesk-platform-services/aps-sample-mcp-server-revit-automation  — ⭐ 9 · C# · Sample MCP server to automate Revit via Automation API using SSA
+- https://github.com/lyrcsjy/wechat-decrypt  — ⭐ 9 · Python · (no description available)
+- https://github.com/olaxbt/serenity-skill  — ⭐ 7 · Python · (no description available)
+- https://github.com/lesliebiubiubiu/agent-context-kb-skill  — ⭐ 7 · Python · Lightweight, agent-facing routed knowledge base skill that gives coding agents durable pro
+- https://github.com/antlionguard/DilMesh  — ⭐ 4 · TypeScript · Live Instant Subtitles & Real-time Multi-language Translation
+- https://github.com/EZ-VAI/outsider  — ⭐ 2 · JavaScript · Open-source controller and tamper-evident evidence layer for long-running AI workers
+- https://github.com/fastapi-practices/ai_mcp  — ⭐ 1 · Python · FastAPI Best Architecture ai mcp 插件
