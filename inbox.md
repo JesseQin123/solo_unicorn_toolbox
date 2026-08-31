@@ -1012,3 +1012,39 @@
 - https://github.com/lesliebiubiubiu/agent-context-kb-skill  → skills-mcp/null  ⭐7 · Python
 - https://github.com/olaxbt/serenity-skill  → skills-mcp/null  ⭐7 · Python
 - https://github.com/antlionguard/DilMesh  → multimedia/audio  ⭐4 · TypeScript
+
+<!-- synced 2026-08-31T16:57:18Z -->
+- https://github.com/34306/vphone-aio  — ⭐ 6737 · Shell · 1 script run the vphone
+- https://github.com/ApodexAI/FrontierAgent  — ⭐ 1327 · Python · 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.
+- https://github.com/EZ-VAI/outsider  — ⭐ 3 · JavaScript · Open-source controller and tamper-evident evidence layer for long-running AI workers
+- https://github.com/GitHubDaily/GitHubDaily  — ⭐ 47777 · — · 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+- https://github.com/LLMQuant/quant-mind  — ⭐ 2774 · Python · QuantMind is an agent-native knowledge extraction and retrieval framework for quantitative finance.
+- https://github.com/Tencent-Hunyuan/Hunyuan3D-2  — ⭐ 14712 · Python · High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
+- https://github.com/Tencent/WeMM-Embedding  — ⭐ 998 · Python · WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.
+- https://github.com/ZJU-LLMs/Foundations-of-LLMs  — ⭐ 17779 · — · A book for Learning the Foundations of LLMs
+- https://github.com/ant-research/4DAnyone  — ⭐ 1034 · Python · [SIGGRAPH Asia 2026] 4DAnyone: Create Anyone in 4D from a Casual Monocular Video
+- https://github.com/apache/maka  — ⭐ 4301 · TypeScript · Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
+- https://github.com/apurvsinghgautam/robin  — ⭐ 6800 · Python · AI-Powered Dark Web OSINT Tool
+- https://github.com/b-nnett/grok-bot-0.18-reconstructed  — ⭐ 3460 · TypeScript · Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS
+- https://github.com/davebcn87/pi-autoresearch  — ⭐ 7940 · TypeScript · Autonomous experiment loop extension for pi
+- https://github.com/furkankly/zoetrope  — ⭐ 726 · Rust · Watch a Claude Code session as a live flow graph, in your terminal or your browser.
+- https://github.com/htdt/godogen  — ⭐ 6614 · Python · Autonomous game development for Godot, Bevy, and Babylon.js with Claude Code and Codex
+- https://github.com/laude-institute/headlong  — ⭐ 1071 · Shell · An open source agent microharness featuring persistent agency and recursive LLMs. Of bash, by bash, for bash; it's shells all the way down.
+- https://github.com/liquidslr/system-design-notes  — ⭐ 15247 · — · Notes of the book System Desgin Interview - An Insider's Guide
+- https://github.com/rawfilejson/awesome-osint-arsenal  — ⭐ 2661 · Shell · OSINT & recon toolkit // 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics & more.
+- https://github.com/vercel-labs/fx  — ⭐ 2635 · Zig · Unix like coding agent
+- https://github.com/volcengine/MineContext  — ⭐ 5496 · Python · MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
+- https://github.com/zenstory-ai/oh-story-claudecode  — ⭐ 6286 · JavaScript · 网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-form web fiction.
+
+<!-- synced 2026-08-31T16:57:23Z -->
+- https://github.com/anywhere-labs/dsh-desktop  — ⭐ 22425 · TypeScript · 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
+- https://github.com/docmost/docmost  — ⭐ 21523 · TypeScript · Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
+- https://github.com/geeklee/srt-whiteboard-animation  — ⭐ 2654 · Python · 将 SRT 字幕做成暖米黄纸张底的流式笔迹白板手绘动画 skill：mask 分区遮罩编排 + stream 连续笔迹（ink→color）。
+- https://github.com/ktwu01/benchmark-radar  — ⭐ 128 · Python · Daily evidence-first radar for AI benchmarks, evaluations, datasets, and data quality.
+- https://github.com/lmnr-ai/index  — ⭐ 2422 · Python · The SOTA Open-Source Browser Agent for autonomously performing complex tasks on the web
+- https://github.com/microsoft/VibeVoice  — ⭐ 53466 · Python · Open-Source Frontier Voice AI
+- https://github.com/papers-we-love/papers-we-love  — ⭐ 109321 · Shell · Papers from the computer science community to read and discuss.
+- https://github.com/pollen-robotics/microduck  — ⭐ 4492 · Rust · A Tiny biped duck robot 🦆
+- https://github.com/pollen-robotics/microduck_rl  — ⭐ 1089 · Python · RL training environments for Microduck (mjlab)
+- https://github.com/riddleling/iOS-OCR-Server  — ⭐ 2026 · Swift · An iOS OCR Server Using Apple’s Vision Framework
+- https://github.com/tt-a1i/simplify-codebase  — ⭐ 370 · — · Prove and remove accidental codebase complexity without breaking behavior.
