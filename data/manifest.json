@@ -3603,5 +3603,105 @@
     "category": "tutorials",
     "subcategory": "context-vibe",
     "zh": "DeepSeek Harness 橙皮书 — 完整系统提示词、129 行启动清单与三份原始会话日志，官方文档没有的一手实测，免费 PDF/EPUB/HTML 下载。"
+  },
+  "mindscale-noah/MindMemOS": {
+    "category": "rag-kg-memory",
+    "subcategory": null,
+    "zh": "MindMemOS：面向 AI agent 的模块化记忆操作系统，支持 OpenClaw/Hermes、DSH plugin 与 RAG 集成。"
+  },
+  "rampstackco/claude-skills": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "涵盖品牌、设计、内容、SEO、运维与增长的全生命周期 Claude Code Skills 合集，适用于各技术栈。"
+  },
+  "hanliang97/MatrixMedia": {
+    "category": "crawler-publish",
+    "subcategory": "publish",
+    "zh": "视频矩阵工具：基于 Vue + Electron + Puppeteer，批量自动发布视频到抖音、小红书、头条、视频号、快手等多平台。"
+  },
+  "YouMind-OpenLab/ai-image-prompts-skill": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "AI Image Prompts skill：10,000+ 精选图像生成提示词，兼容 Nano Banana、GPT Image、Midjourney、Flux、Stable Diffusion 等多种模型。"
+  },
+  "iAmCorey/Wake": {
+    "category": "ai-agents",
+    "subcategory": "agent-platforms",
+    "zh": "Wake：macOS 原生 coding agent 会话管理器，用 Rust + GPUI 打造，一站式浏览、搜索与恢复所有 AI 编程会话。"
+  },
+  "swjybky/deepwrite": {
+    "category": "ai-agents",
+    "subcategory": "generic",
+    "zh": "DeepWrite：专为深度写作场景设计的 AI agent harness，以 TypeScript 实现。"
+  },
+  "ombegov/2025-Federal-Agency-AI-Use-Case-Inventory": {
+    "category": "tutorials",
+    "subcategory": "awesome-lists",
+    "zh": "2025 年美国联邦政府机构 AI 用例清单汇总，覆盖各联邦机构人工智能应用场景。"
+  },
+  "thebuggeddev/promise-wall": {
+    "category": "misc",
+    "subcategory": "personal-projects",
+    "zh": "基于 Three.js 与 Fable 5 构建的数字许愿墙 Web 应用。"
+  },
+  "davidahmann/fde-guide": {
+    "category": "tutorials",
+    "subcategory": "system-design",
+    "zh": "前向部署工程（FDE）实战指南，覆盖生产级 AI 系统的价值、架构、评估、安全、部署与运营。"
+  },
+  "g0v/OpenTransLive": {
+    "category": "multimedia",
+    "subcategory": "audio",
+    "zh": "OpenTransLive：开源的广播级实时翻译框架，专为活动组织者打造，支持多语言实时翻译输出。"
+  },
+  "dataPro-lgtm/fde-interview-fieldbook": {
+    "category": "finance-career",
+    "subcategory": "career",
+    "zh": "前向部署工程师（FDE）面试手册，含真实案例、评分卡与当前岗位调研，以实战优先为导向。"
+  },
+  "binghe1980/cueflow": {
+    "category": "frontend",
+    "subcategory": "desktop",
+    "zh": "CueFlow（随读）：macOS 原生提词器，基于 SwiftUI，可语音感知朗读速度并自动跟随滚动，适合演讲者与视频创作者。"
+  },
+  "goday-org/FDE-Handbook": {
+    "category": "tutorials",
+    "subcategory": "system-design",
+    "zh": "前向部署工程师（FDE）实战手册（中英双语），覆盖企业落地区、数据审计、多 agent 编排与 LLM 评估。"
+  },
+  "qbdx-hub/sunzi-bingfa-skill": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "孙子兵法.skill：从《孙子兵法》提炼的 AI 战略与决策 skill 包，供 coding agent 调用。"
+  },
+  "opentsc/tsc": {
+    "category": "finance-career",
+    "subcategory": "indie-hacker",
+    "zh": "薄壳公司白皮书：探讨以 AI agent 为核心、一人运营大规模自进化组织的方法论与架构。"
+  },
+  "autodesk-platform-services/aps-sample-mcp-server-revit-automation": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "Autodesk Platform Services 出品的 MCP server 示例，通过 Automation API 实现 Revit 工程自动化。"
+  },
+  "lyrcsjy/wechat-decrypt": {
+    "category": "misc",
+    "subcategory": "osint",
+    "zh": "微信数据解密工具（Python 实现），用于导出和分析个人微信聊天记录。"
+  },
+  "lesliebiubiubiu/agent-context-kb-skill": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "轻量级 agent 知识库路由 skill，为 coding agent 提供持久的项目记忆能力，兼容 Claude、Codex 等主流平台。"
+  },
+  "olaxbt/serenity-skill": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "暂无描述"
+  },
+  "antlionguard/DilMesh": {
+    "category": "multimedia",
+    "subcategory": "audio",
+    "zh": "DilMesh：实时字幕与多语言即时翻译工具，支持流媒体场景下的实时语音翻译与字幕生成。"
   }
 }

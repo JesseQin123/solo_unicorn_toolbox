@@ -983,3 +983,32 @@
 - https://github.com/antlionguard/DilMesh  — ⭐ 4 · TypeScript · Live Instant Subtitles & Real-time Multi-language Translation
 - https://github.com/EZ-VAI/outsider  — ⭐ 2 · JavaScript · Open-source controller and tamper-evident evidence layer for long-running AI workers
 - https://github.com/fastapi-practices/ai_mcp  — ⭐ 1 · Python · FastAPI Best Architecture ai mcp 插件
+
+## Newly starred (overflow) 2026-08-31
+
+<!-- Top 20 were auto-classified. These 2 need manual review next run. -->
+- https://github.com/EZ-VAI/outsider  — ⭐ 2 · JavaScript · Open-source controller and tamper-evident evidence layer for long-running AI workers
+- https://github.com/fastapi-practices/ai_mcp  — ⭐ 1 · Python · FastAPI Best Architecture ai mcp 插件
+
+## Auto-classified 2026-08-31
+
+- https://github.com/mindscale-noah/MindMemOS  → rag-kg-memory/null  ⭐949 · Python
+- https://github.com/rampstackco/claude-skills  → skills-mcp/null  ⭐697 · Python
+- https://github.com/hanliang97/MatrixMedia  → crawler-publish/publish  ⭐694 · JavaScript
+- https://github.com/YouMind-OpenLab/ai-image-prompts-skill  → skills-mcp/null  ⭐687 · TypeScript
+- https://github.com/iAmCorey/Wake  → ai-agents/agent-platforms  ⭐573 · Rust
+- https://github.com/swjybky/deepwrite  → ai-agents/generic  ⭐243 · TypeScript
+- https://github.com/ombegov/2025-Federal-Agency-AI-Use-Case-Inventory  → tutorials/awesome-lists  ⭐190 · none
+- https://github.com/thebuggeddev/promise-wall  → misc/personal-projects  ⭐69 · HTML
+- https://github.com/davidahmann/fde-guide  → tutorials/system-design  ⭐60 · JavaScript
+- https://github.com/g0v/OpenTransLive  → multimedia/audio  ⭐36 · Python
+- https://github.com/dataPro-lgtm/fde-interview-fieldbook  → finance-career/career  ⭐30 · Python
+- https://github.com/binghe1980/cueflow  → frontend/desktop  ⭐15 · Swift
+- https://github.com/goday-org/FDE-Handbook  → tutorials/system-design  ⭐14 · Python
+- https://github.com/qbdx-hub/sunzi-bingfa-skill  → skills-mcp/null  ⭐14 · none
+- https://github.com/opentsc/tsc  → finance-career/indie-hacker  ⭐12 · none
+- https://github.com/autodesk-platform-services/aps-sample-mcp-server-revit-automation  → skills-mcp/null  ⭐9 · C#
+- https://github.com/lyrcsjy/wechat-decrypt  → misc/osint  ⭐9 · Python
+- https://github.com/lesliebiubiubiu/agent-context-kb-skill  → skills-mcp/null  ⭐7 · Python
+- https://github.com/olaxbt/serenity-skill  → skills-mcp/null  ⭐7 · Python
+- https://github.com/antlionguard/DilMesh  → multimedia/audio  ⭐4 · TypeScript

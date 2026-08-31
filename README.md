@@ -1,6 +1,6 @@
 # Solo Unicorn Toolbox 🛠️
 
-> A bilingual, weekly-synced catalog of **721 curated GitHub repos** — AI agents, coding harnesses, RAG, multimedia, tutorials, and more — aggregated from GitHub stars, Twitter bookmarks, and 小红书.
+> A bilingual, weekly-synced catalog of **741 curated GitHub repos** — AI agents, coding harnesses, RAG, multimedia, tutorials, and more — aggregated from GitHub stars, Twitter bookmarks, and 小红书.
 
 > 中文版本：[README.zh-CN.md](./README.zh-CN.md) · Maintenance guide: [CLAUDE.md](./CLAUDE.md)
 
@@ -10,7 +10,7 @@ I keep finding the same kinds of tools across different platforms (GitHub, X/Twi
 
 ### What's inside
 
-- **721 repositories** across 12 categories — see the table of contents below
+- **741 repositories** across 12 categories — see the table of contents below
 - Stars from two GitHub accounts: `JesseQin123` (personal) + `jesseqin-kamiwaza` (work)
 - Twitter bookmark sweeps — GitHub URLs hand-picked from threads I save on X
 - Weekly auto-sync via [`.github/workflows/sync-stars.yml`](.github/workflows/sync-stars.yml)
@@ -27,18 +27,18 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 
 ## Table of Contents
 
-- [🤖 AI Agents & Coding Harnesses (137)](#-ai-agents--coding-harnesses)
-- [🛠 AI Agent Skills & MCP (95)](#-ai-agent-skills--mcp)
+- [🤖 AI Agents & Coding Harnesses (139)](#-ai-agents--coding-harnesses)
+- [🛠 AI Agent Skills & MCP (101)](#-ai-agent-skills--mcp)
 - [🌐 Browser & Web Automation (13)](#-browser--web-automation)
-- [🧠 RAG / Knowledge Graph / Memory (72)](#-rag--knowledge-graph--memory)
-- [🎨 Multimedia AI (76)](#-multimedia-ai)
-- [📊 Crawler & Content Publishing (34)](#-crawler--content-publishing)
-- [💻 Frontend Templates & UI (32)](#-frontend-templates--ui)
+- [🧠 RAG / Knowledge Graph / Memory (73)](#-rag--knowledge-graph--memory)
+- [🎨 Multimedia AI (78)](#-multimedia-ai)
+- [📊 Crawler & Content Publishing (35)](#-crawler--content-publishing)
+- [💻 Frontend Templates & UI (33)](#-frontend-templates--ui)
 - [🏗 Backend & Infrastructure (71)](#-backend--infrastructure)
 - [📝 Knowledge Base & Personal Productivity (28)](#-knowledge-base--personal-productivity)
-- [💰 Finance, Career & Indie Hacker (38)](#-finance-career--indie-hacker)
-- [🎓 Tutorials & Awesome Lists (88)](#-tutorials--awesome-lists)
-- [🌈 Misc / Lifestyle (37)](#-misc--lifestyle)
+- [💰 Finance, Career & Indie Hacker (40)](#-finance-career--indie-hacker)
+- [🎓 Tutorials & Awesome Lists (91)](#-tutorials--awesome-lists)
+- [🌈 Misc / Lifestyle (39)](#-misc--lifestyle)
 
 ---
 
@@ -135,7 +135,7 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [krishagarwal314/CodeJury](https://github.com/krishagarwal314/CodeJury) | Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run tests, and gate pull requests with deterministic QA and ensemble code review. | Python | 143 | `agentic-ai` `ai-agents` `autonomous-agents` `claude` |
 | [Abruptive/Ankh.md](https://github.com/Abruptive/Ankh.md) | A mysterious multi-agent swarm framework summoned by TAW Agent from 1971 to help you craft a better future towards 2133 & beyond. Ankh.md is a Hermes Agent (Nous Research) launch exclusive. | Shell | 74 | `abruptive` `agent` `agent-so` `agents` |
 
-### Agent Platforms & UI (45)
+### Agent Platforms & UI (46)
 
 | Repo | Description | Lang | ⭐ | Topics |
 |---|---|---|---|---|
@@ -183,9 +183,10 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [HKUDS/OpenOPC](https://github.com/HKUDS/OpenOPC) | OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown | Python | 1.5k |  |
 | [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | A smarter, self-hosted AI assistant — multi-user, multi-agent. | Python | 1.1k | `agent` `agentic-ai` `ai` `ai-agent` |
 | [HKUDS/AgentSpace](https://github.com/HKUDS/AgentSpace) | "AgentSpace: Human + Agents. One Team. One Workspace" | TypeScript | 944 |  |
+| [iAmCorey/Wake](https://github.com/iAmCorey/Wake) | Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI. | Rust | 573 |  |
 | [lemma-work/lemma-platform](https://github.com/lemma-work/lemma-platform) | The open-source workspace where humans and AI agents work as one team. | Python | 385 | `ai` `harness` `harness-ai` |
 
-### Generic / Research Agents (21)
+### Generic / Research Agents (22)
 
 | Repo | Description | Lang | ⭐ | Topics |
 |---|---|---|---|---|
@@ -208,6 +209,7 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [ethanjlimgit/android-action-kernel](https://github.com/ethanjlimgit/android-action-kernel) | — | Python | 1.7k |  |
 | [SalesforceAIResearch/enterprise-deep-research](https://github.com/SalesforceAIResearch/enterprise-deep-research) | Salesforce Enterprise Deep Research | Python | 1.2k | `deep-research-agent` `e2b` `fastapi` `langchain` |
 | [microsoft/Orchard](https://github.com/microsoft/Orchard) | Orchard: An Open-Source Agentic Modeling Framework | — | 486 |  |
+| [swjybky/deepwrite](https://github.com/swjybky/deepwrite) | 深度专门用于写作的Harness智能体 | TypeScript | 243 |  |
 | [staru09/open-paxel](https://github.com/staru09/open-paxel) | AI native open-source analyser for your coding patterns | Python | 27 |  |
 | [contextgraph/agent](https://github.com/contextgraph/agent) | Autonomous agent for contextgraph action execution | TypeScript | 2 |  |
 
@@ -279,6 +281,8 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [alchaincyf/steve-jobs-skill](https://github.com/alchaincyf/steve-jobs-skill) | 乔布斯.skill — Steve Jobs的认知操作系统。6个心智模型 + 8条决策启发式 + 完整表达DNA。由女娲.skill生成。 | — | 931 |  |
 | [joeseesun/qiaomu-goal-meta-skill](https://github.com/joeseesun/qiaomu-goal-meta-skill) | Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide | Python | 858 |  |
 | [wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill) | Claude Code skill for publishing Markdown articles to X (Twitter) Articles | Python | 854 |  |
+| [rampstackco/claude-skills](https://github.com/rampstackco/claude-skills) | Stack-agnostic Claude Skills covering the full website lifecycle: brand, design, content, SEO, dev, ops, growth, and research. Build, ship, audit, optimize. | Python | 697 | `agent-skills` `ai-agents` `anthropic` `claude` |
+| [YouMind-OpenLab/ai-image-prompts-skill](https://github.com/YouMind-OpenLab/ai-image-prompts-skill) | AI Image Prompts — 10,000+ curated prompts for any model. Works with Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E, Flux, Stable Diffusion, and more. | TypeScript | 687 |  |
 | [modoojunko/awesome-novel-agent](https://github.com/modoojunko/awesome-novel-agent) | 让 AI agent成为你的小说创作搭档。从世界观搭建到角色塑造，从章节规划到正文写作，一步步陪你完成整部小说。 | Python | 654 | `agent-skill` `ai-fiction` `ai-novel` `ai-skill` |
 | [modoojunko/awesome-novel-skill](https://github.com/modoojunko/awesome-novel-skill) | 让 AI agent成为你的小说创作搭档。从世界观搭建到角色塑造，从章节规划到正文写作，一步步陪你完成整部小说。 | Python | 493 | `agent-skill` `ai-fiction` `ai-novel` `ai-skill` |
 | [alchaincyf/elon-musk-skill](https://github.com/alchaincyf/elon-musk-skill) | 马斯克.skill — Elon Musk的认知操作系统。由女娲.skill生成。 | — | 490 |  |
@@ -310,6 +314,10 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [jtshow/Medusa](https://github.com/jtshow/Medusa) | Medusa Skill Framework for AI Agents. | Rust | 32 |  |
 | [ythx-101/x-profile-analyzer](https://github.com/ythx-101/x-profile-analyzer) | 🦞 X/Twitter user profile analyzer — no API key, no login required | Python | 32 |  |
 | [xiaohei-info/oh-my-agent-skills](https://github.com/xiaohei-info/oh-my-agent-skills) | Open-source bundle of agent methodologies and Hermes-compatible skills. | Python | 27 | `ai-agents` `chatops` `hermes` `knowledge-management` |
+| [qbdx-hub/sunzi-bingfa-skill](https://github.com/qbdx-hub/sunzi-bingfa-skill) | AI skill pack distilled from Sunzi Bingfa for strategy and decision making. | — | 14 | `ai-skills` `book-to-skill` `cangjie-skill` `strategy` |
+| [autodesk-platform-services/aps-sample-mcp-server-revit-automation](https://github.com/autodesk-platform-services/aps-sample-mcp-server-revit-automation) | Sample MCP server to automate Revit via Automation API using SSA | C# | 9 | `aps` `automation-api` `mcp` `mcp-server` |
+| [lesliebiubiubiu/agent-context-kb-skill](https://github.com/lesliebiubiubiu/agent-context-kb-skill) | Lightweight, agent-facing routed knowledge base skill that gives coding agents durable project memory. | Python | 7 | `agent-skills` `claude` `codex` `coding-agent` |
+| [olaxbt/serenity-skill](https://github.com/olaxbt/serenity-skill) | — | Python | 7 |  |
 | [fastapi-practices/mcp](https://github.com/fastapi-practices/mcp) ⚠️ | FastAPI Best Architecture mcp 插件 | Python | 1 | `ai` `fba` `fba-plugin` `mcp` |
 
 
@@ -383,6 +391,7 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [GitHamza0206/simba](https://github.com/GitHamza0206/simba) | OpenSource Production ready Customer service with built in Evals and monitoring | TypeScript | 1.5k | `customer-service` `evals` `knowledge-base` `llm` |
 | [AxDSan/mnemosyne](https://github.com/AxDSan/mnemosyne) | The Zero-Dependency, Sub-Millisecond AI Memory System for Hermes Agents and Everyone Else! | Python | 1.2k | `agents` `ai` `hermes` `hermes-agent` |
 | [neo4j-labs/neosemantics](https://github.com/neo4j-labs/neosemantics) | Graph+Semantics: Import/Export RDF from Neo4j. SHACL Validation, Model mapping and more.... If you like it, please ★ ⇧ | Java | 958 | `knowledge-graph` `linked-data` `neo4j` `ontologies` |
+| [mindscale-noah/MindMemOS](https://github.com/mindscale-noah/MindMemOS) | — | Python | 949 | `agent` `agent-memory` `agent-skills` `agentic` |
 | [whyhow-ai/knowledge-graph-studio](https://github.com/whyhow-ai/knowledge-graph-studio) | WhyHow Knowledge Graph Studio | Python | 927 |  |
 | [ontop/ontop](https://github.com/ontop/ontop) | Ontop is a platform to query relational databases as Virtual RDF Knowledge Graphs using SPARQL | Java | 922 | `java` `obda` `ontop` `owl` |
 | [kweaver-ai/kweaver-core](https://github.com/kweaver-ai/kweaver-core) | KWeaver Core is a harness-first foundation for enterprise decision agents. It turns fragmented data, knowledge, tools, and policies into governed context, safe execution, and verifiable feedback loops. With semantic modeling, real-time access, runtime control, and TraceAI, it helps AI systems reason, adapt, and act reliable in complex enterprises. | Go | 848 | `agents` `bkn` `bussiness-knowledge-network` `decision-intelligence` |
@@ -481,7 +490,7 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [0xsline/short-drama](https://github.com/0xsline/short-drama) | 专业的短剧剧本创作skill,从选题立项到分集撰写、质量自检、合规审核、海外出海，覆盖短剧剧本生产全流程。 | — | 1.1k |  |
 | [huangserva/ComfyUI_MiniMaxH3_Director](https://github.com/huangserva/ComfyUI_MiniMaxH3_Director) | ComfyUI MiniMax H3 Director workflow | — | 725 |  |
 
-### Audio / Voice / Music (8)
+### Audio / Voice / Music (10)
 
 | Repo | Description | Lang | ⭐ | Topics |
 |---|---|---|---|---|
@@ -493,6 +502,8 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) | Mixxx is Free DJ software that gives you everything you need to perform live mixes. | C++ | 7.1k | `audio` `dj` `hid` `linux` |
 | [ysharma3501/LuxTTS](https://github.com/ysharma3501/LuxTTS) | A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime. | Python | 5.3k |  |
 | [harry0703/AudioNotes](https://github.com/harry0703/AudioNotes) | 快速提取音视频内容，整理成一份结构化的markdown笔记 | Python | 2.5k | `ai` `asr` `funasr` `ollama` |
+| [g0v/OpenTransLive](https://github.com/g0v/OpenTransLive) | An open-source, broadcast-style live translation framework — built for event organizers. | Python | 36 |  |
+| [antlionguard/DilMesh](https://github.com/antlionguard/DilMesh) | Live Instant Subtitles & Real-time Multi-language Translation | TypeScript | 4 |  |
 
 ### Documents / Slides / Office (9)
 
@@ -536,7 +547,7 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [otter1101/blogger-distiller](https://github.com/otter1101/blogger-distiller) | 【小红书抖音3万人看过的——博主蒸馏器】你研究了 N 个爆款博主，还是说不清任何一个的操作系统。输入博主的链接，直接蒸馏 TA 的认知和内容打法，装进你的 AI。Distill any blogger's mind into your AI. | Python | 586 |  |
 | [flack0x/trendspyg](https://github.com/flack0x/trendspyg) | Free, maintained Python library + CLI for Google Trends: trending now, plus keyword interest over time, related queries & interest by region. A modern pytrends alternative. | Python | 43 | `cli` `data-analysis` `google-trends` `google-trends-api` |
 
-### Content Publishing & Social Media (14)
+### Content Publishing & Social Media (15)
 
 | Repo | Description | Lang | ⭐ | Topics |
 |---|---|---|---|---|
@@ -553,6 +564,7 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [gitcoffee-os/postbot](https://github.com/gitcoffee-os/postbot) | PostBot 内容同步助手 一款开源的多平台内容同步分发生产力工具。 支持将文章、笔记、动态、图片、视频、音频等内容，一键同步发布至主流媒体平台。覆盖微信/微博/今日头条/小红书/知乎/百家号/企鹅号/视频号/抖音/快手/哔哩哔哩（B站）等国内主流媒体平台，可轻松扩展兼容 X（Twitter）、Facebook、Instagram、TikTok、YouTube、LinkedIn 等国际媒体平台。 | TypeScript | 1.3k | `article` `audio` `automation` `blog` |
 | [AJaySi/ALwrity](https://github.com/AJaySi/ALwrity) | ALwrity - AI-first Digital Marketing Platform. AI Content Strategy and Planning, Multimodal content generation, Publishing, Analytics, AI SEO, Connect & Manage Social Accounts. | Python | 1.1k | `ai-agent` `ai-content-generation` `ai-content-marketing` `ai-digital-marketing` |
 | [spider-ios/autox-release](https://github.com/spider-ios/autox-release) | 网页自动化工具，油管等视频下载，一键搬家，视频多平台发布，一键发布到tiktok、小红书、快手、抖音、油管、B站等等平台 | — | 1.1k |  |
+| [hanliang97/MatrixMedia](https://github.com/hanliang97/MatrixMedia) | 视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli | JavaScript | 694 | `auto` `video` |
 | [humanwhocodes/crosspost](https://github.com/humanwhocodes/crosspost) | A JavaScript utility for posting across multiple social networks at once | JavaScript | 552 |  |
 
 
@@ -601,7 +613,7 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [one-ie/one](https://github.com/one-ie/one) | Make Your Ideas Real. Build Apps, Websites and AI Agents with Plain English with Astro, React, Shadcn and Cloudflare | Astro | 129 | `ai` `astro` `astro-7` `astrojs` |
 | [tim-hub/techtim-astro-bento-portfolio](https://github.com/tim-hub/techtim-astro-bento-portfolio) | An Astro template for personal portfolio, including blog, projects, and more. | TypeScript | 58 | `astro` `react` `shadcn` `tailwindcss` |
 
-### Desktop / Cross-Platform (4)
+### Desktop / Cross-Platform (5)
 
 | Repo | Description | Lang | ⭐ | Topics |
 |---|---|---|---|---|
@@ -609,6 +621,7 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. | Rust | 110.5k | `desktop-app` `high-performance` `mobile-app` `native-app` |
 | [expo/expo](https://github.com/expo/expo) | An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. | TypeScript | 51.8k | `android` `app-framework` `expo` `framework` |
 | [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) | Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app | HTML | 14.4k | `pacbao` `pake` `pakeplus` `rust` |
+| [binghe1980/cueflow](https://github.com/binghe1980/cueflow) | CueFlow (随读) — a notch-adjacent macOS teleprompter that listens as you read and auto-scrolls to follow you. 会听你朗读、自动跟随滚动的 Mac 刘海提词器。 | Swift | 15 | `macos` `menubar` `notch` `prompter` |
 
 
 ## 🏗 Backend & Infrastructure
@@ -791,7 +804,7 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [lucy-cxy/oss-investment-scorecard](https://github.com/lucy-cxy/oss-investment-scorecard) | A structured 5-dimension scoring framework for evaluating open-source AI projects from a VC investment perspective. Maintained by Lucy Chen, EIR at Zoo Capital (Singapore, $2B+ AUM). | — | 336 |  |
 | [gengjiawen/buffett-chinese](https://github.com/gengjiawen/buffett-chinese) | 巴菲特 价值投资 | JavaScript | 277 |  |
 
-### Career / Job Search (6)
+### Career / Job Search (7)
 
 | Repo | Description | Lang | ⭐ | Topics |
 |---|---|---|---|---|
@@ -801,8 +814,9 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [vasu-devs/JustHireMe](https://github.com/vasu-devs/JustHireMe) | Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials. | Python | 2.2k | `agents` `ai` `hireme` `hiring` |
 | [LiuMengxuan04/shushu-internship-tool](https://github.com/LiuMengxuan04/shushu-internship-tool) | 把岗位描述变项目，把项目变简历，把简历变面试。 | Python | 1.9k | `ai` `ai-agents` `skills` |
 | [XiaomingX/jobleap-cn-ai-job-search](https://github.com/XiaomingX/jobleap-cn-ai-job-search) | 招聘和找工作相关信息通告.jobleap.cn 是一个基于人工智能（AI）技术的智能求职平台，专门为技术人员和应届毕业生量身定制，提供全方位的职业发展和求职辅助服务。它集成了模拟面试、面试押题、智能简历模板、职位匹配分析等功能，帮助用户科学规划职业路径，精准定位岗位，从而大幅提升面试通过率和求职效率。 | Python | 157 | `awesome` `jobsearch` |
+| [dataPro-lgtm/fde-interview-fieldbook](https://github.com/dataPro-lgtm/fde-interview-fieldbook) | Source-backed, production-first FDE interview fieldbook with cases, scorecards, and current role research. | Python | 30 | `ai-agents` `applied-ai` `chinese` `customer-engineering` |
 
-### Indie Hacker / Side Projects (7)
+### Indie Hacker / Side Projects (8)
 
 | Repo | Description | Lang | ⭐ | Topics |
 |---|---|---|---|---|
@@ -813,6 +827,7 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [XiaomingX/indie-hacker-tools-plus](https://github.com/XiaomingX/indie-hacker-tools-plus) | 为独立开发者准备的精选技术栈和工具仓库来了！这里有你最需要的工具，帮你提升开发效率、节约成本，最重要的是——这些工具都是市场上热门的，经过验证的。🚀A curated collection of tech stacks and tools tailored for independent developers is here! these are proven, popular tools widely used in the industry. 🚀 | — | 1.8k | `agent` `ai` `awesome` `awesome-list` |
 | [huangyun101/AI-Business-Hunter](https://github.com/huangyun101/AI-Business-Hunter) | 分享一些用 AI 来变现的小生意 | — | 139 |  |
 | [awesome-sideprojects/awesome-sideprojects](https://github.com/awesome-sideprojects/awesome-sideprojects) | A fun and slightly chaotic list of Awesome Sideprojects \| Get Traffic from ChatGPT 👇 | — | 51 |  |
+| [opentsc/tsc](https://github.com/opentsc/tsc) | The Thin-Shell Company: a whitepaper on running a large, self-evolving organization as one person with AI agents. 薄壳公司白皮书。 | — | 12 | `autopoiesis` `self-evolving-organization` `soul-shell-architecture` `thin-shell-company` |
 
 ### Marketing / Growth (7)
 
@@ -886,7 +901,7 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) | Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南 | Python | 4.9k |  |
 | [alchaincyf/deepseek-harness-orange-book](https://github.com/alchaincyf/deepseek-harness-orange-book) | DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载 | HTML | 1.2k |  |
 
-### System Design & Interview (10)
+### System Design & Interview (12)
 
 | Repo | Description | Lang | ⭐ | Topics |
 |---|---|---|---|---|
@@ -900,6 +915,8 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) | 📚 后端程序员应该掌握的主流数据库知识 | Java | 5.4k | `database` `db` `elasticsearch` `hbase` |
 | [subhashchy/The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO) | How I Scaled from Zero to a Million Store on Dukaan,  Without a CS Degree.  .. A System Design Handbook by  Subhash Choudhary | TypeScript | 3.6k | `scaling` `system-design` |
 | [mallahyari/ml-practical-usecases](https://github.com/mallahyari/ml-practical-usecases) | A database of 650 Machine Learning (ML) system design case studies from 100+ companies. | — | 1.3k |  |
+| [davidahmann/fde-guide](https://github.com/davidahmann/fde-guide) | Forward deployed engineering guide for production AI systems: value, architecture, evals, security, deployment, and operations. | JavaScript | 60 | `agentic-ai` `ai-agent-architecture` `ai-agent-evaluation` `ai-agent-security` |
+| [goday-org/FDE-Handbook](https://github.com/goday-org/FDE-Handbook) | A production-ready handbook for Forward Deployed Engineers (FDEs). Covers enterprise landing zones, VPC Service Controls, data auditing, multi-agent orchestration, and LLM evaluation (中英双语). | Python | 14 |  |
 
 ### Build-Your-Own-X / Project-Based (6)
 
@@ -912,7 +929,7 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) | This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning." | MATLAB | 17.5k | `artificial-intelligence` `book` `courses` `reinforcement-learning` |
 | [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) | Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation. | Python | 12.6k | `audiobook` `faster-whisper` `gradio` `karaoke` |
 
-### Awesome Lists (30)
+### Awesome Lists (31)
 
 | Repo | Description | Lang | ⭐ | Topics |
 |---|---|---|---|---|
@@ -944,6 +961,7 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [mliu98/awesome-human-distillation](https://github.com/mliu98/awesome-human-distillation) | A curated catalog of human distillliation agent skills | Python | 726 | `agent-skills` `awesome-list` `claude-code` `claude-code-skills` |
 | [Curated-Awesome-Lists/awesome-llms-fine-tuning](https://github.com/Curated-Awesome-Lists/awesome-llms-fine-tuning) | Explore a comprehensive collection of resources, tutorials, papers, tools, and best practices for fine-tuning Large Language Models (LLMs). Perfect for ML practitioners and researchers! | — | 525 | `ai` `awesome-list` `deep-learning` `fine-tuning` |
 | [Zheng-Chong/Awesome-Try-On-Models](https://github.com/Zheng-Chong/Awesome-Try-On-Models) | A repository for organizing papers, codes and other resources related to Virtual Try-on Models | — | 444 | `3d-generation` `diffusion-models` `image-generation` `sota-model` |
+| [ombegov/2025-Federal-Agency-AI-Use-Case-Inventory](https://github.com/ombegov/2025-Federal-Agency-AI-Use-Case-Inventory) | The 2025 consolidation of AI use case inventories across U.S. Federal agencies. | — | 190 |  |
 | [lliai/Awesome-Vision-Knowledge-Distillation](https://github.com/lliai/Awesome-Vision-Knowledge-Distillation) | Awesome Knowledge-Distillation for CV | — | 94 |  |
 | [kg-construct/awesome-kgc-tools](https://github.com/kg-construct/awesome-kgc-tools) | Links and description of Knowledge Graphs Construction Tools | — | 86 |  |
 
@@ -960,7 +978,7 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) | 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database. | TypeScript | 8.4k | `coach` `exercise` `feature-sliced-design` `fitness` |
 | [liu-ziting/what-to-eat](https://github.com/liu-ziting/what-to-eat) | 一饭封神：一个基于 AI 的智能菜谱生成平台，支持中华八大菜系 + 国际料理，提供营养分析、酒水推荐、菜谱效果图生成等全方位烹饪指导。 | Vue | 3.5k | `ai` `gpt` `vibe-coding` |
 
-### OSINT / Security (9)
+### OSINT / Security (10)
 
 | Repo | Description | Lang | ⭐ | Topics |
 |---|---|---|---|---|
@@ -973,6 +991,7 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) | 2026最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】 | — | 23k | `telegram` `telegram-api` `telegram-bot` `telegram-bot-api` |
 | [reconurge/flowsint](https://github.com/reconurge/flowsint) | A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators. | TypeScript | 7.7k | `investigation` `osint` `python` `recon` |
 | [s0md3v/be-a-hacker](https://github.com/s0md3v/be-a-hacker) | roadmap for a self-taught hacker | — | 2.9k |  |
+| [lyrcsjy/wechat-decrypt](https://github.com/lyrcsjy/wechat-decrypt) | — | Python | 9 |  |
 
 ### Web3 / Blockchain (2)
 
@@ -997,7 +1016,7 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [cubewhy/skid-homework](https://github.com/cubewhy/skid-homework) | Ergonomically designed, AI-powered homework solver. \| 符合人体工程学设计、人工智能驱动的作业助手 \| 平庸者的苦工到此为止，这是来自外星的效率补丁 (by Gemini) | TypeScript | 1.7k | `ai` `gemini` `homework` `homework-helper` |
 | [wassimj/topologicpy](https://github.com/wassimj/topologicpy) | The python bindings for topologic | Jupyter Notebook | 254 |  |
 
-### Personal / Sandbox Projects (15)
+### Personal / Sandbox Projects (16)
 
 | Repo | Description | Lang | ⭐ | Topics |
 |---|---|---|---|---|
@@ -1013,6 +1032,7 @@ Paste a GitHub URL into [`inbox.md`](./inbox.md) → run `scripts/enrich-inbox.s
 | [jayrodge/ai-agents](https://github.com/jayrodge/ai-agents) | — | Python | 260 |  |
 | [gkamradt/MultiTerminalCodeViz](https://github.com/gkamradt/MultiTerminalCodeViz) | — | TypeScript | 249 |  |
 | [draco-agent/tech-news-digest](https://github.com/draco-agent/tech-news-digest) | — | Python | 72 |  |
+| [thebuggeddev/promise-wall](https://github.com/thebuggeddev/promise-wall) | A digital promise wall developed in three.js using Fable 5 | HTML | 69 |  |
 | [ppuliu/night-shift](https://github.com/ppuliu/night-shift) | Turns a normal Claude Code session into an autonomous overnight development agent | — | 22 |  |
 | [JesseQin123/JewelFlow](https://github.com/JesseQin123/JewelFlow) | — | TypeScript | 1 |  |
 | [wtlee328/lead-gen](https://github.com/wtlee328/lead-gen) | — | Vue | 1 |  |
