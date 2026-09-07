@@ -1081,3 +1081,35 @@ vercel-labs/fx, lmnr-ai/index, riddleling/iOS-OCR-Server, ApodexAI/FrontierAgent
 pollen-robotics/microduck_rl, laude-institute/headlong, ant-research/4DAnyone,
 Tencent/WeMM-Embedding, furkankly/zoetrope, tt-a1i/simplify-codebase,
 ktwu01/benchmark-radar, EZ-VAI/outsider, fastapi-practices/ai_mcp
+
+<!-- synced 2026-09-07T14:57:10Z -->
+- https://github.com/ApodexAI/FrontierAgent  — ⭐ 2042 · Python · 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.
+- https://github.com/EZ-VAI/outsider  — ⭐ 3 · JavaScript · Open-source controller and tamper-evident evidence layer for long-running AI workers
+- https://github.com/Tencent/WeMM-Embedding  — ⭐ 1362 · Python · WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.
+- https://github.com/ant-research/4DAnyone  — ⭐ 1212 · Python · [SIGGRAPH Asia 2026] 4DAnyone: Create Anyone in 4D from a Casual Monocular Video
+- https://github.com/browser-use/video-use  — ⭐ 24327 · Python · Edit videos with coding agents
+- https://github.com/career-ops-hq/career-ops  — ⭐ 70423 · JavaScript · Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
+- https://github.com/furkankly/zoetrope  — ⭐ 802 · Rust · Watch a Claude Code session as a live flow graph, in your terminal or your browser.
+- https://github.com/jingyaogong/minimind  — ⭐ 59392 · Python · 🧠 Train a 64M-parameter LLM from scratch in just 2h!
+- https://github.com/laude-institute/headlong  — ⭐ 1127 · Shell · An open source agent microharness featuring persistent agency and recursive LLMs. Of bash, by bash, for bash; it's shells all the way down.
+- https://github.com/sidinsearch/superbrain  — ⭐ 452 · Python · SuperBrain — AI-powered save-it-later brain for Instagram, YouTube & Web
+- https://github.com/sigpanic/goink  — ⭐ 321 · Go · Goink 桌面 AI 小说创作助手，对话式写作 + 自动状态追踪 + 本地语义搜索。跨平台开箱即用。AI Agent Novel Generator.
+- https://github.com/vercel-labs/fx  — ⭐ 2788 · Zig · Unix like coding agent
+- https://github.com/xerrors/Yuxi  — ⭐ 6783 · Python · 可私有部署的多租户知识智能体平台：统一 RAG、知识图谱、多智能体、MCP/Skills、沙盒与权限管理。Self-hosted knowledge agent platform for RAG, knowledge graphs and multi-agent workflows.
+- https://github.com/zvec-ai/zvec-grep  — ⭐ 3080 · TypeScript · Local-first search across your workspace, built for humans and AI agents.
+
+<!-- synced 2026-09-07T14:57:15Z -->
+- https://github.com/Anil-matcha/Open-Generative-AI  — ⭐ 28015 · JavaScript · Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+- https://github.com/PolymathicAI/the_well  — ⭐ 4425 · Jupyter Notebook · A 15TB Collection of Physics Simulation Datasets
+- https://github.com/anymouschina/TapCanvas  — ⭐ 600 · TypeScript · 独一无二的沉浸式画布，完全开源
+- https://github.com/browser-use/video-use  — ⭐ 24327 · Python · Edit videos with coding agents
+- https://github.com/career-ops-hq/career-ops  — ⭐ 70423 · JavaScript · Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
+- https://github.com/davidahmann/applied-ai-field-guide  — ⭐ 71 · JavaScript · The Applied AI Field Guide: fieldwork, value engineering, and operations for AI that works beyond the demo.
+- https://github.com/fabro-sh/fabro  — ⭐ 1571 · Rust · ⚒️ The open source dark software factory for expert engineers.
+- https://github.com/ktwu01/benchmark-radar  — ⭐ 169 · Python · Track 10,000+ AI benchmark, eval, dataset, and data-quality records from 37 public sources, with linked evidence and daily updates.
+- https://github.com/lmnr-ai/index  — ⭐ 2423 · Python · The SOTA Open-Source Browser Agent for autonomously performing complex tasks on the web
+- https://github.com/macro-inc/macro  — ⭐ 4230 · Rust · Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
+- https://github.com/pollen-robotics/microduck_rl  — ⭐ 1883 · Python · RL training environments for Microduck (mjlab)
+- https://github.com/riddleling/iOS-OCR-Server  — ⭐ 2074 · Swift · An iOS OCR Server Using Apple’s Vision Framework
+- https://github.com/sgl-project/sglang-omni  — ⭐ 1119 · Python · SGLang-Omni is a high-performance serving framework for audio models (TTS, ASR) and unified multimodal models.
+- https://github.com/tt-a1i/simplify-codebase  — ⭐ 455 · HTML · Prove and remove accidental codebase complexity without breaking behavior.
