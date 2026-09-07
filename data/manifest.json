@@ -3703,5 +3703,105 @@
     "category": "multimedia",
     "subcategory": "audio",
     "zh": "DilMesh：实时字幕与多语言即时翻译工具，支持流媒体场景下的实时语音翻译与字幕生成。"
+  },
+  "papers-we-love/papers-we-love": {
+    "category": "tutorials",
+    "subcategory": "awesome-lists",
+    "zh": "计算机科学社区的经典论文阅读与讨论合集"
+  },
+  "microsoft/VibeVoice": {
+    "category": "multimedia",
+    "subcategory": "audio",
+    "zh": "微软开源的前沿语音 AI 系统"
+  },
+  "GitHubDaily/GitHubDaily": {
+    "category": "tutorials",
+    "subcategory": "awesome-lists",
+    "zh": "每日精选 GitHub 高质量开源项目与技术资讯（中文）"
+  },
+  "anywhere-labs/dsh-desktop": {
+    "category": "ai-agents",
+    "subcategory": "agent-platforms",
+    "zh": "DeepSeek Harness 桌面端新版，为 DSH 插件生态打造的现代化桌面应用，万物皆插件架构"
+  },
+  "docmost/docmost": {
+    "category": "kb-productivity",
+    "subcategory": "note",
+    "zh": "开源协作 Wiki 与文档平台，Confluence 和 Notion 的自托管替代品"
+  },
+  "ZJU-LLMs/Foundations-of-LLMs": {
+    "category": "tutorials",
+    "subcategory": "llm-en",
+    "zh": "浙大出品的《大语言模型基础》开源教材"
+  },
+  "liquidslr/system-design-notes": {
+    "category": "tutorials",
+    "subcategory": "system-design",
+    "zh": "《系统设计面试：内部指南》配套笔记精华版"
+  },
+  "Tencent-Hunyuan/Hunyuan3D-2": {
+    "category": "multimedia",
+    "subcategory": "image",
+    "zh": "腾讯混元出品的高分辨率 3D 资产生成扩散模型"
+  },
+  "davebcn87/pi-autoresearch": {
+    "category": "ai-agents",
+    "subcategory": "agent-platforms",
+    "zh": "面向 pi agent 的自主实验循环扩展插件，自动研究并迭代实验"
+  },
+  "apurvsinghgautam/robin": {
+    "category": "misc",
+    "subcategory": "osint",
+    "zh": "AI 驱动的暗网 OSINT 情报调查工具"
+  },
+  "34306/vphone-aio": {
+    "category": "misc",
+    "subcategory": "personal-projects",
+    "zh": "一键脚本启动 vphone 虚拟手机服务（AIO 版）"
+  },
+  "htdt/godogen": {
+    "category": "ai-agents",
+    "subcategory": "claude-code",
+    "zh": "基于 Claude Code 与 Codex 的 Godot/Bevy/Babylon.js 自主游戏开发工具"
+  },
+  "zenstory-ai/oh-story-claudecode": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "网文/小说写作全流程 skill 包，覆盖扫榜、拆文、写作、去 AI 味与封面图生成"
+  },
+  "volcengine/MineContext": {
+    "category": "rag-kg-memory",
+    "subcategory": null,
+    "zh": "火山引擎出品的主动式上下文感知 AI 伴侣，融合 Context Engineering 与实时信息聚合"
+  },
+  "pollen-robotics/microduck": {
+    "category": "misc",
+    "subcategory": "personal-projects",
+    "zh": "开源超小型双足鸭形机器人项目"
+  },
+  "apache/maka": {
+    "category": "ai-agents",
+    "subcategory": "agent-platforms",
+    "zh": "Apache Maka（孵化中）：本地优先的 AI agent 工作空间，以追加日志记录全部工具调用与决策事件"
+  },
+  "b-nnett/grok-bot-0.18-reconstructed": {
+    "category": "ai-agents",
+    "subcategory": "agent-platforms",
+    "zh": "Grok Bot 0.18.0 的非官方源码重建与扩展版本（macOS）"
+  },
+  "LLMQuant/quant-mind": {
+    "category": "finance-career",
+    "subcategory": "finance",
+    "zh": "面向量化金融的 agent 原生知识抽取与检索框架"
+  },
+  "rawfilejson/awesome-osint-arsenal": {
+    "category": "misc",
+    "subcategory": "osint",
+    "zh": "100+ 工具一键安装的 OSINT 侦察工具包，覆盖 SOCMINT、GEOINT、暗网、取证等场景"
+  },
+  "geeklee/srt-whiteboard-animation": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "将 SRT 字幕转换为暖米黄底白板手绘动画的 Claude Code skill"
   }
 }

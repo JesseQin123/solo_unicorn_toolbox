@@ -1048,3 +1048,36 @@
 - https://github.com/pollen-robotics/microduck_rl  — ⭐ 1089 · Python · RL training environments for Microduck (mjlab)
 - https://github.com/riddleling/iOS-OCR-Server  — ⭐ 2026 · Swift · An iOS OCR Server Using Apple’s Vision Framework
 - https://github.com/tt-a1i/simplify-codebase  — ⭐ 370 · — · Prove and remove accidental codebase complexity without breaking behavior.
+
+## Auto-classified 2026-09-07
+
+The following 20 repos (top by ⭐ from the 2026-08-31 sync) were auto-classified and added to `data/manifest.json`:
+
+| Repo | ⭐ | Category | Subcategory |
+|---|---|---|---|
+| papers-we-love/papers-we-love | 109321 | tutorials | awesome-lists |
+| microsoft/VibeVoice | 53466 | multimedia | audio |
+| GitHubDaily/GitHubDaily | 47777 | tutorials | awesome-lists |
+| anywhere-labs/dsh-desktop | 22425 | ai-agents | agent-platforms |
+| docmost/docmost | 21523 | kb-productivity | note |
+| ZJU-LLMs/Foundations-of-LLMs | 17779 | tutorials | llm-en |
+| liquidslr/system-design-notes | 15247 | tutorials | system-design |
+| Tencent-Hunyuan/Hunyuan3D-2 | 14712 | multimedia | image |
+| davebcn87/pi-autoresearch | 7940 | ai-agents | agent-platforms |
+| apurvsinghgautam/robin | 6800 | misc | osint |
+| 34306/vphone-aio | 6737 | misc | personal-projects |
+| htdt/godogen | 6614 | ai-agents | claude-code |
+| zenstory-ai/oh-story-claudecode | 6286 | skills-mcp | — |
+| volcengine/MineContext | 5496 | rag-kg-memory | — |
+| pollen-robotics/microduck | 4492 | misc | personal-projects |
+| apache/maka | 4301 | ai-agents | agent-platforms |
+| b-nnett/grok-bot-0.18-reconstructed | 3460 | ai-agents | agent-platforms |
+| LLMQuant/quant-mind | 2774 | finance-career | finance |
+| rawfilejson/awesome-osint-arsenal | 2661 | misc | osint |
+| geeklee/srt-whiteboard-animation | 2654 | skills-mcp | — |
+
+Overflow (13 repos deferred to next run — already in inbox above):
+vercel-labs/fx, lmnr-ai/index, riddleling/iOS-OCR-Server, ApodexAI/FrontierAgent,
+pollen-robotics/microduck_rl, laude-institute/headlong, ant-research/4DAnyone,
+Tencent/WeMM-Embedding, furkankly/zoetrope, tt-a1i/simplify-codebase,
+ktwu01/benchmark-radar, EZ-VAI/outsider, fastapi-practices/ai_mcp
