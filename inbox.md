@@ -1113,3 +1113,38 @@ ktwu01/benchmark-radar, EZ-VAI/outsider, fastapi-practices/ai_mcp
 - https://github.com/riddleling/iOS-OCR-Server  — ⭐ 2074 · Swift · An iOS OCR Server Using Apple’s Vision Framework
 - https://github.com/sgl-project/sglang-omni  — ⭐ 1119 · Python · SGLang-Omni is a high-performance serving framework for audio models (TTS, ASR) and unified multimodal models.
 - https://github.com/tt-a1i/simplify-codebase  — ⭐ 455 · HTML · Prove and remove accidental codebase complexity without breaking behavior.
+
+
+## Auto-classified 2026-09-14
+
+- https://github.com/career-ops-hq/career-ops  → finance-career/career  ⭐70,423 · JavaScript
+- https://github.com/jingyaogong/minimind  → tutorials/build-your-own  ⭐59,392 · Python
+- https://github.com/Anil-matcha/Open-Generative-AI  → multimedia/image  ⭐28,015 · JavaScript
+- https://github.com/browser-use/video-use  → multimedia/video  ⭐24,327 · Python
+- https://github.com/xerrors/Yuxi  → rag-kg-memory/null  ⭐6,783 · Python
+- https://github.com/PolymathicAI/the_well  → tutorials/llm-en  ⭐4,425 · Jupyter Notebook
+- https://github.com/macro-inc/macro  → kb-productivity/note  ⭐4,230 · Rust
+- https://github.com/zvec-ai/zvec-grep  → skills-mcp/null  ⭐3,080 · TypeScript
+- https://github.com/vercel-labs/fx  → ai-agents/generic  ⭐2,788 · Zig
+- https://github.com/lmnr-ai/index  → browser-automation/null  ⭐2,423 · Python
+- https://github.com/riddleling/iOS-OCR-Server  → backend-infra/self-host  ⭐2,074 · Swift
+- https://github.com/ApodexAI/FrontierAgent  → ai-agents/agent-platforms  ⭐2,042 · Python
+- https://github.com/pollen-robotics/microduck_rl  → misc/personal-projects  ⭐1,883 · Python
+- https://github.com/fabro-sh/fabro  → misc/personal-projects  ⭐1,571 · Rust
+- https://github.com/Tencent/WeMM-Embedding  → rag-kg-memory/null  ⭐1,362 · Python
+- https://github.com/ant-research/4DAnyone  → multimedia/video  ⭐1,212 · Python
+- https://github.com/laude-institute/headlong  → ai-agents/generic  ⭐1,127 · Shell
+- https://github.com/sgl-project/sglang-omni  → multimedia/audio  ⭐1,119 · Python
+- https://github.com/furkankly/zoetrope  → ai-agents/claude-code  ⭐802 · Rust
+- https://github.com/anymouschina/TapCanvas  → multimedia/image  ⭐600 · TypeScript
+
+## Newly starred (overflow) 2026-09-14
+
+<!-- Top 20 were auto-classified. These 7 need manual review next run. -->
+- https://github.com/tt-a1i/simplify-codebase  — ⭐ 455 · HTML · Prove and remove accidental codebase complexity without breaking behavior.
+- https://github.com/sidinsearch/superbrain  — ⭐ 452 · Python · SuperBrain — AI-powered save-it-later brain for Instagram, YouTube & Web
+- https://github.com/sigpanic/goink  — ⭐ 321 · Go · Goink 桌面 AI 小说创作助手，对话式写作 + 自动状态追踪 + 本地语义搜索。跨平台开箱即用。AI Agent Novel Generator.
+- https://github.com/ktwu01/benchmark-radar  — ⭐ 169 · Python · Track 10,000+ AI benchmark, eval, dataset, and data-quality records from 37 publ
+- https://github.com/davidahmann/applied-ai-field-guide  — ⭐ 71 · JavaScript · The Applied AI Field Guide: fieldwork, value engineering, and operations for AI 
+- https://github.com/EZ-VAI/outsider  — ⭐ 3 · JavaScript · Open-source controller and tamper-evident evidence layer for long-running AI wor
+- https://github.com/fastapi-practices/ai_mcp  — ⭐ 1 · Python · FastAPI Best Architecture ai mcp 插件
