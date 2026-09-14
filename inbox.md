@@ -1148,3 +1148,27 @@ ktwu01/benchmark-radar, EZ-VAI/outsider, fastapi-practices/ai_mcp
 - https://github.com/davidahmann/applied-ai-field-guide  — ⭐ 71 · JavaScript · The Applied AI Field Guide: fieldwork, value engineering, and operations for AI 
 - https://github.com/EZ-VAI/outsider  — ⭐ 3 · JavaScript · Open-source controller and tamper-evident evidence layer for long-running AI wor
 - https://github.com/fastapi-practices/ai_mcp  — ⭐ 1 · Python · FastAPI Best Architecture ai mcp 插件
+
+<!-- synced 2026-09-14T15:48:44Z -->
+- https://github.com/AsadMoulviDev/reel-video  — ⭐ 28 · TypeScript · Create AI videos with Claude Code, Codex, Cursor, and Grok Build, with no extra generation fees beyond the plans you already pay for
+- https://github.com/EZ-VAI/outsider  — ⭐ 3 · JavaScript · Open-source controller and tamper-evident evidence layer for long-running AI workers
+- https://github.com/Ephemeral-AI-Lab/layerfs  — ⭐ 233 · Rust · LayerFS gives every agent an isolated, disposable filesystem fork without copying the shared base. Useful states become durable, deduplicated checkpoints with workspace-scoped tool history—ready to branch, rewind, or reuse across parallel development, environment experiments, and MCTS-style rollouts.
+- https://github.com/Kritt-ai/open-kritt  — ⭐ 2130 · JavaScript · Open-source, self-hosted AI vulnerability research tool that orchestrates agents to find and validate security issues in code.
+- https://github.com/THU-MAIC/OpenMAIC  — ⭐ 36746 · TypeScript · Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+- https://github.com/huggingface/speech-to-speech  — ⭐ 13190 · Python · Build voice agents with open-source models
+- https://github.com/huggingface/trl  — ⭐ 19304 · Python · Train transformer language models with reinforcement learning.
+- https://github.com/jordan-gibbs/hyperresearch  — ⭐ 3294 · Python · Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.
+- https://github.com/mastra-ai/mastra  — ⭐ 28031 · TypeScript · Mastra is the modern TypeScript framework for AI-powered applications and agents.
+- https://github.com/radixark/miles  — ⭐ 2869 · Python · Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.
+- https://github.com/sidinsearch/superbrain  — ⭐ 452 · Python · SuperBrain — AI-powered save-it-later brain for Instagram, YouTube & Web
+- https://github.com/sigpanic/goink  — ⭐ 344 · Go · Goink 桌面 AI 小说创作助手，对话式写作 + 自动状态追踪 + 本地语义搜索。跨平台开箱即用。AI Agent Novel Generator.
+- https://github.com/yt-dlp/yt-dlp  — ⭐ 191101 · Python · A feature-rich command-line audio/video downloader
+- https://github.com/zhaoxuya520/reverse-skill  — ⭐ 35891 · PowerShell · Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+
+<!-- synced 2026-09-14T15:48:50Z -->
+- https://github.com/THU-MAIC/OpenMAIC  — ⭐ 36746 · TypeScript · Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+- https://github.com/davidahmann/applied-ai-field-guide  — ⭐ 108 · JavaScript · The Applied AI Field Guide: fieldwork, value, engineering, and operations for AI that works beyond the demo.
+- https://github.com/ktwu01/benchmark-radar  — ⭐ 203 · Python · Track 11,923+ AI benchmark, eval, dataset, and data-quality records from 37 public sources, with linked evidence and daily updates.
+- https://github.com/langchain-ai/agents-from-scratch  — ⭐ 2220 · Jupyter Notebook · Build an email assistant with human-in-the-loop and memory
+- https://github.com/tt-a1i/simplify-codebase  — ⭐ 475 · HTML · Prove and remove accidental codebase complexity without breaking behavior.
+- https://github.com/uditgoenka/autoresearch  — ⭐ 6305 · Shell · Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
