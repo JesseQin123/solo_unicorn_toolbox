@@ -1195,3 +1195,32 @@ ktwu01/benchmark-radar, EZ-VAI/outsider, fastapi-practices/ai_mcp
 - https://github.com/AsadMoulviDev/reel-video  → multimedia/video  ⭐28 · TypeScript
 - https://github.com/fastapi-practices/ai_mcp  → skills-mcp/null  ⭐1 · Python
 - https://github.com/EZ-VAI/outsider  → ai-agents/generic  ⭐3 · JavaScript
+
+<!-- synced 2026-09-21T15:48:02Z -->
+- https://github.com/MiniMax-AI/minimax-code  — ⭐ 1665 · TypeScript · An open-source coding agent for your terminal, powered by MiniMax.
+- https://github.com/agent-substrate/always-on-agent  — ⭐ 5 · TypeScript · Run always-on messaging agents on Agent Substrate. A multi-tenant gateway holds the channel connections while each conversation runs as a suspendable actor, so presence stays warm and cognition suspends to reclaim compute. Reference implementation built on OpenClaw.
+- https://github.com/agent-substrate/substrate  — ⭐ 2515 · Go · Agent Substrate: the core system
+- https://github.com/frontier-harness-eval/eval  — ⭐ 265 · JavaScript · Public results and task definitions for FrontierHarness Eval
+- https://github.com/hehonghui/awesome-english-ebooks  — ⭐ 36755 · CSS · 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
+- https://github.com/hypit-ai/hypit  — ⭐ 12504 · TypeScript · Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
+- https://github.com/loopx-project/loopx  — ⭐ 5916 · Python · Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.
+- https://github.com/nashsu/llm_wiki  — ⭐ 19828 · TypeScript · LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。
+- https://github.com/vibheksoni/stealth-browser-mcp  — ⭐ 2129 · Python · The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat.
+- https://github.com/yibie/awesome-jev  — ⭐ 879 · Python · A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.
+
+<!-- synced 2026-09-21T15:48:08Z -->
+- https://github.com/eternity4719/HowToLiveBetter  — ⭐ 10774 · HTML · 按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
+- https://github.com/google-labs-code/stax  — ⭐ 119 · TypeScript · 
+- https://github.com/hypit-ai/hypit  — ⭐ 12504 · TypeScript · Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
+- https://github.com/keyuchen21/agentic-engineering-handbook  — ⭐ 313 · Python · The definitive OpenAI, Claude, MCP, Harness, Evals, and Production Agent Systems learning roadmap.
+- https://github.com/loopx-project/loopx  — ⭐ 5916 · Python · Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.
+- https://github.com/modelscope/ms-cookbook  — ⭐ 378 · HTML · 魔搭紫皮书｜ModelScope Cookbook：面向开发者的开源模型应用实战指南，覆盖模型选型、推理、微调、评测、RAG、Agent 与 AIGC，从跑通第一个模型到构建实际应用。
+- https://github.com/omacom/omarchy  — ⭐ 42495 · Shell · Beautiful, Modern & Opinionated Linux
+- https://github.com/oraios/serena  — ⭐ 29670 · Python · A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
+- https://github.com/orbi-build/orbi  — ⭐ 185 · Python · Orbi — the factory that builds and operates AI software factories. GitHub Issues in, releases and runnable system out
+- https://github.com/ruc-datalab/EvoOntology  — ⭐ 253 · Python · EvoOntology: A Self-Evolving Ontology Layer for Data Agents ⚙️ EvoOntology插件为Claude Code/Codex 建立&进化本体层
+- https://github.com/slavakurilyak/awesome-ai-agents  — ⭐ 2219 · Python · Awesome list of 300+ agentic AI resources
+- https://github.com/stanford-oval/storm  — ⭐ 31456 · Python · An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+- https://github.com/supermemoryai/supermemory  — ⭐ 30750 · TypeScript · Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
+- https://github.com/unicodef1wn/grokbot-field-notes  — ⭐ 468 · Python · Rules, playbooks, bot roles and a failure log from the xAI Grok Bot team's 72-hour live build. Drop AGENTS.md into your repo and go.
+- https://github.com/zgcagi/ZGCM-1  — ⭐ 514 · Python · 
