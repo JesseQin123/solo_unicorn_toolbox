@@ -1172,3 +1172,26 @@ ktwu01/benchmark-radar, EZ-VAI/outsider, fastapi-practices/ai_mcp
 - https://github.com/langchain-ai/agents-from-scratch  — ⭐ 2220 · Jupyter Notebook · Build an email assistant with human-in-the-loop and memory
 - https://github.com/tt-a1i/simplify-codebase  — ⭐ 475 · HTML · Prove and remove accidental codebase complexity without breaking behavior.
 - https://github.com/uditgoenka/autoresearch  — ⭐ 6305 · Shell · Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
+
+## Auto-classified 2026-09-21
+
+- https://github.com/yt-dlp/yt-dlp  → crawler-publish/crawler  ⭐191,101 · Python
+- https://github.com/THU-MAIC/OpenMAIC  → misc/education  ⭐36,746 · TypeScript
+- https://github.com/zhaoxuya520/reverse-skill  → skills-mcp/null  ⭐35,891 · PowerShell
+- https://github.com/mastra-ai/mastra  → ai-agents/agent-platforms  ⭐28,031 · TypeScript
+- https://github.com/huggingface/trl  → backend-infra/ai-toolkit  ⭐19,304 · Python
+- https://github.com/huggingface/speech-to-speech  → multimedia/audio  ⭐13,190 · Python
+- https://github.com/uditgoenka/autoresearch  → skills-mcp/null  ⭐6,305 · Shell
+- https://github.com/jordan-gibbs/hyperresearch  → skills-mcp/null  ⭐3,294 · Python
+- https://github.com/radixark/miles  → backend-infra/ai-toolkit  ⭐2,869 · Python
+- https://github.com/langchain-ai/agents-from-scratch  → tutorials/llm-en  ⭐2,220 · Jupyter Notebook
+- https://github.com/Kritt-ai/open-kritt  → misc/osint  ⭐2,130 · JavaScript
+- https://github.com/tt-a1i/simplify-codebase  → skills-mcp/null  ⭐475 · HTML
+- https://github.com/sidinsearch/superbrain  → kb-productivity/note  ⭐452 · Python
+- https://github.com/sigpanic/goink  → multimedia/documents-slides  ⭐344 · Go
+- https://github.com/Ephemeral-AI-Lab/layerfs  → backend-infra/ai-toolkit  ⭐233 · Rust
+- https://github.com/ktwu01/benchmark-radar  → backend-infra/ai-toolkit  ⭐203 · Python
+- https://github.com/davidahmann/applied-ai-field-guide  → tutorials/llm-en  ⭐108 · JavaScript
+- https://github.com/AsadMoulviDev/reel-video  → multimedia/video  ⭐28 · TypeScript
+- https://github.com/fastapi-practices/ai_mcp  → skills-mcp/null  ⭐1 · Python
+- https://github.com/EZ-VAI/outsider  → ai-agents/generic  ⭐3 · JavaScript

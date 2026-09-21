@@ -3903,5 +3903,105 @@
     "category": "skills-mcp",
     "subcategory": null,
     "zh": "本地优先的工作区搜索工具，融合 BM25 全文检索与向量语义搜索，内置 MCP 集成。"
+  },
+  "AsadMoulviDev/reel-video": {
+    "category": "multimedia",
+    "subcategory": "video",
+    "zh": "通过 Claude Code、Codex、Cursor 和 Grok Build 创建 AI 视频，无需额外生成费用。"
+  },
+  "EZ-VAI/outsider": {
+    "category": "ai-agents",
+    "subcategory": "generic",
+    "zh": "开源的长期运行 AI 工作进程控制器与防篡改证据层，适用于 Claude Code 等主流 AI agent。"
+  },
+  "Ephemeral-AI-Lab/layerfs": {
+    "category": "backend-infra",
+    "subcategory": "ai-toolkit",
+    "zh": "为每个 AI agent 提供隔离的一次性文件系统分叉，支持可复用检查点与 MCTS 风格回滚，Rust 实现。"
+  },
+  "Kritt-ai/open-kritt": {
+    "category": "misc",
+    "subcategory": "osint",
+    "zh": "开源自托管 AI 漏洞研究工具，编排多 agent 自动发现并验证代码中的安全问题。"
+  },
+  "THU-MAIC/OpenMAIC": {
+    "category": "misc",
+    "subcategory": "education",
+    "zh": "清华出品的开源多智能体互动课堂，一键获得沉浸式多 agent 学习体验。"
+  },
+  "davidahmann/applied-ai-field-guide": {
+    "category": "tutorials",
+    "subcategory": "llm-en",
+    "zh": "《Applied AI Field Guide》：面向生产环境 AI 的实战交付、工程架构与 LLMOps 运维指南。"
+  },
+  "fastapi-practices/ai_mcp": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "FastAPI Best Architecture (fba) 的 AI MCP 插件，为 fba 架构提供 MCP server 集成能力。"
+  },
+  "huggingface/speech-to-speech": {
+    "category": "multimedia",
+    "subcategory": "audio",
+    "zh": "HuggingFace 出品的开源语音 agent 构建工具，支持多模型端到端语音对话交互。"
+  },
+  "huggingface/trl": {
+    "category": "backend-infra",
+    "subcategory": "ai-toolkit",
+    "zh": "HuggingFace 出品的 Transformer 语言模型强化学习训练库，支持 RLHF、PPO、DPO 等主流算法。"
+  },
+  "jordan-gibbs/hyperresearch": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "智能体驱动的深度调研知识库 skill，自动采集、搜索并整合网络研究成果，构建持久可搜索 wiki。"
+  },
+  "ktwu01/benchmark-radar": {
+    "category": "backend-infra",
+    "subcategory": "ai-toolkit",
+    "zh": "追踪来自 37 个公开来源的 11,923+ AI benchmark、eval 与数据集记录，含链接证据每日更新。"
+  },
+  "langchain-ai/agents-from-scratch": {
+    "category": "tutorials",
+    "subcategory": "llm-en",
+    "zh": "LangChain 出品的 agent 从零构建教程，含 human-in-the-loop 与记忆模块的邮件助手实战。"
+  },
+  "mastra-ai/mastra": {
+    "category": "ai-agents",
+    "subcategory": "agent-platforms",
+    "zh": "现代 TypeScript AI 应用与 agent 构建框架，支持工作流、MCP、evals 与多模型集成。"
+  },
+  "radixark/miles": {
+    "category": "backend-infra",
+    "subcategory": "ai-toolkit",
+    "zh": "面向企业的 LLM/VLM 后训练强化学习框架，从 slime 分叉并持续共同演进。"
+  },
+  "sidinsearch/superbrain": {
+    "category": "kb-productivity",
+    "subcategory": "note",
+    "zh": "SuperBrain：AI 驱动的个人「稍后阅读」知识库，支持从 Instagram、YouTube 和网页收藏内容。"
+  },
+  "sigpanic/goink": {
+    "category": "multimedia",
+    "subcategory": "documents-slides",
+    "zh": "跨平台桌面 AI 小说创作助手，集对话式写作、自动状态追踪与本地语义搜索（RAG）于一体，Go 实现。"
+  },
+  "tt-a1i/simplify-codebase": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "AI agent skill：证明并移除代码库的意外复杂度，同时不破坏现有行为，适用于 Codex、Claude Code 等。"
+  },
+  "uditgoenka/autoresearch": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "Claude Code Autoresearch Skill — 受 Karpathy autoresearch 启发，循环执行修改→验证→保留/丢弃的自主迭代框架。"
+  },
+  "yt-dlp/yt-dlp": {
+    "category": "crawler-publish",
+    "subcategory": "crawler",
+    "zh": "功能丰富的命令行音视频下载工具，youtube-dl 的功能增强分支，支持数百个视频网站。"
+  },
+  "zhaoxuya520/reverse-skill": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "逆向工程与授权渗透测试的 AI agent Skill 路由包，支持 Claude Code、Kiro、Cursor、Cline，含自动路由与自进化经验库。"
   }
 }
