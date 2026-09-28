@@ -4003,5 +4003,100 @@
     "category": "skills-mcp",
     "subcategory": null,
     "zh": "逆向工程与授权渗透测试的 AI agent Skill 路由包，支持 Claude Code、Kiro、Cursor、Cline，含自动路由与自进化经验库。"
+  },
+  "omacom/omarchy": {
+    "category": "misc",
+    "subcategory": "personal-projects",
+    "zh": "开箱即用的现代化 Linux 发行版配置框架，内含精心挑选的工具链与美观桌面设置。"
+  },
+  "hehonghui/awesome-english-ebooks": {
+    "category": "tutorials",
+    "subcategory": "awesome-lists",
+    "zh": "经济学人（含音频）、纽约客、卫报、连线等英语杂志免费下载合集，支持 epub/mobi/pdf 格式，每周更新。"
+  },
+  "stanford-oval/storm": {
+    "category": "ai-agents",
+    "subcategory": "generic",
+    "zh": "Stanford OVAL 出品的 LLM 知识整理系统，可自动研究任何话题并生成带完整引用的长篇报告。"
+  },
+  "supermemoryai/supermemory": {
+    "category": "rag-kg-memory",
+    "subcategory": null,
+    "zh": "AI 时代的 Memory API：极速、可扩展、本地可运行的记忆引擎与上下文管理平台。"
+  },
+  "oraios/serena": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "强大的 coding agent MCP 工具包，提供语义检索与代码编辑能力，是 AI agent 的 IDE 级开发利器。"
+  },
+  "nashsu/llm_wiki": {
+    "category": "rag-kg-memory",
+    "subcategory": null,
+    "zh": "跨平台桌面知识库应用，LLM 自动将文档增量构建为互相链接的 Wiki，告别传统 RAG 的即时回答模式。"
+  },
+  "hypit-ai/hypit": {
+    "category": "multimedia",
+    "subcategory": "video",
+    "zh": "AI agent 驱动的爆款视频克隆工具，自动替换人脸、台词与 B-roll，一条命令批量生成 100+ 视频变体。"
+  },
+  "eternity4719/HowToLiveBetter": {
+    "category": "misc",
+    "subcategory": "lifestyle",
+    "zh": "按性价比排序的循证生活指南，覆盖长寿防病、急救、理财、法律与医保，所有建议均引用期刊论文与官方文件。"
+  },
+  "loopx-project/loopx": {
+    "category": "ai-agents",
+    "subcategory": "multi-orchestration",
+    "zh": "面向 Codex、Claude Code 等主流 harness 的长时域 agent 控制平面，支持持久化、可治理的耐久工作流。"
+  },
+  "agent-substrate/substrate": {
+    "category": "ai-agents",
+    "subcategory": "agent-platforms",
+    "zh": "Agent Substrate 核心系统：为多租户 agent 工作负载提供基础设施平台，可运行持久化消息 agent。"
+  },
+  "slavakurilyak/awesome-ai-agents": {
+    "category": "tutorials",
+    "subcategory": "awesome-lists",
+    "zh": "300+ Agentic AI 资源精选列表，涵盖框架、工具、论文与生产级 agent 系统案例。"
+  },
+  "vibheksoni/stealth-browser-mcp": {
+    "category": "browser-automation",
+    "subcategory": null,
+    "zh": "可绕过反爬系统的隐身浏览器自动化 MCP，AI 自动编写网络钩子、像素级克隆 UI，通过自然语言操控浏览器。"
+  },
+  "MiniMax-AI/minimax-code": {
+    "category": "ai-agents",
+    "subcategory": "generic",
+    "zh": "MiniMax 出品的开源终端 coding agent，支持命令行 AI 代码生成与自主任务执行。"
+  },
+  "yibie/awesome-jev": {
+    "category": "tutorials",
+    "subcategory": "awesome-lists",
+    "zh": "基于 Jev（TypeSafe AI System One 模型）构建的开源项目、集成与社区讨论精选合集。"
+  },
+  "unicodef1wn/grokbot-field-notes": {
+    "category": "tutorials",
+    "subcategory": "context-vibe",
+    "zh": "xAI Grok Bot 团队 72 小时实战规则与 Playbook 汇编，包含 bot 角色定义与失败日志，放入 AGENTS.md 即可使用。"
+  },
+  "modelscope/ms-cookbook": {
+    "category": "tutorials",
+    "subcategory": "llm-cn",
+    "zh": "魔搭紫皮书：ModelScope 开发者开源模型应用实战指南，覆盖模型选型、推理、微调、RAG、Agent 与 AIGC 全流程。"
+  },
+  "keyuchen21/agentic-engineering-handbook": {
+    "category": "tutorials",
+    "subcategory": "llm-en",
+    "zh": "OpenAI、Claude、MCP、Harness、Evals 与生产 Agent 系统的权威学习路线图。"
+  },
+  "frontier-harness-eval/eval": {
+    "category": "tutorials",
+    "subcategory": "llm-en",
+    "zh": "FrontierHarness Eval 的公开基准测试结果与任务定义，用于评估 AI agent harness 的能力边界。"
+  },
+  "ruc-datalab/EvoOntology": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "自进化本体层 Claude Code/Codex 插件，为 data agent 自动建立并进化结构化领域知识图谱。"
   }
 }

@@ -1224,3 +1224,36 @@ ktwu01/benchmark-radar, EZ-VAI/outsider, fastapi-practices/ai_mcp
 - https://github.com/supermemoryai/supermemory  — ⭐ 30750 · TypeScript · Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
 - https://github.com/unicodef1wn/grokbot-field-notes  — ⭐ 468 · Python · Rules, playbooks, bot roles and a failure log from the xAI Grok Bot team's 72-hour live build. Drop AGENTS.md into your repo and go.
 - https://github.com/zgcagi/ZGCM-1  — ⭐ 514 · Python · 
+
+## Auto-classified 2026-09-28
+
+- https://github.com/omacom/omarchy  → misc/personal-projects  ⭐42,495 · Shell
+- https://github.com/hehonghui/awesome-english-ebooks  → tutorials/awesome-lists  ⭐36,755 · CSS
+- https://github.com/stanford-oval/storm  → ai-agents/generic  ⭐31,456 · Python
+- https://github.com/supermemoryai/supermemory  → rag-kg-memory/null  ⭐30,750 · TypeScript
+- https://github.com/oraios/serena  → skills-mcp/null  ⭐29,670 · Python
+- https://github.com/nashsu/llm_wiki  → rag-kg-memory/null  ⭐19,828 · TypeScript
+- https://github.com/hypit-ai/hypit  → multimedia/video  ⭐12,504 · TypeScript
+- https://github.com/eternity4719/HowToLiveBetter  → misc/lifestyle  ⭐10,774 · HTML
+- https://github.com/loopx-project/loopx  → ai-agents/multi-orchestration  ⭐5,916 · Python
+- https://github.com/agent-substrate/substrate  → ai-agents/agent-platforms  ⭐2,515 · Go
+- https://github.com/slavakurilyak/awesome-ai-agents  → tutorials/awesome-lists  ⭐2,219 · Python
+- https://github.com/vibheksoni/stealth-browser-mcp  → browser-automation/null  ⭐2,129 · Python
+- https://github.com/MiniMax-AI/minimax-code  → ai-agents/generic  ⭐1,665 · TypeScript
+- https://github.com/yibie/awesome-jev  → tutorials/awesome-lists  ⭐879 · Python
+- https://github.com/unicodef1wn/grokbot-field-notes  → tutorials/context-vibe  ⭐468 · Python
+- https://github.com/modelscope/ms-cookbook  → tutorials/llm-cn  ⭐378 · HTML
+- https://github.com/keyuchen21/agentic-engineering-handbook  → tutorials/llm-en  ⭐313 · Python
+- https://github.com/frontier-harness-eval/eval  → tutorials/llm-en  ⭐265 · JavaScript
+- https://github.com/ruc-datalab/EvoOntology  → skills-mcp/null  ⭐253 · Python
+
+## Needs manual classification (2026-09-28)
+
+- https://github.com/zgcagi/ZGCM-1  — ⭐ 514 · Python · (no description available)
+
+## Newly starred (overflow) 2026-09-28
+
+<!-- Top 20 were auto-classified. These 3 need manual review next run. -->
+- https://github.com/orbi-build/orbi  — ⭐ 185 · Python · Orbi — the factory that builds and operates AI software factories. GitHub Issues in, releases and runnable system out
+- https://github.com/google-labs-code/stax  — ⭐ 119 · TypeScript · (no description available)
+- https://github.com/agent-substrate/always-on-agent  — ⭐ 5 · TypeScript · Run always-on messaging agents on Agent Substrate. A multi-tenant gateway holds channel connections while conversations run as suspendable actors.
