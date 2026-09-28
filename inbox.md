@@ -1257,3 +1257,34 @@ ktwu01/benchmark-radar, EZ-VAI/outsider, fastapi-practices/ai_mcp
 - https://github.com/orbi-build/orbi  — ⭐ 185 · Python · Orbi — the factory that builds and operates AI software factories. GitHub Issues in, releases and runnable system out
 - https://github.com/google-labs-code/stax  — ⭐ 119 · TypeScript · (no description available)
 - https://github.com/agent-substrate/always-on-agent  — ⭐ 5 · TypeScript · Run always-on messaging agents on Agent Substrate. A multi-tenant gateway holds channel connections while conversations run as suspendable actors.
+
+<!-- synced 2026-09-28T17:31:14Z -->
+- https://github.com/KellerJordan/modded-nanogpt  — ⭐ 5834 · Python · NanoGPT (124M) in 90 seconds
+- https://github.com/agent-substrate/always-on-agent  — ⭐ 17 · TypeScript · Run always-on messaging agents on Agent Substrate. A multi-tenant gateway holds the channel connections while each conversation runs as a suspendable actor, so presence stays warm and cognition suspends to reclaim compute. Reference implementation built on OpenClaw.
+- https://github.com/fmhy/edit  — ⭐ 12096 · JavaScript · Make changes to FMHY
+- https://github.com/formbricks/formbricks  — ⭐ 13037 · TypeScript · Open Source Qualtrics Alternative
+- https://github.com/heyform/heyform  — ⭐ 8988 · TypeScript · Open-Source Form Builder
+- https://github.com/jax-ml/jax  — ⭐ 36359 · Python · Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- https://github.com/marin-community/haliax  — ⭐ 231 · Python · Named Tensors for Legible Deep Learning in JAX
+- https://github.com/marin-community/levanter  — ⭐ 716 · Python · Legible, Scalable, Reproducible Foundation Models with Named Tensors and Jax
+- https://github.com/marin-community/marin  — ⭐ 3831 · Python · Open-source framework for the research and development of foundation models.
+- https://github.com/ministackorg/ministack  — ⭐ 4743 · Python · Ministack: Free, open-source local AWS emulator - 60+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
+- https://github.com/open-slide/open-slide  — ⭐ 8394 · TypeScript · A slide framework built for agents.
+- https://github.com/stablyai/orca  — ⭐ 80509 · TypeScript · Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+- https://github.com/unclecode/crawl4ai  — ⭐ 84413 · Python · Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
+
+<!-- synced 2026-09-28T17:31:22Z -->
+- https://github.com/AgriciDaniel/compass  — ⭐ 861 · JavaScript · Compass: run your whole life out of Obsidian. Daily questions, quarterly retreats, planning, habits, tasks, writing, and an AI assistant in the vault.
+- https://github.com/ByteByteGoHq/system-design-101  — ⭐ 90071 · — · Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+- https://github.com/EKKOLearnAI/ekko-studio  — ⭐ 11227 · TypeScript · Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web.
+- https://github.com/HKUDS/AI-Trader  — ⭐ 22618 · Python · "AI-Trader: 100% Fully-Automated Agent-Native Trading"  
+- https://github.com/akitaonrails/ai-memory  — ⭐ 8537 · Rust · Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+- https://github.com/anthropics/code-migration-kit-with-claude-code  — ⭐ 716 · Python · Prompts, templates, and scripts for running large-scale language migrations with Claude Code
+- https://github.com/google-labs-code/stax  — ⭐ 131 · TypeScript · 
+- https://github.com/google/ax  — ⭐ 12402 · Go · Google's open agentic orchestration runtime
+- https://github.com/gsamat/amanu  — ⭐ 169 · Swift · Records and transcribes online meetings. Automatically
+- https://github.com/jundizhou/easy-stock  — ⭐ 1007 · Go · A股行情分析与AI智能投研智能体：股票分析、量化交易分析、盘后复盘桌面工作台——easy stock
+- https://github.com/microsoft/qlib  — ⭐ 49009 · Python · Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
+- https://github.com/mihail911/modern-software-dev-assignments  — ⭐ 5029 · — · Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)
+- https://github.com/orbi-build/orbi  — ⭐ 194 · Python · Open-source (AGPL-3.0), self-hosted autonomous coding agent: label a GitHub Issue, get an independently reviewed, merged PR and a tagged release.
+- https://github.com/zgcagi/ZGCM-1  — ⭐ 574 · Python · 
