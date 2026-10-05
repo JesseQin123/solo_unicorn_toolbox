@@ -1288,3 +1288,38 @@ ktwu01/benchmark-radar, EZ-VAI/outsider, fastapi-practices/ai_mcp
 - https://github.com/mihail911/modern-software-dev-assignments  — ⭐ 5029 · — · Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)
 - https://github.com/orbi-build/orbi  — ⭐ 194 · Python · Open-source (AGPL-3.0), self-hosted autonomous coding agent: label a GitHub Issue, get an independently reviewed, merged PR and a tagged release.
 - https://github.com/zgcagi/ZGCM-1  — ⭐ 574 · Python · 
+
+## Auto-classified 2026-10-05
+
+| repo | category/subcategory | stars |
+|------|---------------------|-------|
+| [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) | tutorials/system-design | 90,071 |
+| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | crawler-publish/crawler | 84,413 |
+| [stablyai/orca](https://github.com/stablyai/orca) | ai-agents/multi-orchestration | 80,509 |
+| [microsoft/qlib](https://github.com/microsoft/qlib) | finance-career/finance | 49,009 |
+| [jax-ml/jax](https://github.com/jax-ml/jax) | backend-infra/ai-toolkit | 36,359 |
+| [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | finance-career/finance | 22,618 |
+| [formbricks/formbricks](https://github.com/formbricks/formbricks) | backend-infra/self-host | 13,037 |
+| [google/ax](https://github.com/google/ax) | ai-agents/multi-orchestration | 12,402 |
+| [fmhy/edit](https://github.com/fmhy/edit) | tutorials/awesome-lists | 12,096 |
+| [EKKOLearnAI/ekko-studio](https://github.com/EKKOLearnAI/ekko-studio) | ai-agents/agent-platforms | 11,227 |
+| [heyform/heyform](https://github.com/heyform/heyform) | backend-infra/self-host | 8,988 |
+| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | rag-kg-memory/n/a | 8,537 |
+| [open-slide/open-slide](https://github.com/open-slide/open-slide) | multimedia/documents-slides | 8,394 |
+| [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) | tutorials/llm-en | 5,834 |
+| [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) | tutorials/context-vibe | 5,029 |
+| [ministackorg/ministack](https://github.com/ministackorg/ministack) | backend-infra/self-host | 4,743 |
+| [marin-community/marin](https://github.com/marin-community/marin) | tutorials/llm-en | 3,831 |
+| [jundizhou/easy-stock](https://github.com/jundizhou/easy-stock) | finance-career/finance | 1,007 |
+| [AgriciDaniel/compass](https://github.com/AgriciDaniel/compass) | kb-productivity/note | 861 |
+| [marin-community/levanter](https://github.com/marin-community/levanter) | tutorials/llm-en | 716 |
+
+## Newly starred (overflow)
+
+- https://github.com/anthropics/code-migration-kit-with-claude-code  — ⭐ 716
+- https://github.com/zgcagi/ZGCM-1  — ⭐ 574
+- https://github.com/marin-community/haliax  — ⭐ 231
+- https://github.com/orbi-build/orbi  — ⭐ 194
+- https://github.com/gsamat/amanu  — ⭐ 169
+- https://github.com/google-labs-code/stax  — ⭐ 131
+- https://github.com/agent-substrate/always-on-agent  — ⭐ 17
