@@ -1323,3 +1323,24 @@ ktwu01/benchmark-radar, EZ-VAI/outsider, fastapi-practices/ai_mcp
 - https://github.com/gsamat/amanu  — ⭐ 169
 - https://github.com/google-labs-code/stax  — ⭐ 131
 - https://github.com/agent-substrate/always-on-agent  — ⭐ 17
+
+<!-- synced 2026-10-05T18:12:09Z -->
+- https://github.com/RVC-Boss/GPT-SoVITS  — ⭐ 62375 · Python · 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+- https://github.com/agent-substrate/always-on-agent  — ⭐ 21 · TypeScript · Run always-on messaging agents on Agent Substrate. A multi-tenant gateway holds the channel connections while each conversation runs as a suspendable actor, so presence stays warm and cognition suspends to reclaim compute. Reference implementation built on OpenClaw.
+- https://github.com/marin-community/haliax  — ⭐ 231 · Python · Named Tensors for Legible Deep Learning in JAX
+- https://github.com/microsoft/Orchard-Agentic  — ⭐ 535 · Python · Orchard-Agentic is a collection of open-source work on agentic modeling
+- https://github.com/rany2/edge-tts  — ⭐ 12174 · Python · Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
+
+<!-- synced 2026-10-05T18:12:15Z -->
+- https://github.com/KKKKhazix/AIHOT  — ⭐ 5983 · TypeScript · 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
+- https://github.com/OrchestratorInc/agent-orchestrator  — ⭐ 12784 · Go · Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.
+- https://github.com/ZJU-REAL/Easel  — ⭐ 3100 · Python · An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.🎨一个开源的 AI 社交媒体智能体——发现热点趋势、创作内容、一键发布至各大平台，并学习分析哪些内容真正有效，覆盖小红书、抖音、知乎、哔哩哔哩等平台。
+- https://github.com/anthropics/code-migration-kit-with-claude-code  — ⭐ 736 · Python · Prompts, templates, and scripts for running large-scale language migrations with Claude Code
+- https://github.com/google-labs-code/stax  — ⭐ 141 · TypeScript · 
+- https://github.com/gsamat/amanu  — ⭐ 203 · Swift · Records and transcribes online meetings. Automatically
+- https://github.com/lucasmarkes/hairline  — ⭐ 506 · TypeScript · Six isometric line figures that answer the pointer. For React and for anything with a DOM.
+- https://github.com/mizorewww/laya-mlx  — ⭐ 6779 · Python · Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.
+- https://github.com/openbq-org/OpenBB  — ⭐ 73870 · Python · Open Data Platform for analysts, quants and AI agents.
+- https://github.com/orbi-build/orbi  — ⭐ 195 · Python · Open-source (AGPL-3.0), self-hosted autonomous coding agent: label a GitHub Issue, get an independently reviewed, merged PR and a tagged release.
+- https://github.com/rohitg00/ai-engineering-from-scratch  — ⭐ 64632 · Python · Learn it. Build it. Ship it for others.
+- https://github.com/zgcagi/ZGCM-1  — ⭐ 594 · Python · 
