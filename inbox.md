@@ -1367,3 +1367,26 @@ ktwu01/benchmark-radar, EZ-VAI/outsider, fastapi-practices/ai_mcp
 
 - https://github.com/google-labs-code/stax  — ⭐ 141 · TypeScript · (no description available)
 - https://github.com/zgcagi/ZGCM-1  — ⭐ 594 · Python · (no description available) 
+
+<!-- synced 2026-10-12T18:49:50Z -->
+- https://github.com/Anil-matcha/Open-AI-UGC  — ⭐ 363 · JavaScript · Open AI UGC — free, open-source alternative to Arcads and MakeUGC. Generate AI UGC video ads with realistic AI actors using Veo 3.1, Seedance 2, Grok Video, and Happy Horse 1. Self-host on Next.js + Stripe + MUAPI.
+- https://github.com/Faceplugin-ltd/Open-Source-Face-Recognition-SDK  — ⭐ 2523 · Python · Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face Landmarks
+- https://github.com/FluidInference/FluidUse  — ⭐ 435 · Swift · Local computer use on Apple silicon: on-device typed decisions with laya and form filling with CUA-S1-FORMS, driven through the macOS Accessibility API
+- https://github.com/HelixDB/helix-foundry  — ⭐ 1314 · TypeScript · Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.
+- https://github.com/NoFxAiOS/nofx  — ⭐ 13039 · Go · Your AI trading terminal assistant for US stocks, commodities, forex, and crypto.
+- https://github.com/amontlabs/lcu  — ⭐ 1018 · JavaScript · Codex computer use, decoupled from the app, for usage inside any harness.
+- https://github.com/cclank/lanshu-create-ai-presenter-video  — ⭐ 2647 · HTML · Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.
+- https://github.com/diggerhq/shipvideo  — ⭐ 342 · TypeScript · Paste a URL or a prompt, get a launch video. Opus 5.5 writes HTML, an OpenComputer serverless agent renders it.
+- https://github.com/morluto/rea  — ⭐ 146693 · TypeScript · Reverse engineer anything with agents, from app behavior down to native binaries.
+- https://github.com/timqian/chinese-independent-blogs  — ⭐ 24083 · JavaScript · 中文独立博客列表
+
+<!-- synced 2026-10-12T18:49:55Z -->
+- https://github.com/CopilotKit/OpenIntelligentUI  — ⭐ 2850 · TypeScript · Open-Source Generative UI Framework
+- https://github.com/google-labs-code/stax  — ⭐ 159 · TypeScript · 
+- https://github.com/morluto/rea  — ⭐ 146697 · TypeScript · Reverse engineer anything with agents, from app behavior down to native binaries.
+- https://github.com/openai/math  — ⭐ 14375 · Lean · 
+- https://github.com/tester-army/e2e  — ⭐ 9471 · TypeScript · Next generation e2e testing framework for web and mobile apps.
+- https://github.com/vbskycn/iptv  — ⭐ 9476 · HTML · iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。
+- https://github.com/zgcagi/ZGCM-1  — ⭐ 620 · Python · 
+- https://github.com/zhongerxin/iPhone-use  — ⭐ 3346 · Python · 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。
+- https://github.com/zilliztech/deep-searcher  — ⭐ 8329 · Python · Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
