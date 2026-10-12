@@ -1343,4 +1343,27 @@ ktwu01/benchmark-radar, EZ-VAI/outsider, fastapi-practices/ai_mcp
 - https://github.com/openbq-org/OpenBB  — ⭐ 73870 · Python · Open Data Platform for analysts, quants and AI agents.
 - https://github.com/orbi-build/orbi  — ⭐ 195 · Python · Open-source (AGPL-3.0), self-hosted autonomous coding agent: label a GitHub Issue, get an independently reviewed, merged PR and a tagged release.
 - https://github.com/rohitg00/ai-engineering-from-scratch  — ⭐ 64632 · Python · Learn it. Build it. Ship it for others.
-- https://github.com/zgcagi/ZGCM-1  — ⭐ 594 · Python · 
+- https://github.com/zgcagi/ZGCM-1  — ⭐ 594 · Python ·
+
+## Auto-classified 2026-10-12
+
+- https://github.com/openbq-org/OpenBB  → finance-career/finance  ⭐73,870 · Python
+- https://github.com/rohitg00/ai-engineering-from-scratch  → tutorials/llm-en  ⭐64,632 · Python
+- https://github.com/RVC-Boss/GPT-SoVITS  → multimedia/audio  ⭐62,375 · Python
+- https://github.com/OrchestratorInc/agent-orchestrator  → ai-agents/multi-orchestration  ⭐12,784 · Go
+- https://github.com/rany2/edge-tts  → multimedia/audio  ⭐12,174 · Python
+- https://github.com/mizorewww/laya-mlx  → backend-infra/ai-toolkit  ⭐6,779 · Python
+- https://github.com/KKKKhazix/AIHOT  → crawler-publish/crawler  ⭐5,983 · TypeScript
+- https://github.com/ZJU-REAL/Easel  → crawler-publish/publish  ⭐3,100 · Python
+- https://github.com/lucasmarkes/hairline  → frontend/components  ⭐506 · TypeScript
+- https://github.com/microsoft/Orchard-Agentic  → ai-agents/generic  ⭐535 · Python
+- https://github.com/orbi-build/orbi  → ai-agents/generic  ⭐195 · Python
+- https://github.com/gsamat/amanu  → multimedia/audio  ⭐203 · Swift
+- https://github.com/marin-community/haliax  → backend-infra/ai-toolkit  ⭐231 · Python
+- https://github.com/anthropics/code-migration-kit-with-claude-code  → ai-agents/claude-code  ⭐736 · Python
+- https://github.com/agent-substrate/always-on-agent  → ai-agents/openclaw-hermes  ⭐21 · TypeScript
+
+## Needs manual classification (2026-10-12)
+
+- https://github.com/google-labs-code/stax  — ⭐ 141 · TypeScript · (no description available)
+- https://github.com/zgcagi/ZGCM-1  — ⭐ 594 · Python · (no description available) 

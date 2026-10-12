@@ -564,6 +564,11 @@
     "subcategory": null,
     "zh": "即用型 Agent Skills：覆盖科研、科学、工程、分析、金融与写作"
   },
+  "KKKKhazix/AIHOT": {
+    "category": "crawler-publish",
+    "subcategory": "crawler",
+    "zh": "自托管 AI 热点聚合与日报生成框架，自动采集 RSS 信源并用 LLM 生成行业日报。"
+  },
   "KKKKhazix/human-writing": {
     "category": "skills-mcp",
     "subcategory": null,
@@ -859,6 +864,11 @@
     "subcategory": null,
     "zh": "OneKE is a knowledge extraction framework based on a large model, with preliminary generalized knowledge extraction capabilities in both Chinese and English and in multiple fields and tasks."
   },
+  "OrchestratorInc/agent-orchestrator": {
+    "category": "ai-agents",
+    "subcategory": "multi-orchestration",
+    "zh": "跨平台多 coding agent 编排平台，支持 Claude Code、Codex 等 25+ harness，全流程监督 agent 团队从规划到 PR 合并。"
+  },
   "OthmanAdi/planning-with-files": {
     "category": "skills-mcp",
     "subcategory": null,
@@ -908,6 +918,11 @@
     "category": "multimedia",
     "subcategory": "audio",
     "zh": "本地实时语音转文字工具包，支持流式 ASR、说话人分离、多语言翻译，兼容 OpenAI/Deepgram API 格式。"
+  },
+  "RVC-Boss/GPT-SoVITS": {
+    "category": "multimedia",
+    "subcategory": "audio",
+    "zh": "1分钟语音数据即可训练高质量 TTS 模型，支持少样本语音克隆。"
   },
   "ReScienceLab/opc-skills": {
     "category": "skills-mcp",
@@ -1139,6 +1154,11 @@
     "subcategory": "llm-en",
     "zh": "浙大出品的《大语言模型基础》开源教材"
   },
+  "ZJU-REAL/Easel": {
+    "category": "crawler-publish",
+    "subcategory": "publish",
+    "zh": "开源 AI 社媒内容 agent，自动发现热点、生成内容并一键发布至小红书、抖音、知乎、哔哩哔哩等主流平台。"
+  },
   "ZeframLou/call-me": {
     "category": "ai-agents",
     "subcategory": "claude-code",
@@ -1188,6 +1208,11 @@
     "category": "ai-agents",
     "subcategory": "claude-code",
     "zh": "agent harness 性能优化系统：skills、本能、记忆、安全、research-first 开发，覆盖 Claude Code/Codex/Opencode/Cursor 等"
+  },
+  "agent-substrate/always-on-agent": {
+    "category": "ai-agents",
+    "subcategory": "openclaw-hermes",
+    "zh": "基于 OpenClaw 的永久在线消息 agent，多租户网关维持频道连接，会话以可挂起 actor 方式节省算力。"
   },
   "agent-substrate/substrate": {
     "category": "ai-agents",
@@ -1338,6 +1363,11 @@
     "category": "tutorials",
     "subcategory": "llm-en",
     "zh": "Anthropic 官方出品的 Claude API 实战 Notebook 合集，展示各种创意使用方法与最佳实践。"
+  },
+  "anthropics/code-migration-kit-with-claude-code": {
+    "category": "ai-agents",
+    "subcategory": "claude-code",
+    "zh": "Anthropic 官方出品：用 Claude Code 批量执行大规模代码语言迁移的 prompt、模板与脚本集。"
   },
   "anthropics/courses": {
     "category": "tutorials",
@@ -2249,6 +2279,11 @@
     "subcategory": null,
     "zh": "GSAP 官方发布的 AI Skills，教 AI 编程 agent 正确使用 GreenSock 动画库，包含最佳实践与常见动画模式"
   },
+  "gsamat/amanu": {
+    "category": "multimedia",
+    "subcategory": "audio",
+    "zh": "本地优先的 macOS 会议自动录制与转写工具，支持说话人分离，全程在设备上运行。"
+  },
   "gsd-build/get-shit-done": {
     "category": "ai-agents",
     "subcategory": "claude-code",
@@ -2769,6 +2804,11 @@
     "subcategory": "generic",
     "zh": "自演化 agent：从 3.3K 行种子代码生长出 skill 树，达成全系统控制，token 消耗减少 6 倍"
   },
+  "lucasmarkes/hairline": {
+    "category": "frontend",
+    "subcategory": "components",
+    "zh": "六个响应指针位置的等距线条 React 组件，支持任意 DOM 环境，动效轻量优雅。"
+  },
   "lucy-cxy/oss-investment-scorecard": {
     "category": "finance-career",
     "subcategory": "finance",
@@ -2823,6 +2863,11 @@
     "category": "tutorials",
     "subcategory": "system-design",
     "zh": "收录来自 100+ 公司的 650 个机器学习系统设计真实案例数据库，覆盖推荐、搜索、NLP、广告等核心场景。"
+  },
+  "marin-community/haliax": {
+    "category": "backend-infra",
+    "subcategory": "ai-toolkit",
+    "zh": "基于命名张量的 JAX 深度学习库，让模型代码更易读、易调试。"
   },
   "marin-community/levanter": {
     "category": "tutorials",
@@ -2889,6 +2934,11 @@
     "subcategory": "generic",
     "zh": "微软开源的 Agentic 建模框架，用于设计和实验复杂 AI agent 系统。"
   },
+  "microsoft/Orchard-Agentic": {
+    "category": "ai-agents",
+    "subcategory": "generic",
+    "zh": "微软开源的 agentic 建模研究合集，探索下一代 agent 行为建模技术。"
+  },
   "microsoft/SkillOpt": {
     "category": "skills-mcp",
     "subcategory": null,
@@ -2953,6 +3003,11 @@
     "category": "multimedia",
     "subcategory": "audio",
     "zh": "Mixxx：开源 DJ 软件，提供现场混音所需的全部能力"
+  },
+  "mizorewww/laya-mlx": {
+    "category": "backend-infra",
+    "subcategory": "ai-toolkit",
+    "zh": "Laya 类型化决策模型的 Apple Silicon 原生 MLX 推理运行时，M3 Max 仅 7–14ms 延迟，无需 PyTorch 或云 API。"
   },
   "mjhea0/awesome-fastapi": {
     "category": "backend-infra",
@@ -3209,6 +3264,11 @@
     "subcategory": "multi-orchestration",
     "zh": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents."
   },
+  "openbq-org/OpenBB": {
+    "category": "finance-career",
+    "subcategory": "finance",
+    "zh": "面向分析师、量化研究员和 AI agent 的开源金融数据平台，支持股票、加密货币、衍生品等多类资产。"
+  },
   "openclaw/openclaw": {
     "category": "ai-agents",
     "subcategory": "openclaw-hermes",
@@ -3248,6 +3308,11 @@
     "category": "skills-mcp",
     "subcategory": null,
     "zh": "人味儿写作 skill — AI 辅助编辑时保留原作者声音与个性的方法论，附核实清单与真实案例。"
+  },
+  "orbi-build/orbi": {
+    "category": "ai-agents",
+    "subcategory": "generic",
+    "zh": "开源自托管自主 coding agent：在 GitHub Issue 打标签即可自动完成代码审查、PR 提交与版本发布。"
   },
   "otter1101/blogger-distiller": {
     "category": "crawler-publish",
@@ -3384,6 +3449,11 @@
     "subcategory": null,
     "zh": "涵盖品牌、设计、内容、SEO、运维与增长的全生命周期 Claude Code Skills 合集，适用于各技术栈。"
   },
+  "rany2/edge-tts": {
+    "category": "multimedia",
+    "subcategory": "audio",
+    "zh": "从 Python 调用 Microsoft Edge 在线 TTS 服务，无需安装 Edge、Windows 或 API Key。"
+  },
   "raphaelmansuy/edgequake": {
     "category": "rag-kg-memory",
     "subcategory": null,
@@ -3443,6 +3513,11 @@
     "category": "multimedia",
     "subcategory": "image",
     "zh": "可复用的计算机视觉工具库，支持目标检测、实例分割、跟踪和视频处理，兼容 YOLO、PyTorch、TensorFlow。"
+  },
+  "rohitg00/ai-engineering-from-scratch": {
+    "category": "tutorials",
+    "subcategory": "llm-en",
+    "zh": "从零开始系统学习 AI 工程的实战课程，覆盖 LLM、agent、MCP、RAG、CV 等核心模块。"
   },
   "router-for-me/CLIProxyAPI": {
     "category": "backend-infra",
