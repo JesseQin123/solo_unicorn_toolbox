@@ -1390,3 +1390,48 @@ ktwu01/benchmark-radar, EZ-VAI/outsider, fastapi-practices/ai_mcp
 - https://github.com/zgcagi/ZGCM-1  — ⭐ 620 · Python · 
 - https://github.com/zhongerxin/iPhone-use  — ⭐ 3346 · Python · 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。
 - https://github.com/zilliztech/deep-searcher  — ⭐ 8329 · Python · Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
+
+<!-- synced 2026-10-19T16:21:19Z -->
+- https://github.com/Anil-matcha/Open-AI-UGC  — ⭐ 376 · JavaScript · Open AI UGC — free, open-source alternative to Arcads and MakeUGC. Generate AI UGC video ads with realistic AI actors using Veo 3.1, Seedance 2, Grok Video, and Happy Horse 1. Self-host on Next.js + Stripe + MUAPI.
+- https://github.com/Calcium-Ion/AstrLink  — ⭐ 302 · Go · A local AI gateway for AI agents, unifying your subscriptions and API providers with smart routing and on-device privacy protection.
+- https://github.com/Faceplugin-ltd/Open-Source-Face-Recognition-SDK  — ⭐ 2656 · Python · Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face Landmarks
+- https://github.com/FluidInference/FluidUse  — ⭐ 523 · Swift · Local computer use on Apple silicon: on-device typed decisions with laya and form filling with CUA-S1-FORMS, driven through the macOS Accessibility API
+- https://github.com/Gen-Verse/DiscoveryRSI  — ⭐ 48 · Python · DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses
+- https://github.com/General-Legal/legal-templates  — ⭐ 3267 · Python · Public collection of high-quality templates created by General Legal attorneys with CC0 license
+- https://github.com/Gingiris-1031/gingiris-b2b-growth  — ⭐ 1 · — · B2B SaaS growth — PLG/SLG selection, PMF to $10M ARR path. Mirror of the gingiris-skills monorepo
+- https://github.com/HelixDB/helix-foundry  — ⭐ 1620 · TypeScript · Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.
+- https://github.com/Marve10s/Better-Fullstack  — ⭐ 800 · TypeScript · Scaffold production-ready full-stack apps in TypeScript, Rust, Python, Go, and Java with a visual builder and CLI. Choose your frontend, backend, database, auth, AI, payments, and DevOps integrations, all wired together.
+- https://github.com/NoFxAiOS/nofx  — ⭐ 13110 · Go · Your AI trading terminal assistant for US stocks, commodities, forex, and crypto.
+- https://github.com/aipoch/open-science  — ⭐ 5266 · TypeScript · The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python/R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.
+- https://github.com/amontlabs/lcu  — ⭐ 1369 · JavaScript · Codex computer use, decoupled from the app, for usage inside any harness.
+- https://github.com/cathrynlavery/diagram-design  — ⭐ 58238 · HTML · Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- https://github.com/cclank/lanshu-create-ai-presenter-video  — ⭐ 2753 · HTML · Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.
+- https://github.com/chekusu/yobiru  — ⭐ 290 · Python · Let your agents talk: messages, data, files and wake-ups over Tailscale.
+- https://github.com/diggerhq/shipvideo  — ⭐ 352 · TypeScript · Paste a URL or a prompt, get a launch video. Opus 5.5 writes HTML, an OpenComputer serverless agent renders it.
+- https://github.com/dwzhu-pku/PaperBanana  — ⭐ 7284 · Python · PaperBanana: Automating Academic Illustration For AI Scientists
+- https://github.com/eecs498-aase/materials  — ⭐ 210 · Python · Lecture and lab slides for EECS 498 AASE (Applied Agentic Software Engineering), UMich Fall 2026
+- https://github.com/hackyguru/zhoop  — ⭐ 274 · Swift · Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.
+- https://github.com/harbor-framework/harbor  — ⭐ 6254 · Python · Framework for evaluating and improving agents 
+- https://github.com/langchain-ai/agentevals  — ⭐ 752 · Python · Readymade evaluators for agent trajectories
+- https://github.com/lemomo-ai/lemo-opuscar  — ⭐ 3654 · JavaScript · Claude Code skill for short films with no video model: 51 film styles, each a style prompt plus a demo film made entirely in code by Claude Opus 5.5 (incl. OPUSCAR 98 and the new Evidence Films). By Lemomo. · Opus5.5 x 51 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南（新增「实证影像」）
+- https://github.com/lobehub/awesome-rsi  — ⭐ 823 · — · A curated research map of Recursive Self-Improvement (RSI): models, agents, harnesses, embodied systems, automated AI R&D, benchmarks, and safety.
+- https://github.com/morluto/rea  — ⭐ 333380 · TypeScript · Reverse engineer anything with agents, from app behavior down to native binaries.
+- https://github.com/pandatalk8/ai-content-kb  — ⭐ 120 · — · A review-first reference architecture for AI-assisted personal content knowledge systems
+- https://github.com/perplexityai/SPACE  — ⭐ 1650 · Rust · Sandboxed Platform for Agentic Code Execution: pluggable-runtime sandboxes for running agent and user code in isolation.
+- https://github.com/roryclear/clearcam  — ⭐ 2005 · Python · Add object detection, tracking, mobile notifications, and search to any security camera.
+- https://github.com/thesysdev/openui  — ⭐ 12107 · TypeScript · The Open Standard for Generative UI
+- https://github.com/timqian/chinese-independent-blogs  — ⭐ 24223 · JavaScript · 中文独立博客列表
+- https://github.com/yaojingang/profound-clone  — ⭐ 77 · TypeScript · Profound (tryprofound.com) 前后台 1:1 学习复刻 · Next.js 16 / React 19 / SQLite · Educational replica for learning only, not affiliated with Profound Inc.
+- https://github.com/zarazhangrui/youtube-digest  — ⭐ 1612 · JavaScript · Turn YouTube videos into deep learning resources with transcripts, bilingual translation, AI overviews, explanations, and notes. Bring your own keys.
+
+<!-- synced 2026-10-19T16:21:26Z -->
+- https://github.com/CopilotKit/OpenIntelligentUI  — ⭐ 3487 · TypeScript · Open-Source Generative UI Framework
+- https://github.com/HKUDS/AutoSwarm  — ⭐ 1855 · Python · AutoSwarm: Automating Agent Swarms — Self-Built, Self-Run, Self-Grown
+- https://github.com/google-labs-code/stax  — ⭐ 162 · TypeScript · 
+- https://github.com/morluto/rea  — ⭐ 333381 · TypeScript · Reverse engineer anything with agents, from app behavior down to native binaries.
+- https://github.com/openai/math  — ⭐ 15215 · Lean · 
+- https://github.com/tester-army/e2e  — ⭐ 11366 · TypeScript · Next generation e2e testing framework for web and mobile apps.
+- https://github.com/vbskycn/iptv  — ⭐ 9708 · HTML · iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。
+- https://github.com/zgcagi/ZGCM-1  — ⭐ 649 · Python · 
+- https://github.com/zhongerxin/iPhone-use  — ⭐ 4300 · Python · 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。
+- https://github.com/zilliztech/deep-searcher  — ⭐ 8349 · Python · Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
