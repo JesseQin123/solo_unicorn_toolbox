@@ -4273,5 +4273,105 @@
     "category": "skills-mcp",
     "subcategory": null,
     "zh": "本地优先的工作区搜索工具，融合 BM25 全文检索与向量语义搜索，内置 MCP 集成。"
+  },
+  "morluto/rea": {
+    "category": "misc",
+    "subcategory": "osint",
+    "zh": "用 AI Agent 逆向分析任何事物：从 App 行为到原生二进制，自动提取意图、协议与逻辑。"
+  },
+  "deepseek-ai/deepseek-harness": {
+    "category": "ai-agents",
+    "subcategory": "agent-platforms",
+    "zh": "DeepSeek Harness：一切皆插件的开放编码智能体框架，通过插件机制扩展任意能力。"
+  },
+  "ai-job-search-dev/ai-job-search": {
+    "category": "finance-career",
+    "subcategory": "career",
+    "zh": "运行在本地的 AI 求职框架（基于 Claude Code）：评估职位、定制简历、撰写求职信、模拟面试。"
+  },
+  "cathrynlavery/diagram-design": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "Claude Code / Codex 专用编辑风格图表设计 Skill，涵盖 45 种图表类型，纯 HTML+SVG，无 Mermaid 噪音。"
+  },
+  "Nutlope/hallmark": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "Claude Code / Cursor / Codex 反 AI 烂设计 Skill：让 AI 生成的 UI 看起来像人类设计师的作品。"
+  },
+  "medusajs/medusa": {
+    "category": "backend-infra",
+    "subcategory": "self-host",
+    "zh": "为智能体与开发者打造的世界上最灵活的开源商务平台，支持 TypeScript 二次开发与模块化定制。"
+  },
+  "meta/rocksdb": {
+    "category": "backend-infra",
+    "subcategory": "databases-analytics",
+    "zh": "Meta 开源的嵌入式持久化 Key-Value 存储引擎，高吞吐低延迟，广泛应用于分布式数据库底层。"
+  },
+  "AgriciDaniel/claude-seo": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "Claude Code 通用 SEO Skill：26 个子技能 + 19 个子智能体，覆盖技术 SEO、GEO/AEO、反向链接、本地 SEO 等全栈优化。"
+  },
+  "timqian/chinese-independent-blogs": {
+    "category": "tutorials",
+    "subcategory": "awesome-lists",
+    "zh": "中文独立博客聚合列表，收录国内独立博主的技术与生活博客。"
+  },
+  "openai/math": {
+    "category": "tutorials",
+    "subcategory": "build-your-own",
+    "zh": "OpenAI 数学研究仓库：用 Lean 4 形式化验证数学定理，推动 AI 自动化数学研究。"
+  },
+  "ParadevAI/Paradev": {
+    "category": "ai-agents",
+    "subcategory": "multi-orchestration",
+    "zh": "Paradev（原 Superset）：用你自己的订阅并行编排 100+ 编码智能体的 Agentic IDE。"
+  },
+  "uiverse-io/galaxy": {
+    "category": "frontend",
+    "subcategory": "components",
+    "zh": "全球最大开源 UI 组件库，社区贡献、CSS/Tailwind 双版本，免费可用。"
+  },
+  "thesysdev/openui": {
+    "category": "frontend",
+    "subcategory": "components",
+    "zh": "生成式 UI 开放标准，定义 AI 动态生成界面的协议与规范。"
+  },
+  "meta/astryx": {
+    "category": "frontend",
+    "subcategory": "components",
+    "zh": "Meta 开源的智能体就绪设计系统，完全可定制，适配各类编码助手与 AI 工作流。"
+  },
+  "yihui-dev/awesome-opus5-5-videos": {
+    "category": "tutorials",
+    "subcategory": "awesome-lists",
+    "zh": "Claude Opus 5.5 病毒式视频精选：每个视频附有创作 Prompt，可在 Skillry 实时复刻。"
+  },
+  "NoFxAiOS/nofx": {
+    "category": "finance-career",
+    "subcategory": "finance",
+    "zh": "AI 交易终端助手，支持美股、商品、外汇和加密货币的智能交易分析与执行。"
+  },
+  "tester-army/e2e": {
+    "category": "backend-infra",
+    "subcategory": "ai-toolkit",
+    "zh": "新一代面向 Web 和移动端的端到端测试框架，由 AI 加速测试用例生成与维护。"
+  },
+  "tadata-org/fastapi_mcp": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "将 FastAPI 端点一键暴露为 MCP 工具，支持身份认证，零配置接入任意 AI 客户端。"
+  },
+  "lemomo-ai/lemo-opuscar": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "Claude Code 电影风格工具箱：66 种影片风格，每种附风格提示词与 Claude Opus 5.5 纯代码样片。"
+  },
+  "Narcooo/inkos": {
+    "category": "ai-agents",
+    "subcategory": "agent-platforms",
+    "zh": "AI 故事创作智能体，支持小说、剧本、翻译、互动游戏与 IP 内容全流程创作。"
   }
 }
