@@ -129,6 +129,11 @@
     "subcategory": "marketing-growth",
     "zh": "Comprehensive paid advertising audit & optimization skill for Claude Code. 250+ checks across Google, Meta, YouTube, LinkedIn, TikTok, Microsoft & Apple Ads with weighted scoring, parallel agents, industry templates, and AI creative generation."
   },
+  "AgriciDaniel/claude-seo": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "Claude Code 通用 SEO Skill：26 个子技能 + 19 个子智能体，覆盖技术 SEO、GEO/AEO、反向链接、本地 SEO 等全栈优化。"
+  },
   "AgriciDaniel/compass": {
     "category": "kb-productivity",
     "subcategory": "note",
@@ -474,6 +479,11 @@
     "subcategory": "finance",
     "zh": "100% 全自动 Agent 驱动的 AI 量化交易系统，覆盖行情分析、信号生成到自动下单全流程。"
   },
+  "HKUDS/AgentPilot": {
+    "category": "ai-agents",
+    "subcategory": "agent-platforms",
+    "zh": "HKUDS 出品的 AgentPilot：加速 AI Agent 执行的开源框架，让 agent 执行更快、更稳定。"
+  },
   "HKUDS/AgentSpace": {
     "category": "ai-agents",
     "subcategory": "agent-platforms",
@@ -543,6 +553,11 @@
     "category": "backend-infra",
     "subcategory": "self-host",
     "zh": "The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end."
+  },
+  "Jakeschincariol/replica-skill": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "11 个免费 Claude skills：逆向工程任意 App、重建实现、自动测试 Bug 并修复用户痛点，MIT 开源。"
   },
   "Jeevan-kumar-Raj/Grokking-System-Design": {
     "category": "tutorials",
@@ -759,6 +774,11 @@
     "subcategory": "ai-toolkit",
     "zh": "NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems."
   },
+  "NVIDIA/auto-ontology": {
+    "category": "rag-kg-memory",
+    "subcategory": null,
+    "zh": "NVIDIA 出品的语义图推理 Python 框架，为 LLM 和 agent 工作流构建图式推理层，实现确定性查询生成与可解释 AI。"
+  },
   "NahimNasser/pu": {
     "category": "backend-infra",
     "subcategory": "ai-toolkit",
@@ -773,6 +793,11 @@
     "category": "crawler-publish",
     "subcategory": "crawler",
     "zh": "小红书/抖音/快手/B 站/微博/百度贴吧/知乎 等平台的笔记、视频与评论爬虫"
+  },
+  "Narcooo/inkos": {
+    "category": "ai-agents",
+    "subcategory": "agent-platforms",
+    "zh": "AI 故事创作智能体，支持小说、剧本、翻译、互动游戏与 IP 内容全流程创作。"
   },
   "NaveenDA/shadcn-nextjs-dashboard": {
     "category": "frontend",
@@ -789,6 +814,11 @@
     "subcategory": "llm-en",
     "zh": "RAG（Retrieval-Augmented Generation）系统的高级技术合集，每个技术都有详细 notebook 教程"
   },
+  "NoFxAiOS/nofx": {
+    "category": "finance-career",
+    "subcategory": "finance",
+    "zh": "AI 交易终端助手，支持美股、商品、外汇和加密货币的智能交易分析与执行。"
+  },
   "NousResearch/hermes-agent": {
     "category": "ai-agents",
     "subcategory": "openclaw-hermes",
@@ -798,6 +828,11 @@
     "category": "ai-agents",
     "subcategory": "openclaw-hermes",
     "zh": "Paperclip 的 Hermes adapter：把 Hermes 当作 managed employee 跑在 Paperclip company 里"
+  },
+  "Nutlope/hallmark": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "Claude Code / Cursor / Codex 反 AI 烂设计 Skill：让 AI 生成的 UI 看起来像人类设计师的作品。"
   },
   "Nutlope/logocreator": {
     "category": "multimedia",
@@ -834,6 +869,11 @@
     "subcategory": "audio",
     "zh": "VoxCPM2：无 tokenizer 架构的多语言 TTS 模型，支持创意声音设计与高保真语音克隆。"
   },
+  "OpenByteInc/QuantDinger": {
+    "category": "finance-career",
+    "subcategory": "finance",
+    "zh": "最完整的开源自托管 Agentic 量化交易 OS，涵盖 AI 研究、策略编写、因子发现、回测优化、实盘执行与风控监控于一体。"
+  },
   "OpenCut-app/OpenCut": {
     "category": "multimedia",
     "subcategory": "video",
@@ -853,6 +893,11 @@
     "category": "ai-agents",
     "subcategory": "agent-platforms",
     "zh": "OpenMinis：跨平台免费开源的 AI Agent 应用，Swift 实现，适配多终端。"
+  },
+  "OpenMontageInc/OpenMontage": {
+    "category": "multimedia",
+    "subcategory": "video",
+    "zh": "OpenMontage：首个开源 Agentic 视频生产系统，12 条流水线、100+ 工具、700+ agent skill 文件，将 AI 编码助手变为完整视频制作工作室。"
   },
   "OpenSPG/KAG": {
     "category": "rag-kg-memory",
@@ -878,6 +923,11 @@
     "category": "crawler-publish",
     "subcategory": "crawler",
     "zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+  },
+  "ParadevAI/Paradev": {
+    "category": "ai-agents",
+    "subcategory": "multi-orchestration",
+    "zh": "Paradev（原 Superset）：用你自己的订阅并行编排 100+ 编码智能体的 Agentic IDE。"
   },
   "PatrickJS/awesome-cursorrules": {
     "category": "tutorials",
@@ -1223,6 +1273,11 @@
     "category": "skills-mcp",
     "subcategory": null,
     "zh": "Build and run agents you can see, understand and trust."
+  },
+  "ai-job-search-dev/ai-job-search": {
+    "category": "finance-career",
+    "subcategory": "career",
+    "zh": "运行在本地的 AI 求职框架（基于 Claude Code）：评估职位、定制简历、撰写求职信、模拟面试。"
   },
   "airbytehq/airbyte": {
     "category": "backend-infra",
@@ -1624,6 +1679,11 @@
     "subcategory": "career",
     "zh": "开源 AI 求职工具，支持扫描职位、智能评分（A–H）、定制简历与申请追踪，适配 Claude Code、Codex、OpenCode 等 AI coding CLI。"
   },
+  "cathrynlavery/diagram-design": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "Claude Code / Codex 专用编辑风格图表设计 Skill，涵盖 45 种图表类型，纯 HTML+SVG，无 Mermaid 噪音。"
+  },
   "chatfire-AI/huobao-canvas": {
     "category": "multimedia",
     "subcategory": "image",
@@ -1859,6 +1919,11 @@
     "subcategory": "llm-en",
     "zh": "🤖 免费学习如何用 LLMOps 最佳实践构建端到端生产级 LLM 与 RAG 系统"
   },
+  "deepseek-ai/deepseek-harness": {
+    "category": "ai-agents",
+    "subcategory": "agent-platforms",
+    "zh": "DeepSeek Harness：一切皆插件的开放编码智能体框架，通过插件机制扩展任意能力。"
+  },
   "deerwork-ai/deer-workflow": {
     "category": "ai-agents",
     "subcategory": "multi-orchestration",
@@ -1923,6 +1988,11 @@
     "category": "tutorials",
     "subcategory": "system-design",
     "zh": "📚 后端程序员应该掌握的主流数据库知识"
+  },
+  "dwzhu-pku/PaperBanana": {
+    "category": "multimedia",
+    "subcategory": "image",
+    "zh": "PaperBanana：为 AI 科学家自动生成学术论文插图的开源框架。"
   },
   "earendil-works/pi": {
     "category": "ai-agents",
@@ -2229,6 +2299,11 @@
     "subcategory": "video",
     "zh": "MediaPipe：跨平台、可定制的实时与流媒体 ML 解决方案"
   },
+  "google-deepmind/alphafold3": {
+    "category": "backend-infra",
+    "subcategory": "ai-toolkit",
+    "zh": "DeepMind 官方开源的 AlphaFold 3 推理 pipeline，蛋白质结构预测前沿模型实现。"
+  },
   "google-deepmind/science-skills": {
     "category": "skills-mcp",
     "subcategory": null,
@@ -2304,6 +2379,11 @@
     "subcategory": "publish",
     "zh": "视频矩阵工具：基于 Vue + Electron + Puppeteer，批量自动发布视频到抖音、小红书、头条、视频号、快手等多平台。"
   },
+  "harbor-framework/harbor": {
+    "category": "backend-infra",
+    "subcategory": "ai-toolkit",
+    "zh": "Harbor：评估与持续改进 AI agent 的开源框架，支持 agent 质量度量与能力提升工作流。"
+  },
   "harry0703/AudioNotes": {
     "category": "multimedia",
     "subcategory": "audio",
@@ -2343,6 +2423,11 @@
     "category": "tutorials",
     "subcategory": "awesome-lists",
     "zh": "Claude Code 的精选 skills、hooks、slash-commands、agent orchestrator、应用与插件"
+  },
+  "heydamir/unslop": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "unslop：Claude Code skill，将 AI 生成的 vibe 代码风格 UI 转化为真正精心设计的界面。"
   },
   "heyform/heyform": {
     "category": "backend-infra",
@@ -2614,6 +2699,11 @@
     "subcategory": null,
     "zh": "用 Nano Banana 生成图像的 Claude Code skill"
   },
+  "kortix-ai/CompanyOS": {
+    "category": "ai-agents",
+    "subcategory": "agent-platforms",
+    "zh": "Kortix CompanyOS：开源公司操作系统，多 AI 智能体协作，将你的公司以代码表达，自托管或云托管皆可。"
+  },
   "kortix-ai/suna": {
     "category": "ai-agents",
     "subcategory": "agent-platforms",
@@ -2703,6 +2793,11 @@
     "category": "ai-agents",
     "subcategory": "agent-platforms",
     "zh": "Lemma：开源人机协作工作平台，人类与 AI Agent 在同一工作空间共同完成任务。"
+  },
+  "lemomo-ai/lemo-opuscar": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "Claude Code 电影风格工具箱：66 种影片风格，每种附风格提示词与 Claude Opus 5.5 纯代码样片。"
   },
   "lesliebiubiubiu/agent-context-kb-skill": {
     "category": "skills-mcp",
@@ -2904,6 +2999,11 @@
     "subcategory": null,
     "zh": "Skills for Real Engineers. Straight from my .claude directory."
   },
+  "medusajs/medusa": {
+    "category": "backend-infra",
+    "subcategory": "self-host",
+    "zh": "为智能体与开发者打造的世界上最灵活的开源商务平台，支持 TypeScript 二次开发与模块化定制。"
+  },
   "mem0ai/mem0": {
     "category": "rag-kg-memory",
     "subcategory": null,
@@ -2918,6 +3018,16 @@
     "category": "rag-kg-memory",
     "subcategory": null,
     "zh": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory."
+  },
+  "meta/astryx": {
+    "category": "frontend",
+    "subcategory": "components",
+    "zh": "Meta 开源的智能体就绪设计系统，完全可定制，适配各类编码助手与 AI 工作流。"
+  },
+  "meta/rocksdb": {
+    "category": "backend-infra",
+    "subcategory": "databases-analytics",
+    "zh": "Meta 开源的嵌入式持久化 Key-Value 存储引擎，高吞吐低延迟，广泛应用于分布式数据库底层。"
   },
   "miantiao-me/hacker-podcast": {
     "category": "crawler-publish",
@@ -2988,6 +3098,11 @@
     "category": "ai-agents",
     "subcategory": "claude-code",
     "zh": "解锁 feature-flagged 能力（如 swarm mode）的 Claude Code 平行版"
+  },
+  "milind-soni/OpenMausBot": {
+    "category": "browser-automation",
+    "subcategory": null,
+    "zh": "开源 Grok Bot 替代品，内置虚拟机供 AI bot 操控网页与系统执行任务。"
   },
   "mindscale-noah/MindMemOS": {
     "category": "rag-kg-memory",
@@ -3068,6 +3183,11 @@
     "category": "kb-productivity",
     "subcategory": "crm",
     "zh": "Personal CRM：记录朋友、家人和商业关系的所有信息"
+  },
+  "morluto/rea": {
+    "category": "misc",
+    "subcategory": "osint",
+    "zh": "用 AI Agent 逆向分析任何事物：从 App 行为到原生二进制，自动提取意图、协议与逻辑。"
   },
   "morph-kgc/morph-kgc": {
     "category": "rag-kg-memory",
@@ -3259,6 +3379,11 @@
     "subcategory": "codex",
     "zh": "在 Claude Code 里使用 Codex 来 review 代码或派发任务"
   },
+  "openai/math": {
+    "category": "tutorials",
+    "subcategory": "build-your-own",
+    "zh": "OpenAI 数学研究仓库：用 Lean 4 形式化验证数学定理，推动 AI 自动化数学研究。"
+  },
   "openai/symphony": {
     "category": "ai-agents",
     "subcategory": "multi-orchestration",
@@ -3288,6 +3413,11 @@
     "category": "backend-infra",
     "subcategory": "databases-analytics",
     "zh": "开源分布式 RESTful 搜索引擎，Elasticsearch 的开源替代方案。"
+  },
+  "opentoonz/opentoonz": {
+    "category": "multimedia",
+    "subcategory": "video",
+    "zh": "OpenToonz：开源全功能 2D 动画创作软件，源自吉卜力工作室使用的商业版本 Toonz。"
   },
   "opentsc/opentsc": {
     "category": "rag-kg-memory",
@@ -3709,6 +3839,11 @@
     "subcategory": null,
     "zh": "跨项目共享的 AI Agent 实用脚本集合，可直接集成到各类 Agent 工作流中。"
   },
+  "storytold/craft-anything": {
+    "category": "tutorials",
+    "subcategory": "build-your-own",
+    "zh": "Craft Anything：理解任意软件的工作原理并亲手复刻，代码考古与逆向学习一体的 Rust 框架。"
+  },
   "subhashchy/The-Accidental-CTO": {
     "category": "tutorials",
     "subcategory": "system-design",
@@ -3718,6 +3853,11 @@
     "category": "ai-agents",
     "subcategory": "openclaw-hermes",
     "zh": "Clawra — 专为 Openclaw 设计的伴侣工具，扩展其功能与集成能力。"
+  },
+  "superdesigndev/treg": {
+    "category": "backend-infra",
+    "subcategory": "llm-gateway",
+    "zh": "treg：agent 工具的 OpenRouter，统一代理和路由 agent 工具调用请求。"
   },
   "supermemoryai/supermemory": {
     "category": "rag-kg-memory",
@@ -3739,6 +3879,11 @@
     "subcategory": "generic",
     "zh": "DeepWrite：专为深度写作场景设计的 AI agent harness，以 TypeScript 实现。"
   },
+  "tadata-org/fastapi_mcp": {
+    "category": "skills-mcp",
+    "subcategory": null,
+    "zh": "将 FastAPI 端点一键暴露为 MCP 工具，支持身份认证，零配置接入任意 AI 客户端。"
+  },
   "tamnd/kage": {
     "category": "crawler-publish",
     "subcategory": "crawler",
@@ -3753,6 +3898,11 @@
     "category": "frontend",
     "subcategory": "desktop",
     "zh": "Tauri：用 web 前端构建更小、更快、更安全的桌面与移动应用"
+  },
+  "tester-army/e2e": {
+    "category": "backend-infra",
+    "subcategory": "ai-toolkit",
+    "zh": "新一代面向 Web 和移动端的端到端测试框架，由 AI 加速测试用例生成与维护。"
   },
   "thebuggeddev/promise-wall": {
     "category": "misc",
@@ -3769,6 +3919,11 @@
     "subcategory": null,
     "zh": "💔 前任.skill — 把前任蒸馏成 AI Skill，用 ta 的方式跟你说话。"
   },
+  "thesysdev/openui": {
+    "category": "frontend",
+    "subcategory": "components",
+    "zh": "生成式 UI 开放标准，定义 AI 动态生成界面的协议与规范。"
+  },
   "tim-hub/techtim-astro-bento-portfolio": {
     "category": "frontend",
     "subcategory": "astro",
@@ -3778,6 +3933,11 @@
     "category": "multimedia",
     "subcategory": "video",
     "zh": "浏览器内的 AI 视频生产：text-to-video、image-to-video、lip sync，100+ 模型（Veo 3.1/FLUX/Gemini/Imagen 4）"
+  },
+  "timqian/chinese-independent-blogs": {
+    "category": "tutorials",
+    "subcategory": "awesome-lists",
+    "zh": "中文独立博客聚合列表，收录国内独立博主的技术与生活博客。"
   },
   "tirth8205/code-review-graph": {
     "category": "rag-kg-memory",
@@ -3894,6 +4054,11 @@
     "subcategory": null,
     "zh": "Claude Code Autoresearch Skill — 受 Karpathy autoresearch 启发，循环执行修改→验证→保留/丢弃的自主迭代框架。"
   },
+  "uiverse-io/galaxy": {
+    "category": "frontend",
+    "subcategory": "components",
+    "zh": "全球最大开源 UI 组件库，社区贡献、CSS/Tailwind 双版本，免费可用。"
+  },
   "unclecode/crawl4ai": {
     "category": "crawler-publish",
     "subcategory": "crawler",
@@ -3929,10 +4094,20 @@
     "subcategory": "career",
     "zh": "本地优先的 AI 求职助手，支持职位抓取、岗位匹配度排名与定制化求职材料生成。"
   },
+  "vbskycn/iptv": {
+    "category": "misc",
+    "subcategory": "personal-projects",
+    "zh": "持续更新的 IPTV 直播源合集，支持 IPv4/IPv6 双栈访问，附直播电视 App 推荐。"
+  },
   "velobase/velobase-harness": {
     "category": "backend-infra",
     "subcategory": "auth-billing",
     "zh": "开源 AI 应用 SaaS 样板，内置 Stripe 支付、联盟营销、归因追踪与按用量计费，基于 T3 Stack + Next.js 16"
+  },
+  "vercel-labs/agent-desktop": {
+    "category": "browser-automation",
+    "subcategory": null,
+    "zh": "Vercel Labs 出品的 AI agent 计算机操控 CLI，让 agent 像人一样操作桌面应用程序。"
   },
   "vercel-labs/fx": {
     "category": "ai-agents",
@@ -4003,6 +4178,11 @@
     "category": "multimedia",
     "subcategory": "image",
     "zh": "OpenUI：用想象力描述 UI，实时渲染出来"
+  },
+  "wangzan101/Mika": {
+    "category": "ai-agents",
+    "subcategory": "generic",
+    "zh": "Android 端本地 AI 智能体 Mika：自主操控 App 与网页帮你完成任务，全程本地运行。"
   },
   "waooAI/waoowaoo": {
     "category": "multimedia",
@@ -4094,6 +4274,11 @@
     "subcategory": null,
     "zh": "📦 开源 Agent 方法论与 Hermes 兼容 skill 合集。"
   },
+  "xiaoyang111222/cn-math-taxonomy": {
+    "category": "misc",
+    "subcategory": "education",
+    "zh": "中国 K12 数学、英语、物理知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐新课标，附自适应前置诊断。"
+  },
   "xpzouying/xiaohongshu-mcp": {
     "category": "crawler-publish",
     "subcategory": "crawler",
@@ -4158,6 +4343,11 @@
     "category": "rag-kg-memory",
     "subcategory": null,
     "zh": "📑 LLM 把非结构化长文本（论文/合同/研报）转成图、超图与结构化知识。"
+  },
+  "yihui-dev/awesome-opus5-5-videos": {
+    "category": "tutorials",
+    "subcategory": "awesome-lists",
+    "zh": "Claude Opus 5.5 病毒式视频精选：每个视频附有创作 Prompt，可在 Skillry 实时复刻。"
   },
   "yikart/AiToEarn": {
     "category": "finance-career",
@@ -4249,6 +4439,11 @@
     "subcategory": null,
     "zh": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent."
   },
+  "zilliztech/deep-searcher": {
+    "category": "rag-kg-memory",
+    "subcategory": null,
+    "zh": "Zilliz 出品的开源私有数据 Deep Research 替代方案，对私有数据进行深度推理与搜索，Python 实现。"
+  },
   "zjunlp/DeepKE": {
     "category": "rag-kg-memory",
     "subcategory": null,
@@ -4273,105 +4468,5 @@
     "category": "skills-mcp",
     "subcategory": null,
     "zh": "本地优先的工作区搜索工具，融合 BM25 全文检索与向量语义搜索，内置 MCP 集成。"
-  },
-  "morluto/rea": {
-    "category": "misc",
-    "subcategory": "osint",
-    "zh": "用 AI Agent 逆向分析任何事物：从 App 行为到原生二进制，自动提取意图、协议与逻辑。"
-  },
-  "deepseek-ai/deepseek-harness": {
-    "category": "ai-agents",
-    "subcategory": "agent-platforms",
-    "zh": "DeepSeek Harness：一切皆插件的开放编码智能体框架，通过插件机制扩展任意能力。"
-  },
-  "ai-job-search-dev/ai-job-search": {
-    "category": "finance-career",
-    "subcategory": "career",
-    "zh": "运行在本地的 AI 求职框架（基于 Claude Code）：评估职位、定制简历、撰写求职信、模拟面试。"
-  },
-  "cathrynlavery/diagram-design": {
-    "category": "skills-mcp",
-    "subcategory": null,
-    "zh": "Claude Code / Codex 专用编辑风格图表设计 Skill，涵盖 45 种图表类型，纯 HTML+SVG，无 Mermaid 噪音。"
-  },
-  "Nutlope/hallmark": {
-    "category": "skills-mcp",
-    "subcategory": null,
-    "zh": "Claude Code / Cursor / Codex 反 AI 烂设计 Skill：让 AI 生成的 UI 看起来像人类设计师的作品。"
-  },
-  "medusajs/medusa": {
-    "category": "backend-infra",
-    "subcategory": "self-host",
-    "zh": "为智能体与开发者打造的世界上最灵活的开源商务平台，支持 TypeScript 二次开发与模块化定制。"
-  },
-  "meta/rocksdb": {
-    "category": "backend-infra",
-    "subcategory": "databases-analytics",
-    "zh": "Meta 开源的嵌入式持久化 Key-Value 存储引擎，高吞吐低延迟，广泛应用于分布式数据库底层。"
-  },
-  "AgriciDaniel/claude-seo": {
-    "category": "skills-mcp",
-    "subcategory": null,
-    "zh": "Claude Code 通用 SEO Skill：26 个子技能 + 19 个子智能体，覆盖技术 SEO、GEO/AEO、反向链接、本地 SEO 等全栈优化。"
-  },
-  "timqian/chinese-independent-blogs": {
-    "category": "tutorials",
-    "subcategory": "awesome-lists",
-    "zh": "中文独立博客聚合列表，收录国内独立博主的技术与生活博客。"
-  },
-  "openai/math": {
-    "category": "tutorials",
-    "subcategory": "build-your-own",
-    "zh": "OpenAI 数学研究仓库：用 Lean 4 形式化验证数学定理，推动 AI 自动化数学研究。"
-  },
-  "ParadevAI/Paradev": {
-    "category": "ai-agents",
-    "subcategory": "multi-orchestration",
-    "zh": "Paradev（原 Superset）：用你自己的订阅并行编排 100+ 编码智能体的 Agentic IDE。"
-  },
-  "uiverse-io/galaxy": {
-    "category": "frontend",
-    "subcategory": "components",
-    "zh": "全球最大开源 UI 组件库，社区贡献、CSS/Tailwind 双版本，免费可用。"
-  },
-  "thesysdev/openui": {
-    "category": "frontend",
-    "subcategory": "components",
-    "zh": "生成式 UI 开放标准，定义 AI 动态生成界面的协议与规范。"
-  },
-  "meta/astryx": {
-    "category": "frontend",
-    "subcategory": "components",
-    "zh": "Meta 开源的智能体就绪设计系统，完全可定制，适配各类编码助手与 AI 工作流。"
-  },
-  "yihui-dev/awesome-opus5-5-videos": {
-    "category": "tutorials",
-    "subcategory": "awesome-lists",
-    "zh": "Claude Opus 5.5 病毒式视频精选：每个视频附有创作 Prompt，可在 Skillry 实时复刻。"
-  },
-  "NoFxAiOS/nofx": {
-    "category": "finance-career",
-    "subcategory": "finance",
-    "zh": "AI 交易终端助手，支持美股、商品、外汇和加密货币的智能交易分析与执行。"
-  },
-  "tester-army/e2e": {
-    "category": "backend-infra",
-    "subcategory": "ai-toolkit",
-    "zh": "新一代面向 Web 和移动端的端到端测试框架，由 AI 加速测试用例生成与维护。"
-  },
-  "tadata-org/fastapi_mcp": {
-    "category": "skills-mcp",
-    "subcategory": null,
-    "zh": "将 FastAPI 端点一键暴露为 MCP 工具，支持身份认证，零配置接入任意 AI 客户端。"
-  },
-  "lemomo-ai/lemo-opuscar": {
-    "category": "skills-mcp",
-    "subcategory": null,
-    "zh": "Claude Code 电影风格工具箱：66 种影片风格，每种附风格提示词与 Claude Opus 5.5 纯代码样片。"
-  },
-  "Narcooo/inkos": {
-    "category": "ai-agents",
-    "subcategory": "agent-platforms",
-    "zh": "AI 故事创作智能体，支持小说、剧本、翻译、互动游戏与 IP 内容全流程创作。"
   }
 }
