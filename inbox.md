@@ -2096,3 +2096,114 @@ ktwu01/benchmark-radar, EZ-VAI/outsider, fastapi-practices/ai_mcp
 - https://github.com/google-labs-code/stax  — ⭐ 212 · TypeScript · 
 - https://github.com/zgcagi/ZGCM-1  — ⭐ 700 · Python · A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search
 - https://github.com/zhongerxin/iPhone-use  — ⭐ 5017 · Python · 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。
+
+<!-- synced 2026-11-23T21:03:26Z -->
+- https://github.com/10291124jcjc-dotcom/ancient-rap-battle  — ⭐ 243 · Python · 古人说唱 Battle：一句话做一期 AI 历史人物说唱对决视频的 Claude Code Skill（Suno + Midjourney + MiniMax H3 对口型）
+- https://github.com/3441293738/creatorhub  — ⭐ 3858 · Python · 多平台内容监控·采集·搬运 一个 Web 面板管起抖音 / 小红书 / 快手 / 视频号 / TikTok / 哔哩哔哩 / Instagram / 海外小红书(rednote) / X(Twitter)
+- https://github.com/AIScientists-Dev/academic-humanizer  — ⭐ 5976 · — · Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind.
+- https://github.com/Anil-matcha/Open-AI-UGC  — ⭐ 446 · JavaScript · Open AI UGC — free, open-source alternative to Arcads and MakeUGC. Generate AI UGC video ads with realistic AI actors using Veo 3.1, Seedance 2, Grok Video, and Happy Horse 1. Self-host on Next.js + Stripe + MUAPI.
+- https://github.com/Calcium-Ion/AstrLink  — ⭐ 609 · Go · A local AI gateway for AI agents, unifying your subscriptions and API providers with smart routing and on-device privacy protection.
+- https://github.com/CopilotKit/OpenDuet  — ⭐ 2134 · TypeScript · An Open Source template for a proactive AI agent that gets your work done and keeps you in the loop.
+- https://github.com/CzzzzzzJ/mdldm-maitian  — ⭐ 1940 · JavaScript · 麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏
+- https://github.com/DhvanilPatel/swarm-cursors  — ⭐ 3708 · JavaScript · 
+- https://github.com/EverMind-AI/Raven  — ⭐ 6305 · Python · The Harness of Harnesses • Super Agent: a trusted, persistent, self-evolving multi-agent ecosystem for all-domain collaboration.
+- https://github.com/Faceplugin-ltd/Open-Source-Face-Recognition-SDK  — ⭐ 3187 · Python · Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face Landmarks
+- https://github.com/FluidInference/FluidUse  — ⭐ 548 · Swift · Local computer use on Apple silicon: on-device typed decisions with laya and form filling with CUA-S1-FORMS, driven through the macOS Accessibility API
+- https://github.com/Gen-Verse/DiscoveryRSI  — ⭐ 153 · Python · DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses
+- https://github.com/General-Legal/legal-templates  — ⭐ 3770 · Python · Public collection of high-quality templates created by General Legal attorneys with CC0 license
+- https://github.com/Gingiris-1031/gingiris-b2b-growth  — ⭐ 1 · — · B2B SaaS growth — PLG/SLG selection, PMF to $10M ARR path. Mirror of the gingiris-skills monorepo
+- https://github.com/GoogleChrome/modern-web-guidance  — ⭐ 25487 · — · Keep your coding agent up to date with the latest web best practices
+- https://github.com/HaichaoLihc/create-photo-flipbook-ui  — ⭐ 693 · JavaScript · Codex skill for building responsive 3D photo flipbook websites from user-supplied images
+- https://github.com/HelixDB/helix-foundry  — ⭐ 2186 · Go · Connect your company's data, let an agent draft an ontology over it, and load it into HelixDB as one graph you can explore and ask questions of. Hosted at foundry.helix-db.com, or run it on your own machine.
+- https://github.com/Humpalumps/Ultra-Water  — ⭐ 684 · JavaScript · Real-time FFT ocean renderer for three.js (WebGL2): shore breakers, foam, caustics, underwater rendering and buoyancy at 170–300 fps
+- https://github.com/JuneYaooo/rea-video  — ⭐ 12632 · Python · Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。
+- https://github.com/Kai-Jungsthoefel/SOMA  — ⭐ 529 · TypeScript · Desktop app for designing parametric 3D models in CadQuery together with the coding agent of your choice
+- https://github.com/Leonxlnx/cinetic  — ⭐ 1367 · TypeScript · Cinematic launch films and motion design from code, directed by your coding agent.
+- https://github.com/Marve10s/Better-Fullstack  — ⭐ 827 · TypeScript · Scaffold production-ready full-stack apps in TypeScript, Rust, Python, Go, and Java with a visual builder and CLI. Choose your frontend, backend, database, auth, AI, payments, and DevOps integrations, all wired together.
+- https://github.com/MeiGen-AI/MultiTalk  — ⭐ 3039 · Python · [NeurIPS 2025] Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation
+- https://github.com/MikeyPetrillo/Agent402  — ⭐ 52 · JavaScript · The payment and trust layer for agent commerce: agents find, pay for and verify paid calls across x402 and MPP, backed by signed receipts. Open source, self-hostable.
+- https://github.com/Motionsites-AI/claude-skill  — ⭐ 2482 · Python · Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.
+- https://github.com/Prism-Shadow/awesome-rsi  — ⭐ 635 · JavaScript · An Open Index of RSI Papers
+- https://github.com/Prism-Shadow/penguin-harness  — ⭐ 3308 · TypeScript · 🐧 Unified and Stable RSI Platform
+- https://github.com/QingYunA/answer-me-with-html  — ⭐ 6627 · JavaScript · Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。
+- https://github.com/RUC-NLPIR/FlashRSI  — ⭐ 443 · Python · A Unified Framework for Efficient RSI Research
+- https://github.com/Tencent/WeVisOne-VL  — ⭐ 1266 · Jupyter Notebook · WeVisOne-VL is a powerful VLM by the WeChat Vision Team at Tencent, unifying object-level and pixel-level perception from points and boxes to masks and alpha mattes.
+- https://github.com/UnderleveledBuilder/awesome-short-drama-skills  — ⭐ 2777 · HTML · AI 短剧 · 漫剧 Skill（技能包）精选：剧本、改编、分镜、Seedance / 可灵 / MiniMax 视频提示词，千问、豆包、龙虾 OpenClaw、WorkBuddy、Claude Code、Codex 等智能体可用 | Curated agent skills for AI short drama, micro drama / microdrama, vertical drama and manju (AI comic drama): screenwriting, storyboards, Seedance / Kling / MiniMax video prompts
+- https://github.com/aipoch/open-science  — ⭐ 5570 · TypeScript · The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python/R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.
+- https://github.com/alexgaoth/awesome-reverse-engineered  — ⭐ 1537 · Python · Don't reverse engineer it twice. 17,000+ open-source tools built by reverse engineering closed apps, APIs, devices, protocols, file formats, games and AI tools. Search site + agent skill + MCP server, refreshed nightly.
+- https://github.com/amirmushichge/interactive-garment-starter  — ⭐ 217 · JavaScript · Build an interactive clothing website from product photos with your coding agent. Includes two animated garments, prompts, and a video-to-UI pipeline.
+- https://github.com/amontlabs/lcu  — ⭐ 2462 · JavaScript · Codex computer use, decoupled from the app, for usage inside any harness.
+- https://github.com/andyhuo520/digital-human-koubo  — ⭐ 2085 · TypeScript · AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …
+- https://github.com/andyhuo520/vibe-knowledge  — ⭐ 792 · JavaScript · Vibe 知识大赏：一个知识点 → 一条有旁白、每句有出处的精品知识短片（Claude Code skill · 44 套风格 · 代码逐帧成片）
+- https://github.com/anhao/ai-pose-gallery-zh  — ⭐ 7942 · TypeScript · 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
+- https://github.com/anthropics/FlashProve  — ⭐ 1092 · Lean · A research prototype for zero-knowledge proofs of AI inference. Not maintained.
+- https://github.com/bilibili/GPT-SoVITS  — ⭐ 64215 · Python · 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+- https://github.com/bubblelabai/BubbleLab  — ⭐ 1099 · TypeScript · Open-core workflow engine powering Bubble Lab — and fully runnable, hostable, and extensible on its own.
+- https://github.com/cclank/lanshu-create-ai-presenter-video  — ⭐ 3072 · HTML · Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.
+- https://github.com/chekusu/yobiru  — ⭐ 410 · Python · Let your agents talk: messages, data, files and wake-ups over Tailscale.
+- https://github.com/coleam00/ai-software-factory  — ⭐ 556 · Python · You plan the release, the factory builds it, you test it in staging. GitHub issues in, independently reviewed and merged pull requests out, all on Archon workflows.
+- https://github.com/datalab-to/lift  — ⭐ 1296 · Python · Extract structured data from documents quickly and accurately.
+- https://github.com/diggerhq/shipvideo  — ⭐ 386 · TypeScript · Paste a URL or a prompt, get a launch video. Opus 5.5 writes HTML, an OpenComputer serverless agent renders it.
+- https://github.com/eecs498-aase/materials  — ⭐ 336 · Python · Lecture and lab slides for EECS 498 AASE (Applied Agentic Software Engineering), UMich Fall 2026
+- https://github.com/enesozturk/dimensional-drawing  — ⭐ 2228 · HTML · Create Apple style dimensional drawings of UI components.
+- https://github.com/eternityspring/shuohao-skills  — ⭐ 6985 · JavaScript · AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.
+- https://github.com/fatihaydost/brand-identity-skill  — ⭐ 460 · Python · A Claude Code skill that designs a brand identity as one system: logo, typography and colour palette built together from one brief, measured, compared as identity cards, and delivered as a brand guidelines kit.
+- https://github.com/feichanggege/ecommerce-visual-copywriting-skill  — ⭐ 1407 · Python · 电商视觉文案设计SOP Skill - 让电商设计小白也能一键做出5年资深设计经验的商品图片.兼容 Claude / Codex / Cursor / Workbuddy 等 SKILL.md Agent. AI-powered e-commerce visual strategy skill for main images, PDP/A+, copywriting, localization, evidence-aware compliance and image prompts.
+- https://github.com/feitangyuan/onetake  — ⭐ 4408 · Python · Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. Product launch films and feature demos, made with a coding agent.
+- https://github.com/ferdinandobons/startup-skill  — ⭐ 1316 · — · AI agent skills for startup validation, competitive intelligence, and planning
+- https://github.com/flaqai/backlink_skills  — ⭐ 916 · Python · Awesome skills for submitting url to free websites. Get more backlinks for your website to get more traffic.
+- https://github.com/google-research/timesfm  — ⭐ 35667 · Python · TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+- https://github.com/hackyguru/zhoop  — ⭐ 278 · Swift · Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.
+- https://github.com/imraywang/openbean  — ⭐ 78 · Swift · Open-source local driver for the soundcore Work (D3200) recorder: BLE/Wi-Fi, decryption, live audio. Not affiliated with Anker.
+- https://github.com/imraywang/ray-sticker-shop  — ⭐ 529 · Python · 一张照片或角色图，生成一整套形象一致的动态表情包和微信投稿素材（Claude Code / Codex skill）
+- https://github.com/imraywang/rayskills  — ⭐ 410 · Python · Ray 制作的中文 AI Skills：写长文和口播稿、做封面和解说视频、存公众号和 X 草稿。支持 Claude Code、Codex、WorkBuddy。
+- https://github.com/itsdecodingai/llm-twin-course  — ⭐ 4413 · Python · 🤖 𝗟𝗲𝗮𝗿𝗻 for 𝗳𝗿𝗲𝗲 how to 𝗯𝘂𝗶𝗹𝗱 an end-to-end 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗿𝗲𝗮𝗱𝘆 𝗟𝗟𝗠 & 𝗥𝗔𝗚 𝘀𝘆𝘀𝘁𝗲𝗺 using 𝗟𝗟𝗠𝗢𝗽𝘀 best practices: ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 12 𝘩𝘢𝘯𝘥𝘴-𝘰𝘯 𝘭𝘦𝘴𝘴𝘰𝘯𝘴
+- https://github.com/kaganmert/next-shadcn-sanity-blog  — ⭐ 8 · TypeScript · Personal blog and portfolio built with Next.js 16, Sanity, Tailwind CSS v4 and shadcn/ui.
+- https://github.com/kokiainet/anti-distill  — ⭐ 2493 · — · 反蒸馏 Skill：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己。Anti-distillation for employee Skills.
+- https://github.com/langchain-ai/agentevals  — ⭐ 764 · Python · Readymade evaluators for agent trajectories
+- https://github.com/lobehub/awesome-rsi  — ⭐ 1091 · — · A curated research map of Recursive Self-Improvement (RSI): models, agents, harnesses, embodied systems, automated AI R&D, benchmarks, and safety.
+- https://github.com/marc-shade/world-intel-mcp  — ⭐ 1086 · Python · 160-tool MCP server for real-time global intelligence from free public APIs: markets, liquidity, prediction markets, SEC filings, conflict, military, aircraft-cohort early warning, migration and border flows, cyber, climate, news and more. Dated observation history, 29 research prompts, cited briefs, geofences, SSE dashboard. MIT, no paid API keys.
+- https://github.com/meerkatcrm/meerkat-crm  — ⭐ 320 · Go · CRM for the personal life
+- https://github.com/microsoft/BitNet  — ⭐ 42442 · C++ · Official inference framework for 1-bit LLMs
+- https://github.com/microsoft/scope  — ⭐ 92 · TypeScript · Scope | Agentic Experience evaluation platform (Research preview)
+- https://github.com/mims-harvard/ToolUniverse  — ⭐ 1802 · Python · Democratizing AI scientists with ToolUniverse
+- https://github.com/nevertoday/xxd-panel-346  — ⭐ 3 · Python · XXD Panel 346｜棱纹玻璃
+- https://github.com/nexu-io/openmotion  — ⭐ 15687 · TypeScript · The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A full-stack agentic video studio with 300+ Motion.md guides and support for 22 agents, including Claude Code, Codex, DSH, and WorkBuddy.
+- https://github.com/orionsheep/wordlink  — ⭐ 455 · TypeScript · AI-powered vocabulary learning — a fine-tuned 1.5B model (SFT+DPO) that runs offline in your browser. Live: wordlink.lifeplayertribe.com
+- https://github.com/oxnw/ai-phone  — ⭐ 468 · Python · A SIP phone daemon with local speech and language models on Apple Silicon.
+- https://github.com/pandatalk8/ai-content-kb  — ⭐ 119 · — · A review-first reference architecture for AI-assisted personal content knowledge systems
+- https://github.com/patch-gg/pixelfx  — ⭐ 8874 · JavaScript · 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
+- https://github.com/perplexityai/SPACE  — ⭐ 2153 · Rust · Sandboxed Platform for Agentic Code Execution: pluggable-runtime sandboxes for running agent and user code in isolation.
+- https://github.com/qybaihe/bla  — ⭐ 6536 · TypeScript · 🛡️ BLA (bla-agents / Blind LLM Agents) — Open-source Blue Defense MCP server & CLI protecting JS/TS, Electron ASAR, WASM, Python, Native Binaries, SQLite, GGUF/Safetensors & Android DEX against AI reverse-engineering agents (REA).
+- https://github.com/reason-machines/reason-network  — ⭐ 1814 · Rust · Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.
+- https://github.com/roryclear/clearcam  — ⭐ 2795 · Python · Add object detection, tracking, mobile notifications, and search to any security camera.
+- https://github.com/shinyobjectz/raea  — ⭐ 4682 · TypeScript · Render Anything Engine: tell your AI what to make. Videos, motion graphics, 3D and games as React and TypeScript, rendered on your own GPU. Rust + Bevy, macOS, Linux and Windows.
+- https://github.com/simplexai-labs/linger  — ⭐ 4165 · TypeScript · Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing powerful local AI to everyday computers through efficient model–harness co-design, so everyone can run their own.
+- https://github.com/stackedlol/ascii-sharks  — ⭐ 1583 · TypeScript · ascii shark components in typescript
+- https://github.com/stacklok/toolhive  — ⭐ 2354 · Go · ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers.
+- https://github.com/strelov1/freehire  — ⭐ 3661 · Go · freehire — the open-source search engine for job seekers
+- https://github.com/suoha888/suoha-serenity-skill  — ⭐ 49 · Python · 我把 Serenity 的研究方法做成了一个 AI Skill：输入任意一只 A股、港股、美股代码，它会告诉你这家公司是不是真卡点、值不值得深挖、估值还有多少空间，以及出现什么情况说明看错了。
+- https://github.com/the-open-engine/zeroshot  — ⭐ 2222 · Rust · Multi-agent graph harness for Claude Code, Codex and other coding agents. Separate agents review and test the work. Runs locally on your subscription.
+- https://github.com/threerocks/sweety-handdraw-video  — ⭐ 1284 · Python · 从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。
+- https://github.com/tommy0103/obelisk  — ⭐ 970 · JavaScript · Every past session, subagent, and workflow -- queryable by your agent, browsable by you
+- https://github.com/vercel-labs/eve-software-factory-template  — ⭐ 1185 · TypeScript · Meet Foreman, an eve Software Factory.
+- https://github.com/vercel-labs/ui  — ⭐ 6757 · TypeScript · A library of behaviors for agents to build the next generation of user interfaces.
+- https://github.com/vibe-motion/sound  — ⭐ 676 · Python · Studio-grade sound effects for agents: search Pixabay, Freesound, Mixkit and Kenney, ranked by human feedback
+- https://github.com/warpdotdev-demos/cloud-factory-demo  — ⭐ 505 · Python · 
+- https://github.com/wesbos/3d-model-anything  — ⭐ 3129 · Swift · Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.
+- https://github.com/withmarbleapp/os-taxonomy  — ⭐ 7795 · HTML · 
+- https://github.com/yaojingang/GEOInflow  — ⭐ 866 · TypeScript · Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.
+- https://github.com/yaojingang/profound-clone  — ⭐ 86 · TypeScript · Profound (tryprofound.com) 前后台 1:1 学习复刻 · Next.js 16 / React 19 / SQLite · Educational replica for learning only, not affiliated with Profound Inc.
+- https://github.com/zarazhangrui/youtube-digest  — ⭐ 1801 · JavaScript · Turn YouTube videos into deep learning resources with transcripts, bilingual translation, AI overviews, explanations, and notes. Bring your own keys.
+- https://github.com/zephyr4123/snug  — ⭐ 1405 · Swift · 让远程 Mac 在任意设备上获得原生级体验。专为 UU远程 打造的显示与触控增强：手机、平板、电脑各有专属屏幕，画面铺满、字号随屏，原生触屏手势，App 资源库。Make UU Remote native on any device: a dedicated screen for every phone, tablet and computer, with native touch gestures and an App Library.
+- https://github.com/zhongnz/agent_assurance  — ⭐ 4 · Python · Assurance methodology for autonomous AI agents in regulated financial services
+- https://github.com/zhuyansen/new-term-radar  — ⭐ 2216 · Python · Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.
+
+<!-- synced 2026-11-23T21:03:33Z -->
+- https://github.com/CopilotKit/OpenIntelligentUI  — ⭐ 4272 · TypeScript · Open-Source Generative UI Framework
+- https://github.com/HKUDS/AutoSwarm  — ⭐ 2681 · Python · AutoSwarm: Unify All Your Agents. Break Context Barriers. Watch Them Work Together for You.
+- https://github.com/cactus-compute/engine  — ⭐ 6201 · C++ · 2bit quants, kernels and runtime for consumer devices. 
+- https://github.com/e2e-inc/e2e  — ⭐ 14151 · TypeScript · Next generation e2e testing framework for web and mobile apps.
+- https://github.com/google-labs-code/stax  — ⭐ 232 · TypeScript · 
+- https://github.com/zgcagi/ZGCM-1  — ⭐ 702 · Python · A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search
+- https://github.com/zhongerxin/iPhone-use  — ⭐ 5085 · Python · 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。
